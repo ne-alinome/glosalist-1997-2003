@@ -1,5 +1,8 @@
-== Glosalist 1997
+= Glosalist 1997
 :revdate: 2018-11-30
+
+// 1997-07 {{{1
+== 1997-07
 
 // XXX Remark -- New message:
 ................................................................
@@ -1057,6 +1060,9 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 ................................................................
 
+// 1997-08 {{{1
+== 1997-08
+
 // XXX Remark -- New message:
 ................................................................
 From: ailanto
@@ -1834,6 +1840,9 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
 ................................................................
+
+// 1997-09 {{{1
+== 1997-09
 
 // XXX Remark -- New message:
 ................................................................
@@ -4856,6 +4865,9 @@ Forwarder"
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
 ................................................................
 
+// 1997-10 {{{1
+== 1997-10
+
 // XXX Remark -- New message:
 ................................................................
 From: Robin Gaskell
@@ -5743,6 +5755,9 @@ should you like to forward this.
                 Plu kardia saluta ex
                 John
 ................................................................
+
+// 1997-11 {{{1
+== 1997-11
 
 // XXX Remark -- New message:
 ................................................................
@@ -6855,6 +6870,9 @@ test of the Glosa Discussion Group mechanism.
 
 Paul Bartlett
 ................................................................
+
+// 1997-12 {{{1
+== 1997-12
 
 // XXX Remark -- New message:
 ................................................................

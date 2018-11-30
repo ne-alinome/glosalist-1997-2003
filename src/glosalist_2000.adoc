@@ -1,5 +1,8 @@
-== Glosalist 2000
+= Glosalist 2000
 :revdate: 2018-11-30
+
+// 2000-01 {{{1
+== 2000-01
 
 // XXX REMARK -- New message:
 ................................................................
@@ -1279,8 +1282,13 @@ AUTHORS: "Plu Glosa Nota", Dictionaries
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+................................................................
 
-========
+// 2000-02 {{{1
+== 2000-02
+
+// XXX REMARK -- New message:
+................................................................
 Subject: Re: [glosalist] German Glosa-webpage
 From: "Marcel Springer" <m.springer{at}nikocity{dot}de>
 Date: Wed, 2 Feb 2000 01:16:43 +0100
@@ -2532,6 +2540,9 @@ Ron
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
+
+// 2000-03 {{{1
+== 2000-03
 
 // XXX REMARK -- New message:
 ................................................................
@@ -4534,6 +4545,9 @@ To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
 
+// 2000-04 {{{1
+== 2000-04
+
 // XXX REMARK -- New message:
 ................................................................
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
@@ -6511,6 +6525,9 @@ To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
 
+// 2000-05 {{{1
+== 2000-05
+
 // XXX REMARK -- New message:
 ................................................................
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
@@ -7295,6 +7312,9 @@ To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
 
+// 2000-06 {{{1
+== 2000-06
+
 // XXX REMARK -- New message:
 ................................................................
 To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
@@ -7625,6 +7645,9 @@ ideas which you send.
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
+
+// 2000-07 {{{1
+== 2000-07
 
 // XXX REMARK -- New message:
 ................................................................
@@ -28151,6 +28174,9 @@ To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
 
+// 2000-09 {{{1
+== 2000-09
+
 // XXX REMARK -- New message:
 ................................................................
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
@@ -34694,6 +34720,9 @@ To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
 
+// 2000-10 {{{1
+== 2000-10
+
 // XXX REMARK -- New message:
 ................................................................
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
@@ -38047,6 +38076,9 @@ To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
 
+// 2000-11 {{{1
+== 2000-11
+
 // XXX REMARK -- New message:
 ................................................................
 To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
@@ -39459,6 +39491,9 @@ syd
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
+
+// 2000-12 {{{1
+== 2000-12
 
 // XXX REMARK -- New message:
 ................................................................

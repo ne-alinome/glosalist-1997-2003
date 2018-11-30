@@ -1,5 +1,8 @@
-== Glosalist 2001
+= Glosalist 2001
 :revdate: 2018-11-30
+
+// 2001-01 {{{1
+== 2001-01
 
 // XXX REMARK -- New message:
 ................................................................
@@ -1606,6 +1609,9 @@ To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
 
+// 2001-02 {{{1
+== 2001-02
+
 // XXX REMARK -- New message:
 ................................................................
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
@@ -2050,6 +2056,9 @@ Alex.
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
+
+// 2001-03 {{{1
+== 2001-03
 
 // XXX REMARK -- New message:
 ................................................................
@@ -3997,6 +4006,9 @@ To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
 
+// 2001-04 {{{1
+== 2001-04
+
 // XXX REMARK -- New message:
 ................................................................
 To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
@@ -5394,6 +5406,9 @@ To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
 
+// 2001-05 {{{1
+== 2001-05
+
 // XXX REMARK -- New message:
 ................................................................
 To: :glosalist{at}lists{dot}zeta{dot}org{dot}au
@@ -6280,6 +6295,9 @@ Saluta - Marcel
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
+
+// 2001-06 {{{1
+== 2001-06
 
 // XXX REMARK -- New message:
 ................................................................
@@ -14801,6 +14819,9 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 --part1_41.d6385cd.286cdb24_boundary--
 ................................................................
 
+// 2001-07 {{{1
+== 2001-07
+
 // XXX REMARK -- New message:
 ................................................................
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
@@ -19931,6 +19952,9 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 --part1_c8.1a0d6b4b.28c12b78_boundary--
 ................................................................
 
+// 2001-09 {{{1
+== 2001-09
+
 // XXX REMARK -- New message:
 ................................................................
 To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
@@ -24485,6 +24509,9 @@ rights reserved. Developed for Microsoft by Bloomsbury Publishing Plc.
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
+
+// 2001-10 {{{1
+== 2001-10
 
 // XXX REMARK -- New message:
 ................................................................
@@ -33892,6 +33919,9 @@ http://personals.yahoo.com
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
+
+// 2001-11 {{{1
+== 2001-11
 
 // XXX REMARK -- New message:
 ................................................................
@@ -44268,6 +44298,9 @@ Testa 1
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
+
+// 2001-01 {{{1
+== 2001-01
 
 // XXX REMARK -- New message:
 ................................................................

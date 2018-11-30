@@ -1,5 +1,8 @@
-== Glosalist 1999
+= Glosalist 1999
 :revdate: 2018-11-30
+
+// 1999-01 {{{1
+== 1999-01
 
 // XXX Remark -- New message:
 ................................................................
@@ -6896,6 +6899,9 @@ bother to learn any language, "natural" or "cooked up."
 John
 ................................................................
 
+// 1999-02 {{{1
+== 1999-02
+
 // XXX Remark -- New message:
 ................................................................
 From: Paul O Bartlett
@@ -11615,6 +11621,9 @@ Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
 ................................................................
 
+// 1999-03 {{{1
+== 1999-03
+
 // XXX Remark -- New message:
 ................................................................
 From: Robin Gaskell
@@ -14196,6 +14205,9 @@ Michael D. Edwards
 avmike{at}concentric{dot}net
 ................................................................
 
+// 1999-04 {{{1
+== 1999-04
+
 // XXX Remark -- New message:
 ................................................................
 From: Robin Gaskell
@@ -14735,6 +14747,9 @@ Spe vi bene, e spe hetero plu glosa-pe tosto skribe. Qe ali-pe la?
 dante
 ................................................................
 
+// 1999-05 {{{1
+== 1999-05
+
 // XXX Remark -- New message:
 ................................................................
 From: Rosati
@@ -14812,6 +14827,9 @@ Mi komence sensi se-dice.....ali-pe????
 dante
 ................................................................
 
+// 1999-06 {{{1
+== 1999-06
+
 // XXX Remark -- New message:
 ................................................................
 From: Daniel Alberto Alegrett
@@ -14864,6 +14882,9 @@ On Fri, 25 Jun 1999, Daniel Alberto Alegrett wrote:
 Write as much as you are able.
         John
 ................................................................
+
+// 1999-07 {{{1
+== 1999-07
 
 // XXX Remark -- New message:
 ................................................................
@@ -16823,6 +16844,9 @@ plu pusi sko, so glosa es ma facila ge-sko.
 >                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk
 >
 ................................................................
+
+// 1999-08 {{{1
+== 1999-08
 
 // XXX Remark -- New message:
 ................................................................

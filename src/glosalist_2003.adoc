@@ -1,5 +1,8 @@
-== Glosalist 2003
+= Glosalist 2003
 :revdate: 2018-11-30
+
+// 2003-01 {{{1
+== 2003-01
 
 // XXX REMARK -- New message:
 ................................................................
@@ -113,6 +116,7 @@ Robin Gaskell
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -264,6 +268,7 @@ Robin
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -319,6 +324,8 @@ Robin
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -352,6 +359,7 @@ Alex
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -368,6 +376,7 @@ sid
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -512,6 +521,8 @@ have such communication power built into it, I'd better learn it."     R.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -603,6 +614,7 @@ I am looking forward to reading it!  Hedo 2003 ko saluta ex Marcel.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -692,6 +704,7 @@ Robin
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -746,6 +759,7 @@ sid
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -801,6 +815,7 @@ Correo enviado desde http://www.ozu.es
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -823,6 +838,7 @@ sid
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -864,6 +880,7 @@ Tu e panto Glosa-pe habe sani in 2003!  Saluta ex Marcel.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -887,6 +904,7 @@ http://hometown.aol.co.uk/sydpidd/index.html
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -990,6 +1008,7 @@ Content-Type: text/plain; charset=
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 --Apple-Mail-10--340670715--
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1103,6 +1122,7 @@ Content-Type: text/plain; charset=
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 --part1_14.72c1e7e.2b543ead_boundary--
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1134,6 +1154,7 @@ Marcel
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1173,6 +1194,7 @@ in learning Spanish for instance.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1213,7 +1235,11 @@ greatest stress on  'ki' in dukifu
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
+
+// 2003-02 {{{1
+== 2003-02
 
 // XXX REMARK -- New message:
 ................................................................
@@ -1250,6 +1276,7 @@ mb{at}jendata{dot}de
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1280,6 +1307,7 @@ http://shopping.yahoo.com
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1319,6 +1347,7 @@ From: "Matthias Bigalke" <bigalke{at}jendata{dot}de>
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1402,6 +1431,8 @@ Content-Type: text/plain; charset=
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ------=_NextPart_000_001D_01C2DF3F.987D08E0--
+
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1417,7 +1448,11 @@ sid
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
+
+// 2003-03 {{{1
+== 2003-03
 
 // XXX REMARK -- New message:
 ................................................................
@@ -1500,6 +1535,7 @@ Again many thanks and good luck - Marcel.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1628,6 +1664,7 @@ Subject: [glosalist] www.andys-penpals.com
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1670,6 +1707,7 @@ Are there any conlangs that use intro + head + modifiers as a construction?
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1738,6 +1776,7 @@ dabrowsa{at}indiana{dot}edu|while our gross palates drink from the whole wine. -
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1761,6 +1800,7 @@ can't blame Esperanto or other outside forces.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1818,6 +1858,7 @@ Subject: [glosalist] "Happy Lady Day" has an VIRUS!!!
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1848,6 +1889,7 @@ Marcel
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1866,6 +1908,7 @@ No, mi ne akorda.  Saluta ex Marcel.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1924,6 +1967,7 @@ Subject: [glosalist] mail "Windows" is VIRUS-infected
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1953,6 +1997,7 @@ Visit www.juno.com
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -1980,6 +2025,7 @@ Subject: glosalist Digest 25 Mar 2003 02:52:20 -0000 Issue 338
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2030,6 +2076,7 @@ Subject: [glosalist] Virus (e saluta)
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2101,6 +2148,7 @@ Content-Type: text/plain; charset=
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ------=_NextPart_000_012A_01C2F3BA.13CD8D60--
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2130,6 +2178,7 @@ But there's no point in beating a dead horse ...
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2180,6 +2229,7 @@ Marcel
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2252,6 +2302,8 @@ Content-Type: text/plain; charset=
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ------=_NextPart_000_008D_01C2F490.EDDD5A90--
+
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2309,6 +2361,7 @@ Content-Type: text/plain; charset=
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ------=_NextPart_000_0035_01C2F462.08E08760--
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2348,6 +2401,7 @@ Content-Type: text/plain; charset=
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ------=_NextPart_000_0025_01C2F498.AD29CF80--
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2373,6 +2427,7 @@ Marcel
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2404,6 +2459,7 @@ http://platinum.yahoo.com
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2425,6 +2481,7 @@ Walter
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2495,6 +2552,7 @@ Marcel
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2523,6 +2581,7 @@ Please let us discuss what to do.  Gratia pre e saluta - Marcel.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2545,6 +2604,7 @@ John
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2579,6 +2639,7 @@ xyzzy!
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2601,6 +2662,7 @@ willing to filter out Jay-style flames, it still won't work.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2658,6 +2720,7 @@ Subject: Re: [glosalist] The List - U Lista
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2717,6 +2780,7 @@ Marcel
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2745,6 +2809,7 @@ once Wendy reasserted control and involvement, such as it is.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2807,6 +2872,7 @@ xyzzy!
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2839,6 +2905,7 @@ xyzzy!
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2868,6 +2935,7 @@ That would be sad.  When you recently wrote ...
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2888,6 +2956,7 @@ But my own interests have drifted elsewhere.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -2947,6 +3016,7 @@ Jay B.
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -3042,6 +3112,7 @@ the
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -3102,6 +3173,7 @@ Saluta - Marcel
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:
@@ -3149,6 +3221,7 @@ If you've got a /misc, do you really need any other directories?
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
 ................................................................
 
 // XXX REMARK -- New message:

@@ -1,5 +1,8 @@
-== Glosalist 1998
+= Glosalist 1998
 :revdate: 2018-11-30
+
+// 1998-01 {{{1
+== 1998-01
 
 // XXX Remark -- New message:
 ................................................................
@@ -1785,6 +1788,9 @@ www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
 ................................................................
 
+// 1998-02 {{{1
+== 1998-02
+
 // XXX Remark -- New message:
 ................................................................
 From: John Schilke
@@ -2000,6 +2006,9 @@ reads your email address automatically.]
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
 ................................................................
+
+// 1998-03 {{{1
+== 1998-03
 
 // XXX Remark -- New message:
 ................................................................
@@ -4735,6 +4744,9 @@ Saluta,
  Robin	
 ................................................................
 
+// 1998-04 {{{1
+== 1998-04
+
 // XXX Remark -- New message:
 ................................................................
 From: ailanto
@@ -6587,6 +6599,9 @@ Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
 ................................................................
+
+// 1998-05 {{{1
+== 1998-05
 
 // XXX Remark -- New message:
 ................................................................
@@ -10264,6 +10279,9 @@ Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
 ................................................................
+
+// 1998-06 {{{1
+== 1998-06
 
 // XXX Remark -- New message:
 ................................................................
@@ -14086,6 +14104,9 @@ Saluta,
  Robin
 ................................................................
 
+// 1998-07 {{{1
+== 1998-07
+
 // XXX Remark -- New message:
 ................................................................
 From: DPOLLARD{at}ccmail{dot}sunysb{dot}edu
@@ -16491,6 +16512,9 @@ mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/aila
 Oh, goody!  My Alludium Q-36 Explosive Space Modulator!
 ................................................................
 
+// 1998-08 {{{1
+== 1998-08
+
 // XXX Remark -- New message:
 ................................................................
 From: Robin Gaskell
@@ -16556,6 +16580,9 @@ contact details of such antidotes on this list.
 Saluta, 
  Robin
 ................................................................
+
+// 1998-09 {{{1
+== 1998-09
 
 // XXX Remark -- New message:
 ................................................................
@@ -16994,6 +17021,9 @@ it can be done.  More genuine Language Reform after the election.
 Saluta,
  Robin
 ................................................................
+
+// 1998-10 {{{1
+== 1998-10
 
 // XXX Remark -- New message:
 ................................................................
@@ -17490,6 +17520,9 @@ Let play commence.
 Saluta,
   Robin
 ................................................................
+
+// 1998-11 {{{1
+== 1998-11
 
 // XXX Remark -- New message:
 ................................................................
@@ -19502,6 +19535,9 @@ a-nu no-vide. Penite!
 
 (That was truly horrendous ...)
 ................................................................
+
+// 1998-12 {{{1
+== 1998-12
 
 // XXX Remark -- New message:
 ................................................................
