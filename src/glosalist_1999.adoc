@@ -1,7 +1,8 @@
 == Glosalist 1999
 :revdate: 2018-11-30
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Comments on Robin's v1.3 Grammar
 To: glosalist
@@ -22,7 +23,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -51,8 +55,10 @@ will never need to be patched in the future.
 It is also easier to specify a minimal set of rules
 in B-N notation, understandable to all students of
 linguists and computer science, than any other way.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -103,8 +109,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -159,9 +167,10 @@ RM gives a partial B-N for English, to serve as a start.
 I am suggesting that Robin's grammar as written is
 not sufficient, whereas B-N is; but only Robin seems
 to have the intuition of how Glosa really is.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -399,8 +408,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
 
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Possible colour marking of Glosa text.
 To: Glosalist Mailing List
@@ -472,9 +483,10 @@ klina litera.
 Saluta,
 
  Robin G.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -598,9 +610,10 @@ and makes the clunky ";" and ":" dispensable.
 > word, whether it be 'noun' or 'verb'.
 
 No disagreement on that, it is similar to standard pidgin.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -639,9 +652,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Possible colour marking of Glosa text.
 To: GLOSALIST
@@ -666,8 +680,10 @@ actually the term is "prosody" or some such.
 Andra' pa trans' via'.
 
 Paul might like that better -- no articles needed!
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Possible colour marking of Glosa text.
 To: Glosalist Mailing List
@@ -692,9 +708,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Dates and Time in Glosa
 To: GLOSALIST
@@ -721,8 +738,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -764,8 +783,10 @@ languages do not use "across" as Indo-European does.
 Other than for indirect objects and genitives,
 why use prepositions at all? I would have thought
 infinitives require one, but Robin just uses them raw.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -810,8 +831,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -832,8 +855,10 @@ My remarks about syntax were directed toward
 *clear* specification of *existing* language.
 
 Your point?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -871,8 +896,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -925,8 +952,10 @@ from hobby status, and toward real usefulness.
 I would appreciate never having to speak of
 my motives or intentions again. Please
 criticize only ideas, not persons.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -951,8 +980,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: ... ) {now:Loglan/Lojban spinoff}
 To: GLOSALIST
@@ -979,8 +1010,10 @@ Glosa are different dialects.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: ... ){now: "ke" & dialect}
 To: GLOSALIST
@@ -1037,8 +1070,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: ... ) {now: ke/that}
 To: GLOSALIST
@@ -1094,8 +1129,10 @@ Clauses, as well: EG
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: "Omitted" File: Glosa Added [V.Long Attachment]
 To: Glosalist Mailing List
@@ -1187,10 +1224,10 @@ target of 2000.
 Saluta,
 
  Robin G.
+................................................................
 
-
-
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa**# (was: ... ) {now: ke/that}
 To: GLOSALIST
@@ -1216,8 +1253,10 @@ to attach phrases unambiguously to avoid
 (or encourage?) the infamous "I saw a
 man running after the cat with a broom
 in underwear" sort of thing.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa**# (was: ... ) {now:Loglan/Lojban spinoff}
 To: GLOSALIST
@@ -1241,8 +1280,10 @@ That is entirely reasonable, and many languages do
 exactly that; just say Glosa is very "pro-drop"
 (elides whenever the speaker feels like it)
 and then everybody is happy.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# (was: ... ){now: "ke" & dialect}
 To: GLOSALIST
@@ -1275,8 +1316,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: "Omitted" File: Glosa Added [V.Long Attachment]
 To: Glosalist Mailing List
@@ -1298,8 +1341,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: ... ) {now: Supergroup}
 To: GLOSALIST
@@ -1454,8 +1499,10 @@ The <italic><color><param>8080,0000,0000</param>Bottom Line</color>
 </italic>is
 <underline><color><param>0000,0000,8080</param>people</color></underline><color><param>0000,0000,8080</param>
 </color>not <bold><color><param>0000,8080,0000</param>MONEY.</color></bold><underline> </underline>
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Roget's
 To: GLOSALIST
@@ -1464,8 +1511,10 @@ Date: Sun, 10 Jan 99 03:4
 An interesting story of a parallel use of Roget's Thesaurus:
 
 http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/util/new/FSN_DOC.ASC
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: ... ) {now: ke/that}
 To: GLOSALIST
@@ -1535,8 +1584,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: ... ) {now:Loglan/Lojban spinoff}
 To: GLOSALIST
@@ -1569,8 +1620,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: ... ){now: "ke" & dialect}
 To: GLOSALIST
@@ -1636,8 +1689,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: "Omitted" File: Glosa Added [V.Long Attachment]
 To: GLOSALIST
@@ -1686,8 +1741,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: advertisement, annul, beginning, belong, camera, discovery
 To: GLOSALIST
@@ -1727,8 +1784,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Attaboy, Luther!
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: ismo, isti
 To: GLOSALIST
@@ -1759,8 +1818,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Attaboy, Luther!
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: dress, engine, hasty, meter, liter, kingdom
 To: GLOSALIST
@@ -1798,8 +1859,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 vi vi vi - The Editor Of The Beast
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: "Omitted" File: Glosa Added [V.Long Attachment]
 To: GLOSALIST
@@ -1831,8 +1894,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Attaboy, Luther!
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: ismo, isti
 To: GLOSALIST
@@ -1861,8 +1926,10 @@ suffixes, Interlingua's too; because we must be able to
 translate them somehow. Eo's are more ingenious and,
 as we say, "orthogonal"; Ia's are the Standard Average
 European derivational series.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa**# (was: ... ) {now: ke/that}
 To: GLOSALIST
@@ -1920,8 +1987,10 @@ It is already established that Glosa will be the type of lang
 that uses relative clauses, unlike Chinese and Turkish which
 have a way to dispense with them (with other drawbacks).
 True pidgins also dispense with RC's, but Glosa aims higher.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# (was: ... ){now: "ke" & dialect}
 To: GLOSALIST
@@ -1978,8 +2047,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: "Omitted" File: Glosa Added [V.Long Attachment]
 To: Glosalist Mailing List
@@ -2004,8 +2075,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: "Omitted" File: Glosa Added [V.Long Attachment]
 To: GLOSALIST
@@ -2040,8 +2113,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Oh no - not me - I never lost control
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Comments on Robin's v1.3 Grammar
 To: glosalist
@@ -2072,8 +2147,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: putrid, exclusive, acknowledge, brass, afternoon, compound, dictionary
 To: GLOSALIST
@@ -2106,8 +2183,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 vi vi vi - The Editor Of The Beast
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: label, likely, pride, proposal, radio, such, advice, suggestion, unit
 To: GLOSALIST
@@ -2148,8 +2227,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 2+2=5 for sufficiently large values of 2.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: grateful, jealousy, metric, mile, conscience
 To: GLOSALIST
@@ -2179,8 +2260,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Znqr lbh ybbx!
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: supper, calculate, calculator, radio, television, and other tele-things
 To: GLOSALIST
@@ -2217,8 +2300,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Oh no - not me - I never lost control
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Babel - Glosa Translation
 To: Glosalist Mailing List
@@ -2230,6 +2315,10 @@ ciber-zine.
 
 Saluta,
  Robin G.
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Babel - New Multi-lingual E-zine
 To: Glosalist Mailing List
@@ -2310,6 +2399,10 @@ then render it into English, than to go the other way. */
 Saluta,
 
  Robin G.
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: centimeter, equitable, hemp, keen
 To: GLOSALIST
@@ -2339,8 +2432,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Oh no - not me - I never lost control
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -2383,8 +2478,10 @@ without, the Perfective .. then we'll have something to ^get our teeth into^.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -2455,9 +2552,10 @@ all the other people."
 
 Saluta,
  Robin
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Marking*
 To: GLOSALIST
@@ -2575,8 +2673,10 @@ distinguishing these two usages of "red".
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -2604,8 +2704,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -2630,8 +2732,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -2702,8 +2806,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Possible colour marking of Glosa text.
 To: GLOSALIST
@@ -2793,8 +2899,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
 
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: &Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -2836,8 +2944,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -2881,8 +2991,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dates and Time in Glosa
 To: GLOSALIST
@@ -2982,8 +3094,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: @Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -3094,8 +3208,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -3249,8 +3365,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: #Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -3344,8 +3462,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -3384,9 +3504,10 @@ It has a partial BNF syntax of English, which could be
 adapted to Glosa, I think. It highlights things like
 relative clauses, complete with examples and discussion
 of how other languages handle such things.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: #Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -3428,9 +3549,10 @@ as an offline unix-filter-like command-line-program.
 It is easier to do this for an analytic lang like Glosa,
 than something synthetic like Ido. If anybody has some
 thoughts to add on this, I'd be interested.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Possible colour marking of Glosa text.
 To: GLOSALIST
@@ -3457,9 +3579,10 @@ seems to have destroyed the "underline" tags.
 > how widespread this colour thing is nowadays.  R.G.
 
 I like my tickmarks better ... should I copyright them??
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Possible colour marking of Glosa text.
 To: GLOSALIST
@@ -3478,8 +3601,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Dates and Time in Glosa
 To: GLOSALIST
@@ -3515,9 +3640,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: #Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -3559,8 +3685,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: David Hathaway
 Subject: Re: Dates and Time in Glosa
 To: GLOSALIST
@@ -3581,8 +3709,10 @@ nuy keead jeig kiar feed as nuy jeig.
 Please keep up the good work,
 
 David.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: @Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -3691,8 +3821,10 @@ really don't work.
 
 But it will never be 100% complete. Reach a critical mass,
 maybe 98%, then shove off! June 1999?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Possible colour marking of Glosa text.(It doesn't work!)
 To: GLOSALIST
@@ -3757,8 +3889,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -3936,8 +4070,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: dress, engine, hasty, meter, liter, kingdom
 To: GLOSALIST
@@ -4043,8 +4179,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Mail Lost ~20th - 24th Jan
 To: AUXLANG
@@ -4066,8 +4204,10 @@ Subject line, I will know it is a copy sent to me, personally.
    Thank You, with apologies,
 Robin Gaskell
 rgaskell{at}zeta{dot}org{dot}au
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: ismo, isti
 To: GLOSALIST
@@ -4128,8 +4268,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: advertisement, annul, beginning, belong, camera, discovery
 To: GLOSALIST
@@ -4211,8 +4353,10 @@ away with just one word for this area, I still favour ~detekti~.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: ismo, isti
 To: GLOSALIST
@@ -4268,8 +4412,10 @@ The <italic><color><param>8080,0000,0000</param>Bottom Line</color>
 </italic>is
 <underline><color><param>0000,0000,8080</param>people</color></underline><color><param>0000,0000,8080</param>
 </color>not <bold><color><param>0000,8080,0000</param>MONEY.</color></bold><underline> </underline>
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: ... ) {now: ke/that}
 To: GLOSALIST
@@ -4356,8 +4502,10 @@ to call upon, we could still get it right.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: ... ){now: "ke" & dialect}
 To: GLOSALIST
@@ -4449,8 +4597,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: Re: @Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -4490,9 +4640,10 @@ http://www.apion-tss.com
 http://i.am/irvdel
  mailto:adi{at}esperanto{dot}nu
 -----------------------------------------------------
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: ismo, isti
 To: GLOSALIST
@@ -4519,8 +4670,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 vi vi vi - The Editor Of The Beast
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: halfnaked broomwielding catpunishers, and voyeurism
 To: GLOSALIST
@@ -4542,8 +4695,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Znqr lbh ybbx!
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: advertisement, annul, beginning, belong, camera, discovery
 To: GLOSALIST
@@ -4574,8 +4729,10 @@ GS/CS/E d(-) s: a? C++++$ UHBUV++++$ P+ L E---(-) W++ N++
 o@ K(-) w$  O++@$ !M V+++$ PS+ PE Y+ PGP++ t++(---)
 5++ X+ R*$ tv++ b+++ DI+++$ D+++ G++ e++ h---- r+++ y++++
 ------END GEEK CODE BLOCK------
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Possible colour marking of Glosa text.(It doesn't work!)
 To: GLOSALIST
@@ -4598,8 +4755,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# (was: ... ){now: "ke" & dialect}
 To: GLOSALIST
@@ -4642,8 +4801,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: @Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -4666,8 +4827,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: dress, engine, hasty, meter, liter, kingdom
 To: GLOSALIST
@@ -4697,9 +4860,10 @@ Then instead of a boring flat alphabetized dictionary, make a separate
 on what you are talking about; still, the Glosa 2500 is a step
 in the right direction, just don't get too concerned about which
 animals get into the ark.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: ismo, isti
 To: GLOSALIST
@@ -4722,9 +4886,10 @@ If they go over 2 or 3 letters in Glosa, I would not like them.
 The cool thing about pidgins is lack of morphology.
 But going through these lists will expose any inadequacies
 (missing words) in Glosa.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Possible colour marking of Glosa text.(It doesn't work!)
 To: GLOSALIST
@@ -4747,9 +4912,10 @@ On Sun, 24 Jan 1999, Robin Gaskell wrote:
 
 Hmm, the real money is in name-brands, trademarks, etc.
 We could do like Internic, and license all the proper nouns.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Dictionary Updates
 To: GLOSALIST
@@ -4793,8 +4959,10 @@ GS/CS/E d(-) s: a? C++++$ UHBUV++++$ P+ L E---(-) W++ N++
 o@ K(-) w$  O++@$ !M V+++$ PS+ PE Y+ PGP++ t++(---)
 5++ X+ R*$ tv++ b+++ DI+++$ D+++ G++ e++ h---- r+++ y++++
 ------END GEEK CODE BLOCK------
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Dictionary Updates
 To: GLOSALIST
@@ -4820,8 +4988,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Dictionary Updates
 To: GLOSALIST
@@ -4861,8 +5031,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Real Programmers don't use floating point.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Dictionary Updates
 To: GLOSALIST
@@ -4882,9 +5054,10 @@ Then, one could "sort +3 GES.TXT | ..." and such.
 Also, it would be more easily importable into a SQL database.
 But that isn't needed until there is more demand;
 I can handle it with Perl scripts as-is.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Dictionary Updates
 To: GLOSALIST
@@ -4914,8 +5087,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 It's a fast program except when running on a half-fast computer.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: "Omitted" File: Glosa Added [V.Long Attachment]
 To: GLOSALIST
@@ -4958,8 +5133,10 @@ http://www.neosplice.com/~ailanto
 >
 >Oh no - not me - I never lost control
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: "Omitted" File: .. Paul's Q. re headings
 To: GLOSALIST
@@ -5002,8 +5179,10 @@ necessary.
 
  Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: label, likely, pride, proposal, radio, such, advice, suggestion, unit
 To: GLOSALIST
@@ -5076,8 +5255,10 @@ was a word, KARAKTERA, allowing `MERO DE KARAKTURA TRAIT`.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: putrid, exclusive, acknowledge, brass, afternoon, compound, dictionary
 To: GLOSALIST
@@ -5121,8 +5302,10 @@ me.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: supper, calculate, calculator, radio, television, and other tele-things
 To: GLOSALIST
@@ -5183,8 +5366,10 @@ Saluta,
 >Oh no - not me - I never lost control
 >
 *Such a thing would be impossible for me, also!  R.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: centimeter, equitable, hemp, keen
 To: GLOSALIST
@@ -5224,8 +5409,10 @@ better to choose the genus name, and use its Glosa spelling.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: grateful, jealousy, metric, mile, conscience
 To: GLOSALIST
@@ -5308,8 +5495,10 @@ EG  Boni di.  _bOR-nEE_ _dEE_
 >Znqr lbh ybbx!
 >
 * Put me down for one, too.  Thanx R.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: centimeter, CENTI, HEKTO
 To: GLOSALIST
@@ -5336,8 +5525,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Did you expect mere proof to sway my opinion?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: label, RADIA, RADIO, unit
 To: GLOSALIST
@@ -5380,8 +5571,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Did you expect mere proof to sway my opinion?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: mile, ?, MILI
 To: GLOSALIST
@@ -5419,8 +5612,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Did you expect mere proof to sway my opinion?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: mile, ?, MILI
 To: GLOSALIST
@@ -5455,8 +5650,10 @@ I like the usenet *asterisk* emphasis convention, very-high pitch.
 Probably "a la mode" scare quotes for foreign phrases, slightly high.
 Also (parenthetically) the voice-lowered parenthetical.
 Print tends to short-shrift these essential intonation patterns.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: label, likely, pride, proposal, radio, such, advice,  suggestion, unit
 To: GLOSALIST
@@ -5499,8 +5696,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: grateful, jealousy, metric, mile, conscience
 To: GLOSALIST
@@ -5539,8 +5738,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: supper, calculate, calculator, radio, television, and  other tele-things
 To: GLOSALIST
@@ -5569,8 +5770,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: grateful, jealousy, metric, mile, conscience
 To: GLOSALIST
@@ -5602,8 +5805,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Did you expect mere proof to sway my opinion?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: mile, ?, MILI
 To: GLOSALIST
@@ -5625,8 +5830,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Did you expect mere proof to sway my opinion?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: supper, calculate, calculator, radio, television, and other tele-things
 To: GLOSALIST
@@ -5650,8 +5857,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Did you expect mere proof to sway my opinion?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: grateful, jealousy, metric, mile, conscience
 To: GLOSALIST
@@ -5686,8 +5895,10 @@ I'm not sure what to do about it, other than just saying
 
 This shows some more realistic examples, for fun:
 http://www.fbyte.com/Shanghai/html/lesson13.htm
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -5735,8 +5946,10 @@ drag us screaming and kicking, and talking NuSpeak, into the next century.
 
 Maybe,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: @Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -6004,8 +6217,10 @@ Glosa.' would be very helpful.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dates and Time in Glosa(Spoken&Written)
 To: GLOSALIST
@@ -6095,8 +6310,10 @@ P.S. David please send your pidgeon post address to recieve a "Glosa
 Experimental Dictionaries" 3.5'' IBM disk - uses ASCII code.
      Likewise to any other Glosalita who does not have, but would like,
 such a disk.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Possible colour marking of Glosa text.(It doesn't work!)
 To: GLOSALIST
@@ -6161,6 +6378,10 @@ Saluta,
 
 P.S. .RTF document included for you to see if it works on your system:
 just testing the limits, again.
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -6240,8 +6461,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -6271,8 +6494,10 @@ Ido eventually needed to add a perfective -ab- and a passivizer
 infix -es- to its verbal system, and I think Glosa needs them too.
 Having a passive makes serial verb constructions easier,
 and those are far more tractable than baroque prepositions.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Dates and Time in Glosa(Spoken&Written)
 To: GLOSALIST
@@ -6291,8 +6516,10 @@ whatever dividing marker [/,.- &c] we choose.  Other than that, terms MO
 and DI can, of course be used.
 John
 99/01/31
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Dates and Time in Glosa(Spoken&Written)
 To: GLOSALIST
@@ -6319,8 +6546,10 @@ Also, most-significant-first sorts nicely, for date as well as time.
 I guess after next 01/01 we can revert to 2-digit years for a while ...
 Charles
 1999/01/31 10:00:00
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -6364,8 +6593,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -6536,8 +6767,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: "Present Perfect Progressive"
 To: Glosalist
@@ -6570,8 +6803,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -6644,8 +6879,10 @@ See the many postings by Lee Sau Dan on sci.lang about Esperanto.
 He goes nonlinear every time some Eo proponent talks about its
 simplicity and regularity. Eo is as severe a downgrade from
 Chinese grammar as Microsoft is from Unix ...
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: @Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -6657,9 +6894,10 @@ Ay, there's the rub:  there has to be some external reason for folks to
 bother to learn any language, "natural" or "cooked up."
 
 John
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -6771,7 +7009,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: Paul O Bartlett
@@ -6786,8 +7027,10 @@ the Russian and Chinese thought in me.
    Carry on with frater2!
    Best wishes,
    John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Suma and Glosa
 To: Glosalist
@@ -6808,8 +7051,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -6833,8 +7078,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: dress, engine, hasty, meter, liter, kingdom
 To: GLOSALIST
@@ -6878,8 +7125,10 @@ interest areas.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: #Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -6913,9 +7162,10 @@ but, yes, there ought to be one in the background, by now.
 
 Saluta,
   Robin G.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: #Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -6979,8 +7229,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: @Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -7050,8 +7302,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dates and Time in Glosa
 To: GLOSALIST
@@ -7141,8 +7395,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -7280,8 +7536,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -7362,8 +7620,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -7400,9 +7660,10 @@ The woman; who is going round the       U gina; qi ki peri gono; es
 
 Wouldn't it be much better to say (and write):
 "U gina ke ki peri gono, fe es mi para-pe."
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: #Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -7432,9 +7693,10 @@ suppose, but I just don't bother with C anymore.
 > use, or has something replaced it, now?
 
 Yes to both.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: dress, engine, hasty, meter, liter, kingdom
 To: GLOSALIST
@@ -7456,9 +7718,10 @@ My theory on organizing a lexicon is to make ALL grammatical particles 2
 letters, consonant-vowel; ALL common base vocabulary words 4 letters, CVCV; and
 ALL extended vocabulary 6 or more letters, CVCVCV ... New learners and machine
 parsers would be eternally grateful.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: dress, engine, hasty, meter, liter, kingdom
 To: GLOSALIST
@@ -7487,8 +7750,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -7516,8 +7781,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: dress, engine, hasty, meter, liter, kingdom
 To: GLOSALIST
@@ -7545,9 +7812,10 @@ the extent of making no changes further away from this direction; as it is,
 Glosa follows it 90%, which is pretty good. It is too late to change the
 relatively few grammatical particles that are non-CV, but new specialized
 vocabularies could still adhere to the CVCV... pattern.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dictionary Updates
 To: GLOSALIST
@@ -7588,8 +7856,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (After Reading Burd's Webpage)
 To: GLOSALIST
@@ -7622,8 +7892,10 @@ poem.]
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Head Down: 6000 --> 2500
 To: GLOSALIST
@@ -7707,8 +7979,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa/Ido translation needed (Ex: AUXLANG)
 To: GLOSALIST
@@ -7770,8 +8044,10 @@ difficulties with the vocabulary.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa/Ido translation needed (Ex: AUXLANG)
 To: GLOSALIST
@@ -7811,8 +8087,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: centimeter, CENTI, HEKTO
 To: GLOSALIST
@@ -7845,8 +8123,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: mile, ?, MILI
 To: GLOSALIST
@@ -7899,8 +8179,10 @@ occasions, and (conspiratorially quiet) othertimes.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: mile, ?, MILI
 To: GLOSALIST
@@ -7936,9 +8218,10 @@ marker would need to be both spoken and written.
 
 Saluta,
  Robin
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: label, RADIA, RADIO, unit*
 To: GLOSALIST
@@ -8060,8 +8343,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
 
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: supper, calculate, calculator, radio, television, and other tele-things
 To: GLOSALIST
@@ -8084,8 +8369,10 @@ well-cooked meal, then that is CENA [dinner].
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: grateful, jealousy, metric, mile, conscience
 To: GLOSALIST
@@ -8119,8 +8406,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -8266,8 +8555,10 @@ dictionaries.  Oh, yes, did I mention PRAE [before] is in _Glosa 6000_?
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -8376,8 +8667,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -8419,8 +8712,10 @@ gets used to it.  Note that originally Glosa had no Passive Voice.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dates and Time in Glosa(Spoken&Written)#
 To: GLOSALIST
@@ -8489,8 +8784,10 @@ on the telephone, on radio, on T.V., or simply in conversation?
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dates and Time in Glosa(Spoken&Written)&
 To: GLOSALIST
@@ -8548,8 +8845,10 @@ The <italic><color><param>8080,0000,0000</param>Bottom Line</color>
 </italic>is
 <underline><color><param>0000,0000,8080</param>people</color></underline><color><param>0000,0000,8080</param>
 </color>not <bold><color><param>0000,8080,0000</param>MONEY.</color></bold><underline> </underline>
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: grateful, jealousy, metric, mile, conscience
 To: GLOSALIST
@@ -8592,8 +8891,10 @@ Metric prefixes, from 10^18 to 10^-18, if anyone would like them.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: label, likely, pride, proposal, radio, such, advice,  suggestion, unit
 To: GLOSALIST
@@ -8629,8 +8930,10 @@ believe the two concepts are opposite in orientation:
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: grateful, jealousy, metric, mile, conscience
 To: GLOSALIST
@@ -8667,8 +8970,10 @@ nuspeak will succede in budging it either.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: supper, calculate, calculator, radio, television, and  other tele-things
 To: GLOSALIST
@@ -8694,8 +8999,10 @@ meal,above meal,remainder-from-the-meal].
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
 To: GLOSALIST
@@ -8811,8 +9118,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: mile
 To: GLOSALIST
@@ -8851,8 +9160,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 A crack in the sky and a hand reaching down to me
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Dates and Time in Glosa
 To: GLOSALIST
@@ -8883,9 +9194,10 @@ caught up with me!
 --
 William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: label, likely, pride, proposal, radio, such, advice, suggestion, unit
 To: GLOSALIST
@@ -8907,9 +9219,10 @@ Yep, that's how they strike me.
 --
 William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -8932,8 +9245,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -8962,8 +9277,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -8998,8 +9315,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
 To: GLOSALIST
@@ -9051,8 +9370,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
 To: Paul O Bartlett
@@ -9113,8 +9434,10 @@ On Sat, 20 Feb 1999, Paul O Bartlett wrote:
 
          Carry on, Paul!  I'm with you.
          John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: "Present Perfect Progressive"
 To: GLOSALIST
@@ -9177,8 +9500,10 @@ Saluta,
 >Keyserver (0xF383C8F9) or WWW for PGP public key
 >Home Page:  http://www.smart.net/~bartlett
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: @Comments on Robin's v1.3 Grammar$
 To: GLOSALIST
@@ -9233,8 +9558,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -9332,8 +9659,10 @@ preference for derived particles, rather than forced CV pairs, comes from.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -9399,8 +9728,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -9493,8 +9824,10 @@ vehicle for logical thought.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -9539,8 +9872,10 @@ far enough from recognizability that a *little* more mangling
 wouldn't hurt. In fact, the Frater project, which I regard as
 a close, uh, relation to Glosa, has gone much further in that
 direction, with no ill effects, i.e. it looks OK and would work.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -9578,8 +9913,10 @@ Re-phrase as "then" or "causing".
 Commas are very simply and universally *pauses*, and should not
 be futzed with. Hogben introduced the weird semicolon and colon,
 THAT (qi?) are so ridiculous and unworkable.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -9614,8 +9951,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -9677,8 +10016,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: "Present Perfect Progressive"
 To: GLOSALIST
@@ -9704,8 +10045,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -9796,8 +10139,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: #Comments on Robin's v1.3 Grammar
 To: GLOSALIST
@@ -9839,9 +10184,10 @@ their terminology .. as well as their technology.
 
 Gracia,
  Robin G.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: dress, engine, hasty, meter, liter, kingdom
 To: GLOSALIST
@@ -9870,8 +10216,10 @@ terminology - suitably Glosafied - would be used.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: ++dress, engine, hasty, meter, liter, kingdom
 To: GLOSALIST
@@ -9960,8 +10308,10 @@ Saluta,
    P.S. My original proposal for specialist lexicons is still firmly rooted
 in the idea of 'humanist', hand-written and spoken language .. but with
 computer database backup.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**#; {now: "ke" & "that"}
 To: GLOSALIST
@@ -10054,12 +10404,10 @@ automatically come up with the ^nested^ structure using the Relative Pronoun.
 
 Saluta,
  Robin G.
+................................................................
 
-
-
-
-
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: ++dress, engine, hasty, meter, liter, kingdom
 To: GLOSALIST
@@ -10124,8 +10472,10 @@ been tried before. ???
 
 I see computers as ultimately a counterforce to corporate fascism,
 actually, e.g. Linux, vs. Microsoft. That's off-topic though.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: 2500 Net Glosa .. TOO LONG (94K)
 To: GLOSALIST
@@ -10149,8 +10499,10 @@ because they handle gigabyte e-mails.
 
 Gracia,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: P-R_2.5K
 To: GLOSALIST
@@ -10159,6 +10511,10 @@ Date: Fri, 26 Feb 99 03:1
  ---------------------------
  Followed by Part 5
  ---------------------------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: S-Z_2.5K
 To: GLOSALIST
@@ -10167,6 +10523,10 @@ Date: Fri, 26 Feb 99 03:1
  ---------------------------
  And Lastly, Part 6
  ---------------------------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: L-O_2.5K
 To: GLOSALIST
@@ -10175,6 +10535,10 @@ Date: Fri, 26 Feb 99 03:1
  ------------------------
  Then, Part 4
  ------------------------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: C-G_2.5K
 To: GLOSALIST
@@ -10183,6 +10547,10 @@ Date: Fri, 26 Feb 99 03:1
 ---------------------------
 And Part 2
 ---------------------------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: H-K_2.5k
 To: GLOSALIST
@@ -10191,6 +10559,10 @@ Date: Fri, 26 Feb 99 03:1
  ------------------------
  Next, Part 3
  ------------------------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Message + a-b_2.5k
 To: GLOSALIST
@@ -10243,7 +10615,10 @@ Hurrying to work.
 
 Saluta,
  Robin
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: A few points
 To: bagpuss
@@ -10511,8 +10886,10 @@ The <italic><color><param>8080,0000,0000</param>Bottom Line</color>
 </italic>is
 <underline><color><param>0000,0000,8080</param>people</color></underline><color><param>0000,0000,8080</param>
 </color>not <color><param>0000,8080,0000</param>money.</color><underline> </underline>
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: 'verb' types within Glosa
 To: GLOSALIST
@@ -10540,8 +10917,10 @@ plu studenti de Glosa Gramatika.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re* Experiment (Glosalist Version)
 To: GLOSALIST
@@ -10721,8 +11100,10 @@ Answer-form:
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)??
 To: GLOSALIST
@@ -10790,8 +11171,10 @@ Robin
 >Keyserver (0xF383C8F9) or WWW for PGP public key
 >Home Page:  http://www.smart.net/~bartlett
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dates and Time in Glosa
 To: GLOSALIST
@@ -10829,8 +11212,10 @@ unequivocal communication.  If I use a date format of either 27.02.1999 or
  Saluta,
   Robin
 PS>  We all know it's really Su27Fe1999.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
 To: GLOSALIST
@@ -10947,8 +11332,10 @@ The <italic><color><param>8080,0000,0000</param>Bottom Line</color>
 </italic>is
 <underline><color><param>0000,0000,8080</param>people</color></underline><color><param>0000,0000,8080</param>
 </color>not <color><param>0000,8080,0000</param>money.</color><underline> </underline>
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG) PRA @#&%%#$
 To: GLOSALIST
@@ -11003,8 +11390,10 @@ The <italic><color><param>8080,0000,0000</param>Bottom Line</color>
 </italic>is
 <underline><color><param>0000,0000,8080</param>people</color></underline><color><param>0000,0000,8080</param>
 </color>not <color><param>0000,8080,0000</param>money.</color><underline> </underline>
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
 To: GLOSALIST
@@ -11112,8 +11501,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG) PRA @#&%%#$
 To: GLOSALIST
@@ -11144,8 +11535,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)??
 To: GLOSALIST
@@ -11220,8 +11613,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -11271,8 +11666,10 @@ Where, one wonders, is the courage that once made warriors into heros?
 
 With Apologies,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -11330,9 +11727,10 @@ and one day, whole stories.
 
 Saluta,
  Robin G.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -11404,9 +11802,10 @@ innovation, to mark the introduction of a new clause.
 
 Saluta,
  Robin G.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -11499,8 +11898,10 @@ accumulated "Bookmarked" file, which includes Frater.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -11533,8 +11934,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: Robin Gaskell
@@ -11550,8 +11953,10 @@ the meaning of introducing a clause AND is a definite stop, like a period
 come down heavily on either side.  A comma would merely add to the mess 
 again.
 	John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -11587,9 +11992,10 @@ KE is too valuable as a relativizer to use in that spot, IMO.
 > innovation, to mark the introduction of a new clause.
 
 No good if you can't HEAR them, as indeed you cannot.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: "Present Perfect Progressive""
 To: GLOSALIST
@@ -11628,8 +12034,10 @@ this list.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: ++dress, engine, hasty, meter, liter, kingdom
 To: GLOSALIST
@@ -11722,8 +12130,10 @@ retain copyright, and Glosa does become generalised.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
 To: GLOSALIST
@@ -11843,8 +12253,10 @@ ideas on this?
 >Keyserver (0xF383C8F9) or WWW for PGP public key
 >Home Page:  http://www.smart.net/~bartlett
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
 To: GLOSALIST
@@ -11964,8 +12376,10 @@ ideas on this?
 >Keyserver (0xF383C8F9) or WWW for PGP public key
 >Home Page:  http://www.smart.net/~bartlett
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
 To: GLOSALIST
@@ -11992,8 +12406,10 @@ whether as of now or as of a past time.
 Or something like that. I don't like "NO-DURA" much,
 but that looks like the status quo for completive aspect.
 Lots of tricky "modals" are already in there already ...
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
 To: GLOSALIST
@@ -12017,8 +12433,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
 To: GLOSALIST
@@ -12078,8 +12496,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)??
 To: GLOSALIST
@@ -12130,9 +12550,10 @@ Saluta,
 P.S.  Paul, I have sent the full message that this Replies to, to the Glosa
 authors: I am trying to avoid going too far off at a tangent before letting
 them know of activities on this List.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: tense particles, Re: Glosa 2.5K? (SBG) PRA @#&%%#$
 To: GLOSALIST
@@ -12191,9 +12612,10 @@ pass the "tongue test" also, before we suggest them to Glosa Central.
 Saluta,
   Robin G.
    
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -12226,8 +12648,10 @@ should be retained.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -12267,8 +12691,10 @@ draft of Syntax-Based Grammar, before you get into paid employment again.
 
 Saluta, 
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
 To: GLOSALIST
@@ -12328,11 +12754,10 @@ Saluta,
 is quite a good, legitimate word in its own right, and probably should be
 in the lexicon.  At present, it is Old Glosa, and has possibly been
 ?superceded? by another word.
+................................................................
 
-
-
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -12424,8 +12849,10 @@ inflection and pauses.  My understanding goes something like this:
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)&
 To: GLOSALIST
@@ -12618,9 +13045,10 @@ into line with Functional Grammar, and describe them as "modals".
 Saluta,
 
  Robin G.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -12671,15 +13099,18 @@ Relative clause introducer, only. "Keep it simple."
 It isn't enough. In free speech, people often pause and re-state.
 We need to use the "KE" and other conjunctions to be explicit.
 Adding some pauses and commas doesn't hurt though.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Leaving Glosalist (fwd)
 To: GLOSALIST
 Date: Thu, 11 Mar 99 01:0
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett <bartlett{at}smart{dot}net>
 To: Glosalist <glosalist{at}zeta{dot}org{dot}au>
 Date: Tue, 9 Mar 1999 19:11:09 -0500 (EST)
@@ -12704,8 +13135,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Ex% 1. Translation into English
 To: GLOSALIST
@@ -12754,8 +13187,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -12850,8 +13285,10 @@ that, at the abstract level,  'punctuation' = 'vocal effects'.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -12892,8 +13329,10 @@ context would most likely indicate the time of the event.
 > *   ~qi~ is supposed to be the "relativizer".
 
 Oops, I mixed them up. KA and SO too, probably.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Ex% 1. Translation into English
 To: Robin Gaskell
@@ -12927,8 +13366,10 @@ On Sun, 14 Mar 1999, Robin Gaskell wrote:
 
 Saluta!
 	John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Ex% 1. Translation into English
 To: GLOSALIST
@@ -12961,8 +13402,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# {now: "ke" & "that"}
 To: GLOSALIST
@@ -13049,8 +13492,10 @@ OR  It's so hot that it burnt him.
 
 Saluta,
  Robin G. 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Ex% 2. Translation into Glosa
 To: GLOSALIST
@@ -13121,8 +13566,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Posi YA posi NO
 To: GLOSALIST
@@ -13165,8 +13612,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Glosa Grammar .Ver.2 (Part 1)
 To: GLOSALIST
@@ -13382,9 +13831,10 @@ _________________________________________________________________________
      unchanged, as a noun, verb or modifier, depending on its position in
      the sentence.  These make up the majority of the lexicon, and all new 
      word for objects, action or descriptions, are substantives. 
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Glosa Grammar Ver.2 (Part 2)
 To: GLOSALIST
@@ -13621,9 +14071,10 @@ Hello Again,
      "soft" g, or "soft" j, sound.
  ------------------------------------------------------------------
  (c) Glosa Education Organisation, Richmond U.K., 1999
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Michael D. Edwards
 Subject: Re: Posi YA posi NO
 To: GLOSALIST
@@ -13691,8 +14142,10 @@ if
 www.blackwell.co.uk/bookshops/
 >                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Michael D. Edwards
 Subject: Re: Posi YA posi NO
 To: GLOSALIST
@@ -13741,9 +14194,10 @@ boteka trans u via.
  Saluta,
 Michael D. Edwards
 avmike{at}concentric{dot}net
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Posi YA ... (now ICQ, QTALK)
 To: GLOSALIST
@@ -13787,7 +14241,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Posi YA posi NO +
 To: GLOSALIST
@@ -13875,8 +14332,10 @@ modifying the .verb' in the Main Clause (akti).
 >boteka trans u via.                                   ^         <-
 >......^.................
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Posi YA posi NO + (Complete)
 To: GLOSALIST
@@ -14032,8 +14491,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Glosa Grammar Ver2 - responses expected
 To: GLOSALIST
@@ -14089,8 +14550,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: GLOSA EXERCISES: Simple Transitive
 To: GLOSALIST
@@ -14140,8 +14603,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Rosati
 Subject: hi (or, I guess ave or saluta)
 To: GLOSALIST
@@ -14167,9 +14632,10 @@ me...
 a vi sinceri-
 
 dante
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Rosati
 Subject: veri (?)
 To: GLOSALIST
@@ -14179,9 +14645,10 @@ sorry, the the encrypted dictionaries are from William Walter Patterson's
 site
 
 dante
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Rosati
 Subject: mo tenta
 To: GLOSALIST
@@ -14193,8 +14660,10 @@ justi. es solo via detekti tekno.
 pardo si mi dona a vi oku algo....
 
 dante
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: hi (or, I guess ave or saluta)
 To: GLOSALIST
@@ -14216,8 +14685,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 In silvam ne ligna feras.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Rosati
 Subject: Ferali fe
 To: GLOSALIST
@@ -14237,9 +14708,10 @@ Nu mi petitio fo-sensi e plu fo-sono verbi
 so posi viagia epi plu agrio equs ad helio.
 
 -dante
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Rosati
 Subject: Saluta plu ami
 To: GLOSALIST
@@ -14261,8 +14733,10 @@ kredi Hogben pa prende plu-ci puta e pa face Interglosa.
 Spe vi bene, e spe hetero plu glosa-pe tosto skribe. Qe ali-pe la?
 
 dante
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Rosati
 Subject: Glosa e China-lingua
 To: GLOSALIST
@@ -14312,10 +14786,10 @@ es ma pluto.
 plu kardia saluta-
 
 dante
+................................................................
 
-
-
-
+// XXX Remark -- New message:
+................................................................
 From: Rosati
 Subject: Hekasto lingua
 To: GLOSALIST
@@ -14336,8 +14810,10 @@ unika expressi. U-ci na detekti ex experi.
 Mi komence sensi se-dice.....ali-pe????
 
 dante
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Daniel Alberto Alegrett
 Subject: Saluta
 To: GLOSALIST
@@ -14359,8 +14835,10 @@ I'm getting it right :) ).
 
 ______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Saluta
 To: Daniel Alberto Alegrett
@@ -14385,8 +14863,10 @@ On Fri, 25 Jun 1999, Daniel Alberto Alegrett wrote:
         You seem to be doing so, and well.  Welcome to the LIst!
 Write as much as you are able.
         John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Daniel Alegrett
 Subject: Robin's letter.
 To: GLOSALIST
@@ -14574,8 +15054,10 @@ Gratia de vi tem.
 A vi sinceri,
 
 Daniel.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Michael D. Edwards
 Subject: Re: Robin's letter.
 To: GLOSALIST
@@ -14781,8 +15263,10 @@ Subject: Robin's letter.
 > Daniel.
 >
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Michael D. Edwards
 Subject: Re: Robin's letter.
 To: GLOSALIST
@@ -15006,8 +15490,10 @@ morning.
 > >
 >
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Robin's letter.
 To: GLOSALIST
@@ -15042,8 +15528,10 @@ to migrate Ido/Novial in the direction of a pidgin/creole,
 effectively Glosa. I made a web page of a combined vocabulary:
 
 http://www.catty.com/~catty/lang/idoglosa.htm
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Daniel Alegrett
 Subject: Saluta.
 To: GLOSALIST
@@ -15095,8 +15583,10 @@ A re-vide,
 Daniel.
 
 -- Arachne V1.48;beta, NON-COMMERCIAL copy, http://home.arachne.cz/
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Saluta
 To: GLOSALIST
@@ -15150,8 +15640,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Nick Hempshall
 Subject: Documents & Exercises
 To: GLOSALIST
@@ -15171,8 +15663,10 @@ Nick
 
 ______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Documents & Exercises
 To: GLOSALIST
@@ -15196,8 +15690,10 @@ to categorize most words. Animals, plants, tools, OK.
 Basic verbs and qualities, um, OK. Most words are
 cultural fuzzy things, like "foreign" or "free",
 which are not so easy. I didn't finish it ...
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Saluta
 To: GLOSALIST
@@ -15255,8 +15751,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Daniel Alegrett #2
 To: GLOSALIST
@@ -15359,8 +15857,10 @@ Glosalist.
 Saluta, e boni-vo,
   Robin
  P.S. U diska pro Daniel fu gene ge-bali fu-di, di-penta.  R.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: How to Get This List Going!?
 To: Glosalist Mailing List
@@ -15455,8 +15955,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Nick Hempshall
 Subject: Re: Glosa Grammar .Ver.2 (Part 1)
 To: GLOSALIST
@@ -15702,8 +16204,10 @@ Date: Mon, 19 Jul 99 11:1
 
 ______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Nick Hempshall
 Subject: Re: Glosa Grammar Ver.2 (Part 2)
 To: GLOSALIST
@@ -15958,8 +16462,10 @@ Date: Mon, 19 Jul 99 11:1
 
 ______________________________________________________
 Get Your Private, Free Email at http://www.hotmail.com
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Glosa Grammar Ver.2 (Part 2)
 To: Nick Hempshall
@@ -15968,8 +16474,10 @@ Date: Mon, 19 Jul 99 11:4
 
 Thank you, Nick, for all this.  I, for one, appreciate the effort.
 John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Descriptions Needed
 To: Glosalist Mailing List
@@ -16022,8 +16530,10 @@ posta id a tu.    R.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: LOST A DAY'S DOWNLOADS
 To: GLOSALIST
@@ -16055,9 +16565,10 @@ messages to me.
       Much Appreciation,
 
 Robin Gaskell
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Rosati
 Subject: Windows Y2K Glitch
 To: Undisclosed.Recipients{at}amsterdam{dot}interport{dot}net
@@ -16107,8 +16618,10 @@ pervasiveness and systemic nature of the problem.
 
   As far as MAC users, you will have to contact the dealers to see if
 there is a similar problem and fix.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Patrick Dunn
 Subject: neo juga-pe
 To: GLOSALIST
@@ -16128,9 +16641,10 @@ nexu-pagina; si u-la sio es posi.
 
 Vale,
 Patrick Dunn
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Patrick Dunn
 Subject: Re: neo juga-pe
 To: GLOSALIST
@@ -16143,9 +16657,10 @@ On Sun, 25 Jul 1999, Patrick Dunn wrote:
 > ge-interese de plu arti lingua, e mi pa face pli.
 
 Pardo un ero.  "e mi pa face poli."
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: JJB
 Subject: iGLOS
 To: INTERLNG; Novial Diskusione Liste
@@ -16174,8 +16689,10 @@ Sincerely,
 Jay Bowks
 
 http://adam.cheshire.net/~jjbowks/iglos/iglos.html
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: neo juga-pe
 To: GLOSALIST
@@ -16236,8 +16753,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Patrick Dunn
 Subject: Re: neo juga-pe
 To: GLOSALIST
@@ -16303,12 +16822,10 @@ plu pusi sko, so glosa es ma facila ge-sko.
 > www.blackwell.co.uk/bookshops/
 >                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk
 >
+................................................................
 
-
-
-
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: iGLOS
 To: GLOSALIST
@@ -16343,8 +16860,10 @@ IGLOS has worked out.
 Saluta,
   Robin G.
 P.S. Have you an extract showing only English and IGLOS?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Seeking New Host for Glosa WWW Pages
 To: GLOSALIST
@@ -16392,8 +16911,10 @@ Paul I will treat the request as uurgent.
 
 Saluta,
    Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: JJB
 Subject: Re: iGLOS
 To: GLOSALIST
@@ -16503,8 +17024,10 @@ as
 >
 >
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: JJB
 Subject: Re: Seeking New Host for Glosa WWW Pages
 To: GLOSALIST
@@ -16579,8 +17102,10 @@ Subject: Seeking New Host for Glosa WWW Pages
 >Saluta,
 >   Robin
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Seeking New Host for Glosa WWW Pages
 To: JJB
@@ -16602,8 +17127,10 @@ On Sun, 1 Aug 1999, JJB wrote:
 future), so I'd encourgage you to go with Intercosmos.  Thank you very
 much for undertaking this.
    John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: JJB
 Subject: New Sites (Re: Seeking New Host for Glosa WWW Pages
 To: GLOSALIST
@@ -16645,9 +17172,10 @@ Subject: Re: Seeking New Host for Glosa WWW Pages
 >> a la Geocities. With Webjump you have to have the
 >> ability of seeing frames... which of course show ad
 >> banners.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Gresi Intra u Parka
 To: GLOSALIST
@@ -16697,8 +17225,10 @@ Mi spe audi ex vi.
 
 Saluta,
   Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: New Sites (Re: Seeking New Host for Glosa WWW Pages
 To: GLOSALIST
@@ -16757,8 +17287,10 @@ ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
 BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
 CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au
        (A$10 each, incl post; to Glosalist Subscribers - free)
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Luis Alberto Alegrett Ruiz
 Subject: From Daniel Alegrett: Disk received
 To: GLOSALIST
@@ -16821,9 +17353,10 @@ London) in a few days. Does anyone know what he can get me there that is
 Glosa-related? In the leaflet the "18 steps to fluency in Euro-Glosa" is
 mentioned and I am interested. Does anyone knows how he (my father) can
 get it, and if there's something else?
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: From Daniel Alegrett: Disk received*
 To: GLOSALIST
@@ -16982,8 +17515,10 @@ ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
 BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
 CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au
        (A$10 each, incl post; to Glosalist Subscribers - free)
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Saluta
 To: Glosalist
@@ -16997,8 +17532,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Saluta
 To: GLOSALIST
@@ -17057,8 +17594,10 @@ ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
 BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
 CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au
        (A$10 each, incl post; to Glosalist Subscribers - free)
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Daniel Alberto Alegrett Salazar
 Subject: Plu exercise, e traduce a u Hispano-lingua
 To: 'Glosa List'
@@ -17099,6 +17638,10 @@ Subject: Re: Plu exercise, e traduce a u Hispano-lingua
 To: glosalist{at}zeta{dot}org{dot}au
 Cc: lalegrett{at}cantv{dot}net
 Reply-To: glosalist{at}zeta{dot}org{dot}au
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Sender: owner-glosalist{at}zeta{dot}org{dot}au
 Date: Wed, 01 Sep 1999 23:28:17 +1000
@@ -17300,6 +17843,10 @@ boni.]
 simpli codi; habe puri HTML forma, ke mi puta-me pote lekto:-========
 To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
 Subject: [glosalist] New address for glosalist
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: "Jay Bowks" <jjbowks{at}adam{dot}cheshire{dot}net>
 Date: Thu, 24 Jun 1999 20:15:58 -0400
 
@@ -17317,6 +17864,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] New address for glosalist
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Nick Andrew <nick{at}zeta{dot}org{dot}au>
 Date: Tue, 21 Sep 1999 16:26:34 +1000
 
@@ -17350,6 +17901,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au (Using New e-address)
 Subject: [glosalist] New address for glosalist
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Nick Andrew <nick{at}zeta{dot}org{dot}au> (by way of Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>)
 Date: Wed, 22 Sep 1999 12:29:46 +1000
 
@@ -17396,6 +17951,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] New address for glosalist
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: John Schilke <schilkej{at}OHSU{dot}EDU>
 Date: Thu, 23 Sep 1999 10:25:16 -0700 (PDT)
 cc: John F Schilke MD <schilkej{at}OHSU{dot}EDU>
@@ -17412,6 +17971,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] 2nd test
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Nick Andrew <nick{at}zeta{dot}org{dot}au>
 Date: Tue, 21 Sep 1999 16:57:36 +1000
 
@@ -17431,6 +17994,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] 2nd test
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: John Schilke <schilkej{at}OHSU{dot}EDU>
 Date: Tue, 21 Sep 1999 08:38:50 -0700 (PDT)
 
@@ -17445,6 +18012,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] 2nd test
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Wed, 22 Sep 1999 12:41:07 +1000
 
@@ -19324,6 +19895,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] 
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Wed, 22 Sep 1999 16:34:09 +1000
 
@@ -19338,6 +19913,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] Glosa (W. Ashby & R. Clark) 1981
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Daniel Alberto Alegrett Salazar <lnglvches{at}hotmail{dot}com>
 Date: Thu, 23 Sep 1999 20:34:20 -0400
 
@@ -19489,6 +20068,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Glosa (W. Ashby & R. Clark) 1981
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Sat, 25 Sep 1999 19:21:20 -0700
 
@@ -19506,6 +20089,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] Easy exercise
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Wed, 29 Sep 1999 13:37:10 +1000
 
@@ -19592,6 +20179,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
 Subject: Re: [glosalist] help
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: "Jay Bowks" <jjbowks{at}adam{dot}cheshire{dot}net>
 Date: Sat, 10 Jul 1999 21:39:13 -0400
 
@@ -19624,6 +20215,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] help
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: garym{at}staff{dot}zeta{dot}org{dot}au
 Date: Mon, 11 Oct 1999 11:18:20 +1000 (EST)
 
@@ -19638,6 +20233,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] help
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Wed, 13 Oct 1999 22:19:11 +1000
 
@@ -19743,6 +20342,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
 Subject: Re: [glosalist] help (with list purpose)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: "Jay Bowks" <jjbowks{at}adam{dot}cheshire{dot}net>
 Date: Sun, 11 Jul 1999 15:22:11 -0400
 
@@ -19790,6 +20393,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] help (with list purpose)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Ed Goertzen <egoert{at}netrover{dot}com>
 Date: Mon, 11 Oct 1999 12:22:46 -0400
 
@@ -19809,6 +20416,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] help (with list purpose)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Mon, 11 Oct 1999 12:25:22 -0700
 
@@ -19835,6 +20446,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] help (with list purpose)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Patrick Dunn <tb0pwd1{at}corn{dot}cso{dot}niu{dot}edu>
 Date: Mon, 11 Oct 1999 15:07:36 -0500 (CDT)
 
@@ -19862,6 +20477,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] help (with list purpose)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Mon, 11 Oct 1999 13:20:43 -0700
 
@@ -19893,6 +20512,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] help (with list purpose)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Thu, 14 Oct 1999 00:01:54 +1000
 
@@ -19945,11 +20568,19 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] [Fwd: Re: Easy exercise.]
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: "Econ. Luis Alberto Alegrett Ruiz" <lalegrett{at}cantv{dot}net>
 Date: Sun, 10 Oct 1999 12:53:03 -0400
 
 Message-ID: <37FE8A53.59FB{at}yahoo{dot}com>
 Date: Fri, 08 Oct 1999 20:20:35 -0400
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Daniel Alberto Alegrett Salazar <hispanido{at}yahoo{dot}com>
 Reply-To: hispanido{at}yahoo{dot}com
 Organization: GLOSA: U MUNDA LINGUA
@@ -20421,6 +21052,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: =?iso-8859-1?Q?=22Rebekka_M=FCnger=22?= <rmuenger{at}swissonline{dot}ch>
 Subject: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Fri, 15 Oct 1999 11:29:11 +1000
 Cc: glosalist{at}lists{dot}zeta{dot}org{dot}au
@@ -20741,6 +21376,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine <a.irvine{at}apion-tss.com>
 Date: Fri, 15 Oct 1999 16:02:34 +0100
 CC: Rebekka =?iso-8859-1?Q?M=FCnger?= <rmuenger{at}swissonline{dot}ch>
@@ -20797,6 +21436,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Fri, 15 Oct 1999 11:37:15 -0700
 
@@ -20841,6 +21484,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: "Rex F. May" <rmay{at}peakpeak{dot}com>
 Date: Sat, 16 Oct 1999 08:52:23 -0600
 
@@ -20884,6 +21531,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Mon, 18 Oct 1999 18:48:39 +1000
 
@@ -20995,6 +21646,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Tue, 19 Oct 1999 09:02:20 -0700
 
@@ -21035,6 +21690,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: "Rex F. May" <rmay{at}peakpeak{dot}com>
 Date: Tue, 19 Oct 1999 10:35:26 -0600
 
@@ -21051,6 +21710,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Tue, 19 Oct 1999 10:02:48 -0700
 
@@ -21082,6 +21745,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Sun, 24 Oct 1999 10:12:56 +1000
 
@@ -21195,6 +21862,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Wed, 20 Oct 1999 13:26:36 +1000
 
@@ -21411,6 +22082,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett <bartlett{at}smart{dot}net>
 Date: Fri, 15 Oct 1999 20:17:01 -0400 (EDT)
 cc: =?ISO-8859-1?Q?Rebekka_M=FCnger?= <rmuenger{at}swissonline{dot}ch>
@@ -21496,6 +22171,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: "'glosalist{at}lists{dot}zeta{dot}org{dot}au'" <glosalist{at}lists{dot}zeta{dot}org{dot}au>
 Subject: [glosalist] HELP!!!
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Daniel Alberto Alegrett Salazar <hispanido{at}yahoo{dot}com>
 Date: Sat, 16 Oct 1999 14:20:33 -0400
 
@@ -21512,6 +22191,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au, hispanido{at}yahoo{dot}com
 Subject: Re: [glosalist] HELP!!!
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Mon, 18 Oct 1999 19:16:17 +1000
 
@@ -21615,6 +22298,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions$
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Sun, 24 Oct 1999 09:58:13 +1000
 
@@ -21663,6 +22350,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: glosa - a few questions$
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: "Rex F. May" <rmay{at}peakpeak{dot}com>
 Date: Sun, 24 Oct 1999 08:49:21 -0600
 
@@ -21696,6 +22387,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: Pierpaolo Bernardi <bernardp{at}CLI{dot}DI{dot}Unipi{dot}IT>, glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] Re: Glosa list.!(Pt 2)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Mon, 25 Oct 1999 02:32:30 +1000
 Cc: hispanido{at}yahoo{dot}com (Daniel Alberto Alerett)
@@ -22087,6 +22782,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: Glosa list.!(Pt 2)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Sun, 24 Oct 1999 12:53:48 -0700
 
@@ -22229,6 +22928,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: Glosa list.!(Pt 2)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Sun, 24 Oct 1999 16:24:27 -0700
 
@@ -22245,6 +22948,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: Glosa list.!(Pt 2)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Sun, 24 Oct 1999 16:47:41 -0700
 
@@ -22263,6 +22970,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: RE: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Thu, 11 Nov 1999 03:48:09 +1100
 
@@ -22324,6 +23035,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: "'glosalist{at}lists{dot}zeta{dot}org{dot}au'" <glosalist{at}lists{dot}zeta{dot}org{dot}au>
 Subject: RE: [glosalist] Re: glosa - a few questions
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Daniel Alberto Alegrett Salazar <hispanido{at}yahoo{dot}com>
 Date: Sat, 13 Nov 1999 23:57:44 -0400
 
@@ -22391,6 +23106,10 @@ Bid and sell for free at http://auctions.yahoo.com
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: Glosa list.!(Pt 2)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Mon, 01 Nov 1999 21:03:50 +1100
 
@@ -22807,6 +23526,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: Glosa list.!(Pt 2)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Tue, 02 Nov 1999 19:49:19 -0800
 
@@ -22859,6 +23582,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: Glosa list.!(Pt 2)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Tue, 09 Nov 1999 10:59:42 +1100
 
@@ -23010,6 +23737,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: Glosa list.!(Pt 2)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Mon, 08 Nov 1999 18:23:44 -0800
 
@@ -23067,6 +23798,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: Glosa list.!(Pt 2)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: "Rex F. May" <rmay{at}peakpeak{dot}com>
 Date: Mon, 08 Nov 1999 18:49:26 -0600
 
@@ -23109,6 +23844,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Re: Glosa list.!(Pt 2)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Mon, 08 Nov 1999 19:44:50 -0800
 
@@ -23140,6 +23879,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] Re: Glosa list.!(Pt 1)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Mon, 01 Nov 1999 21:20:23 +1100
 
@@ -23360,6 +24103,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au (Redirection owing to typo)
 Subject: [glosalist] Re: Glosa list.!(Pt 1)
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Pierpaolo Bernardi <bernardp{at}CLI{dot}DI{dot}Unipi{dot}IT> (by way of Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>)
 Date: Thu, 11 Nov 1999 11:16:45 +1100
 
@@ -23606,6 +24353,10 @@ soc.culture.esperanto:
 
 ----------------
 Newsgroups: soc.culture.esperanto
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: mark davis lippmann <lippmann{at}students{dot}uiuc{dot}edu>
 Subject: Esperanto Linguistic Change
 Date: Sun, 24 Oct 1999 17:52:47 -0500
@@ -23771,6 +24522,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] Profund silence
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Michael Talbot-Wilson <mtw{at}birdseye{dot}view{dot}net{dot}au>
 Date: Sun, 07 Nov 1999 16:48:51 +1030
 
@@ -23796,6 +24551,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Profund silence
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: "Daniel Alberto Alegrett" <lnglvches{at}hotmail{dot}com>
 Date: Sun, 07 Nov 1999 11:24:41 VET
 
@@ -23817,6 +24576,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Profund silence 
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Michael Talbot-Wilson <mtw{at}birdseye{dot}view{dot}net{dot}au>
 Date: Mon, 08 Nov 1999 07:23:08 +1030
 cc: mtw{at}chameleon{dot}view{dot}net{dot}au
@@ -23842,6 +24605,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Profund silence
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Thu, 11 Nov 1999 11:18:25 +1100
 
@@ -23874,6 +24641,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Profund silence
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Thu, 11 Nov 1999 02:58:49 +1100
 
@@ -23952,6 +24723,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: "'glosalist{at}lists{dot}zeta{dot}org{dot}au'" <glosalist{at}lists{dot}zeta{dot}org{dot}au>
 Subject: RE: [glosalist] Profund silence
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Daniel Alberto Alegrett Salazar <hispanido{at}yahoo{dot}com>
 Date: Sun, 14 Nov 1999 13:50:23 -0400
 
@@ -24064,6 +24839,10 @@ Bid and sell for free at http://auctions.yahoo.com
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Profund silence
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Charles <catty{at}pacificnet{dot}net>
 Date: Sun, 14 Nov 1999 10:37:49 -0800
 
@@ -24097,6 +24876,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: Pierpaolo Bernardi <bernardp{at}CLI{dot}DI{dot}Unipi{dot}IT>, glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] Re: Glosa list.!(Pt 1)Reply: Part the First
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Thu, 11 Nov 1999 12:55:30 +1100
 
@@ -24354,6 +25137,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] Qo-pe Pa Akti Id?
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Tue, 30 Nov 1999 14:15:54 +1100
 
@@ -24451,6 +25238,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] Finally Updated Website
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Date: Fri, 31 Dec 1999 18:22:13 +1100
 
@@ -24553,6 +25344,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Finally Updated Website
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett <bartlett{at}smart{dot}net>
 Date: Fri, 31 Dec 1999 20:55:01 -0500 (EST)
 
@@ -24577,6 +25372,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: Re: [glosalist] Finally Updated Website
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson <ailanto{at}neosplice{dot}com>
 Date: Fri, 31 Dec 1999 22:13:30 -0500
 
@@ -24608,6 +25407,10 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ========
 To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
 Subject: [glosalist] Good News! ( [glosalist] Finally Updated Website
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: "Jay Bowks" <jjbowks{at}adam{dot}cheshire{dot}net>
 Date: Fri, 31 Dec 1999 11:16:17 -0500
 
@@ -24685,4 +25488,4 @@ http://glosa2000.zzn.com/
 ---------------------------------------------------------------------
 To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
-
+................................................................

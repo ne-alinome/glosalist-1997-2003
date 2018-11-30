@@ -1,6 +1,8 @@
 == Glosalist 1997
 :revdate: 2018-11-30
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: subscribe William Patterson
 To: glosalist listserv
@@ -8,7 +10,10 @@ Cc:
 Date: Wed, 16 Jul 97 20:06:28 EDT  
 
 subscribe William Patterson
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: I Think We Are Ready (1)
 To: glosalist
@@ -55,8 +60,10 @@ Saluta,
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: I Think We Are Ready (1)
 To: Robin Gaskell
@@ -89,7 +96,10 @@ I'll check those bookstores.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: I Think We Are Ready (1)
 To: Robin Gaskell
@@ -106,8 +116,10 @@ Since the list is up, best wishes to all.  Henceforward I'll try to write
 in Glosa.
 
 John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Experimental Glosa Discussion Group
 To: fearn{at}compuserve{dot}com; William
@@ -157,8 +169,10 @@ Paul Bartlett                    <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Experimental Glosa Discussion Group
 To: Glosa Distribution List; 106703.1661{at}compuserve{dot}com; 75757.3027{at}compuserve{dot}com; conrad{at}cix{dot}compulink{dot}co{dot}uk; G E O; iaymat{at}cerebus{dot}asiaonline{dot}net{dot}tw; jack_swanson{at}acd{dot}org; krs{at}cortex{dot}caos{dot}aamu{dot}edu; Paul Easton; Robin Gaskell; rhill{at}thehost{dot}com; rmsamy{at}pop{dot}jaring{dot}my; John Schilke; seda{at}magnus{dot}acs{dot}ohio-state.edu; SXCZ85A{at}prodigy{dot}com; fearn{at}compuserve{dot}com; William; David C J Oort-Gijsen
@@ -181,8 +195,10 @@ Paul Bartlett                    <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: I Think We Are Ready (1)
 To: William W Patterson
@@ -268,8 +284,10 @@ Saluta,
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: I Think We Are Ready (1)
 To: Robin Gaskell
@@ -286,7 +304,10 @@ As a matter of fact, I did - just today at lunchtime!
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: I Think We Are Ready (1)
 To: William W Patterson
@@ -362,8 +383,10 @@ Saluta,
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: I Think We Are Ready (1)
 To: Robin Gaskell
@@ -386,7 +409,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 a lowtech guy in a hightech world
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: experimental group
 To: Paul Bartlett
@@ -401,7 +427,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 a lowtech guy in a hightech world
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: experimental group
 To: William W Patterson
@@ -474,8 +503,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Plu Translati de WWW Pagina?
 To: Paul Bartlett
@@ -517,8 +548,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: C Ronald, Glosa
 Subject: Glosa info
 To: William
@@ -629,8 +662,10 @@ games.
 PGN is a great aid to acquiring fluency in Glosa and is suitable for 
 bothbeginners and advanced  students of the language.
 Suscription 6 pounds  in Britain.  Eleven pounds in other countries.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Please Apply to Join "Experimental Glosa Mail Forwarder"
 To: 75757.3027{at}compuserve{dot}com; seda{at}magnus{dot}acs{dot}ohio-state.edu; Tom Wood; Ron Clark & Wendy Ashby; Adrian Baker; Robin Gaskell; John Schilke; Tosho; Paul Fearn; krs{at}cortex{dot}caos{dot}aamu{dot}edu; Jack Swanson; R. Hill; Paul Bartlett; P. Ramasamy; William
@@ -678,8 +713,10 @@ agreement with his ISP, it is the "Experimental Glosa Mail Forwarder", or
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: I Think We Are Ready (1)
 To: William W Patterson
@@ -728,8 +765,10 @@ Saluta,
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Plu Translati de WWW Pagina?
 To: Robin Gaskell
@@ -796,8 +835,10 @@ Saluta,
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Glosa E-grama Grega Examina
 To: Paul Bartlett
@@ -810,8 +851,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: De Mi Auto
 To: Paul Bartlett
@@ -834,8 +877,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Glosa Dice-grega
 To: Paul Bartlett
@@ -848,8 +893,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: I Think ... Got Address
 To: William W Patterson
@@ -873,8 +920,10 @@ Saluta,
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: De Mi Auto
 To: Robin Gaskell
@@ -931,8 +980,10 @@ Saluta,
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Glosa Dice-grega: "Redirect" to glosa <pob....
 To: Robin Gaskell
@@ -964,9 +1015,10 @@ solo Paul?
 
 U Ge-Mistifi,
  Robin
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Glosa Dice-grega: "Redirect" to glosa <pob....
 To: glosa
@@ -983,7 +1035,10 @@ Mi pa gene tu responde.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa Dice-grega: "Redirect" to glosa <pob....
 To: William
@@ -1000,8 +1055,10 @@ Mi pa gene tu responde.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: De Mi Auto
 To: glosa
@@ -1024,7 +1081,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 If only women came with pulldown menus and online help.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: De Mi Auto
 To: William
@@ -1047,8 +1107,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 If only women came with pulldown menus and online help.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: vocabulary
 To: auxlang
@@ -1110,7 +1172,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 If there were no golf balls, how would we measure hail?
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Septa Avanti [7 Forward]
 To: Robin Gaskell
@@ -1136,8 +1201,10 @@ Saluta,
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Septa Avanti [7 Forward]
 To: Paul Bartlett
@@ -1167,8 +1234,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Everybody's Mail Agent
 To: Paul Bartlett
@@ -1207,8 +1276,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: thomas wood
 Subject: De mi auto
 To: Glosa List
@@ -1220,8 +1291,10 @@ Auxi-lingua Ido, Espo sen Fleksio e Novial97 interese mi.
 Saluta
 
 Tom
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: De mi auto (fwd)
 To: Paul Bartlett
@@ -1247,6 +1320,10 @@ Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
 
 ---------- Forwarded message ----------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: thomas wood <ThomasWood1{at}compuserve{dot}com>
 To: Glosa List <glosalist{at}zeta{dot}org{dot}au>
 Date: Mon, 4 Aug 1997 14:20:13 -0400
@@ -1258,8 +1335,10 @@ Auxi-lingua Ido, Espo sen Fleksio e Novial97 interese mi.
 Saluta
 
 Tom
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: thomas wood
 Subject: De mi auto
 To: ThomasWood1{at}compuserve{dot}com
@@ -1271,8 +1350,10 @@ Auxi-lingua qi interese mi es Ido, Espo sen Fleksio e Novial97.
 Saluta 
 
 Tom Wood
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: thomas wood
 Subject: Re: De mi auto
 To: glosalist
@@ -1337,8 +1418,10 @@ Saluta,
 P.S. "*" es mi ge-prefero mode de indika u meta-fero (Eng. metaphoric) uti.
 
                 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: De mi auto
 To: Robin Gaskell
@@ -1366,8 +1449,10 @@ Saluta,
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Nina Boyd
 To: nina{at}ninaboyd{dot}demon{dot}co{dot}uk
 Date: Thu, 14 Aug 97 13:3
@@ -1392,8 +1477,10 @@ Maxi gina es fo-gluko!
 Vale,
 -- 
 Nina 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: .. Nina Boyd's first note
 To: Robin Gaskell
@@ -1532,8 +1619,10 @@ Saluta,
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: thomas wood
 Subject: Saluta
 To: ThomasWood1{at}compuserve{dot}com
@@ -1550,8 +1639,10 @@ Posi tu bali a mi tu traduce de u-ci poesi:
                                         Sed mo ra plus
                                         Ne este tristi
                                         Pan-pe pote 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: thomas wood
 Subject: Re: .. Nina Boyd's first note
 To: ThomasWood1{at}compuserve{dot}com
@@ -1564,8 +1655,10 @@ I have sent a message to Nina Boyd.  Due to my error I think you will have
 received most of the message intended for her.  If so please ignore.
 
 Tom
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Saluta
 To: Robin Gaskell
@@ -1605,8 +1698,10 @@ It is v. late at night: sorry for not writing in Glosa.
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Papira Posta
 To: Paul Bartlett
@@ -1643,8 +1738,10 @@ dNJ28tyAnKPZRxC8s91VblIrSuDxKKQ7A5M/IiqDLjkC860pEEKzxHkHj2C6JMFh
 PFQnzll6Yqo/KYmLPZk6duG8Ll/kOOmUo5IC+K3/bO3ocXj6t7Y/uw==
 =bwvx
 -----END PGP SIGNATURE-----
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Papira Posta
 To: Robin Gaskell
@@ -1736,9 +1833,10 @@ Saluta,
  GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Plu Regulari Mesage Komence
 To: Robin Gaskell
@@ -1816,7 +1914,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Plu Regulari Mesage Komence
 To: Robin Gaskell
@@ -1840,7 +1941,10 @@ Yes, please send me a copy!
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Plu Regulari Mesage Komence
 To: glosa
@@ -1877,7 +1981,10 @@ I would say yes.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Un Lupus
 To: glosa
@@ -1946,7 +2053,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Happiness is Earth in your rearview mirror.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Paul O. Bartlett
 Subject: Re: Plu Regulari Mesage Komence
 To: William
@@ -1958,8 +2068,10 @@ and concerning Subject: Re: Plu Regulari Mesage Komence
 was submitted to a private discussion group,
 but you are not an eligible member of the group.
 --- Paul Bartlett <pobart{at}access{dot}digex{dot}net>
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O. Bartlett
 Subject: Re: Un Lupus
 To: William
@@ -1971,8 +2083,10 @@ and concerning Subject: Un Lupus
 was submitted to a private discussion group,
 but you are not an eligible member of the group.
 --- Paul Bartlett <pobart{at}access{dot}digex{dot}net>
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Fwd: Re: Un Lupus
 To: Paul Bartlett
@@ -2003,7 +2117,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Happiness is Earth in your rearview mirror.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Fwd: Re: Un Lupus
 To: William W Patterson
@@ -2042,14 +2159,20 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Plu Regulari Mesage Komence (fwd)
 To: glosa
 Date: Wed, 10 Sep 97 09:3
 
 ---------- Forwarded message ----------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson <ailanto{at}neosplice{dot}com{at}server{dot}neosplice{dot}com>
 To: glosa <pobart{at}access{dot}digex{dot}net>
 Date: Tue, 09 Sep 97 21:55:37 EDT
@@ -2086,14 +2209,20 @@ I would say yes.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Un Lupus (fwd)
 To: glosa
 Date: Wed, 10 Sep 97 09:3
 
 ---------- Forwarded message ----------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson <ailanto{at}neosplice{dot}com{at}server{dot}neosplice{dot}com>
 To: glosa <pobart{at}access{dot}digex{dot}net>
 Date: Tue, 09 Sep 97 23:46:19 EDT
@@ -2162,8 +2291,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Happiness is Earth in your rearview mirror.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Un Lupus - Part 2
 To: glosa
@@ -2278,7 +2409,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 There is serenity in Chaos. Seek ye the Eye of the Hurricane.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Paul O. Bartlett
 Subject: Re: Un Lupus - Part 2
 To: William
@@ -2290,8 +2424,10 @@ and concerning Subject: Un Lupus - Part 2
 was submitted to a private discussion group,
 but you are not an eligible member of the group.
 --- Paul Bartlett <pobart{at}access{dot}digex{dot}net>
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Un Lupus - Part 2 (fwd)
 To: glosa
@@ -2302,6 +2438,10 @@ It bounced.  Your ISP has a problem.
 Paul
 
 ---------- Forwarded message ----------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson <ailanto{at}neosplice{dot}com{at}server{dot}neosplice{dot}com>
 To: glosa <pobart{at}access{dot}digex{dot}net>
 Date: Thu, 11 Sep 97 18:31:07 EDT
@@ -2416,8 +2556,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 There is serenity in Chaos. Seek ye the Eye of the Hurricane.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Un Lupus - Part 2 (fwd)
 To: glosa
@@ -2447,8 +2589,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Un Lupus
 To: glosa
@@ -2498,7 +2642,10 @@ deino trista ulula.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Un Lupus
 To: William
@@ -2548,8 +2695,10 @@ deino trista ulula.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Glosa Page
 To: glosa
@@ -2567,7 +2716,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 HELLO SAILOR
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Glosa Page
 To: William
@@ -2585,8 +2737,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 HELLO SAILOR
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: WWW Link to gonk.doit
 To: William
@@ -2603,8 +2757,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Word Formation in Glosa
 To: glosa
@@ -2665,8 +2821,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Word Formation in Glosa
 To: glosa
@@ -2717,8 +2875,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Word Formation in Glosa
 To: glosa
@@ -2746,8 +2906,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: WWW Link to gonk.doit
 To: glosa
@@ -2780,7 +2942,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 That, and another piece of coffee cake, should do the trick.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Word Formation in Glosa
 To: glosa
@@ -2831,7 +2996,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 That, and another piece of coffee cake, should do the trick.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: WWW Link to gonk.doit
 To: William
@@ -2864,8 +3032,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 That, and another piece of coffee cake, should do the trick.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Word Formation in Glosa
 To: William
@@ -2916,8 +3086,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 That, and another piece of coffee cake, should do the trick.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Word Formation in Glosa
 To: glosa
@@ -2940,8 +3112,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Un Lupus - Part 4
 To: glosa
@@ -2995,7 +3169,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Kiu batas edzinon, tiu vundas sin mem.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: U(n)
 To: glosa
@@ -3019,7 +3196,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Kiu batas edzinon, tiu vundas sin mem.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Sui, Really?
 To: glosa
@@ -3054,8 +3234,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Kiu batas edzinon, tiu vundas sin mem.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Un Lupus - Part 4
 To: William
@@ -3109,8 +3291,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Kiu batas edzinon, tiu vundas sin mem.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: U(n)
 To: William
@@ -3134,8 +3318,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Kiu batas edzinon, tiu vundas sin mem.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Plu Regulari Mesage Komence (fwd)
 To: Robin Gaskell
@@ -3241,8 +3427,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: U(n)
 To: glosa
@@ -3263,8 +3451,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Plu Regulari Mesage Komence (fwd)
 To: glosa
@@ -3287,8 +3477,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: The Wolf - U Lupus - Ailanthus
 To: glosa
@@ -3313,7 +3505,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 I searched for form and land, for years and years I roamed
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Plu Regulari Mesage Komence (fwd)
 To: glosa
@@ -3389,8 +3584,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 I searched for form and land, for years and years I roamed
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: The Wolf - U Lupus - Ailanthus
 To: William
@@ -3415,8 +3612,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 I searched for form and land, for years and years I roamed
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Plu Regulari Mesage Komence (fwd)
 To: glosa
@@ -3440,8 +3639,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 The door is the key.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Un Lupus (fwd)
 To: Robin Gaskell
@@ -3567,8 +3768,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Plu Regulari Mesage Komence
 To: William W Patterson <ailanto{at}neosplice{dot}com{at}server{dot}neosplice{dot}com>
@@ -3646,8 +3849,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: U(n)
 To: Robin Gaskell
@@ -3689,8 +3894,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Plu Regulari Mesage Komence (fwd)
 To: Robin Gaskell
@@ -3789,8 +3996,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Plu Regulari Mesage Komence (fwd)
 To: glosa
@@ -3821,8 +4030,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Plu Regulari Mesage Komence
 To: Robin Gaskell
@@ -3907,7 +4118,10 @@ Don't worry, Robin, really! It all looks fine to me!
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: U(n)
 To: glosa
@@ -3932,8 +4146,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 He laughed at accidental sirens that broke the evening gloom
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Un Lupus - Part 2 (fwd)
 To: Robin Gaskell
@@ -4107,8 +4323,10 @@ Ave!
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Stegosaurus
 To: William
@@ -4131,8 +4349,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 I before E except where it's not.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Pe Ne Habe U Nece Uti "Pa" e "Fu"
 To: glosa
@@ -4153,8 +4373,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Setimana, Compounds & Synonyms
 To: William
@@ -4197,8 +4419,10 @@ if we considered these compound words when choosing our preferences.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Word Formation in Glosa
 To: Robin Gaskell
@@ -4322,8 +4546,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Un Lupus -Para 3
 To: Robin Gaskell
@@ -4406,8 +4632,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Un Lupus -Para 3
 To: William
@@ -4427,8 +4655,10 @@ No trouble - I can print it.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Plu Regulari Mesage Komence
 To: William W Patterson
@@ -4557,8 +4787,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Setimana, Compounds & Synonyms
 To: Robin Gaskell
@@ -4622,8 +4854,10 @@ Robin
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: WWW Link to gonk.doit
 To: Robin Gaskell
@@ -4682,8 +4916,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Word Formation in Glosa
 To: Robin Gaskell
@@ -4728,8 +4964,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Setimana, Compounds & Synonyms
 To: Paul Bartlett
@@ -4760,8 +4998,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: wrap-around
 To: glosa
@@ -4778,7 +5018,10 @@ Yes, looks good. And you're welcome!
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Setimana, Compounds & Synonyms
 To: glosa
@@ -4833,8 +5076,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 You never really learn to swear until you learn to drive.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Synonyms
 To: William
@@ -4874,8 +5119,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Unix is the answer, but only if you phrase the question very carefully.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Word Formation in Glosa
 To: William
@@ -4893,8 +5140,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Unix is the answer, but only if you phrase the question very carefully.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: polysynthesis (and agglutination)
 To: Paul Bartlett
@@ -4937,8 +5186,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Setimana, Compounds & Synonyms
 To: Robin Gaskell
@@ -4992,8 +5243,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Setimana, Compounds & Synonyms
 To: Paul Bartlett
@@ -5021,9 +5274,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Experimental Dictionaries
 To: Robin Gaskell
@@ -5078,7 +5332,10 @@ I'm anxious to dig into these synonyms. Well, this is how I learn best!
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Synonyms & Relexifications
 To: William
@@ -5161,8 +5418,10 @@ But I *am* having fun!
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Mr. D's First Flight
 To: William
@@ -5195,8 +5454,10 @@ OEING!! OEING!!! OE...'.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: John Schilke has been ill (BOUNCE glosalist)
 To: Robin Gaskell
@@ -5244,8 +5505,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: E-G.ALL
 To: William W Patterson
@@ -5320,7 +5583,10 @@ into account, there is not really any concensus reachable.  I lack the
 mental capacity to study all of the possible languages, but can look into
 one quite deeply, hence my working with Glosa, which I still think is the
 "elegant" model. R.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: E-G.ALL
 To: Robin Gaskell
@@ -5374,7 +5640,10 @@ she wants to live there for a while after she graduates.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Dictionaries
 To: William
@@ -5453,8 +5722,10 @@ watery things, and suet and fat and grease, too?
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: digging out
 To: Robin Gaskell
@@ -5471,9 +5742,10 @@ still have but little.
 should you like to forward this.
                 Plu kardia saluta ex
                 John
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dictionaries
 To: Robin Gaskell
@@ -5653,8 +5925,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Dictionaries
 To: glosa
@@ -5694,8 +5968,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Watery Words: Nasma, Pidako
 To: William
@@ -5716,8 +5992,10 @@ Preferences, anybody?
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Dictionaries
 To: William
@@ -5791,8 +6069,10 @@ literary dictionary, and calling it Classical Glosa.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Dictionaries
 To: William
@@ -5824,8 +6104,10 @@ What color is your water?
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Dictionaries
 To: glosa
@@ -5883,8 +6165,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: conIAL Structural Type and Vocabulary Size
 To: glosa
@@ -5927,8 +6211,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Face Plu Neo Verba
 To: glosa
@@ -5948,8 +6234,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Hunters/Sadists & Fingers/Toes
 To: William
@@ -6020,8 +6308,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Alia tempo, aliaj moroj.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Face Plu Neo Verba
 To: Robin Gaskell
@@ -6081,8 +6371,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Watery Words: Nasma, Pidako
 To: Robin Gaskell
@@ -6138,8 +6430,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dictionaries
 To: Robin Gaskell
@@ -6249,8 +6543,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Dictionaries
 To: glosa
@@ -6298,8 +6594,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Face Plu Neo Verba
 To: glosa
@@ -6332,8 +6630,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Footwear
 To: William
@@ -6381,8 +6681,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Every silver lining has a cloud.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Hunters/Sadists & Fingers/Toes
 To: Robin Gaskell
@@ -6507,8 +6809,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Question from neophyte (fwd)
 To: glosa
@@ -6520,6 +6824,10 @@ make it the first time around.
 Paul Bartlett
 
 ---------- Forwarded message ----------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Andy Nousen <anousen{at}proaxis{dot}com>
 To: glosa <pobart{at}access{dot}digex{dot}net>
 Date: Sat, 29 Nov 1997 22:29:11 -0800
@@ -6533,8 +6841,10 @@ singing"?
 
 Thank you,
 Andy Nousen
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Special Test -- Disregard
 To: glosa
@@ -6544,8 +6854,10 @@ Disregard this message: it is a special technical
 test of the Glosa Discussion Group mechanism.
 
 Paul Bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Footwear
 To: Robin Gaskell
@@ -6639,8 +6951,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Footwear
 To: glosa
@@ -6687,8 +7001,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Question from neophyte (fwd)
 To: GLOSALIST
@@ -6717,8 +7033,10 @@ sentence, so we can't say one way or the other what part of speech it was.
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Andy Nousen
 Subject: Re: bigger Glosa vocabulary
 To: anousen{at}proaxis{dot}com
@@ -6735,9 +7053,10 @@ justified?
 
 Not trying to be a busybody, just curious...
 --Andy Nousen
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: bigger Glosa vocabulary
 To: William
@@ -6772,8 +7091,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Se Dio ordonos, ecx sxton' lakton donos.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Footwear
 To: GLOSALIST
@@ -6793,8 +7114,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Se Dio ordonos, ecx sxton' lakton donos.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Footwear
 To: GLOSALIST
@@ -6844,8 +7167,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Se Dio ordonos, ecx sxton' lakton donos.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Dictionary Notes
 To: GLOSALIST
@@ -6984,8 +7309,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 vi vi vi - The Editor Of The Beast
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Question from neophyte (fwd)
 To: Robin Gaskell
@@ -7086,8 +7413,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: bigger Glosa vocabulary (fwd)
 To: glosa
@@ -7103,6 +7432,10 @@ will not trigger the mail-forwarding mechanism.
 Paul Bartlett
 
 ---------- Forwarded message ----------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Esperanto3 <Esperanto3{at}aol{dot}com>
 To: pobart{at}access{dot}digex{dot}net
 Date: Sat, 6 Dec 1997 08:43:47 EST
@@ -7123,8 +7456,10 @@ Thanks,
 
 Ulf
  
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: bigger Glosa vocabulary (fwd)
 To: glosa
@@ -7140,6 +7475,10 @@ will not trigger the mail-forwarding mechanism.
 Paul Bartlett
 
 ---------- Forwarded message ----------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Esperanto3 <Esperanto3{at}aol{dot}com>
 To: pobart{at}access{dot}digex{dot}net
 Date: Sat, 6 Dec 1997 08:45:30 EST
@@ -7160,8 +7499,10 @@ In a message dated 97-12-04 10:06:25 EST, you write:
 A very good question!
 
 Ulf Wiman
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dictionary Notes/Synonyms
 To: Robin Gaskell
@@ -7263,8 +7604,10 @@ Robin
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Dictionary Notes
 To: Robin Gaskell
@@ -7408,9 +7751,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 vi vi vi - The Editor Of The Beast
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dictionary Notes
 To: Robin Gaskell
@@ -7510,8 +7854,10 @@ Saluta,
 Forwarder"
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Dictionary Notes/Synonyms
 To: William
@@ -7534,8 +7880,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Love descends on those defenseless
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Dictionary Notes/Synonyms
 To: glosa
@@ -7569,8 +7917,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Footwear
 To: William W Patterson
@@ -7659,7 +8009,10 @@ make the extra money!
         
 Saluta,
  Robin
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: glosa: Technical Test Message: Ignore
 To: glosa
@@ -7673,8 +8026,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Welcome to the new Glosalist
 To: Robin Gaskell
@@ -7708,7 +8063,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 One peek is worth a thousand finesses.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dictionary Notes/Synonyms
 To: GLOSALIST
@@ -7772,8 +8130,10 @@ address but this is optional; majordomo reads your email address automatically.]
 
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dictionary Notes/Synonyms
 To: Glosalist Mailing List
@@ -7837,8 +8197,10 @@ address but this is optional; majordomo reads your email address automatically.]
 
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Esperanto3
 Subject: Hi!
 To: GLOSALIST
@@ -7848,8 +8210,10 @@ Date: Sat, 20 Dec 97 12:5
 I hope, I subscribed to this list.
 
 Ulf Wiman
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Hi!
 To: Esperanto3
@@ -7860,8 +8224,10 @@ Yes, you did, and welcome!
 Jes, certe, kaj bonvenu!
 
 John Schilke
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Hedo Neo Anua
 To: GLOSALIST
@@ -7930,8 +8296,10 @@ experi.  Plu-pe fu jugo u grega solo pro u hedo de tenta u tali exercisa.
 
 Boni casa,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Change of Glosa Discussion Group Mechanism
 To: glosa
@@ -7957,4 +8325,4 @@ Paul Bartlett                    <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
-
+................................................................

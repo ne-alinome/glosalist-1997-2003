@@ -1,7 +1,8 @@
 == Glosalist 1998
 :revdate: 2018-11-30
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Hedo Neo Anua
 To: Robin Gaskell
@@ -94,7 +95,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 The sewers have always been good to me.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Hedo Neo Anua
 To: GLOSALIST
@@ -259,9 +263,10 @@ Saluta,
  Robin
 P.S. I will make sure that the Majordomo software is trimmed to ensure all-to-
 all communication. R.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Hedo Neo Anua
 To: glosalist
@@ -300,8 +305,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Hedo Neo Anua
 To: Paul O Bartlett
@@ -355,8 +362,10 @@ On Sat, 10 Jan 1998, Paul O Bartlett wrote:
 > Home Page:  http://www.access.digex.net/~pobart
 > 
 > 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Hedo Neo Anua
 To: GLOSALIST
@@ -449,7 +458,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 There's *always* room for Jello!
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Hedo Neo Anua
 To: GLOSALIST
@@ -488,7 +500,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 There's *always* room for Jello!
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Hedo Neo Anua
 To: GLOSALIST
@@ -527,8 +542,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 There's *always* room for Jello!
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Hedo Neo Anua
 To: GLOSALIST
@@ -621,8 +638,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 There's *always* room for Jello!
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Welcome to the new Glosalist
 To: William W Patterson
@@ -713,6 +732,10 @@ have gone back out to all subscribers on the List?
 >William W. Patterson <ailanto{at}neosplice{dot}com>
 >http://www.neosplice.com/~ailanto
 >
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: [ ... ] new Glosalist; Skribble
 To: William W Patterson
@@ -861,7 +884,10 @@ Please let me know how things go.
 
 Saluta,
  Robin
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Test of "Reply" Facility
 To: GLOSALIST
@@ -896,8 +922,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Test of "Reply" Facility
 To: Robin Gaskell
@@ -920,7 +948,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Whenever you're in a hurry, slow down.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: glosalist config
 To: Robin Gaskell
@@ -961,7 +992,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Whenever you're in a hurry, slow down.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: [ ... ] new Glosalist; Skribble
 To: Robin Gaskell
@@ -1010,7 +1044,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Whenever you're in a hurry, slow down.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Adventures
 To: Robin Gaskell
@@ -1069,7 +1106,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Whenever you're in a hurry, slow down.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Hedo Neo Anua "Reply" Switch
 To: William
@@ -1126,8 +1166,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Hedo Neo Anua
 To: GLOSALIST
@@ -1240,8 +1282,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Hedo Neo Anua
 To: GLOSALIST
@@ -1348,8 +1392,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: test3
 To: GLOSALIST
@@ -1387,8 +1433,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Trying for ALL-TO-ALL Communication 
 To: Nick Andrew
@@ -1444,8 +1492,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: A Test
 To: GLOSALIST
@@ -1454,9 +1504,10 @@ Date: Thu, 15 Jan 98 09:5
 
 Just a test -- please ignore.
 John
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Holiday Month
 To: GLOSALIST
@@ -1528,8 +1579,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re* Getting Languages Started 
 To: auxlang{at}brownvm{dot}brown{dot}ed
@@ -1600,8 +1653,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Retreating for Eleven Days
 To: GLOSALIST
@@ -1633,8 +1688,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Q - verba
 To: GLOSALIST
@@ -1726,8 +1783,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Q - verba
 To: Robin Gaskell
@@ -1739,8 +1798,10 @@ Date: Sun, 22 Feb 98 22:3
 On Sat, 15 Nov 1997, Robin Gaskell wrote:
 	QE U DATA - NOVEMBRA - ES VERI????
 	John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Q - verba
 To: Robin Gaskell
@@ -1823,8 +1884,10 @@ each of these composite > forms.
 	4. qo-mo tu sti u radio?
 > 
 	Plu kardia saluta ex John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Glosa Cassettes
 To: GLOSALIST
@@ -1851,9 +1914,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Sentence Construction
 To: GLOSALIST
@@ -1935,8 +1999,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Sentence Construction
 To: GLOSALIST
@@ -1973,8 +2039,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP 2.6.2 public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Dictionaries
 To: GLOSALIST
@@ -1997,8 +2065,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 vi vi vi - The Editor Of The Beast
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Dictionaries
 To: GLOSALIST
@@ -2035,7 +2105,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 May your caffeine sources always be fresh.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Dictionaries
 To: GLOSALIST
@@ -2072,8 +2145,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 May your caffeine sources always be fresh.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: What is Good Syntax?
 To: GLOSALIST
@@ -2135,8 +2210,10 @@ Saluta,
  Robin
 	P.S. Of course I have opinions on the matter, but will add the next
 chapter after reading your responses to this one.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Sentence Construction
 To: GLOSALIST
@@ -2237,8 +2314,10 @@ barrier.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robert J. Petry
 Subject: Re: Sentence Construction
 To: GLOSALIST
@@ -2339,8 +2418,10 @@ Al l sue,
 Bob
 
 [kut]
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: several messages
 To: GLOSALIST
@@ -2502,8 +2583,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Artificial Languages Base Vocabulary
 To: Auxlang List; Eurolang List; glosalist
@@ -2529,8 +2612,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: About the Combined Vocabulary
 To: glosalist
@@ -2547,8 +2632,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Dictionaries
 To: GLOSALIST
@@ -2599,8 +2686,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Glosa Cassettes
 To: GLOSALIST
@@ -2627,7 +2716,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Eeeeuw!  You mean you actually TALK on the phone?
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa Cassettes
 To: GLOSALIST
@@ -2654,8 +2746,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Eeeeuw!  You mean you actually TALK on the phone?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -2703,7 +2797,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 With fronds like that, who need anemones?
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -2751,8 +2848,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 With fronds like that, who need anemones?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Artificial Languages Base Vocabulary
 To: GLOSALIST
@@ -2791,8 +2890,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -2816,8 +2917,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Artificial Languages Base Vocabulary
 To: GLOSALIST
@@ -2850,8 +2953,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Artificial Languages Base Vocabulary
 To: Auxlang List; Eurolang List; glosalist
@@ -2889,8 +2994,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robert J. Petry
 Subject: Re: Artificial Languages Base Vocabulary
 To: GLOSALIST
@@ -2935,8 +3042,10 @@ Anyway, thanks again for the list and effort to do it.
 
 Al l sue,
 Bob
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Glosa Cassettes
 To: William W Patterson
@@ -2978,8 +3087,10 @@ On Tue, 24 Mar 1998, William W Patterson wrote:
 > Eeeeuw!  You mean you actually TALK on the phone?
 > 
 > 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Glosa Cassettes
 To: William W Patterson
@@ -3021,8 +3132,10 @@ On Tue, 24 Mar 1998, William W Patterson wrote:
 > Eeeeuw!  You mean you actually TALK on the phone?
 > 
 > 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Glosa Cassettes
 To: John Schilke
@@ -3051,7 +3164,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 You can make the passages look less alike by dropping things.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3079,7 +3195,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 You can make the passages look less alike by dropping things.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3107,8 +3226,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 You can make the passages look less alike by dropping things.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: glosa disk received
 To: Jay Bowks
@@ -3247,8 +3368,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3320,8 +3443,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: glosa disk received, & dictionary updates
 To: GLOSALIST
@@ -3393,7 +3518,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 MOUNT TAPE U1439 ON B3, NO RING
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3474,9 +3602,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robert J. Petry
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3542,8 +3671,10 @@ C dictionary e u paperback published by National Textbook Company, c. 1986.
 
 Al l sue,
 Bob
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3568,8 +3699,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robert J. Petry
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3611,8 +3744,10 @@ Bob
 
 P.S. In most cases I always close with Al l sue, no matter what the list
 is. Hope that doesn't offend anyone. Sometimes I use Mil gra.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robert J. Petry
 Subject: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3635,8 +3770,10 @@ these are appropriate questions.
 
 Al l sue,
 Bob
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: Robert J. Petry
@@ -3646,8 +3783,10 @@ Date: Sun, 29 Mar 98 20:3
 But, also, Bob, I mean no offense to you either.  Probably many cannot 
 read RLR so easily.
 John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: Paul O Bartlett
@@ -3658,8 +3797,10 @@ Dear Paul (e plu Glosa-pe)!
 	I couldn't agree more.  Perhaps that's why I have withdrawn from 
 the Auxlang list.  Let's keep this Glosa and English, as much as possible.
 	John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: Robert J. Petry
@@ -3717,8 +3858,10 @@ these attempts at answers and your reaction to both Ig and G.
 
 Al l sue,
 John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robert J. Petry
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3737,9 +3880,10 @@ John Schilke wrote:
 Oops.  I see that it is time for me to withdraw totally from this list. Don't
 want to be an offense to so many.Goodbye and all take care.
 Bob
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robert J. Petry
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3772,10 +3916,10 @@ I use RLR here for the shorthand or the aux part of it.
 
 Mil gra,
 Bob
+................................................................
 
-
-
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: glosa disk received, & dictionary updates
 To: GLOSALIST
@@ -3847,8 +3991,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 MOUNT TAPE U1439 ON B3, NO RING
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Dictionaries
 To: GLOSALIST
@@ -3875,7 +4021,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 I have a mind like a steel... uh... thingy.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3939,8 +4088,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Dictionaries
 To: GLOSALIST
@@ -3967,8 +4118,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 I have a mind like a steel... uh... thingy.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -3990,7 +4143,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 I have a mind like a steel... uh... thingy.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -4012,8 +4168,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 I have a mind like a steel... uh... thingy.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: William W Patterson
@@ -4079,9 +4237,10 @@ other operators, such as 'mote' 'to move,' but this is fairly complete.
 Any questions?
 Saluta,
 	John     (dicte saluto)
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -4181,8 +4340,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa/Interglossa Was:Re: ...Now: Verb System
 To: GLOSALIST
@@ -4356,8 +4517,10 @@ reads your email address automatically.]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa/Interglossa Was:Re: .. Now: The Spirit of Ig
 To: GLOSALIST
@@ -4570,8 +4733,10 @@ that Paul would say the Ig spirit was lost.
 
 Saluta,
  Robin	
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -4631,7 +4796,10 @@ scip, and the classic: sceat (originally dirt, or soil, haha!))
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -4691,8 +4859,10 @@ scip, and the classic: sceat (originally dirt, or soil, haha!))
 --
 William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: u lupus, redux
 To: GLOSALIST
@@ -4757,7 +4927,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 vi vi vi - The Editor Of The Beast
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa/Interglossa Was:Re: .. Now: The Spirit of Ig
 To: GLOSALIST
@@ -4854,8 +5027,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: U Lupus - A Bit More
 To: GLOSALIST
@@ -4882,7 +5057,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Quit thinking about koans. Learn how to go to sleep and wake up.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: u lupus, redux
 To: GLOSALIST
@@ -4947,8 +5125,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 vi vi vi - The Editor Of The Beast
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: U Lupus - A Bit More
 To: GLOSALIST
@@ -4975,8 +5155,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Quit thinking about koans. Learn how to go to sleep and wake up.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: U Lupus, continued...
 To: GLOSALIST
@@ -5011,7 +5193,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 You are in a little maze of twisting passages, all different.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: U Lupus, continued...
 To: GLOSALIST
@@ -5046,8 +5231,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 You are in a little maze of twisting passages, all different.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -5175,8 +5362,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa/Interglossa  .. Now: The Spirit of Ig
 To: GLOSALIST
@@ -5357,8 +5546,10 @@ part of Glosa's presentation?
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: U Lupus - A Bit More*** ~no~
 To: GLOSALIST
@@ -5433,8 +5624,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Note from Uganda (PGN)
 To: GLOSALIST
@@ -5522,8 +5715,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -5596,7 +5791,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 A Real Programmer can write FORTRAN programs in any language.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Note from Uganda (PGN)
 To: GLOSALIST
@@ -5619,7 +5817,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 A Real Programmer can write FORTRAN programs in any language.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Glosa Publications
 To: glosalist
@@ -5641,8 +5842,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Test -- Please Ignore
 To: glosalist
@@ -5657,8 +5860,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa Publications
 To: GLOSALIST
@@ -5715,8 +5920,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Brevi Artikla pro PGN
 To: G.E.O.
@@ -5793,8 +6000,10 @@ mi sugere ke jugo un Inter-reti ofere u fo excita aventura.
 Robin Gaskell rgaskell{at}zeta{dot}org{dot}au
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: wood
 Subject: Glosa & Ido
 To: Glosa Education Organisation
@@ -5901,8 +6110,10 @@ Eudora Pro Ver 3, or in HTML for offline reading from disk?
 Saluta,
  Robin
  
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Glosa & Ido
 To: GLOSALIST
@@ -6001,7 +6212,10 @@ GS/CS/E d(-) s: a? C++++$ UHBUV++++$ P+ L E---(-) W++ N++
 o@ K(-) w$  O++@$ !M V+++$ PS+ PE Y+ PGP++ t++(---)
 5++ X+ R*$ tv++ b+++ DI+++$ D+++ G++ e++ h---- r+++ y++++
 ------END GEEK CODE BLOCK------
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa & Ido
 To: GLOSALIST
@@ -6100,8 +6314,10 @@ GS/CS/E d(-) s: a? C++++$ UHBUV++++$ P+ L E---(-) W++ N++
 o@ K(-) w$  O++@$ !M V+++$ PS+ PE Y+ PGP++ t++(---)
 5++ X+ R*$ tv++ b+++ DI+++$ D+++ G++ e++ h---- r+++ y++++
 ------END GEEK CODE BLOCK------
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Glossa [forward from Kjell Rhenstrom, Sweden]
 To: Glosa Education Organization
@@ -6165,8 +6381,10 @@ this sort of negative feedback to improve our operation.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: The story about a farmer who's horse ran away
 To: International Auxiliary Languages
@@ -6229,8 +6447,10 @@ Saluta,
  Robin
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: The story about a farmer who's horse ran away
 To: International Auxiliary Languages
@@ -6293,8 +6513,10 @@ Saluta,
  Robin
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glossa [forward from Kjell Rhenstrom, Sweden]
 To: GLOSALIST
@@ -6319,8 +6541,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: The story about a farmer who's horse ran away
 To: glosalist
@@ -6362,9 +6586,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Terminal Vowels
 To: GLOSALIST
@@ -6434,7 +6659,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Earthquake: A topographical error
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Terminal Vowels
 To: GLOSALIST
@@ -6470,8 +6698,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Note from Uganda (PGN)
 To: GLOSALIST
@@ -6494,8 +6724,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 A Real Programmer can write FORTRAN programs in any language.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -6568,8 +6800,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 A Real Programmer can write FORTRAN programs in any language.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Terminal Vowels
 To: GLOSALIST
@@ -6604,7 +6838,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Pandemonium: A housing development for pandas
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Server Burps
 To: GLOSALIST
@@ -6621,7 +6858,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Pandemonium: A housing development for pandas
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Server Burps
 To: GLOSALIST
@@ -6638,8 +6878,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Pandemonium: A housing development for pandas
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Terminal Vowels
 To: GLOSALIST
@@ -6674,8 +6916,10 @@ William W. Patterson <ailanto{at}neosplice{dot}com>
 http://www.neosplice.com/~ailanto
 
 Pandemonium: A housing development for pandas
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -6706,8 +6950,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
@@ -6756,8 +7002,10 @@ Saluta,
  Robin
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Terminal Vowels
 To: GLOSALIST
@@ -6908,8 +7156,10 @@ Saluta,
  Robin
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Terminal Vowels
 To: GLOSALIST
@@ -6929,8 +7179,10 @@ the same sense as 'co') for it, leading to clearer speech and euphony?
 Just another fly in the ointment!
 Best to all.
 John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Terminal Vowels
 To: GLOSALIST
@@ -7025,7 +7277,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 Life is a dream already a long time ended.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Terminal Vowels
 To: GLOSALIST
@@ -7120,8 +7375,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 Life is a dream already a long time ended.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Request From Poland
 To: GLOSALIST
@@ -7197,8 +7454,10 @@ English to Glosa sometimes quite painful.
 	That's about it, so over and out.
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Request From Poland
 To: GLOSALIST
@@ -7289,8 +7548,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re* Terminal Vowels
 To: GLOSALIST
@@ -7578,8 +7839,10 @@ and around, reported speech be needed for functional reasons?
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Re* Terminal Vowels
 To: GLOSALIST
@@ -7685,8 +7948,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 Life would be so much easier if I had the source code.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Request From Poland
 To: GLOSALIST
@@ -7764,8 +8029,10 @@ down when you start reading about it.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: Glosa pronunciation
 To: GLOSALIST
@@ -7803,9 +8070,10 @@ Apion Ltd, Interpoint Bldg, 20-24 York St., Belfast BT15 1AQ
 http://www.apion-tss.com
 mailto:a.irvine{at}apion-tss.com        mailto:adi{at}esperanto{dot}nu
 -----------------------------------------------------------------
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -7828,8 +8096,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -7874,9 +8144,10 @@ Apion Ltd, Interpoint Bldg, 20-24 York St., Belfast BT15 1AQ
 http://www.apion-tss.com
 mailto:a.irvine{at}apion-tss.com        mailto:adi{at}esperanto{dot}nu
 -----------------------------------------------------------------
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -7926,8 +8197,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -8006,8 +8279,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -8063,9 +8338,10 @@ Apion Ltd, Interpoint Bldg, 20-24 York St., Belfast BT15 1AQ
 http://www.apion-tss.com
 mailto:a.irvine{at}apion-tss.com        mailto:adi{at}esperanto{dot}nu
 -----------------------------------------------------------------
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -8175,9 +8451,10 @@ Apion Ltd, Interpoint Bldg, 20-24 York St., Belfast BT15 1AQ
 http://www.apion-tss.com
 mailto:a.irvine{at}apion-tss.com        mailto:adi{at}esperanto{dot}nu
 -----------------------------------------------------------------
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -8396,8 +8673,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -8427,7 +8706,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 Old houses have lived many lives.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -8457,8 +8739,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 Old houses have lived many lives.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Archives
 To: GLOSALIST
@@ -8478,7 +8762,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 Old houses have lived many lives.
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Archives
 To: GLOSALIST
@@ -8498,8 +8785,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 Old houses have lived many lives.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Glosa Per Glosa
 To: GLOSALIST
@@ -8593,8 +8882,10 @@ using simple words.]
 
 Ma seqe; Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: ge-vide or gene ge-vide
 To: GLOSALIST
@@ -8625,9 +8916,10 @@ Apion Ltd, Interpoint Bldg, 20-24 York St., Belfast BT15 1AQ
 http://www.apion-tss.com
 mailto:a.irvine{at}apion-tss.com        mailto:adi{at}esperanto{dot}nu
 -----------------------------------------------------------------
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -8719,9 +9011,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Dictionary Files
 To: GLOSALIST
@@ -8795,7 +9088,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 happiness is a warmboot
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Dictionary Files
 To: GLOSALIST
@@ -8869,8 +9165,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 happiness is a warmboot
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Dictionary Files
 To: GLOSALIST
@@ -8929,8 +9227,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: ailanto
 Subject: Re: Dictionary Files
 To: GLOSALIST
@@ -9001,7 +9301,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 happiness is a warmboot
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Dictionary Files
 To: GLOSALIST
@@ -9072,8 +9375,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 happiness is a warmboot
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re* Glosa pronunciation
 To: GLOSALIST
@@ -9348,8 +9653,10 @@ printed dictionaries?
 
 Saluta, 
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -9387,8 +9694,10 @@ to a fund to subsidize their participation.  Anyone want to join me?
 Robin could manage it -- I have a hard time sending funds to England.
 	Enough!  But thanks for perusing this.
 	John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -9570,8 +9879,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa Per Glosa
 To: GLOSALIST
@@ -9617,8 +9928,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 Chapter 6: In which Pooh invents a new game and Eeyore joins in 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -9680,8 +9993,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 If ignorance is bliss, why aren't more people happy?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -9752,8 +10067,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 If ignorance is bliss, why aren't more people happy?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -9813,8 +10130,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
 
 If ignorance is bliss, why aren't more people happy?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -9851,8 +10170,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -9897,8 +10218,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -9940,8 +10263,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Lost Mail?
 To: William W Patterson; Robin Gaskell
@@ -9957,8 +10282,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: Re: Dictionary Files
 To: GLOSALIST
@@ -9971,8 +10298,10 @@ to fumble around because the English interface failed to install and I'm stuck
 with German!!).
 
 Aaron
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Lost Mail?
 To: William W Patterson; Robin Gaskell
@@ -9988,8 +10317,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Glosa Reference in the Christian Science Monitor, 1998.05.19
 To: GLOSALIST
@@ -10006,8 +10337,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Edited for television.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Dictionary Files
 To: GLOSALIST
@@ -10069,8 +10402,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 vi vi vi - The Editor Of The Beast
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa Reference in the Christian Science Monitor, 1998.05.19
 To: GLOSALIST
@@ -10102,8 +10437,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -10174,8 +10511,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -10292,8 +10631,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Archives
 To: GLOSALIST
@@ -10353,8 +10694,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -10377,8 +10720,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa pronunciation
 To: GLOSALIST
@@ -10426,8 +10771,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Archives
 To: GLOSALIST
@@ -10455,8 +10802,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 I searched for form and land, for years and years I roamed
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: frater and frater2
 To: GLOSALIST
@@ -10490,8 +10839,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 He who laughs last probably didn't get the joke.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: frater and frater2
 To: GLOSALIST
@@ -10532,8 +10883,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Archives
 To: GLOSALIST
@@ -10551,8 +10904,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 He who laughs last probably didn't get the joke.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re* ge-vide or gene ge-vide
 To: GLOSALIST
@@ -10735,9 +11090,10 @@ Glosa, we are not slavishly following English, but we are using the
 syntactic structures of English ... purely for the reasons that English
 syntax is logical, and it is as simplified as it can be, while still
 retaining meaning. 
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Re* ge-vide or gene ge-vide
 To: GLOSALIST
@@ -10855,8 +11211,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: Re: Re* ge-vide or gene ge-vide
 To: GLOSALIST
@@ -10899,9 +11257,10 @@ Aaron
 
 PS
 "Id habe ge-vide" would, I suppose, mean "It has something that is seen"
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Re** Glosa pronunciation
 To: GLOSALIST
@@ -10999,8 +11358,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa/English Lists
 To: Glosalist Mailing List
@@ -11096,8 +11457,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa Per Glosa
 To: GLOSALIST
@@ -11158,8 +11521,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -11283,8 +11648,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -11418,8 +11785,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Re# Glosa pronunciation
 To: GLOSALIST
@@ -11517,8 +11886,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -11561,8 +11932,10 @@ address automatically.
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL (fwd)
 To: glosalist
@@ -11575,6 +11948,10 @@ sentence.
 Paul
 
 ---------- Forwarded message ----------
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: David Armstrong <armstrong{at}valise{dot}com>
 Newsgroups: alt.language.artificial
 Date: 12 Jun 1998 19:05:42 -0700
@@ -11604,8 +11981,10 @@ to rival that of Glosa.
 ------------------
 This public news site made possible by
 the folks at http://extra.newsguy.com
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Re** Glosa pronunciation
 To: GLOSALIST
@@ -11808,10 +12187,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
-
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa Per Glosa
 To: GLOSALIST
@@ -11834,8 +12213,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 You are in a little maze of twisting passages, all different.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -11892,8 +12273,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 You are in a little maze of twisting passages, all different.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -11925,8 +12308,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 You are in a little maze of twisting passages, all different.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL (fwd)
 To: GLOSALIST
@@ -11948,8 +12333,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 You are in a little maze of twisting passages, all different.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL (fwd)
 To: GLOSALIST
@@ -11977,8 +12364,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: My Approach to Glosa
 To: glosalist
@@ -12013,8 +12402,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re% Glosa pronunciation
 To: GLOSALIST
@@ -12078,8 +12469,10 @@ and not possibly something else, as well.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Archives
 To: GLOSALIST
@@ -12121,8 +12514,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: RPG Glosa Link
 To: GLOSALIST
@@ -12139,8 +12534,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Although the moon is smaller than the earth, it is farther away.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re** ge-vide or gene ge-vide (Aaron)
 To: GLOSALIST
@@ -12319,8 +12716,10 @@ usages like this in French .. l'eau avait chaud.(possibly)
 Saluta,
  Robin
 	
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL (fwd)
 To: GLOSALIST
@@ -12404,8 +12803,10 @@ Sorry, David,
 
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Re* ge-vide or gene ge-vide
 To: GLOSALIST
@@ -12638,8 +13039,10 @@ usages will be equally 'natural' (IE psycholinguistically correct) in Glosa.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: 2K Compromise
 To: GLOSALIST
@@ -12735,8 +13138,10 @@ such that interested people would want a hardcopy dictionary and graded
 lessons, which could be included in the Cost of Registration.
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: 2K Compromise
 To: GLOSALIST
@@ -12869,8 +13274,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Re* Glosa pronunciation
 To: GLOSALIST
@@ -12908,8 +13315,10 @@ Saluta,
  Robin
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL (fwd)
 To: GLOSALIST
@@ -12933,8 +13342,10 @@ Saluta,
  Robin
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: My Approach to Glosa
 To: GLOSALIST
@@ -12969,8 +13380,10 @@ Saluta,
  Robin
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Copy of _Interglossa_
 To: Glosalist
@@ -13002,8 +13415,10 @@ but this is the only one I have ever seen.  My copy bears a Dec. '43 date
 of the original owner, and I bought it about 1973 in a used book shop.
 	Plu kardia saluta ex
 	John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Re* ge-vide or gene ge-vide
 To: GLOSALIST
@@ -13159,8 +13574,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Copy of _Interglossa_
 To: Glosalist
@@ -13205,8 +13622,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Copy of _Interglossa_
 To: Paul O Bartlett
@@ -13239,8 +13658,10 @@ have a vague recollection of finding it there -- much to my surprise.
 	Again, thanks for the helpful ideas.
 	Best wishes,
 	John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Copy of _Interglossa_
 To: GLOSALIST
@@ -13290,8 +13711,10 @@ Best wishes,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Interglossa Site
 To: GLOSALIST
@@ -13312,8 +13735,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Pride is what we have. Vanity is what others have.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re* ge-vide or gene ge-vide (XS detail&length)
 To: GLOSALIST
@@ -13659,9 +14084,10 @@ Place, dice a mi, si tu puta; u-ci posta habe tro longi.
  
 Saluta, 
  Robin
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: DPOLLARD{at}ccmail{dot}sunysb{dot}edu
 Subject: a few questions
 To: GLOSALIST
@@ -13725,8 +14151,10 @@ Saluta,
   Debs
 
  
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: a few questions
 To: GLOSALIST
@@ -13804,8 +14232,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: a few questions
 To: GLOSALIST
@@ -13841,8 +14271,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Oh no - not me - I never lost control
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: a few questions
 To: GLOSALIST
@@ -13898,8 +14330,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Oh no - not me - I never lost control
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: a few questions
 To: GLOSALIST
@@ -13931,8 +14365,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: a few questions
 To: GLOSALIST
@@ -13980,8 +14416,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Oh no - not me - I never lost control
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: Re: a few questions
 To: GLOSALIST
@@ -14027,9 +14465,10 @@ Apion Ltd, Interpoint Bldg, 20-24 York St., Belfast BT15 1AQ
 http://www.apion-tss.com
 mailto:a.irvine{at}apion-tss.com        mailto:adi{at}esperanto{dot}nu
 -----------------------------------------------------------------
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: a few questions
 To: GLOSALIST
@@ -14057,8 +14496,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: a few questions
 To: GLOSALIST
@@ -14098,8 +14539,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 xyzzy!
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: Re: a few questions
 To: GLOSALIST
@@ -14141,9 +14584,10 @@ Apion Ltd, Interpoint Bldg, 20-24 York St., Belfast BT15 1AQ
 http://www.apion-tss.com
 mailto:a.irvine{at}apion-tss.com        mailto:adi{at}esperanto{dot}nu
 -----------------------------------------------------------------
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: a few questions
 To: GLOSALIST
@@ -14310,8 +14754,10 @@ Saluta,
  Robin
    P.S. Glad you sent in your 'maiden' blip; these Lists have, for too
 long, been a male preserve.    R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: a few questions
 To: GLOSALIST
@@ -14378,8 +14824,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re@ a few questions
 To: GLOSALIST
@@ -14473,8 +14921,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Re@ a few questions
 To: GLOSALIST
@@ -14548,8 +14998,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: a few questions
 To: GLOSALIST
@@ -14642,8 +15094,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re%% a few questions
 To: GLOSALIST
@@ -14761,8 +15215,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Re@ a few questions
 To: GLOSALIST
@@ -14803,8 +15259,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 vi vi vi - The Editor Of The Beast
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Re%% a few questions
 To: GLOSALIST
@@ -14883,9 +15341,10 @@ but it is also why I always burn out and have to put it away for a while!
 --
 William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: a few questions(Paul B. I)
 To: GLOSALIST
@@ -14933,8 +15392,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: a few questions(Irvine I)
 To: GLOSALIST
@@ -15066,12 +15527,10 @@ readers, or listeners, have no trouble in following our drift.
 Saluta,
  Robin
     
+................................................................
 
-
-
-
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: a few questions (Aaron II)
 To: GLOSALIST
@@ -15207,8 +15666,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: a few questions(Bill P.)
 To: GLOSALIST
@@ -15275,8 +15736,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: concept words
 To: GLOSALIST
@@ -15329,8 +15792,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Life is like an analogy.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: a few questions
 To: GLOSALIST
@@ -15365,8 +15830,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Life is like an analogy.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: a few questions and concept-words too
 To: GLOSALIST
@@ -15408,8 +15875,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Life is like an analogy.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: concept-words
 To: GLOSALIST
@@ -15472,8 +15941,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Life is like an analogy.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Re@ a few questions
 To: GLOSALIST
@@ -15535,8 +16006,10 @@ Saluta,
  Robin
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Re%% a few questions
 To: GLOSALIST
@@ -15665,8 +16138,10 @@ words: I am up to "F".
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: concept words
 To: GLOSALIST
@@ -15763,8 +16238,10 @@ classification something we should be doing now?  Personally, I believe
 that attempting to use the language in all its uncertainties, is more
 important, at present, than dotting every "I" and crossing every "T",
 metaphorically speaking, of course.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: a few questions and concept-words too
 To: GLOSALIST
@@ -15797,8 +16274,10 @@ communication process by useing vocal inflection and punctuation to show
 the internal associations of the words.  
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: concept-words
 To: GLOSALIST
@@ -15938,8 +16417,10 @@ or is the Linguist barring the man's way?
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: concept-words
 To: GLOSALIST
@@ -16008,8 +16489,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Oh, goody!  My Alludium Q-36 Explosive Space Modulator!
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: concept-words
 To: GLOSALIST
@@ -16072,9 +16555,10 @@ contact details of such antidotes on this list.
 
 Saluta, 
  Robin
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Seminar #2
 To: GLOSALIST
@@ -16313,6 +16797,10 @@ Voice).  It can be thought of as an (O-) V (-S) sentence:-
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
      
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Angioplasti
 To: GLOSALIST
@@ -16370,8 +16858,10 @@ inside my blood vessels. ]
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Hedo Nati-di!
 To: GLOSALIST
@@ -16393,6 +16883,10 @@ He who fights & runs away will live to fight another day.
 Subject: Re: Hedo Nati-di!
 To: glosalist{at}zeta{dot}org{dot}au
 Reply-To: glosalist{at}zeta{dot}org{dot}au
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Sender: owner-glosalist{at}zeta{dot}org{dot}au
 Date: Sun, 04 Oct 1998 13:55:42
@@ -16499,7 +16993,10 @@ it can be done.  More genuine Language Reform after the election.
 
 Saluta,
  Robin
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Boni Venu _bseminario_ ex Plu Filipine
 To: Glosalist Mailing List
@@ -16592,7 +17089,10 @@ Patterson's Web-page - also listed in my signature.]
 
 Saluta,
  Robin
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Letter to Banobi
 To: Glosalist Mailing List
@@ -16832,6 +17332,10 @@ iso un exempla de u lingua in uti.  Mi spe: tu ne habe plu reserva de u-ci.
 Subject: Scribbling in Glosa
 To: glosalist{at}zeta{dot}org{dot}au (Glosalist Mailing List)
 Reply-To: glosalist{at}zeta{dot}org{dot}au
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
 Sender: owner-glosalist{at}zeta{dot}org{dot}au
 Date: Mon, 09 Nov 1998 17:21:00
@@ -16985,7 +17489,10 @@ Let play commence.
 
 Saluta,
   Robin
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17067,8 +17574,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17127,8 +17636,10 @@ to disambiguate terms. Please! A simple consonant-vowel-consonant
 or CvCvC pattern for common (top 10,000) word roots is both
 adequate and mnemonic ... the final vowel is going to be
 indistinct and inaudible in real connected speech.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17168,8 +17679,10 @@ Paul                             <pobart{at}access{dot}digex{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Finger, keyserver, or WWW for PGP public key
 Home Page:  http://www.access.digex.net/~pobart
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: 1st Person, Singular, Non-sexist Pronoun
 To: GLOSALIST
@@ -17214,8 +17727,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: 1st Person, Singular, Non-sexist Pronoun
 To: GLOSALIST
@@ -17233,9 +17748,10 @@ On Mon, 16 Nov 1998, Robin Gaskell wrote:
 
 When I was on The Well, they used "pern" for gender-neutral;
 "pe" sounds good to me for Glosa.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: 1st Person, Singular, Non-sexist Pronoun
 To: GLOSALIST
@@ -17251,8 +17767,10 @@ On Wed, 18 Nov 1998, charles wrote:
 
 And it does to me, too.
 John
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17331,8 +17849,10 @@ ancient languages.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17435,8 +17955,10 @@ glosses into English.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17493,8 +18015,10 @@ count would be maybe 3000 roots for 90% coverage.
 I think we have a bit of a problem:
 the Glosa 6000 is both too small for a full
 vocabulary, and too large for a basic one.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17522,8 +18046,10 @@ with less than 3000 words, so Glosa could too. Which would be
 easier, though? Glosa syntax is far easier to learn. It must be
 admitted that Zamenhof put more and better effort into lexicon,
 but Glosa's development isn't finished yet ...
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17607,8 +18133,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Harwood
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17642,9 +18170,10 @@ worked.  I believe the Turks have a similar arrangement, again with no
 major difficulties.
 
 R.H.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Harwood
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17666,8 +18195,10 @@ own technical terms",
 They invented them; they didn't win them in a raffle.
 
 R.H.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17741,8 +18272,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17777,8 +18310,10 @@ The dictionary still needs some work, I think we agree.
 >     As I see it, an IAL needs a base vocabulary and a principle or
 > principles for incorporating proper nouns/adjectives and specialist
 > vocabulary.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17814,8 +18349,10 @@ easily learnable type. As it appears to be still somewhat
 unfinished, there may be hope for its future.
 
 All just IMO.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: John Schilke
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: Paul O Bartlett
@@ -17907,8 +18444,10 @@ days, but I > might almost be willing to give Interglossa a try if I had
 access to it. > > 
 > Paul <bartlett{at}smart{dot}net>
 		John 		
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17945,8 +18484,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Harwood
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -17962,8 +18503,10 @@ and two people sent me their old copies.   This was in 1982, but there may
 still be a few copies floating around England.  
 
 R.H.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: 1st Person, Singular, Non-sexist Pronoun
 To: GLOSALIST
@@ -17993,8 +18536,10 @@ Saluta,
  Robin
 
 The 'bottom line' is people, not money.  R.G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: 1st Person, Singular, Non-sexist Pronoun
 To: GLOSALIST
@@ -18029,8 +18574,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18088,8 +18635,10 @@ Please try these out in your Glosa writing.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18137,8 +18686,10 @@ support group.
 >Keyserver (0xF383C8F9) or WWW for PGP public key
 >Home Page:  http://www.smart.net/~bartlett
 >
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18258,8 +18809,10 @@ specific' ones, NOT INSTEAD of them.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18366,8 +18919,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18446,8 +19001,10 @@ Subsribers to this list are invited to contribute to these improvements.
 
 Saluta,
  Robin
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18468,8 +19025,10 @@ Robin Gaskell wrote:
 All of the 2-letter classifier/generics,
 like "bo" "lo" "zo", make excellent pronouns.
 I'd like even more of them.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18527,8 +19086,10 @@ That was inherent in the original idea, though obviously
 it was not fully developed. Chemists/engineers/etc won't
 use it unless it is easy to coin new words systematically;
 they will just use random "international" words.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Glosa vocabulary addition, was Re: Glosa**
 To: GLOSALIST
@@ -18603,8 +19164,10 @@ So please resist that temptation if it bites.
 > decade of R&D.
 
 Agreed, 100%.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18642,8 +19205,10 @@ and they arise for similar reasons. Yet they are stable
 It is difficult to make something but keep it simple.
 The ideal language would be of this nature.
 Glosa has a chance to become such.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18674,8 +19239,10 @@ I just like Hogben's way a little better.
 Since 99% of the good press Glosa has
 gotten is due to Hogben/Bodmer, I'd be
 careful not to jettison their work entirely.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18746,8 +19313,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18809,8 +19378,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18844,8 +19415,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18868,8 +19441,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18901,8 +19476,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -18924,8 +19501,10 @@ Bene. Ka-co mi es u tele-vide-pe; veri alo no-veri,
 a-nu no-vide. Penite!
 
 (That was truly horrendous ...)
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: 3rd Person, Singular, Non-sexist Pronoun
 To: GLOSALIST
@@ -19021,8 +19600,10 @@ for these qualities by using Glosa.
 
 Saluta,
  Robin G.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -19071,9 +19652,10 @@ May I suggest a central homepage -- "http://come.to/glosa"
 
 Regards,
 Aaron.
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -19128,9 +19710,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: 3rd Person, Singular, Non-sexist Pronoun
 To: GLOSALIST
@@ -19228,8 +19811,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett <bartlett{at}smart{dot}net>
 Subject: Word Pairs and Terminal Vowels
 To: glosalist <glosalist{at}zeta{dot}org{dot}au>
@@ -19409,7 +19994,10 @@ vasa, vaso
 vegeta, sito-fito
 ze, zero
 zoa, animali
+................................................................
 
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -19564,8 +20152,10 @@ Saluta,
  BOOKS ON GLOSA:-  Blackwells Internet Bookshop
 www.blackwell.co.uk/bookshops/
                    Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -19650,8 +20240,10 @@ Help with these tasks will be appreciated.
 
 Saluta,
  Robin Gaskell
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -19687,8 +20279,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 You're in a small chamber lit by an eerie green light.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -19715,8 +20309,10 @@ but nothing complete for this purpose. When making
 such a subdivision of semantic space, one is
 forced to confront one's metaphysical biases
 or else simply inherit them from someone else.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -19749,8 +20345,10 @@ Yeoman work! as they supposedly used to say.
 > Help with these tasks will be appreciated.
 
 How?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Word Pairs and Terminal Vowels
 To: GLOSALIST
@@ -19956,8 +20554,10 @@ message - with the added grunt; and, am accessing the Net P2-wise, but
 still have to dial my ISP, manually.  Also, I did not lose any of the 98
 messages: they were still there on my ISP's server when the P2 clicked into
 Internet mode.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Aaron Irvine
 Subject: Re: Word Pairs and Terminal Vowels
 To: GLOSALIST
@@ -20125,9 +20725,10 @@ mailto:adi{at}esperanto{dot}nu
 -----------------------------------------------------
 UTF-7 +AQgBCQ +ARwBHQ +ASQBJQ +ATQBNQ +AVwBXQ +AWwBbQ
 UTF-8 Ĉĉ Ĝĝ Ĥĥ Ĵĵ Ŝŝ Ŭŭ
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Word Pairs and Terminal Vowels
 To: GLOSALIST
@@ -20364,8 +20965,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Word Pairs and Terminal Vowels
 To: GLOSALIST
@@ -20417,8 +21020,10 @@ Good and necessary distinction.
 > completion of what I nickname "Glosa 2.5K".
 
 Maybe March 1st is more realistic for adding the "missing" ones?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Word Pairs and Terminal Vowels
 To: GLOSALIST
@@ -20610,8 +21215,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Glosa 2.5K?
 To: glosalist
@@ -20643,8 +21250,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Word Pairs and Terminal Vowels (Aaron:Part 2)
 To: GLOSALIST
@@ -21013,8 +21622,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
 
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Working Wordlist Available?
 To: glosalist
@@ -21032,8 +21643,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Word Pairs and Terminal Vowels (Aaron:Part 3) [Forwarded]
 To: GLOSALIST
@@ -21145,8 +21758,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
 
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**% (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -21188,8 +21803,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -21264,8 +21881,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**$ (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -21310,8 +21929,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -21357,8 +21978,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -21388,9 +22011,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -21418,8 +22042,10 @@ I don't have strong specific feelings about lexicon.
 So I'll designate as my proxy (pause while coin is
 tossed -- wow, it balanced on one edge) that fellow
 known as "Ailanto" to vote for me.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa**$ (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -21452,8 +22078,10 @@ powerful word-building suffixes) and a few others.
 
 Look here, RH has done most of the work already:
 http://www.rick.harrison.net/langlab/lab3.html
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Working Wordlist Available?###
 To: GLOSALIST
@@ -21485,8 +22113,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Word Pairs and Terminal Vowels&
 To: GLOSALIST
@@ -21580,8 +22210,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -21732,8 +22364,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -21764,8 +22398,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -21796,8 +22432,10 @@ list with comments interspersed. Something like ...
 
 If this is desired, I could make a mock-up page.
 It could be kept "secret" so only our cabal sees it.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -21830,8 +22468,10 @@ to Latino Sin Flexione on the fly ...
 
 Another way is to take the "GUM" and translate each idiom.
 http://www.darmstadt.gmd.de/publish/komet/gen-um/newUM.html
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -21864,8 +22504,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -21918,8 +22560,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K?
 To: glosalist
@@ -21946,8 +22590,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -22017,8 +22663,10 @@ Yes, I can agree with that statement, except that
 the word "just" is the nastiest word in English.
 In other words, it really has to be done, and
 might not be easy at all.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Marking
 To: glosalist
@@ -22042,8 +22690,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -22068,8 +22718,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Don't panic! Computers know when you're scared.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Proxies, Markers and Synonyms
 To: GLOSALIST
@@ -22139,8 +22791,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Don't panic! Computers know when you're scared.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -22225,8 +22879,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -22348,8 +23004,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: William W Patterson
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -22388,8 +23046,10 @@ William W. Patterson                         http://www.neosplice.com/~ailanto
 mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
 
 Time flies like an arrow. Fruit flies like a banana.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: nosnag
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -22434,8 +23094,10 @@ Yes, exactly.
 Ack! you mean "dialect". Yes, the "internet dialect" of Glosa.
 More chance of growing rapidly on the net than in Uganda,
 no offense to Third World countries intended.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -22456,8 +23118,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -22485,8 +23149,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -22559,8 +23225,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -22589,8 +23257,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -22648,8 +23318,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K?!
 To: GLOSALIST
@@ -22728,8 +23400,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: Glosa Central
@@ -22828,8 +23502,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa**$ (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -22888,8 +23564,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K???
 To: GLOSALIST
@@ -22969,8 +23647,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -23012,8 +23692,10 @@ I think it *is* very important, but I trust you guys to do it.
 I'm not strong on lexicon myself; I'd just pick Ido words.
 They did a very good job ... look at this:
 http://www.yi.com/home/ChandlerJames/idoang.html
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K???
 To: GLOSALIST
@@ -23050,8 +23732,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -23074,8 +23758,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa**$ (was: Re: Re&: Esperanto what for? (fwd))
 To: GLOSALIST
@@ -23111,8 +23797,10 @@ easily compound or "adjectivize" (use modifiers).
 
 This is the one that collects essential word lists.
 It ought to save you a lot of time and energy ...
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa 2.5K?!
 To: GLOSALIST
@@ -23145,8 +23833,10 @@ which is not a serious option at all!
 
 Again, using previous research is not a tedious chore,
 it is a labor-saving device and ensures success.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: charles
 Subject: Re: Glosa 2.5K?!
 To: GLOSALIST
@@ -23191,8 +23881,10 @@ making Glosa lean on a natlang for support.
 So really, like Chinese, Glosa has 2 classes of words,
 the open class of verbs/nouns/modifiers or "full words",
 and the closed class of particles or "empty words".
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa/* 2.5K?
 To: GLOSALIST
@@ -23256,8 +23948,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -23310,8 +24004,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Marking*
 To: GLOSALIST
@@ -23369,8 +24065,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (Four Possible Language Types)
 To: GLOSALIST
@@ -23479,8 +24177,10 @@ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
 
 BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
                 Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Robin Gaskell
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -23524,6 +24224,10 @@ grounds of 'logic' I believe that both should be maintained.
 
 Saluta,
  Robin G.
+................................................................
+
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -23565,9 +24269,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Marking*
 To: GLOSALIST
@@ -23608,8 +24313,10 @@ Now one of my favorites, "He was red, she was a Red".
 Well, you said no part-of-speach marking allowed ...
 
 (These are just warm-up, practice problems.)
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -23634,8 +24341,10 @@ Glosa's is already more complex than that. Certainly
 past and perfect should not be combined in one particle.
 Ido, after much resistance, did eventually add both a
 passive (like "gene"?) and perfective suffix/particle, IIRC.
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -23674,8 +24383,10 @@ mail Robin directly with their "kill/keep" lists.
 It would be nice to list one word per line so
 it is easily sortable by the "sort" utility
 (which I believe still exists in M$DOS in some form).
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -23709,8 +24420,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K?
 To: GLOSALIST
@@ -23733,8 +24446,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Charles
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -23751,8 +24466,10 @@ Paul O Bartlett wrote:
 
 But "ja" is aleady taken and has the wrong sound.
 How about "za" ... ?
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Re: Glosa 2.5K? (SBG)
 To: GLOSALIST
@@ -23784,8 +24501,10 @@ Paul                                  <bartlett{at}smart{dot}net>
 Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
 Keyserver (0xF383C8F9) or WWW for PGP public key
 Home Page:  http://www.smart.net/~bartlett
+................................................................
 
-
+// XXX Remark -- New message:
+................................................................
 From: Paul O Bartlett
 Subject: Comments on Robin's v1.3 Grammar
 To: glosalist
@@ -24336,4 +25055,4 @@ _____>>>  9. Punctuation
    ______________________________________________________________________
    Description of Syntax-based Grammar for Glosa           ....     End
    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+................................................................
