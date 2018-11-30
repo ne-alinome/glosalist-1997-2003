@@ -1,0 +1,9 @@
+*.epub
+*.html
+*.odt
+*.pdf
+*.png
+*.rtf
+*.xml
+
+# vim: filetype=config

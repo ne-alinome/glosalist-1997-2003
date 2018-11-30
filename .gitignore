@@ -1,0 +1,4 @@
+# Ignore the development resources and the target formats:
+_meta/
+
+# vim: filetype=config

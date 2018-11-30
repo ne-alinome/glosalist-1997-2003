@@ -1,0 +1,13 @@
+= Glosalist 1997-2003
+:author: Marcos Cruz (programandala.net)
+:revdate: 2018-11-30
+
+== English
+
+Goal of this project:
+
+Convert the old archives of
+http://groups.yahoo.com/group/glosalist[Glosalist], from 1997 to 2003,
+into an EPUB and other e-book formats.
+
+Author's website: http://programandala.net
