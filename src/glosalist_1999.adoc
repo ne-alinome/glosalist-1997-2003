@@ -1,3 +1,6 @@
+== Glosalist 1999
+:revdate: 2018-11-30
+
 
 From: Paul O Bartlett
 Subject: Re: Comments on Robin's v1.3 Grammar
