@@ -1,0 +1,1180 @@
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Interview with Wendy Ashby
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Sun, 29 Dec 2002 21:38:49 +1100
+
+At 10:53 AM 12/20/02 -0800, Charles wrote:
+>>[Marcel] Sorry, I am late, my letter was from May the 5th and her from June
+>
+>I am used to Latin-American time, which runs 3 hours late,
+>but this 6 month lag is truly impressive ...
+>
+*  Better late than never.  ~Es ma boni te es tardi, de nuli-tem.~
+
+>> WA: "vi plu simi".
+>
+>> Si konfusi es posi Hogben e Ron pa uti "plu simi de tu".
+>> Mu ma amo u-ci kausa "plu" veni imedia pre "simi".
+>
+>> plu persona freqe ma amo brevi id e evita "de" etc.
+>
+*  Not much context given.  What was Wendy referring to: what was the
+English equivalent?
+      ' ... your apes ... '
+      ' ... the apes of you(rs) ... '
+      ' ... apes o'you ... '
+
+>She is correct in placement of the possessive/genitive.
+>Here you have 2 noun phrases combined with or without a
+>particle. Each can be singular or plural, independently.
+*  I like example; otherwise the abstract is too abstract for me.
+  
+>Clearest usage invokes the particle DE (and/or SU) to
+>separate the possessor from the possessed, but in the
+>real-world, people often elide it, leaving ambiguity.
+>So "tu simi" could be either insulting or not depending
+>on context; re-inserting a SU or ES would disambiguate.
+*  Still none the wiser without examples of full sentences using these words.
+
+>(SU is just my suggestion for a new particle to be the
+>reverse of DE, i.e. the so-called Saxon genitive.)
+*  [not of] ?
+   What is a Saxon genetive, please?
+   When proposing an addition to the lexicon, it is likely to be more
+widely accepted if you give Glosa example including it in sentences with
+English translation.
+
+
+>But she suggests "fe bovi" as a natural elision; most
+>of the world would prefer "bovi fe" (from elided DE).
+>
+*  female bovine  -->  femina bovi
+                  --> u fe bovi   (abbreviation) [= cow]
+                  -->  fe-bovi     (alternate)
+
+   This is in line with my understanding of the production of Glosa
+compounds; elision hardly?
+
+
+  ~U ju-fe pa veni te gene lakti ex u fe-bovi.~
+
+  "The girl went to milk the cow."
+
+  cf
+  ~U ju-fe pa veni te gene lakti ex plu bovi.~  (elision)
+
+  "The girl went to milk the cattle."
+
+  and
+  ~U ju-fe pa veni te gene lakti ex fe fe-bovi.~
+
+  "The girl went to milk her cow."
+
+  but
+  ~U ju-fe pa veni te gene lakti ex fe plu fe-bovi.~
+
+  "The girl went to milk her cows."
+
+ 
+   
+>> Si tu ne amo "sto" posi tu ma amo:
+>> "tena se" = restrain myself
+>
+>I consider the STI and STO of Hogben completely bogus.
+>TENA is better, 
+*  ~Sti~ and ~Sto~ break the "similarity rule.  It is a cute duo, but these
+opposites vary by only one letter, and could cause accidents - if people
+mis-heard instructions about the use of moving machinery.
+   True, alternatives like ~tena~ give more semantic colour, but the ~st+~
+twins work well if accompanied by redundancy.
+  ~Sto id, te sekti u flu.~   [Stop it to cut the flow.]
+
+  ~Sti id nu, kausa id ki.~   [Turn it on now: make it (to) go.] 
+
+but then I'd want 100% bisyllabic roots.
+>(Words like KONFUSI and IMEDIA also appear bogus to me.)
+>The truest Glosa has a self-consistency beyond authority.
+>
+*  Obviously, the Indo-European based Glosa is quite a different language
+from the a priori language Charles suggests.
+   What is self-consistent beyond human authority: perhaps the universal
+language of thought?
+
+Saluta,  
+
+Robin Gaskell
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Interview with Wendy Ashby
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Mon, 30 Dec 2002 00:25:07 +1100
+
+At 11:41 AM 12/20/02 +0100, Marcel Springer wrote:
+>
+>  ...  The questions mainly belong to Glosalist discussions in the
+>first half of the year 2002.
+>
+>Mi volu; vi habe hedo Kristo-nati-tem, boni fini de paleo anua e
+>sani, paci e boni-fortuna 2003!  Marcel.
+>
+*  Gracia.
+
+>   .....
+>In inter-reti na diskusi de u loka de "possessive pronoun".
+>
+>In classical Glosa the possessive pronoun seems to come before
+>u(n)/plu:  mi plu vagona - my cars.  Some people in internet (me too)
+>rather would like to put it after it.
+>
+*  The question, as I see it, is which has more semantic strength, the
+possessive pronoun or the counter?  
+  IE   somebody's   one/more  cow
+
+    In this case I feel that, logically, the function of the pers.pron is
+of a lower order than the discriminating noun indicator.  Add this idea to
+the one that says "a word is modified by its precedent", and then consider
+a phrase from the 'head final' structure point of view.
+    If all this does mean that words build up in significance in a phrase,
+then, in the case of the possessive 'abstraction' "somebody's" is less
+discriminating that the 'number abstraction' "one or more."
+
+>  ...  A noun phrase then always would start
+>  with a (mandatory) u(n)/plu, the main concept word (noun) comes last
+*  So far so good.
+
+>  and all attributes - adjectives, genitives, participles and also the
+>  possessive pronoun - would come between.
+*  In general, the determinant/NOUN_PHRASE_marker comes first, but there is
+some sort of logic which asks are some categories of 'modifier' external to
+the main phrase, and I believe that the possessive is one of these.
+
+>- A noun phrase could be easier acknowledged, when it starts with
+>  u(n)/plu.
+>- Appositions: "Mi ne amo plu vi simi - I do not like your apes." /
+>  "... vi plu simi - ... you apes"
+>
+*  Is it  %you umpteen ape%  or  %umpteen you ape%?  I'd say that the
+former, of these, is in line with the Glosa syntax pattern.
+
+>Nick contradicts with the example "u fe bovi - a (female) cow,
+>fe u bovi - her cow", but this does not convince me (could be
+>"fe-bovi").  Also I do not think, that there could be confusions with
+>u-mi, u-tu etc.
+>
+>Perhaps you can explain, why it must (or only should?) be like this?
+>
+*  I'd say that the hyphenated compound, ~fe-bovi~ is always a "cow."
+   Also, when the possessed category is in the singular, IE "cow" not
+"cows," then the correct thinking is to see the poss.pers.pron and the
+number_marker particle as alternatives, probably mutually exclusive.
+   If it's a straight, singular phrase then ~u~ is in; but, if the NOUN is
+possessed, then the poss.pers.pron is used as an alternative NOUN PHRASE
+indicator, EG
+  ~U fe-bovi greso longo u via.~    "The cow walks along the road."
+
+  ~Fe bovi greso longo u via.~      "Her bovine walks along the road."
+
+  Of course, were it necessary to differentiate between her bull and her
+cow, then we have to get out of 'elision mode,' so we'd know if ^it's
+Arthur or Martha^.
+   Thus:-
+ ~Fe fe-bovi greso longo u via.~    "Her cow walks along the road." AND
+
+ ~Fe an-bovi greso longo u via.~    "Her bull walks along the road."
+
+>WA: "vi plu simi".  Plu kron "plu" es no-nece.  "vi" es ma de mo.
+>    "vi simi" es sati.
+*  But, when the man is distributing one ape to Fred, and a number of apes
+to Jon, the he might say:-
+   ~Fred, ci es tu simi; e Jon, tu plu simi es la.~
+
+>    Hogben e Ron pa uti "plu tu simi" = your apes (mo persona e ma de
+>    mo simi).
+*  Although Lancelot and Ronald have the reputations, I have to suggest
+that the PLU modifies the SIMI, and does not modify the TU: it is as if the
+~tu~ is outside the brackets, while the monkeys, ~plu simi~, are inside it.
+ In fact, we can say that the ~tu~ modifies (owns) both the ~plu~ and the
+~simi~.
+
+>    Si konfusi es posi Hogben e Ron pa uti "plu simi de tu".  Mu ma
+>    amo u-ci kausa "plu" veni imedia pre "simi".  Na zero kron pa dice
+>    de muta u-ci sistema.
+*  By half closing your eyes, you can see the brackets around "the apes",
+with the possessive placed either in front of the leading brace, or after
+the closing brace: the ~de~ can be seen as functioning as the closing brace.
+IE               tu (plu simi)    =    (plu simi) tu
+
+>    Freqe "u/un" e "plu" es no-nece.  Exempla:
+>    mo bibli -, tri bibli -, poli bibli -, oligo bibli -, zero bibli
+>    es epi tabla.
+>
+>    Fe-bovi = cow, female ox
+>    bovi-fe = cow-girl
+>    fe bovi alo bovi de fe = her cow.
+*  OK!
+>
+>[I find this question very important!!!  I understood,
+>  "'u(n)/plu' - possessive pronoun - noun"
+>is okay, but prefereable, if the sentence is not too long, is
+>  "'u(n)/plu' - noun - 'de' - possessive pronoun".]
+>
+*   There is an obvious case for being able to abstract the syntax from the
+words ... using some form of symbols for the different grammatical functions.
+EG # (noun)  ....................  girl, cow  :  ju-fe, fe-bovi
+   #-#  (compound noun)  ........  cow-girl, girl-cow  : bovi-fe
+   #'    (possessive noun)  .....  cow's, girl's :  de u fe-bovi, ju-fe
+   .  (determinant/noun-marker) ..  a, the     :     u
+   &     (plural) ................       's    :    plu
+   0     (personal pronoun)  .....      she, him, us  : fe, an, na
+   @  (Possessive personal pronoun) ....  her, his, our : fe, an, na
+   _    [combined functions]        ....     
+   |     (conjunction)      ............     of       :    de   
+
+@ #          her cow          :  fe fe-bovi               @ #
+@ #_&        her cows         :  fe plu fe-bovi           @ ._& #  
+. #-#' #  the cow-girl's cows : plu fe-bovi de u bovi-fe  ._& # | . #-#  
+. #_& | 0   the cows for him  : plu fe-bovi pro an        ._& # | 0
+. # | @     the cow of hers   : u fe-bovi de fe           . # | @
+. #-#_&' #_&  the cow-girls' cows  :
+                          plu fe-bovi de plu bovi-fe   ._& #-# | ._& #    
+
+     More work needed, but you see what I mean.
+
+Saluta,
+
+Robin
+  P.S.  And I never got onto nested possessives either, 
+         EG  The cow-girls' cows' bull.  
+                            (But sex has no part in a show like this.)    
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Interview with Wendy Ashby
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Mon, 30 Dec 2002 00:52:47 +1100
+
+At 11:41 AM 12/20/02 +0100, Marcel wrote:
+>
+>Here there are some questions I asked Wendy Ashby and her answers.
+>
+> - - - - -  Much cropped
+>
+>solidarity
+>==========
+>
+>Qo es Glosa verba pro "solidarity" e "solidary"?  Qe, posi "solidari"
+>alo in 1000 simpli "akorda"?
+>
+>WA: Pende ex kontextu, exampla: tu pote uti
+>      komuni akorda
+>      lega akorda, etc.
+>
+>    Solidarity es Français lexi.  Itera kontextu es gravi.
+>    Plu exempla:
+>      komuni akti
+>      kon ergo
+>      ergo kon alelo ko komuni fide
+>
+>[Unfortunately no direct "solidarity".
+>In Glosa Inter-reti Diktionaria:
+>"komuni akorda  solidarity; solidary" item added.
+>"lega akorda  solidarity; solidary" item added.
+>"komuni akti  solidarity; solidary" item added.
+>"kon ergo  solidarity; solidary" item added.
+>"komuni fide  solidarity; solidary" item added.]
+>
+*  This looks like a case where the abstract noun has stretched so widely
+that it cannot have a word-for-word direct translation.  It would seem that
+Wendy has called in the auxilliaries, and has produced compound nouns, or
+what we could call, in English, "phrasal nouns."
+   This appears to be a new category among word groupings, such that the
+translator must choose from a family of related compound nouns the right
+one for the instance he or she is translating.
+
+Saluta,
+
+Robin
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: [glosalist] New Year
+From: "Alexander E. Kirpichev" <brickswall{at}mtu-net.ru>
+Date: Wed, 1 Jan 2003 02:57:19 +0300
+
+Dear friends,
+Now, it is already the year 2003 in my country, though it is still the 2002,
+e.g. in the UK and the USA!
+
+I was not very active glosa-pe during the second half of the year, but
+believe me, my heart was always with you!
+
+Excuse me for letters, I have not answered yet! I know that the months
+passed, but I was (and I am still) so busy.
+
+Mi fu responde a plu grama, in bi fu meno; ka mi fu habe vakatio, meno-bi.
+
+Happy New Year, dear friends, plu karo glosa-be.
+
+I want the year to be the begining of the peace-and-tolerance-age in the
+world and hearts of all humans on the Earth!
+
+Saluta,
+Alex
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] New Year
+From: Sydpidd{at}aol{dot}com
+Date: Wed, 1 Jan 2003 10:07:19 EST
+
+time has cought up with us!
+happy new year to all in 2003 and eventually all the other laggards
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] dictionary updated
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Thu, 02 Jan 2003 12:23:39 +1100
+
+At 11:37 AM 12/20/02 +0100, Marcel wrote:
+>
+>The Glosa-dictionary on http://www.glosa.org/gid/ has been updated.
+>
+>
+>I have compared the word list of the book "Français - Glosa 1000" 
+>with the Glosa Internet Dictionary.  Result:
+>
+>241 corrections or little changes were made to the French list.
+>    (Mostly missing French accents and wrong "Similar Synonyms".
+>     Files:
+>      http://www.glosa.org/gid/frgl1ko.htm  - old, original list,
+>      http://www.glosa.org/gid/frgl1k.htm   - new, corrected list,
+>      http://www.glosa.org/gid/gl1kfr.htm   - corrected list, >
+                                               reversed,
+>      http://www.glosa.org/gid/frglcorr.htm - protocol of changes)
+>
+>And about 1000 (!) additions/little changes/corrections were made 
+>    .......
+             AND
+>    .......
+I am happy, that the dictionary has made another advance, but it can
+be seen, that there is a far way to go, yet:  So many changes only
+by comparison with one little list!  It would be good to have a
+detailed look at the list "Deutsch - Glosa 1000" as well, I think.
+>
+Excellent work Marcel,
+   This consistency - or at least of being as consistent as the various
+language/cultures will allow - of a Planned Language across the spectrum of
+National Languages, is one of the unspoken problems in  auxilliary language
+discussion.
+   I did print out the 144 pages of the GID Eng-->Glo dictionary - most
+probably the  frgl1ko.htm  list.  Perhaps I should now print out the
+gl1kfr.htm  list: I must look. 
+   What do your mnemonics mean: I remember best if I understand what I am
+trying to place in memory, 
+  EG fr-gl-l-k-o  French to Glosa list(GID) knitted in OK.  (?) 
+    or
+     gl-l-k-fr  Glosa list(GID) now_inKluding French    (??)   ;-) 
+
+   But being serious, again, I would ask what length the <gllkan> file
+(Glosa list(GID) inKluding ALL national_languages) might be; and, when will
+it be put together by our unpaid volunteers - mainly you, Marcel?
+
+   There are two other serious questions: the first involves 'criteria' for
+addition, or creation, of new words for an evergrowing Glosa GID lexicon;
+and and the second is by what mechanism, and in what format, will such a
+<gllka-05> file be published (Glosa list[GID] inKluding ALL words
+adopted_by_2005)?  I am looking into the future, and suggesting that a
+Glosa dictionary should carry the year of production in its name, and I
+might anticipate that we could have such a list completed by 2005.   For
+example, I currently use  _Glosa 6000(1992)_  and the  GID(2/9/02)
+[.../gid/engl.htm].  
+
+   We cannot wait until the language is perfected before getting some form
+of "international" dictionary out into general circulation; and, we cannot
+wait for Wendy's health, and finances, to improve sufficiently, before we
+publish an 'authorised' Glosa World Dictionary (or "Glosa Munda Diktionari").
+
+   I know there are already two Glosa usage communities, the hard-copy
+based Third-worlders (mainly Africans), and the Internet-connected
+'globals.'  This causes a few problems, but the implication is that the two
+should not be allowed to separate too far; and, that any GID ought to be
+paper-printable in some form.  For postage reasons I think of the extremely
+flimsy "war-time paper."
+
+  This returns me to the theme of decisions.  Do we have a core of people
+who are reasonably satisfied with the original Ron Clark conception of
+Glosa (circa 1992), to form a "Trustee Group" that can oversee the
+application of criteria concerning the addition of new words; and, which
+can authorise, and ensure, the publication - in various forms - of accepted
+standard dictionaries of Glosa.
+  Unfortunately, the latter requirement of such 'trustees' involves the
+economic question of the actual printing of paper books, booklets and
+lists.  Without a practical centralisation of authority, we will continue
+to have non-matching dictionaries and a quandry over what is, and is not,
+Glosa.  So, Wendy runs the Glosa Education Organisation charity, and hold
+the funds; but how are these funds being employed in furthering education
+in, and teaching of, Glosa.
+  I have avoided for years any though of becoming more dominant in the
+Glosa saga, but Marcel's prognosis has prompted me to make these
+suggestions.  It does lokk like there will be a 'Burning Bush' in the
+Middle East before there is an authorised  _Glosa 2500 Learners'
+Dictionary_.  However, I feel we should see what we have to offer the
+world, and get it ready in usable form asap.
+ 
+  Very simply, I was going to go through the old GID, and select from it
+the 250 most functional words, to make up the Learners' Dictionary.
+>From numerous earlier discussions, the dictionary size of 2500 - 3000
+words came up as a workable, practical compromise between the ease of
+learning, and the ability to communicate meaningfully.
+  I suspect that the extra words that Marcel has included in the <frgllk>
+file will not be very significant in the compilation of a shorter
+dictionary for learners: the question of size/weight/postage is more
+important at the lower end of the dictionary scale, than is the matter of
+completeness.
+  I ask again for URLs to minimum word lists, but I am probably being lazy,
+and ought to be able to find them by typing something into Google.  The
+lists I would peruse are in the range 2000 to 5000 words.
+ 
+  And while, people CAN look up words by turning on their computers,
+calling up the file, and skimming through it, ... a printed dictionary is
+infinitely quicker.  And, in the fast-food era, we are also in the time of
+fast-learning, and almost instantly-learnt auxlangs.
+
+  Glosa can deliver on this latter, as Ron was oft wont to say: he claimed
+that a Classical scholar, once the ground-rules of Glosa were laid out
+before them, could start speaking in fairly accurate Glosa almost instantly
+- calling upon their knowlege of Greek and Latin roots.  So, I put the case
+that economically printable dictionaries ought not be excluded from our
+Glosa "Trustees'" wish-list.  With better format, wore words fit onto a
+page; with thinner paper, postage prices are less; and the marginal
+learner, who is attracted to a small book he can buy for, say A$15 (incl
+p&p), might find having to download files, and print them out, might be
+just that bit more irksome.
+   Anyone know of a source of low-cost, preferably opaque and strong,
+air-mail paper?
+
+Saluta,
+
+Robin Gaskell
+  P.S.  I hope that everyone is thinking about the article they are going
+to write, in Glosa, to submit for the next Plu Glosa Nota.  Mine will be
+about the recent drought and bush-fires, here in Australia.  And don't
+forget: the reader wants to know your thoughts and feelings as well as the
+facts.  While Glosa stands by its reputation as being a language for
+science, it is in the minds of the people that the battle will be won, or
+lost.  We need to EMOTE people through the colour of our language, and from
+the strength of the emotion we convey.   "Wow: if a designed language can
+have such communication power built into it, I'd better learn it."     R.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] dictionary updated
+From: "Marcel Springer" <marcel{at}mspringer{dot}de>
+Date: Thu, 2 Jan 2003 12:00:14 +0100
+
+
+Karo Robin,
+
+Tu grafo, 2003-01-02:
+ > What do your mnemonics mean: I remember best if I understand what I
+ > am trying to place in memory,
+ >  EG fr-gl-l-k-o  French to Glosa list(GID) knitted in OK.  (?)
+ >     or
+ >    gl-l-k-fr  Glosa list(GID) now_inKluding French    (??)   ;-)
+
+The thing I call GID (Glosa Internet Dictionary or Glosa Inter-reti
+Diktionaria) is http://www.glosa.org/gid/glen.txt (gl=Glosa to
+en=English).
+
+GID is the project once started by you (Robin), Paul Bartlett and Bill
+Patterson.
+
+There are some other files in the www.glosa.org/gid directory, which
+are directly compiled from this file by computer algorithms, so they
+must not have contradictions to glen.txt:
+  glen.htm (HTML-Version), engl.txt (en=English to gl=Glosa),
+  engl.htm, coglen.htm (only most useful Glosa-words, co=Core) and
+  coengl.htm.
+
+Please do not mix them up with the French files:
+frgl1ko.htm is the fr=French to gl1k=Glosa1000 o=original list by
+  Ashby/Clark.
+frgl1k.htm is same list, but with corrections (no "o" for original),
+and gl1kfr.htm is the reversed corrected list, Glosa-French.
+None of these three lists are a translation of GID!  GID is more
+comprehensive and better!
+
+
+
+ >    There are two other serious questions: the first involves
+ > 'criteria' for addition, or creation, of new words for an
+ > evergrowing Glosa GID lexicon; ...
+
+I would like a GID that ...
+- includes all existing Glosa word lists by Ashby/Clark.
+- supplements (as few as possible) missing words, which are not in the
+    Richmond-lists, but which are needed for communication.
+- clears up errors and inconsistencies in the Ashby/Clark material
+    (for example see www.glosa.org/gid/simsyn.htm ).
+- leads the user to prefereable synonyms and gives a basic vocabulary
+    for beginners (Core, coglen.htm).
+
+Actually there are included:
+- "Glosa 1000 to English" list from the book "18 Steps to Fluency"
+- "Glosa 6000"
+- "English 5000 to Glosa 1000" list from the book "Central Glosa".
+- the list from the book "Francais - Glosa 1000".
+
+Unfortunately not included yet:
+- the list from the book "Deutsch - Glosa 1000"
+- the list from the book "Español - Glosa 1000"
+- the "Central"-list, book "Central Glosa", p. 25-56 (very important)
+- the vocabulary from the lessons and pictures of "18 Steps to
+  Fluency ..."
+- vocabulary from as many as we can PGN-articles.
+
+Sad: before this work done (scanning the Ashby/Clark material), I do
+not see reasonable space for creativity in creation of new words for a
+Glosa dictionary.
+
+But the good news: we do not yet have to found a
+word-creation-committee right now with all its fights and troubles.
+
+
+
+ >   P.S.  I hope that everyone is thinking about the article they are
+ > going to write, in Glosa, to submit for the next Plu Glosa Nota.
+ > Mine will be about the recent drought and bush-fires, here in
+ > Australia.  ...
+
+I am looking forward to reading it!  Hedo 2003 ko saluta ex Marcel.
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] developing tutorial - pgn78
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Fri, 03 Jan 2003 02:22:04 +1100
+
+At 03:39 PM 12/18/02 EST, you wrote:
+>Here are extracts from PGN87 perhaps for a projected tutorial. It is
+probably 
+>more useful to become at ease with translating from Glosa to English or
+other 
+>tongue befare doing much into Glosa. We need pieces of Glosa that are 
+>actually in use rather than purpose built examples and we need to get clear 
+>the structures of the sentences. 
+*  Very true: but I suspect that more needs to be writen in Glosa to give
+us as wide a choice as possible.  Simpler practical sentences would be
+better starting points, for learners, than this complicated on.
+
+>   There has been a tendency in English and in 
+>Glosa to shrink away from grammar. 
+*   And this - for Glosa - requires a generally understood concept of how
+syntax-based grammar works, in the setting of words that are not labelled
+as distinct parts of speech.  What actual elements of grammar are valid for
+Glosa?
+My thought is that the Functional Grammar approach, created by MAK
+Halliday, is probably the closest of the published theories.  However, I
+still believe that, considering Funtional Grammar was invented primarily
+for English, its concepts will need some tweaking for Glosa.
+
+Earlier in tutors one was given long lists 
+>and tables especially of irregularities. Here is the first sentence in this 
+>PGN, my apologies to its author for not asking permission.
+>  
+*  Should not be necessary: once published in PGN, the utterance is in the
+Public Domain.
+
+>[alphabet and sounds can be inserted later]
+>
+*  Printed alphabet is easy, but the sound of the letters, and the
+pronunciation of the words require much more technology, and can prove
+difficult.  I still recall the reply from a Glosa contact in Brazil, to
+whom I sent a cassette of spoken glosa.  "Thank you.  It looks very nice,
+but I know no-one with a cassette player, so I can't hear it."
+
+>'Tem pre oligo meno plu nova-papira-pe e komerci-pe pa dice de u ski de plu 
+>lingua in Englanda.' 
+>
+> [EXTRA PHRASE(time)  while before few months  [Tem pre oligo meno] = a few 
+>months ago    
+>SUBJECT      some newspaper-people and commerce-people   [plu nova-papira-pe 
+>e komerci-pe]
+>VERB         did speak   [pa dice] 
+>OBJECT       of the know   [de u ski]
+>             of the languages   [de plu lingua]
+>             in England  [in Englanda]
+>
+>introducing words:- 'plu'/some introduces the subject noun phrase
+>'did' introduces the verb phrase
+>'of the' introduces the object phrase
+>'while before' introduces the extra phrase of time
+>
+>'people' are the two head words in the subject phrase
+>'speak' is the head word in the verb phrase
+>'know' is the head of the object
+>'months' is the head of the extra phrase
+>
+>'newspaper'/'commerce' modify [ help/clarify/add to the meaning of] 'people'
+>'of the languages' modifies 'know'
+>'in England' modifies 'languages'
+>EXTRA modifies the verb phrase
+>'few' introduces months [a noun phrase inside an extra phrase]
+>
+*  All very true, but how many raw recruits will plough though all this -
+or understand the elements, and their significance?
+   I question the format of your method here.  I have always preferred the
+line under line approach whereby the learner can see the related parts and
+their explanations, directly under one another.
+
+Saluta,
+
+Robin
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] poem for PGN
+From: Sydpidd{at}aol{dot}com
+Date: Thu, 2 Jan 2003 15:14:50 EST
+
+U poesi/verba-pikturi
+Supra Plu Nefo [28nord16uest]
+
+
+Infra .... plu nefo     tenu ge-difusi rako-margina 
+leuko
+       
+Infra  inter-nefo .... urba   ge-difusi rako-margina 
+leuko rosa kloro 
+
+Horizo .... leuko polio rako-margina     nefo dura
+
+Pusi-supra   dista  .... polio akuto klari    plu 
+monta-akro
+
+Infra mu dista .... no vista 
+
+Gran Canaria
+
+
+Cirka .... plu pina dendro
+
+Dia plu aku ....  plu nefo       epi plu aku .... 
+plu guta
+
+Supra  ....   alti-koni       ab coni .... plu  
+gentili sedati klina     solo nudi aridi
+
+
+Na sta epi cinera
+
+
+Ex .... piro explode erupti vulkani fumi  
+fo-termo liqi-petro
+
+de longi tem pa
+
+
+Na sta a pedi de El Teide     
+
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] hedo neo anua
+From: "Carmelo Mico" <ranibakt{at}ozu{dot}es>
+Date: Sun, 05 Jan 2003 16:16:57 +0100
+
+Karo Marcel
+Mi cepti tu karo grama a mi pro neo anua e mi gratia tu 
+pro id.
+Tem mo meno mi pa es fo pato e mi ne pa pote vide tu grama 
+e
+ko-co mi ne pa pote grafo epi Glosa-list.
+Mi pa debi resta in pato-do (pro pneumonia)e ko-co in mi 
+domi
+mi pa resta in kli panto-di sine kine te gene kura.
+Mi mali-fortuna ne habe internet-nexu in mi domi e mi ne 
+pa pote
+nek grafo e nek lekto qod pa acide epi internet-eko-lo. 
+Boni-fortuna mi ne pa habe problema ko mi ergo e ko-co 
+nu-di mi 
+habe mi ergo in ergo-do. Mi bali u-ci grama ko-co epi 
+Glosa-list
+te saluta panto glosa-pe e doni ad an mi maxi boni desira 
+pro 
+sani e paci neo anua.
+Mi fu bali a tu kron id es posi, u traduce de gramatika de 
+Glosa
+in francais lingua, e mi fu dura u traduce de 
+Bhagavad-Gita in 
+Glosa e kron id est ge-face mi fu bali a tu.
+Mi es fo kontenta de plu lexi de W. Ashby pro mi traduce 
+de Bhagavad
+Gita sed mali fortuna mi ne habe fe adresi te grafo ad fe,
+e mi ne ski u-ci jurnali "plu glosa nota" te lekto qod fe 
+pa grafo,
+qe id es epi Internet-pagini? Qe tu ski u adresi e tu pote 
+komunika
+a mi?Alimode tu pote grafo a fe ke mi es fo kontenta de fe 
+lexi pro me,
+e ke mi fu dura panto-tem mi ergo pro Glosa.
+Plu saluta tu panto-tem karo ami : Mico Carmelo Ranibakt. 
+ 
+--------------------------------------------------
+Ya tenemos Lotería de NAVIDAD, descúbrelo aquí: http://loteria.ozu.es 
+--------------------------------------------------
+Correo enviado desde http://www.ozu.es
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] hedo neo anua
+From: Sydpidd{at}aol{dot}com
+Date: Mon, 6 Jan 2003 05:49:47 EST
+
+Wendi Ashby
+Glosa Education Organisation
+P.O. 18
+Richmond 
+Surrey
+TW9 2GE
+England
+
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] hedo neo anua
+From: "Marcel Springer" <marcel{at}mspringer{dot}de>
+Date: Mon, 6 Jan 2003 14:35:01 +0100
+
+
+Carmelo Mico grafo, 2003-01-05:
+ > Mi es fo kontenta de plu lexi de W. Ashby pro mi traduce de Bhagavad
+ > Gita sed mali fortuna mi ne habe fe adresi te grafo ad fe, e mi ne
+ > ski u-ci jurnali "plu glosa nota" te lekto qod fe pa grafo, qe id
+ > es epi Internet-pagini? Qe tu ski u adresi e tu pote komunika a mi?
+ 
+Wendy ne habe inter-reti nexu.  Fe landa-adresa es:
+
+   Wendy Ashby
+   Glosa Education Organisation
+   P. O. Box 18
+   Richmond
+   Surrey TW9 2GE
+   England
+
+U pusi (bi DIN-A3 papira) jurnali "Plu Glosa Nota" es solo ex papira.
+Id ne habe inter-reti versio.
+
+
+ > Mi pa debi resta in pato-do (pro pneumonia) e ko-co in mi domi
+ > mi pa resta in kli panto-di sine kine te gene kura.
+
+Mi hedo lekto ex tu, karo Ranibakt, sed mi habe tristi, tu pa es pato.
+Tu e panto Glosa-pe habe sani in 2003!  Saluta ex Marcel.
+
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] IAL collectors
+From: Sydpidd{at}aol{dot}com
+Date: Sun, 12 Jan 2003 10:32:48 EST
+
+This web page might interest some of the IAL collectors amongst us.
+something I'm putting together to be as simple and none european etc as I 
+can. Later, I shall see what has already been done on similar lines.
+I suspect there is need for a few IALs, if they are worth their salt, several 
+could be learned without too much trouble.
+sid
+
+
+
+http://hometown.aol.co.uk/sydpidd/index.html
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] IAL collectors
+From: Xipirho <xipirho{at}runbox{dot}com>
+Date: Sun, 12 Jan 2003 17:03:58 +0000
+
+--Apple-Mail-10--340670715
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain;
+	charset=US-ASCII;
+	format=flowed
+
+looks good, but there still seem to be some hints of europeanness, not 
+that i personally mind that at all. the words seem easier to remember 
+than lojban. do you think you could put some of what you wrote (e.g. 
+word order) in layman's terms for me? - i'm not an IAL expert. is <c> 
+realy [c] in this systme - seems a bit of an uncommon sound to use 
+doesnt it (not that i dont like the sound - its very easy to say) and 
+couldnt it change to [tS] in speach rather too easily?
+
+On Sunday, January 12, 2003, at 03:32  pm, Sydpidd{at}aol{dot}com wrote:
+
+> This web page might interest some of the IAL collectors amongst us.
+> something I'm putting together to be as simple and none european etc 
+> as I
+> can. Later, I shall see what has already been done on similar lines.
+> I suspect there is need for a few IALs, if they are worth their salt, 
+> several
+> could be learned without too much trouble.
+> sid
+>
+>
+>
+> http://hometown.aol.co.uk/sydpidd/index.html
+>
+> ---------------------------------------------------------------------
+> To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+> For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+>
+>
+>
+Liv long and prospx, Khjpjrho (Xipirho)/Rxwlj (Roly).
+
+--Apple-Mail-10--340670715
+Content-Transfer-Encoding: 7bit
+Content-Type: text/enriched;
+	charset=US-ASCII
+
+looks good, but there still seem to be some hints of europeanness, not
+that i personally mind that at all. the words seem easier to remember
+than lojban. do you think you could put some of what you wrote (e.g.
+word order) in layman's terms for me? - i'm not an IAL expert. is <<c>
+realy [c] in this systme - seems a bit of an uncommon sound to use
+doesnt it (not that i dont like the sound - its very easy to say) and
+couldnt it change to [tS] in speach rather too easily?
+
+
+On Sunday, January 12, 2003, at 03:32  pm, Sydpidd{at}aol{dot}com wrote:
+
+
+<excerpt>This web page might interest some of the IAL collectors
+amongst us.
+
+something I'm putting together to be as simple and none european etc
+as I 
+
+can. Later, I shall see what has already been done on similar lines.
+
+I suspect there is need for a few IALs, if they are worth their salt,
+several 
+
+could be learned without too much trouble.
+
+sid
+
+
+
+
+http://hometown.aol.co.uk/sydpidd/index.html
+
+
+---------------------------------------------------------------------
+
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+
+
+
+</excerpt><fontfamily><param>Helvetica</param><smaller>Liv long and
+prospx, Khjpjrho (Xipirho)/Rxwlj (Roly).</smaller></fontfamily>
+
+--Apple-Mail-10--340670715
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--Apple-Mail-10--340670715--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] IAL collectors
+From: Sydpidd{at}aol{dot}com
+Date: Mon, 13 Jan 2003 11:09:17 EST
+
+--part1_14.72c1e7e.2b543ead_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+glad to have your reply. hope this helps - will put more on the web page to 
+build things up a bit more and explain better
+sid
+
+LAYMAN'S TERMS
+This applies to Glosa and Glosalist also. I used to know a fair amount of 
+linguist jargon but some that gets bandied about on the list has me 
+flummoxed.
+In Glosa, English and many other languages the verb/doing word/etc comes in 
+the middle[ish] of the sentence, the subject before it and the object after:- 
+subject[fox] verb[jumps] 'object'[dog]. In Hindi the verb comes last:- fox 
+dog jumps. I found that subject and object gets mixed together in my mind - I 
+prefer SVO. 
+In 'the quick brown fox', the phrase is introduced by 'the' which tells us 
+that we have a noun phrase [subject/object]. The most important word is 'fox' 
+so I'm calling it 'head word'. 'quick' and 'brown' add more meaning/precision 
+to the head word, they modify the meaning.They are modifiers.
+In Eng or Glosa, I first meet the intro word [very useful] but I now have to 
+read and memorise the next 4 words before I can find the head w. In Eng word 
+4 [jumps] is clearly a verb so 'fox' is the head. If I am new to E or G, that 
+is not too easy.
+In my experiment, I have intro [the] head [fox] and then the less important 
+stuff [quick, brown]
+fox jump dog
+with the intro words
+the fox do jump the dog
+THE FOX quick brown DO JUMP [over] THE DOG lazy
+? shall consider 'over' is a modifier of 'jump'
+If someone is new, he/she can ignore the less important stuff until he/she 
+gets the basic meaning
+
+'c'
+I have suggested that the pronunciation is the same as that in IPA - more 
+perhaps later.
+b d f  k l m n p s t v z sound much as in English.
+c sounds much like 'ch' in 'church', j is like 'y'in 'yes', r is 
+rolled/trilled, g is always like 'get'.
+
+In a message dated 2003-01-12 05:05:20 GMT Standard Time, xipirho{at}runbox{dot}com 
+writes:
+
+
+> 
+> looks good, but there still seem to be some hints of europeanness, not 
+> that i personally mind that at all. the words seem easier to remember 
+> than lojban. do you think you could put some of what you wrote (e.g. 
+> word order) in layman's terms for me? - i'm not an IAL expert. is <c> 
+> realy [c] in this systme - seems a bit of an uncommon sound to use 
+> doesnt it (not that i dont like the sound - its very easy to say) and 
+> couldnt it change to [tS] in speach rather too easily?
+> 
+
+
+--part1_14.72c1e7e.2b543ead_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2>glad to have your reply. hope this helps - will put more on the web page to build things up a bit more and explain better<BR>
+sid<BR>
+<BR>
+LAYMAN'S TERMS<BR>
+This applies to Glosa and Glosalist also. I used to know a fair amount of linguist jargon but some that gets bandied about on the list has me flummoxed.<BR>
+In Glosa, English and many other languages the verb/doing word/etc comes in the middle[ish] of the sentence, the subject before it and the object after:- subject[fox] verb[jumps] 'object'[dog]. In Hindi the verb comes last:- fox dog jumps. I found that subject and object gets mixed together in my mind - I prefer SVO. <BR>
+In 'the quick brown fox', the phrase is introduced by 'the' which tells us that we have a noun phrase [subject/object]. The most important word is 'fox' so I'm calling it 'head word'. 'quick' and 'brown' add more meaning/precision to the head word, they modify the meaning.They are modifiers.<BR>
+In Eng or Glosa, I first meet the intro word [very useful] but I now have to read and memorise the next 4 words before I can find the head w. In Eng word 4 [jumps] is clearly a verb so 'fox' is the head. If I am new to E or G, that is not too easy.<BR>
+In my experiment, I have intro [the] head [fox] and then the less important stuff [quick, brown]<BR>
+fox jump dog<BR>
+with the intro words<BR>
+the fox do jump the dog<BR>
+THE FOX quick brown DO JUMP [over] THE DOG lazy<BR>
+? shall consider 'over' is a modifier of 'jump'<BR>
+If someone is new, he/she can ignore the less important stuff until he/she gets the basic meaning<BR>
+<BR>
+'c'<BR>
+I have suggested that the pronunciation is the same as that in IPA - more perhaps later.<BR>
+b d f&nbsp; k l m n p s t v z sound much as in English.<BR>
+c sounds much like 'ch' in 'church', j is like 'y'in 'yes', r is rolled/trilled, g is always like 'get'.<BR>
+<BR>
+In a message dated 2003-01-12 05:05:20 GMT Standard Time, xipirho{at}runbox{dot}com writes:<BR>
+<BR>
+<BR>
+<BLOCKQUOTE TYPE=CITE style="BORDER-LEFT: #0000ff 2px solid; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px; PADDING-LEFT: 5px"><BR>
+looks good, but there still seem to be some hints of europeanness, not <BR>
+that i personally mind that at all. the words seem easier to remember <BR>
+than lojban. do you think you could put some of what you wrote (e.g. <BR>
+word order) in layman's terms for me? - i'm not an IAL expert. is &lt;c&gt; <BR>
+realy [c] in this systme - seems a bit of an uncommon sound to use <BR>
+doesnt it (not that i dont like the sound - its very easy to say) and <BR>
+couldnt it change to [tS] in speach rather too easily?<BR>
+</BLOCKQUOTE><BR>
+<BR>
+</FONT></HTML>
+
+--part1_14.72c1e7e.2b543ead_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_14.72c1e7e.2b543ead_boundary--
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: [glosalist] =?iso-8859-1?Q?Espa=F1ol-Glosa?=
+From: "Marcel Springer" <marcel{at}mspringer{dot}de>
+Date: Fri, 17 Jan 2003 07:50:10 +0100
+
+The word-list from the book "Español - Glosa 1000" by Richard Burrows,
+Wendy Ashby and Ronald Clark, 1992, is now online available:
+
+   http://www.glosa.org/gid/esgl1k.htm .
+
+Many thanks to Wendy Ashby.
+
+A computer-reversed version Glosa-Spanish (not in the book) is:
+
+  http://www.glosa.org/gid/gl1kes.htm .
+
+Like the French list before, this word list needs some (months) work
+yet.  There seem to be again a lot of differences and contradictions
+to the other Glosa word lists (and so to the GID).
+
+Marcel
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] 31ndeveloping tutorial - pgn78
+From: Sydpidd{at}aol{dot}com
+Date: Tue, 21 Jan 2003 13:59:04 EST
+
+adjustments to my tutor:-
+
+
+'Mu pa veni a mi civita in Boreo Dakota'
+
+'mu'     'they'    Subject
+
+'pa'     'did'     verb phrase, start of phrase 
+'veni'   'come'       * main word of phrase
+
+'a'      'to'      Object noun phrase + preposition
+'mi'     'my'           helps main word
+'civita' 'city'       * main word
+'in'     'in'           helps 'dakota'
+'boreo'  'north'          helps next word
+'Dakota' 'Dakota'     helps main word
+
+'pa' introduces the verb phrase and signifies the past tense
+
+The English is next to the Glosa, in vertical 
+columns rather than horizontal ones, the 
+structure in the next one. The reader can 
+ignore the latter, skim through it or pore 
+over it as wished. I rather like this 
+approach myself and would find it helpful 
+in learning Spanish for instance. 
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] 31p IAL collectors
+From: Sydpidd{at}aol{dot}com
+Date: Wed, 22 Jan 2003 09:49:00 EST
+
+something for collectors:-
+'Mu pa veni a mi civita in Boreo Dakota'
+
+lu        they    subject
+va        did     intro verb phrase, past
+gidibi    come     head verb phrase 
+fa        to      object ......
+na        the     intro noun phrase 
+dukifu    city     head noun phrase 
+de        of
+ma        me      helps head NP
+je        and
+da        in
+dakota    Dakota  also helps NP
+gecelu    north    helps preceding word 
+
+= lu va gidibi  fa na dukifu de ma  je da dakota gecelu -
+
+
+stress on penultimate vowel, extra 
+stress on 'di' in gibidi, 
+greatest stress on  'ki' in dukifu
+
+[come  295/2/2  gidibi]
+[city  192/0/19 dukifu]
+[north 281/0/39 gecelu]
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+

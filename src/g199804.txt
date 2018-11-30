@@ -1,0 +1,2282 @@
+
+From: Robin Gaskell
+Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Cc: Robert Petry
+Date: Wed, 12 Nov 97 08:5
+
+At 05:07 PM 3/29/98 -0700, Robert Petry wrote:
+>j joined this list because j am interested i learning about Glosa &
+>slowly building u reading vocabulary. &, when j can devote l time, wish >a
+begin writing more i Glosa. I l meantime j have u question or 2.
+>
+>About 2-3 months ago j obtained u copy of Interglossa. & j was impressed
+>m l "overwhelming" material, both l bulk & l quality d Hogben's work. >So:
+Why did Interglossa never progress much? & why e Glosa seemingly so
+>different d Interglossa? 
+*	Well, Bob Petry raised this and other questions, and these were commented
+on by John Schilke and Paul Bartlett.
+
+	I wish to give my understanding of the situation; but, various aspects of
+the Ig/Glo conundrum were mentioned.  I would comment on:-
+	. the spirit of Interglossa,
+	. The verb systems of Interglossa and Glosa, and 
+	. the Clark-Ashby continuation
+in separate posts. 
+
+The Clark-Ashby Continuation:
+	Bob's questions continue ...
+>    Is this what Hogben had i mind when s approved developing
+>Interglossa? Was Interglossa so faulted k t was not u workable language?
+>Or,was Glosa developed without actually using Interglossa enough to
+>develop it as it was with minor?? improvements as experience was gained
+>with it? &, what principles of Interglossa does Glosa use, or is it an
+>entire "rewrite"? Hope these are appropriate questions.
+>
+*	According to Ron Clark, Hogben was disappointed that his language
+proposal had not been taken up popularly after the war.  But, again
+according to Clark, Hogben recognised that his Pelican publication was more
+of a start, than a complete treatment of the situation, and welcomed
+Clark's interest in the language, and authorised his 'continuation' of the
+work.
+
+	When I met Clark and Ashby in 1977, they had reduced the Hogben "Sentence
+Landscape" (p37 _Interglossa_) of a three-part Part-of-Speech
+system:-
+	(a) All verboids end in  -e.
+	(b) Substantives end in  -a or -i.  Exceptions being two ending in  -o,
+and two ending in -u.
+	(c) Amplifiers end in  -o.
+to one of two parts.
+
+	They had tested Interglossa with learner groups, and were consciously
+trying to make the language more usable.  Hence this reduction to having
+the base Classical root with either an  -a for nouns (called substantives
+by Hogben) or an -o for verbs and modifiers (called amplifiers by Hogben).
+
+	Later in 1977, they had decided to scrap the idea of terminal P-o-S
+markers, altogether, concluding that word order would indicate the function
+of words.  At this stage, it became apparent that there were mainly two
+groups of words in the emerging language, the Classical roots (or
+'substantives') that could function as nouns, verbs or modifiers, and the
+smaller, more primitive function words that indicated time, relationships
+and questions, etc.
+
+	I understood, at that time, that they had declared that any word could
+function, within reason, as any part of speech; and that syntax was the
+basis of the gramatical system.  This meant that the terminal letter was no
+longer a function marker, and, because of this, the words could remain
+truer to their Classical derivation ... as far as terminal letter goes.
+
+	The various other changes that occurred between 1981 and 1992, were all
+arrived at, as a result of testing the language with learner groups; and,
+each change tended towards simplification and standardisation of the
+language.  The getting rid of double letters from the Glosa lexicon, is a
+clear example of the decision process they used. 	Another was the
+generalisation, from Italian, which sounds  'ce'  and  'ci', CHAY and CHEE,
+respectively, to a position where all uses of "c" before a vowel are
+sounded CH.  Thus, in Glosa, 'k' became used for the hard "c" in Latin words.
+
+	In a word or two, I would say that Clark and Ashby moved away from
+Interglossa's formula-base system to derive Glosa with a more natural
+relationship between the words - in which function words lead the user from
+one word to the next ... there being no affixes to guide (or confuse) them.
+
+	Next post: the Verb system.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  [You can add your email
+address after the 'subscribe' message, but this is optional; Majordomo
+reads your email address automatically.]
+	To: majordomo{at}zeta{dot}org{dot}au
+	subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Glosa/Interglossa Was:Re: ...Now: Verb System
+To: GLOSALIST
+Cc: Robert J. Petry
+Date: Wed, 12 Nov 97 10:5
+
+At 05:54 PM 3/29/98 -0800, John Schilke wrote:
+>Dear Bob--
+>	Suffer my writing back in English alone, please.  I have been a 
+>devotee of Glosa, and also (for many years) of Interglossa.  I've met 
+>Ashby and Clark, and found them to be delightful and straightforward.  A 
+>couple of comments:
+>
+*John,
+	I did not know of your long-term experience with Interglossa.  I have not
+had the benefit of this, so am looking at the same change process (Ig -->
+Glo) from a different perspective.  I do not want to appear too
+heavy-handed in my comments supporting the Clark/Ashby revisions, because
+Hogben is not able to defend himself nor demand a right of reply.
+
+	However, I have tried to understand the changes they have made, and their
+sometimes incomprehensible ways of presenting the system they have created.
+ The fact that they have resisted the production of a Glosa Grammar Book
+seems very odd, indeed, until you consider that most of us learnt our First
+Language without resort to one.  They are trying to say that the Glosa
+which they have derived is so "natural" that it doesn't need the confusion
+of an imposed grammatical system; they have, of course, overestimated the
+intuitive powers of the bulk of humanity, and, as Paul Bartlett intimates,
+confused Anglocentrism with 'naturalism' in language.
+	I still feel that Glosa is fairly close to the 'language of thought,' but
+am hiding behind an unprovable hypothesis, here, so should not make this a
+plank in my policy statement.
+
+>On Sun, 29 Mar 1998, Robert J. Petry wrote:
+>> 
+>> About 2-3 months ago j obtained u copy of Interglossa. & j was impressed
+m l
+>> "overwhelming" material, both l bulk & l quality d Hogben's work. So:
+>		I congratulate you on finding a copy of Interglossa.  I 
+>found mine many years ago and have never seen another since.  It is in 
+>tatters, and I'd be happier to have the whole thing on the Net, so that 
+>it could be saved from dissolution!
+*	War-time paper and the Cold War.  We were not going to talk to the
+Ruskies ... nor the Chinks; they were bad guys, and not to be a part of any
+'community' that we were in.  While powerful forces tried to continue the
+arms race after the cessation of hostilities, us good guys were not to have
+any social intercourse with the enemy.  The idea of a World Language was OUT!
+ 
+>> Why did Interglossa never progress much? & why e Glosa seemingly so
+different >>d Interglossa? 
+>		I'm really not at all sure.  From A&C I learned that he gave >them the 
+>go-ahead to make what changes they wanted, but I thought that much got 
+>lost in the process.  For example, the ingenious verb system, though 
+>difficult at first, is really simple and can work after a while spent 
+>learning it.  It is central to Ig, and Glosa is very much different 
+>because of the changes.  They are more than a simplification, though.
+>
+*	Here, after looking again at _Interglossa_ p49, I see a pattern that I
+had not previously constructed into a percept: Hogben, as a mathematician,
+included - probably subconsciously - elements of algebraic thinking into
+his verb system.  Now, in reading the fine print, I deduce that this is
+very abstract stuff: OK for the computer programmers and natural-born
+logicians among us, but not much good for the man down the street, who has
+trouble following the logic in the statement, 4ab means ab + ab + ab + ab.
+Or, more wordily:-
+	jh(b-f)
+	John helps ( Bill not Fred )
+	John helps Bill, but hinders Fred.
+
+	OK, I have attempted to cross an uncrossable boundary, the one from maths
+to semantics, but, so, I fear, has also Hogben.
+
+	Take, for example,  "X tene A Y"  from the list John retyped for the
+Glosalist.
+	=  X  conserves the attribute  A   on behalf of  Y
+
+Possibly,  "Harry tene amo Mary."  in Interglossa translates into English as
+
+	 Harry has affection for Mary.  	
+
+	My feeling is: more work needed.  This is precisely where Ron Clark came
+in: I believe that he perceived Ig to be the most suitable language for
+global scientific intercommunication, but he could see that there were
+rough edges wanting smoothing, and sharp corners in need of rounding.
+
+	Yes, in Glosa it wouldn't be so very different: Harry habe amo pro Mary.
+
+And ~Harry amo Mary.~ [Harry likes Mary.] is alright, while ~Harry fo amo
+Mary.~
+[Harry strongly likes Mary.] would be better, if there really is something
+going.
+
+	The point that I am trying to make here is that with a language lacking
+normal inflections, but having basic P-o-S markers, as does Ig, you are
+pushing it a lot trying to get people to learn an abstract set of
+mathematical relationships in liu of syntax.
+	But ... this mathematical precision, that Hogben built into Interglosa,
+might be the very thing that attracts John and Paul to the 'glos(s)a family
+of languages.
+
+	However, when Clark and Ashby finally decided to take the trend to its
+(logical) conclusion, and form the idea into a language whose phrases were
+totally dependent on syntax for their grammar, then the angularity of Ig
+just would not work.  A formula-based syntax may have worked while there
+were Part-of-Speech markers, but when the language moved over into
+'open-plan' mode,
+where meaning was determined totally by word order, because there were no
+grammatical changes to the words, then there had to be a decision between
+even tighter formulae, or a strengthening of the syntactic basis.
+	Syntax won.
+
+	As a result of my time in Conlang and Auxlang, observing the various
+languages, I have come to the conclusion that there are different
+psychological gearings among people, in relation to the way they enjoy
+language.
+	Some veer towards simplification and the Lowest Common Denominator, as do
+I; others revel in the complications of meaning that can be held in a
+highly inflected word, as is found in the Esperantic system.
+
+	For reasons of the natural distribution of language ability among the
+human population, I have the feeling that the kindest thing to do is to
+encourage, for adoption as the Second Language for Mankind, the language
+that can be used by the maximum number of educable people.  It is for this
+reason that I favour the Glosa 'intuitive, naturalistic' system over the
+'formula -based' system of the parent, Interglossa.  The evidence I quote
+is from English and Chinese, which are both languages that rely on
+intuitive feel, not being rule-based.  While Chinese is uninflected, and
+lacks P-o-S markers, in English, such linguistic features are only
+partially present, and are minimised.
+
+
+>> Is this what Hogben had i mind when s approved developing
+>> Interglossa? Was Interglossa so faulted k t was not u workable language?
+Or,
+>> was Glosa developed without actually using Interglossa enough to develop
+it as
+>> it was with minor?? improvements as experience was gained with it? 
+>		I can't say.  It's my impression that he dropped it 
+>(during the war), even though it apparently did arouse some interest in 
+>Britain, at least.  Perhaps he tired of it or thought better of it.  To 
+>many it might seem very complex (a false impression).  I have seen 
+>criticisms of it that claim he is not a linguist (but then, Zamenhof, 
+>A&C, and Petry never claimed to be, either. :) )
+>
+>>what
+>> principles of Interglossa does Glosa use, or is it an entire "rewrite"? 
+>		Many principles are the same:  no accidence (which is 
+>really what A&C mean when they say "no grammar" (i.e., no changes in 
+>words for grammatical meaning); use of Graeco-Latin word bases (though G 
+>changes spellings); word-order and small particles to mark syntax.  The 
+>most significant change is the loss of Ig's verb system (which I think is 
+>a loss of some magnitude).  It is thus only a partial, but 
+>author-endorsed "rewrite."
+>
+>> Hope these are appropriate questions.
+>		They are, indeed, and I am interested in your impression of 
+>these attempts at answers and your reaction to both Ig and G.
+>
+>Al l sue,
+>John
+>
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  [You can add your email
+address after the 'subscribe' message, but this is optional; Majordomo
+reads your email address automatically.]
+	To: majordomo{at}zeta{dot}org{dot}au
+	subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Glosa/Interglossa Was:Re: .. Now: The Spirit of Ig
+To: GLOSALIST
+Cc: Robert J. Petry
+Date: Thu, 13 Nov 97 12:5
+
+At 10:34 AM 3/30/98 -0500, John Schilke wrote:
+>On Sun, 29 Mar 1998, Robert J. Petry wrote (excerpted):
+>
+>> Why did Interglossa never progress much?
+>
+>    Probably we can only speculate.  Interglossa came out _during_ the
+>Second World War when, shall we say, people had other things on their
+>minds.  Then, after the war, Britain had a lot of rebuilding to do. 
+*	Agreed: Hogben should have published in 1938, and there would have been a
+lot of response.
+
+>      Also, I
+>myself have found the style of the book a little hard to follow.  (Of
+>course, others may not.)
+>
+*	I will agree, that although there is a lot of detail, and it is all there
+if you look for it, the style of writing is a bit dense.  I suspect that it
+was only as a special favour to Hogben that Pelican agreed to publish his
+work during the height of the war; and, I also guess that he was given
+strict limitations on the number of pages he could use - owing to
+governmental restrictions on non-military use of the very limited supplies
+of the thin war-time paper.  The title _Interglossa_ should have been
+followed by _Interglossa - Practice Exercises- and _Interglossa for
+Travellers_, etc; but, I suspect that the lack of support for the language
+combined with the war-time restrictions on civilian publishing dissuaded
+Hogben from pushing for more publications and for the setting up of an
+Interglossa Users' Group.
+
+	Forced to read the "Forward" of _Interglossa_, I find the book described
+as a 'first draft' to 'stimulate fresh thinking.'  Hogben also says, "The
+pages which follow are the agenda for a discussion."  And he claims the
+book was written during 'empty hours of fire-watching in Aberdeen'.  In the
+light of all this, perhaps Glosa is a ''second draft.''
+
+>>                                          & why e Glosa seemingly so
+different d
+>> Interglossa?
+>
+*	Paul Bartlett, especially, suggests that the original "spirit" has been
+somewhat lost on the path to Glosa.
+	In hindsight, I understand Hogben to have forged (the metaphor is to
+metalworking) a ^Brave New Language^ with all the cultural enthusiasm of a
+Tolkein and the art of a Joyce.  However, I also feel that, in his zeal,
+Hogben created a language medium for the supermen who were to emerge from
+war cabinet offices and to return from the "front" after the last bomb
+dropped.
+	However Britain, like most of Europe, had lost many of its 'Supermen' in
+the war, had had the s* kicked out of its infrastructure, also, its
+scientists were scrambling to re-establish their profession, rather than
+looking for new ways to unite scientists, worldwide.  It took Britain
+almost thiry years to bounce back - after the war - to a position where Ron
+Clark felt ready to 'discus' Hogben's 'agenda', and to attempt to distill
+the much awaited international language for scientists.
+	The theme is introduced early in Hogben's December 1942 forword:-
+  "Because natural science is the only existing form of human co-operation
+on a planetary scale, men of science, who have to turn to journals
+published in many languages for necessary information, are acutely aware
+that the babel of tongues is a social problem of the first magnitude.  Men
+of science more than others, have at their finger-tips an international
+vocabulary which is already in existence; and a biologist who looks forward
+to a health-coscious future cannot fail to recognise how popularisation of
+new health standards is daily adding to the stock-in-trade of
+internationally current words in daily use."
+
+	Clark and Ashby were still working towards this super-language for science
+in 1977, and the language was still quite formularised in its word
+relationships ... much as John Schilke reports, " A esthe X Y", etc ... and
+the then "Euro-glossa" was shaping into what I dub 'Scientific-scientific'
+(a language based on the Classical terminology of science, but also using
+joining words from that Classical source - not from a natlang).
+
+	`However!  The big "however" came in 1978, when Clark and Ashby realised
+that they were creating a language that, with a little smoothing, would be
+usable for people who wished to save the planet, generally, and not just
+for those wishing to save it through scientific means.
+
+	Although the changes from that point were subtle and gradual, there was a
+gentle move away from the mathematically formulated view of language
+towards a more natural(istic) organic one ... in which the relationships
+were intended to be more in line with the way the human brain worked, and,
+as such, more human(istic).
+
+	There was a gradual change in linguistic orientation away from the
+mechanical Chomskyan approach to what I now understand as "Functional
+Grammar".  It is this change in linguistic orientation to which, I feel,
+John and Paul are reacting.  For very many people, Glosa is already so
+deficient in mechanisms of redundancy, that it fails to have what they
+consider to be the necessary 'feedback' information ... found in English,
+for example, when "boys run" but a "boy runs".
+
+	So, I have to say that it is my belief that the overstreamlined structure
+of Interglossa - its 'brave new languge' spirit - is ideal for the
+mathematically gifted with a high level of conceptual logic, but requires
+more cerebration, for its use, than is available to the median man.
+
+	In all fairness, and as a matter of urgency, I ask Paul to outline the
+measures he feels necessary for Glosa to be "salvageable."
+
+>    Certainly, the changes fromn Interglossa were due to Ashby and
+>Clark.  As to *why* they made the changes they did, I don't know, never
+>having met them or inquired by mail.  But it seems to me as if they
+>kept some -- not all -- the language but sort of missed its spirit. 
+>That's why I think that both languages had a lot of possibility but
+>that Glosa was not entirely well done.  However, I think it is still
+>salvageable.
+>
+* I ask how!?
+
+>>              Is this what Hogben had i mind when s approved developing
+>> Interglossa?
+>
+>    I suppose you meant "Glosa" here.  I really don't know, as Hogben
+>died over twenty(?) years ago.
+>
+*	I have met Clarke and Ashby, and spoken to them at length, was alive
+during war-time restrictions and the following post-war reconstruction
+period, and have read enough of Hogben's _Interlingua_ Forward to realise
+that he had made his contribution to science with the publication of this
+'draft', leaving the matter open for discussion.  Tha sadness was that
+Clark opened the discussion so late in Hogben's life that there was no
+opportunity for a cross-fertilisation of ideas between the two.
+
+>>              Was Interglossa so faulted k t was not u workable language?
+>>Or, was Glosa developed without actually using Interglossa enough to
+>>develop it as	  [  ....  ]
+>
+>    I wonder how much Clark and Asbhy actually tried using Interglossa
+>themselves. 
+*	I understand that in the period 1972 - 77, before I met them, Ron and
+Wendy had set up experimental groups using the language as they were
+working on it.  As I understand, feedback from these groups led the
+authors, of what was to become Glosa, into changes that put a more 'human'
+face on the language.
+
+>    As John Schilke pointed out, the Interglossa verb system
+>might take a little getting used to, but I think it was a fascinating
+>idea.
+*	And yet, I enjoy doing logic problems because they are a stimulation and
+challenge to the brain.  I do not enjoy Esperanto, because it offers the
+same sort of challenge and stimulation, but I desire from it communication,
+and know that there is a (are) less challenging way(s) of achieving such
+communication.  Analogously, I find the 'softer' streamlining of Glosa less
+of a challenge than that of the excessively elegant Interglossa.
+	While I could learn the inflectional system of Esperanto, and I could
+learn the verb system of Interglossa, I prefer to concentrate on the
+subject matter of what I am saying or writing, rather than on the method of
+delivery.  It is for this reason that I think Glosa is better for
+communication than either Esperanto of Interglossa, because the medium is
+less in the way of communication, than it is in these earlier forms.
+	Is it "-ist" or "politically incorrect" of me to raise the 'I.Q. Factor'
+here?  Auxlangers all have ability above the average [=~ 110 I.Q.], and, as
+such, are better at logical relationships than the 'man/woman in the
+street': we are able to play with language at a higher level of
+sophistication than the (statistical) next man; but does this mean that we
+should craft an auxiliary language to suit ourselves, or to suit the bulk
+of mankind?
+
+  In fact, when I was playing around with a project I called
+>frater2, I more or less imported Hogben's verb system wholesale with
+>the addition of one verb (relating to mental/spiritual activity).  I
+>speculate that Interglossa never really got a good field trial.
+>
+>> it was with minor?? improvements as experience was gained with it? &,
+>>what principles of Interglossa does Glosa use, or is it an entire
+>>"rewrite"?
+>
+>    I wouldn't call Glosa a complete rewrite, but I do consider them
+>separate languages in the sense that Esperanto and Ido are separate
+>languages.
+>
+*	I think it is possible that Interglossa could have had a much more
+general testing, globally, but Hogben's timing was just unfortunate.  None
+of us forsaw the extent of the "Cold War"; and most of us expected, in
+1946, the return of what were known as 'pre-war conditions'.
+	I believe that Clark and Ashby did give Interglossa as fair a trial as
+they could.  When you consided that permission to 'redraft' the language
+was given in 1972, and, by 1977, the language was still on the drawing
+board, with the major modification only a change from the three-inflection
+P-o-S system to a two-part grammar system (V -e; N -a or -i; Mod -o ---> N
+-a; V & Mod -o), I believe that the two 'redrafters' spent five years in
+trying to make Interglossa - renamed Euro-glossa, by this time - work.
+
+	If you go from Hoben's writing of the forward to his book (1942), to the
+realisation on the Internet of Conlang (1991),  that makes it almost half a
+century from the conception of Hogben's dream of something better for
+science, to the gathering of like minds through the marvels of the Net's
+electronic interface, for the formal start of discussion on Hogben dream.
+	Its a slow world we live in.
+
+	Around the 1978 mark, Clark and Ashby had come to the conclusion that
+while the basic principles of Interglossa were sound, they could not
+rationally tweak the Hogben pattern any further: they had reached the stage
+of needing a complete restart based on the Ig principles.  The drawing
+board was wiped clean, and a rebuild was begun.  This might be the time
+that Paul would say the Ig spirit was lost.
+
+>> Hope these are appropriate questions.
+>
+>    Entirely appropriate, I would say.  I have wondered some of these
+>same things myself, as probably have others.
+>
+>Paul                             <pobart{at}access{dot}digex{dot}net>
+*	Maybe we are getting closer to an understanding of what happened.
+
+Saluta,
+ Robin	
+
+
+From: ailanto
+Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Sun, 05 Apr 98 13:1
+
+Wed, 12 Nov 97 08:52:56 EST, Robin Gaskell skribe:
+
+> 	I understood, at that time, that they had declared that any word could
+> function, within reason, as any part of speech; and that syntax was the
+> basis of the gramatical system.  This meant that the terminal letter was no
+> longer a function marker, and, because of this, the words could remain
+> truer to their Classical derivation ... as far as terminal letter goes.
+
+Interesting evolution, that of the POS markers -> simplified POS markers
+-> no POS markers, thereby allowing the concept-word idea, which is one
+of the things that attracted me to Glosa. I still tend towards the idea
+that *any* word can be used as *any* part of speech. Though some words
+fight me on this, insisting that they are, indeed, nouns.
+
+But I think that allowing the words to remain truer to their classical
+derivations brings in further complexities. What about the users who
+lack the classical background? Or even worse, have a background which
+conflicts with *the* classical background?
+
+I saw while analyzing the dictionaries and any Glosa texts I found...
+
+   1) Inconsistencies in the spelling of words which end in a vowel,
+      usually between a/o and e/i. Sometimes even within a dictionary,
+      a word will be spelled in both ways, which leads us to...
+
+   2) Many words differ only in the final vowel (terminal, or within
+      the final syllable). Substitution may create a homonym.
+
+(I'm sorta thinking out loud here, if that can be said of email.)
+I don't want POS marking, both for Simplicity and Euphony. But the lack
+of consistent terminations makes spelling more difficult. What to do?
+
+> The getting rid of double letters from the Glosa lexicon, is a
+> clear example of the decision process they used.
+
+I rather like double letters, but knowing that there are *none* solves
+those situations where I just can't recall whether a letter was doubled
+or not. (One that bites me every time: address. Let's see, was that one
+s or two. Adreso; one. Oh, wait, that's Esperanto. Adress. Yeah, that's
+it. Wait a minute; doesn't look right; better look it up. Again. Doubled
+s, yeah, oh, and doubled d too! Okay, got it.)
+
+> sounded CH.  Thus, in Glosa, 'k' became used for the hard "c" in Latin words.
+
+One letter, one sound. I like that. Except for SC, which I won't mention
+because I like it, and every rule wants one (just one!) exception, and it's
+like Old English (biscop, disc, Englisc, fisc (n), fiscian (v), fiscere (m),
+scip, and the classic: sceat (originally dirt, or soil, haha!))
+
+- salata! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+From: William W Patterson
+Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Sun, 05 Apr 98 13:1
+
+Wed, 12 Nov 97 08:52:56 EST, Robin Gaskell skribe:
+
+> 	I understood, at that time, that they had declared that any word could
+> function, within reason, as any part of speech; and that syntax was the
+> basis of the gramatical system.  This meant that the terminal letter was no
+> longer a function marker, and, because of this, the words could remain
+> truer to their Classical derivation ... as far as terminal letter goes.
+
+Interesting evolution, that of the POS markers -> simplified POS markers
+-> no POS markers, thereby allowing the concept-word idea, which is one
+of the things that attracted me to Glosa. I still tend towards the idea
+that *any* word can be used as *any* part of speech. Though some words
+fight me on this, insisting that they are, indeed, nouns.
+
+But I think that allowing the words to remain truer to their classical
+derivations brings in further complexities. What about the users who
+lack the classical background? Or even worse, have a background which
+conflicts with *the* classical background?
+
+I saw while analyzing the dictionaries and any Glosa texts I found...
+
+   1) Inconsistencies in the spelling of words which end in a vowel,
+      usually between a/o and e/i. Sometimes even within a dictionary,
+      a word will be spelled in both ways, which leads us to...
+
+   2) Many words differ only in the final vowel (terminal, or within
+      the final syllable). Substitution may create a homonym.
+
+(I'm sorta thinking out loud here, if that can be said of email.)
+I don't want POS marking, both for Simplicity and Euphony. But the lack
+of consistent terminations makes spelling more difficult. What to do?
+
+> The getting rid of double letters from the Glosa lexicon, is a
+> clear example of the decision process they used.
+
+I rather like double letters, but knowing that there are *none* solves
+those situations where I just can't recall whether a letter was doubled
+or not. (One that bites me every time: address. Let's see, was that one
+s or two. Adreso; one. Oh, wait, that's Esperanto. Adress. Yeah, that's
+it. Wait a minute; doesn't look right; better look it up. Again. Doubled
+s, yeah, oh, and doubled d too! Okay, got it.)
+
+> sounded CH.  Thus, in Glosa, 'k' became used for the hard "c" in Latin words.
+
+One letter, one sound. I like that. Except for SC, which I won't mention
+because I like it, and every rule wants one (just one!) exception, and it's
+like Old English (biscop, disc, Englisc, fisc (n), fiscian (v), fiscere (m),
+scip, and the classic: sceat (originally dirt, or soil, haha!))
+
+- salata! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+
+From: ailanto
+Subject: u lupus, redux
+To: GLOSALIST
+Date: Sun, 05 Apr 98 17:5
+
+I've gone back over the first few paragraphs, now that I have a larger
+dictionary to work with, and made a few changes. For the curious and/or
+impatient, who want to see where this is (slowly so far) heading, the
+full English text is at...
+
+   http://www.neosplice.com/~ailanto/thewolf.htm
+
+and the Glosa version under construction is at...
+
+   http://www.neosplice.com/~ailanto/ulupus.htm
+
+========
+
+Nuli-tem pa ta sadi kimato e longi-tem hiberna intra plu Francais monti.
+Tem plura setimana un aero pa du klari, alakri e frigi. Tem di, plu mega
+klina nifa kampo pa jace blanka e sine limita, sub u brilianta cerule;
+tem noktu, u luna pa pasa supra mu .. u pusi, sereni, koleri, krista
+luna .. e, epi u nifa, id xanto brila pa esce u no-splendi-ciano; qi pa
+sembla u veri frigi-esentia. Plu rota-via e pedi-via pa es ge-deserta,
+speciali plu ma alti mo, e u demo pa sedi, indole e du grismo intra plu
+vilage kabina. Durante noktu plu fenestra pa fumi-rubi lampa, in u ciano
+luna-lumi; e, ante longi tem, mu pa esce skoto.
+
+Plu regio animala pa experi deino-tem. Poli pusi animala, e plus plu
+avi, pa geli-morta, e mu macia lazaro pa esce ailmenta de falko e lupus.
+Sed plus mu sadi ge-aflikti de frigi e famina. Oligo lupus famili eko in
+regio, e kausa mu deino-tem, mu pa veni ma kon alelo. Durante di mu pa
+more ki solo extra. Ci e la pe pa dromo dia nifa, tenuo, famina e
+alerta, iso sine soni e nosfidi de spektra, an steno umbra glisa para an
+in leuko-lo. An sio tropi an kuspi nasa a venti e sio tenta este plu
+odoro, e uno-tem an dona sika dolo ulula. Sed durante noktu mu pa habitu
+ki kon alelo, e mu tristi plu ulula sio cirkumvicina u plu vilage. Plu
+bovi e galina sin kura sekuri, e plu fusili pa jace in prepara poste
+resista plu fenestra-tegu. Solo ne-freqe u plu lupus pa abili salta ad
+epi kani alo hetero pusi preda, e bi ex grega pre-nu gene ge-fusili.
+
+Pa du kimato. Freqe plu lupus pa para jace kon alelo te tena termo, jace
+e importuna, du tristi auskulta ad morta rura cirka mu, pre pe, pa sensi
+dolo de famina, subito ana salta sin teri rugi. Tem-co pan lupus pa
+tropi mu nasa ad an e trepida; e grega pa subito deino tristi ulula.
+
+Fini-co pusi parta ex grega pa decide ki. Tosto matina mu pa ki ab mu
+plu fora, veni kon alelo, e este ge-anxio e ge-excita krista aero. Po-co
+mu pa ki per rapidi glabro gresi. Plu linqi-pe pa spekta mu per lati
+vitri okuli, poko poste gresi, pa gene no-kinesi, sine kine pusi-tem
+no-decide sta, e adagio versi ad mu plu vaku domi.
+
+Meso-di itinera grega pa skizo, esce bi grega. Tri lupus pa tropi orienta
+ad Swiss Jura, plu resta du ad austra.
+
+...to be continued...
+
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+vi vi vi - The Editor Of The Beast
+
+From: Paul O Bartlett
+Subject: Re: Glosa/Interglossa Was:Re: .. Now: The Spirit of Ig
+To: GLOSALIST
+Date: Sun, 05 Apr 98 14:1
+
+    I will reply to two related small excerpts of Robin's messages.
+I notice that Robin's dates are still off. :-)
+
+On Wed, 12 Nov 1997, Robin Gaskell wrote:
+
+>  The fact that they have resisted the production of a Glosa Grammar Book
+> seems very odd, indeed, until you consider that most of us learnt our First
+> Language without resort to one.  They are trying to say that the Glosa
+> which they have derived is so "natural" that it doesn't need the confusion
+> of an imposed grammatical system; they have, of course, overestimated the
+> intuitive powers of the bulk of humanity, and, as Paul Bartlett intimates,
+> confused Anglocentrism with 'naturalism' in language.
+
+    I have begun to change my thinking slightly in this matter.  It 
+is true that small children do not learn their mother tongue from a
+grammar book.  However, they do learn in a context with both verbal and
+non-verbal feedback from their elders.  It is this lack of context and
+feedback over which I have taken exception to the "Mechanics of Glosa"
+paradigmatic sentence approach.
+
+    But perhaps not all is lost, and it may not be necessary to publish
+a formal grammatical statement for didactic reasons, although I still 
+think that such a statement should be available somewhere.  The
+"Mechanics of Glosa" relies almost entirely on phrases and short
+declarative and interrogative sentences mostly consisting of a single
+clause.  Therefore, the approach does not provide enough context for
+people really to learn how the language operates.
+
+    Perhaps it could be salvageable if there were more numerous and
+longer examples.  Expand the "Mechanics of Glosa" substantially, with
+many more complete utterances of many types.  Add small paragraphs of
+connected text.  Demonstrate word order and use of particles much more
+fully.  Use examples to provide the context that the current method
+lacks.  Do not assume that "everybody knows" automatically how to put
+the words together.  People with widely varying language habits may
+think that certain ways of doing things are "natural," but they will
+differ.  *Demonstrate*, not assume.  With enough of the "Mechanics,"
+people could "learn by doing" without the need for a formal statement
+in teching materials.  I just do not think that the current approach 
+is adequate.
+
+
+On Thu, 13 Nov 1997, Robin Gaskell wrote:
+
+> 	In all fairness, and as a matter of urgency, I ask Paul to outline the
+> measures he feels necessary for Glosa to be "salvageable."
+
+1)  Improve the "Mechanics of Glosa" as I outlined above.
+
+2)  Get rid of the alternate words for the same thing in the
+    vocabulary: one concept, one Glosa word (not one Greek, one
+    Latin, or whatever)!
+
+3)  Remove the inconsistencies in published lists, such as different
+    terminal vowels for the same Glosa word; in some cases, two
+    distinct Glosa words differ _only_ by their terminal vowels, so 
+    the current situation invites mass confusion.
+
+4)  Firm up the basic vocabulary to however many words are needed (my 
+    estimate has been around 2000).
+
+5)  Emphasize strongly to avoid idiomatic constructions.  (I realize 
+    that Robin may disagree with me on this.)  A&C have said themselves 
+    to write in "clear, unidiomatic Glosa" and then have fallen into 
+    idioms themselves (at least in the few copies of Plu Glosa Nota 
+    that I saw).
+
+6)  Improve the publications.  (Ashby&Clark's personal circumstances 
+    are not really relevant.)  Remove the inconsistencies between 
+    publications.  Relatively small, inexpensive booklets are still 
+    a good idea, but I do not consider the present ones adequate.
+
+7)  Get Clark&Ashby to sign off on the improvements, unless they are 
+    willing to do like Zamenhof with Esperanto and put Glosa in the 
+    public domain.  (Above all, do not try to do as Schleyer did with 
+    Volapük.)
+
+8)  Get the word out better (however this may be done.)
+
+9)  Start using Glosa (which I admit that I have not done too much 
+    of myself).
+
+    I have said before that I consider Glosa to be a generally good
+idea.  I still do.  It's just that I do not think that it has been 
+presented as effectively as it might.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: ailanto
+Subject: U Lupus - A Bit More
+To: GLOSALIST
+Date: Sun, 05 Apr 98 23:2
+
+Meso-di itinera grega pa skizo, esce bi grega. Tri lupus pa tropi
+orienta ad Swiss Jura, plu resta du ad austra. U tri pa es boni forti
+animala, sed deino tenuo. Mu konkavi no-fusko ventra pa angusti homo
+stropo; mu skeli miseri toru; mu ora aridi e opti distende e famina.
+Mu profundi pa ki in u Jura. Tem de deutero di mu kopto ovis; tem de
+tertia, kanis e equs-fili. Omni peri mu, infuria plu rustika-pe pa
+komence casa u lupus. Timi de no-sole intrude-pe pa difusi dia plu urba
+e vilage de u regio. Plu posta-sledo pa fero fusili; ne-pe sine arma pa
+ki ex u vilage ad hetero vilage.
+
+Post tali boni fortuna, u tri lupus pa este simul kontenta e no-certe in
+aliena peri-lo.
+
+...to be continued...
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+Quit thinking about koans. Learn how to go to sleep and wake up.
+
+From: William W Patterson
+Subject: u lupus, redux
+To: GLOSALIST
+Date: Sun, 05 Apr 98 17:5
+
+I've gone back over the first few paragraphs, now that I have a larger
+dictionary to work with, and made a few changes. For the curious and/or
+impatient, who want to see where this is (slowly so far) heading, the
+full English text is at...
+
+   http://www.neosplice.com/~ailanto/thewolf.htm
+
+and the Glosa version under construction is at...
+
+   http://www.neosplice.com/~ailanto/ulupus.htm
+
+========
+
+Nuli-tem pa ta sadi kimato e longi-tem hiberna intra plu Francais monti.
+Tem plura setimana un aero pa du klari, alakri e frigi. Tem di, plu mega
+klina nifa kampo pa jace blanka e sine limita, sub u brilianta cerule;
+tem noktu, u luna pa pasa supra mu .. u pusi, sereni, koleri, krista
+luna .. e, epi u nifa, id xanto brila pa esce u no-splendi-ciano; qi pa
+sembla u veri frigi-esentia. Plu rota-via e pedi-via pa es ge-deserta,
+speciali plu ma alti mo, e u demo pa sedi, indole e du grismo intra plu
+vilage kabina. Durante noktu plu fenestra pa fumi-rubi lampa, in u ciano
+luna-lumi; e, ante longi tem, mu pa esce skoto.
+
+Plu regio animala pa experi deino-tem. Poli pusi animala, e plus plu
+avi, pa geli-morta, e mu macia lazaro pa esce ailmenta de falko e lupus.
+Sed plus mu sadi ge-aflikti de frigi e famina. Oligo lupus famili eko in
+regio, e kausa mu deino-tem, mu pa veni ma kon alelo. Durante di mu pa
+more ki solo extra. Ci e la pe pa dromo dia nifa, tenuo, famina e
+alerta, iso sine soni e nosfidi de spektra, an steno umbra glisa para an
+in leuko-lo. An sio tropi an kuspi nasa a venti e sio tenta este plu
+odoro, e uno-tem an dona sika dolo ulula. Sed durante noktu mu pa habitu
+ki kon alelo, e mu tristi plu ulula sio cirkumvicina u plu vilage. Plu
+bovi e galina sin kura sekuri, e plu fusili pa jace in prepara poste
+resista plu fenestra-tegu. Solo ne-freqe u plu lupus pa abili salta ad
+epi kani alo hetero pusi preda, e bi ex grega pre-nu gene ge-fusili.
+
+Pa du kimato. Freqe plu lupus pa para jace kon alelo te tena termo, jace
+e importuna, du tristi auskulta ad morta rura cirka mu, pre pe, pa sensi
+dolo de famina, subito ana salta sin teri rugi. Tem-co pan lupus pa
+tropi mu nasa ad an e trepida; e grega pa subito deino tristi ulula.
+
+Fini-co pusi parta ex grega pa decide ki. Tosto matina mu pa ki ab mu
+plu fora, veni kon alelo, e este ge-anxio e ge-excita krista aero. Po-co
+mu pa ki per rapidi glabro gresi. Plu linqi-pe pa spekta mu per lati
+vitri okuli, poko poste gresi, pa gene no-kinesi, sine kine pusi-tem
+no-decide sta, e adagio versi ad mu plu vaku domi.
+
+Meso-di itinera grega pa skizo, esce bi grega. Tri lupus pa tropi orienta
+ad Swiss Jura, plu resta du ad austra.
+
+...to be continued...
+
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+vi vi vi - The Editor Of The Beast
+
+
+From: William W Patterson
+Subject: U Lupus - A Bit More
+To: GLOSALIST
+Date: Sun, 05 Apr 98 23:2
+
+Meso-di itinera grega pa skizo, esce bi grega. Tri lupus pa tropi
+orienta ad Swiss Jura, plu resta du ad austra. U tri pa es boni forti
+animala, sed deino tenuo. Mu konkavi no-fusko ventra pa angusti homo
+stropo; mu skeli miseri toru; mu ora aridi e opti distende e famina.
+Mu profundi pa ki in u Jura. Tem de deutero di mu kopto ovis; tem de
+tertia, kanis e equs-fili. Omni peri mu, infuria plu rustika-pe pa
+komence casa u lupus. Timi de no-sole intrude-pe pa difusi dia plu urba
+e vilage de u regio. Plu posta-sledo pa fero fusili; ne-pe sine arma pa
+ki ex u vilage ad hetero vilage.
+
+Post tali boni fortuna, u tri lupus pa este simul kontenta e no-certe in
+aliena peri-lo.
+
+...to be continued...
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+Quit thinking about koans. Learn how to go to sleep and wake up.
+
+
+From: ailanto
+Subject: U Lupus, continued...
+To: GLOSALIST
+Date: Wed, 15 Apr 98 23:5
+
+I've updated the dictionary files. Nothing major - just a few tweaks.
+
+And here's the latest installment of U Lupus...
+
+========
+
+Post tali boni fortuna, u tri lupus pa este simul kontenta e no-certe
+in aliena peri-lo. No-kompasa de mu pra-du akti in eko-regio, plu lupus
+durante di igresi vaka-plutea. Mugi de vaka, frakaso de ligni pile,
+klamoro de ungula, e kalido famina pneumo de lupus satura talpo pusi
+domi. Sed popula tem-co reakti. Premiu pra-du positi epi plu lupus, e
+u-la pa inkoragio plu viki-pe. Mu pa kopto lupus per boleta dia kola,
+e deutero lupus per peleki. Lupus tri pa eskapa e kursi e kursi e kade
+demi-morta in nifa. An pa maxi juveni e kalisto lupus; tarqini bestia;
+forti e gratioso. Long-tem an pa jace e astma. Hemato-rubi plu anula
+pa strobo ante an plu opti, e an pa dolo geme. Peleki pra impinge an
+dorsa. Anti-co an pa manea sta, e solo tem-co an vide u dista qi an
+pra kursi. In panorama pa existe ni popula ni kasa. Nivi-stratu
+bu-monti pa kumbe ante u lupus: u Chasseral. An pa decide cirkumfera
+u monti. Gene ge-tortura ex dipso, u lupus pa mangia plura fragmenta
+de adamanti kristali nifa.
+
+   ...to be continued...
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+You are in a little maze of twisting passages, all different.
+
+From: William W Patterson
+Subject: U Lupus, continued...
+To: GLOSALIST
+Date: Wed, 15 Apr 98 23:5
+
+I've updated the dictionary files. Nothing major - just a few tweaks.
+
+And here's the latest installment of U Lupus...
+
+========
+
+Post tali boni fortuna, u tri lupus pa este simul kontenta e no-certe
+in aliena peri-lo. No-kompasa de mu pra-du akti in eko-regio, plu lupus
+durante di igresi vaka-plutea. Mugi de vaka, frakaso de ligni pile,
+klamoro de ungula, e kalido famina pneumo de lupus satura talpo pusi
+domi. Sed popula tem-co reakti. Premiu pra-du positi epi plu lupus, e
+u-la pa inkoragio plu viki-pe. Mu pa kopto lupus per boleta dia kola,
+e deutero lupus per peleki. Lupus tri pa eskapa e kursi e kursi e kade
+demi-morta in nifa. An pa maxi juveni e kalisto lupus; tarqini bestia;
+forti e gratioso. Long-tem an pa jace e astma. Hemato-rubi plu anula
+pa strobo ante an plu opti, e an pa dolo geme. Peleki pra impinge an
+dorsa. Anti-co an pa manea sta, e solo tem-co an vide u dista qi an
+pra kursi. In panorama pa existe ni popula ni kasa. Nivi-stratu
+bu-monti pa kumbe ante u lupus: u Chasseral. An pa decide cirkumfera
+u monti. Gene ge-tortura ex dipso, u lupus pa mangia plura fragmenta
+de adamanti kristali nifa.
+
+   ...to be continued...
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+You are in a little maze of twisting passages, all different.
+
+
+From: Robin Gaskell
+Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Sat, 01 Nov 97 20:0
+
+At 01:12 PM 4/5/98 EDT, Bill Patterson skribe:
+>Wed, 12 Nov 97 08:52:56 EST, Robin Gaskell skribe:
+>
+>>    [  ......  ]   This meant that the terminal letter was no
+>> longer a function marker, and, because of this, the words could remain
+>> truer to their Classical derivation ... as far as terminal letter goes.
+>
+>Interesting evolution,   [  .....  ]   I still tend towards the idea
+>that *any* word can be used as *any* part of speech. Though some words
+>fight me on this, insisting that they are, indeed, nouns.
+>
+*	For reasons of pedantry, it seems necessary to add the " .. within
+reason, ... " condition: some words really are only ever going to be nouns,
+others only ever prepositions, etc.
+
+>But I think that allowing the words to remain truer to their classical
+>derivations brings in further complexities. What about the users who
+>lack the classical background? Or even worse, have a background which
+>conflicts with *the* classical background?
+>
+*	The trouble comes from those who KNOW what it should be, not from those
+who don't.  The square head who declares that a particular word should end
+in an "i", and finds it, instead, with an "e" rejects Glosa for its
+historical inaccuracies; people with no Classical background, will, simply
+take thew word as it appears in the Glosa dictionary [[and will be happy as
+long as each dictionary reference to the word is consistent]].  However ...
+
+>I saw while analyzing the dictionaries and any Glosa texts I found...
+>
+>   1) Inconsistencies in the spelling of words which end in a vowel,
+>      usually between a/o and e/i. Sometimes even within a dictionary,
+>      a word will be spelled in both ways, which leads us to...
+>
+*	Such inconsistencies would have been avoided had the original
+dictionaries been compiled from electronic databases.  The original lists
+were compiled, however, by hand, using typewriters.  Thus, now .. that
+computers are being applied to the job .. we can clean up former duplicate
+spellings, and settle on the one (most) correct spelling for each word that
+might have different spellings in different dictionaries, or in different
+parts of the same dictionary.  From the research point of view, the authors
+were actively experimenting with the spelling of words, and, over time,
+some words did vary - maily in the terminal vowel.  Using hand editing, it
+is not surprising that some words, whose spelling was revised, were not
+corrected in all of their listings.
+
+>   2) Many words differ only in the final vowel (terminal, or within
+>      the final syllable). Substitution may create a homonym.
+>
+*	The different spellings are not substitutions: now that Glosa is
+congealing into a regular language, we have to label the non-preferred
+versions as "mistakes."  But, around the early 1980's the authors
+"deregulated" the use of the final vowel to see how things would shake
+down, and glosa-pe were free to select the vowel that seemed right for
+them.  I consider this to have been a legitimate research ploy - then -
+though the concept of 'floating' spelling might be incomprehensible to us,
+now.  So, now, we have a few loose ends to tie up: this is the time for
+standardisation of Glosa's spelling, with an overall guide for the
+selection of terminal vowels for words, and another rule for the decision
+on words that computer sorting reveals to have two, or more ways of being
+spelt.
+	The decision to "re-regulate" the spelling was taken because some elements
+of the Classical lexicon were found to be very close, differing
+only in the terminal vowel.
+
+>(I'm sorta thinking out loud here, if that can be said of email.)
+>I don't want POS marking, both for Simplicity and Euphony. But the lack
+>of consistent terminations makes spelling more difficult. What to do?
+>
+*	Obviously, the "mistakes" have to be rectified as the "re-regulated" 
+spelling is neatened up around the edges.  Finding alternative spellings
+for the same word annoys both the pedants and those who are linguistically
+naive.
+ 
+>> The getting rid of double letters from the Glosa lexicon, is a
+>> clear example of the decision process they used.
+>
+>I rather like double letters, but knowing that there are *none* solves
+>those situations where I just can't recall whether a letter was doubled
+>or not. (One that bites me every time: address. Let's see, was that one
+>s or two. Adreso; one. Oh, wait, that's Esperanto. Adress. Yeah, that's
+>it. Wait a minute; doesn't look right; better look it up. Again. Doubled
+>s, yeah, oh, and doubled d too! Okay, got it.)
+>
+*	Actually, because English features both short and long vowels, the double
+letters had a very clear function in allowing the shortenning of vowels
+that were not in the penultimate spot, EG 'fat'; 'fattening'.  They also
+functioned to stress the doubled consonant, EG 'his'; 'hiss'.  You can
+never misspell "address" again when you realise that this particular word
+demonstrates both of these rules!
+	Glosa, of course, has standardisation in the pronunciation of both vowels
+and consonants, and so, such rules, as exist in English, have no relevance:
+thus a reason for the doubling of letters does not exist.
+
+>> sounded CH.  Thus, in Glosa, 'k' became used for the hard "c" in Latin
+words.
+>
+>One letter, one sound. I like that. Except for SC, which I won't mention
+>because I like it, and every rule wants one (just one!) exception, and it's
+>like Old English (biscop, disc, Englisc, fisc (n),  [  .....  ]
+*	This is possibly the short end of standardisation of
+spelling/pronunciation: both the soft "J" of 'jump' and the soft compound
+"SH" of 'fish' got lost in the shuffle.  In Glosa ~sc~ is pronounced as two
+sounds "S-CH", both hard, while ~sk~ is more fluid, with the two hard
+sounds running together to make "SK" as in the English word, "sky".
+
+	While you like "fish" and "ships", I enjoy a "jolly" "jump"; time could
+possibly tell if these losses are too much to pay for the standardisation
+of spelling and pronunciation.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Glosa/Interglossa  .. Now: The Spirit of Ig
+To: GLOSALIST
+Date: Tue, 14 Apr 98 08:5
+
+At 02:17 PM 4/5/98 -0400, Paul Bartlett wrote:
+>    I will reply to two related small excerpts of Robin's messages.
+>I notice that Robin's dates are still off. :-)
+>
+*	Finally tracked down a copy of Eudora Ver 3, and now have a Registered
+copy on my computer, not a 'timed-out' Demo: I should be back in the
+present, now!
+
+>On Wed, 12 Nov 1997, Robin Gaskell wrote:
+>
+>>  The fact that they have resisted the production of a Glosa Grammar Book
+>> seems very odd,     [  .................  ]
+>>                  they have, of course, overestimated the
+>> intuitive powers of the bulk of humanity, and, as Paul Bartlett intimates,
+>> confused Anglocentrism with 'naturalism' in language.
+>
+*	Re 'intuitiveness': I now believe that most people need lots of good
+examples so they can learn by observation and imitation: those who will
+readily pick up the rhythms and essence of Glosa are not necessarily the
+ones who are academically 'good at languages.'
+	Re Anglocentrism: Glosa really does have to break out of the English-
+language community so that this matter may be "tested" through its
+widespread use among people with no, or little, English.
+
+>    I have begun to change my thinking slightly in this matter.  It 
+>is true that small children  [  ..........  ]   do learn in a context with
+>both verbal and
+>non-verbal feedback from their elders.  It is this lack of context and
+>feedback over which I have taken exception to the "Mechanics of Glosa"
+>paradigmatic sentence approach.
+>
+*	Agreed a much fuller treatment is needed - we wouldn't go too far astray
+if we followed the format of _Teach Yourself Esperanto_.	 Many more graded
+examples are needed!
+
+>    But perhaps not all is lost, and it may not be necessary to publish
+>a formal grammatical statement for didactic reasons, although I still 
+>think that such a statement should be available somewhere. 
+*	Agreed, this ought to be available, in spelt-out form, for those who
+demand it: and, it should also be available in "quick reference" form for
+normal users, who want to check their usage.
+ 
+>The "Mechanics of Glosa" relies almost entirely on phrases and short
+>declarative and interrogative sentences mostly consisting of a single
+>clause.  Therefore, the approach does not provide enough context for
+>people really to learn how the language operates.
+>
+*	This matter of the missing context could be the stumbling block of
+Glosa.  Short segments: "In the home," "At the office," "On the train," etc,
+would fill out the usage of the language.  Such things could be sorted out,
+here on the Glosalist: were one of us to submit a mini-script of, say, a
+conversation in an office, then others could ammend it, as they think will
+improve it as a piece of pseudo-context; and subsequently, by concensus, a
+final version emerges.
+
+>    Perhaps it could be salvageable if there were more numerous and
+>longer examples.  Expand the "Mechanics of Glosa" substantially, with
+>many more complete utterances of many types.  Add small paragraphs of
+>connected text.  Demonstrate word order and use of particles much more
+>fully.  Use examples to provide the context that the current method
+>lacks.  Do not assume that "everybody knows" automatically how to put
+>the words together.  People with widely varying language habits may
+>think that certain ways of doing things are "natural," but they will
+>differ. 
+*	Thank you Paul for spelling it out; I am sorry that I did not see this
+before, but you are quite right: the shortage of news items in "PGN", by
+people other than the authors, attests to the difficulty people find in
+getting started with Glosa.
+
+> *Demonstrate*, not assume.  With enough of the "Mechanics,"
+>people could "learn by doing" without the need for a formal statement
+>in teaching materials.  I just do not think that the current approach 
+>is adequate.
+>
+*	The present "18 Steps to Euroglosa" is the main teaching vehicle; perhaps
+a range of different materials using different approaches is now overdue.
+>
+>On Thu, 13 Nov 1997, Robin Gaskell wrote:
+>
+>> 	In all fairness, and as a matter of urgency, I ask Paul to outline 
+>> the measures he feels necessary for Glosa to be "salvageable."
+>
+>1)  Improve the "Mechanics of Glosa" as I outlined above.
+*	Yes, such texts of the language used in different contexts would need to
+be available in paper (mailable) form, as well as on the Net.  If Glosa-pe 
+wrote out a text of dialogue, or gave some other example of Glosa being
+used, in their particular area of interest, we should soon build up a sheaf
+of context examples
+
+>2)  Get rid of the alternate words for the same thing in the vocabulary. [.]
+*	For the 'Beginners Dictionary' this does seem best.
+    
+>3)  Remove the inconsistencies in published lists, such as different
+>    terminal vowels for the same Glosa word;  [  ......  ]
+*	A must.  Some find such inconsistencies intolerable, causing them to
+discontinue learning Glosa.
+
+>4)  Firm up the basic vocabulary to however many words are needed ( ~2000).
+*	A practical list, as you are defining on Auxlang, will give learners
+sufficient words to practice their usage.  Personally, I found the Glosa
+1000 list too limiting, so the actual size of a comfortable, working
+"beginners'"	
+vocabulary probably should be open to discussion.
+
+>5)  Emphasize strongly to avoid idiomatic constructions.  (I realize 
+>    that Robin may disagree with me on this.)  [  ..........  ]
+*	If this is necessary to get people comfortable with Glosa, I agree, and
+have agreed, in principle, from the start.  However, the full language will
+be felt to be 'sterile' without the development of a non-literal component.
+ In Auxlang, I was arguing for a facility whereby idiom and
+culture-specific metaphor can be marked as ^non-literal^, when the writer
+feels the need to use them - for emotional impact, or when they are
+included in reported speech.
+
+>6)  Improve the publications.  (Ashby&Clark's personal circumstances 
+>    are not really relevant.)  Remove the inconsistencies between 
+>    publications.  Relatively small, inexpensive booklets are still 
+>    a good idea, but I do not consider the present ones adequate.
+*	This could be a call for the Glosa-pe to "support their language" by
+submitting news items and other articles for inclusion in the PGN.  It
+might also indicate that we can submit other publications to the authors
+for inclusion in the Glosa Publications Catalogue: I for example, have got
+bogged down at three stories, when I should be churning out Glosa
+retellings of children's stories at one a month ... for "Plu Histori pro
+Ju-pe."
+	Paul, I would appreciate your list of prospective titles that would
+^pepper up^ the catalogue of "inexpensive booklets."
+
+>7)  Get Clark&Ashby to sign off on the improvements, unless they are 
+>    willing to do like Zamenhof with Esperanto and put Glosa in the 
+>    public domain.  (Above all, do not try to do as Schleyer did with 
+>    Volapük.)
+*	As far as I know, the language has reached its base-mark.  
+The Public Domain:-
+	. The Glosalist is a strong move in this direction.
+	. My writing of children's stories was an attempt to widen the base away
+from technical writing.
+	. The scanning of the 6000 dictionary, and the subsequent reversing of
+entries, from Gl-->Eng to Eng-->Gl, was an attempt to standardise spelling
+and dictionary entries.
+	. Bill Patterson's continuation with the dictionary rationalisation works
+towards making the dictionaries Public.
+	. Your work in deriving the standard Auxlang word list is a guide we
+should aim to conform with.
+	. Use of Glosa in the field ... should call in volunteers to correspond
+with people in the Third World, who are ^putting their stamp on^ Glosa usage.
+	. As more people contribute towards the development of the language and
+its literature, then we will continue the move over into the Public Domain.
+
+>8)  Get the word out better (however this may be done.)
+*	This is the hardest to solve.  As media become syndicated and
+centralised, and as dangerous concepts like "economic rationalism" and
+"political correctness" gain currency, the idea of World Community becomes
+unpopular.  In theory, the Internet should provide the route to the world ...
+but, then, we still have the English language barrier to overcome, as you
+have mentioned before.
+
+>9)  Start using Glosa.  [  .......  ]  
+*	This does seem the clue; and the preparation of suitable demonstrations
+of Glosa, in use, would appear to precede this!  So, less writing in
+English - about Glosa - and more writing in Glosa, seems the order of the day.
+
+>    I have said before that I consider Glosa to be a generally good
+>idea.  I still do.  It's just that I do not think that it has been 
+>presented as effectively as it might.
+>
+>Paul                             <pobart{at}access{dot}digex{dot}net>
+*	Thanks for seeing the ^wood^ even though some of the ^trees^ might get in
+the way, and others might be short of branches.
+	Have others on this list suggestions of what they would like to see as
+part of Glosa's presentation?
+	Please ponder on it, and submit your ponderings.
+
+Saluta,
+ Robin
+
+
+From: Robin Gaskell
+Subject: Re: U Lupus - A Bit More*** ~no~
+To: GLOSALIST
+Date: Wed, 15 Apr 98 23:2
+
+At 11:29 PM 4/5/98 EDT, Bill Patterson wrote:
+>	[  .............  ]
+>komence casa u lupus. Timi de no-sole intrude-pe pa difusi dia plu urba
+>e vilage de u regio. Plu posta-sledo pa fero fusili; ne-pe sine arma pa
+>ki ex u vilage ad hetero vilage.
+>
+>Post tali boni fortuna, u tri lupus pa este simul kontenta e no-certe in
+>aliena peri-lo.
+>
+*	Saluta,
+Mi fu komenta in England-lingua koncerne u negativi.
+
+1. Should ~Timi de no-sole intrude-pe .. ~ be `Timidi, no-sole intrude-pe ..`?
+ = "Timidly, unaccustomed intruders .. "
+
+2. Should ~ne-pe sine .. ~ be `nuli-pe sine ... ` or ^no-pe sine .. ^?
+ = "no-one without .. "
+
+3. I question the syntax of ~simul~.  It is in the 'normal' place for English,
+but, in Glosa, should it 'lead up to' the verb, by going before it ...
+funtioning here more as an adverb, than as an auxiliary verb?  
+
+  ~u tri lupus pa este simul kontenta e no-certe .. ~  
+OR
+  `u tri lupus pa simul este kontenta e no-certe .. `
+
+ = "the three wolves simultaneously felt content and uncertain .. "
+ ------------------------
+	However, it was mainly about the use of negatives, in Glosa, that I wished
+to comment.  The Glosa NO- words don't always seem to match up with our 
+beloved English-language ones.
+	Glosa  ....  English
+	ne  .......  do not  ___________  used with verbs
+	??  .......  un-   _____________  the opposite of the action of a verb  
+        no-  ......  un-  ______________  used with modifiers and nouns(?)
+	nuli  .....  nothing
+	nuli-  ....  no-  ______________  used with nouns
+	nuli-lo  ..  nowhere
+	nuli-tem  .  never
+	nuli-pe  ..  no-one OR a nothing person(?)
+	No!  ......  No!  ______________  opposition, a definite negative 
+	No.  ......  No.  ______________  an answer in the negative
+	zero  .....  nil, mathematical nothingness
+	zero-pe  ..  no-one, devoid of persons
+	zero-ra  ..  nothing OR nothingness
+	ni X ni Y  . neither X nor Y
+ 	retro-  ...  reverse  __________  used with verbs: to act in reverse
+ 
+Perhaps, Bill, you have already commented on the need for maybe one or two
+more forms of the negative. 
+Possibly "NON"  
+	non-  .....  un-, non-  _________  possibly before nouns and modifiers
+
+What do Subscribers think?  Are there other potential negatives, for Glosa,
+waiting in tne wings?
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Note from Uganda (PGN)
+To: GLOSALIST
+Date: Wed, 15 Apr 98 21:2
+
+Mi Plu Amika,
+	Ci es un itema ex Plu Glosa Nota #82.  Id pa gene ge-grafo ex Herbert
+Banobi de u Monta Gorila Parka (RUGGOTEC).  Plura de vi probabili pa lekto
+id pre nu: u nota tenu u numera de punkta de interese.
+
+''
+GLOSA IN UGANDA
+	Nu mi es itera in Uganda e mi doxo; na nece ma promoti Glosa; 
+tende klu ma poli civi peri munda ski na mira lingua.
+	U Glosa Centra de RUGGOTEC progresi boni.  (Vide PGN 75 & 77 ed)
+Plu komunita membra pa merka 3 akra (acre) de tera; e po-co, pa tekto u
+a loka duce-via.  Un area pa gene klari e fosi te dona space pro u domi 
+e peri id na fu kultiva plu dendro.  U centra nu es un NGO (Non Governo
+Organisati).  Na pa protopublika id ci in Uganda e in extra-landa.
+	In Januari mi pa duce u proto stude-setimana.  Sixa con-ergo-pe 
+pa auxi mi kon u-ci e na pa grafo un idio sko-bibli pro u-ci ergo.
+	U-ci anua u tekto de u duce domi pa proto; e plus-co, pe pa proto doci
+Glosa in sko-do fo proxi RUGGOTEC.
+	Mo dura problema es; na ne habe sati valuta.  Anti-co, na gradu progresi e
+na dice gratia a GEO e panto Glosa-ami qi pa bali a na valuta,
+plu Glosa bibli e plu stimula grama.
+	A-nu 26 regio habe plu membraqi es fo zelo e volu auxi difusi 
+Glosa; RUGGOTEC es u centra de info e aktivi pro u-ci ergo.
+	Itera, mi dice mega gratia a panto Glosa ami; e place dura auxi 
+na.  Poli kardia saluta ex
+	   Herbert Banobi, Uganda ''
+
+ -----------------------------------------------------
+"mi es itera in Uganda" - elsewhere in PGN 82 is a photo of Herbert and
+Wendy   together in Italy.
+"na mira lingua" - Herbert thinks Glosa is pretty good.
+"RUGGOTEC" - an enterprising initiative: with government encouragement,
+Herbert and friends have set up a park where tourists can see the famous
+Mountain Gorillas, where .. coincidentally .. they might also learn about
+Glosa (signs, publications, Gorilla information in Glosa, etc).
+"pa merka 3 akra" - amid crushing poverty have organised enough money to 
+  buy land.
+"pa tekto u via" - actually being practical.
+"space pro u domi" - to run RUGGOTEC, I presume.
+"U centra nu es un NGO" - if this means it is a governmentally registered 
+  NGO, then well-wishers from the affluent countries can send in moribund
+technical equipment without incurring the otherwise prohibitive import
+duties.
+"publika id ci in Uganda e extra-landa" - organised enough to publish their 
+  work globally.
+"In januari mi pa duce u proto stude-setimana." - have run a week's course
+on   Glosa.
+"pa grafo un idio sko-bibli pro u-ci ergo." - a group wrote their own
+instruction manual for the Glosa course.
+"pa proto doci Glosa in sko-do fo proxi RUGGOTEC" - regular lessons near the 
+  Gorilla Park.
+"na ne habe sati valuta. Anti-co na gradu progresi" - getting results, with
+  help from outside, despite real poverty in Uganda.
+"A-nu 26 regio habe plu membra" - Uganda has more regional Glosa groups than 
+  Glosalist has subscribers.
+"qi es fo zelo" - not just 'a little bit' "zelo."
+"RUGGOTEC fu es u centra de info e aktivi pro u-ci ergo" - and maybe a
+world   centre for Glosa, one day.
+"place dura auxi na" - I take this exhortation personally.
+
+ &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+So beautifully written, too: I understood every word, and there were no
+concept clusters.
+My comments, above, are understated.
+We affluents discuss Glosa academically, while the impoverished embrace it
+whole-heartedly.
+
+If I could afford to migrate to the Mountain Gorilla Park, to-morrow, I would.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: ailanto
+Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Thu, 16 Apr 98 23:0
+
+Sat, 01 Nov 97 20:05:47 EST, Robin Gaskell skribe:
+
+> *	Such inconsistencies would have been avoided had the original
+> dictionaries been compiled from electronic databases.  The original lists
+> were compiled, however, by hand, using typewriters.
+
+Oooooohhh, yecch! As nostalgic as I get at times, that's one thing
+I do *not* miss. I always liked typewriters because they made my
+writings look so much better, but oh the sadness I felt when well
+into a page and suddenly realizing that I'd spelt 'adress' again a
+few lines back. But I still think carbon paper was pretty cool.
+
+> *	The different spellings are not substitutions: now that Glosa is
+> congealing into a regular language, we have to label the non-preferred
+> versions as "mistakes."  But, around the early 1980's the authors
+> "deregulated" the use of the final vowel to see how things would shake
+> down, and glosa-pe were free to select the vowel that seemed right for
+> them.  I consider this to have been a legitimate research ploy - then -
+> though the concept of 'floating' spelling might be incomprehensible to us,
+> now.
+
+I like that idea. How did it turn out? Did any significant trends emerge?
+I wonder if two of the words for 'snow' came from this period: nifa & nivi.
+
+I confess that due to my Esperanto background I have to fight the tendency
+to end nouns with -o and adjectives with -a. But I do like 'noktu'.
+
+If there were no pairs of words that differed only in the terminal vowel,
+then it wouldn't matter what terminal vowel was used; though a good choice
+of terminal vowels might help differentiate words which would otherwise
+sound too similar. Like the 'nifa' and 'nivi' I mentioned above, though
+that's a pretty bad example because they *do* mean the same thing. But
+'nif' and 'niv' would be harder to distinguish than, say, 'nifa' and 'nivi'.
+
+> So, now, we have a few loose ends to tie up: this is the time for
+> standardisation of Glosa's spelling, with an overall guide for the
+> selection of terminal vowels for words, and another rule for the decision
+> on words that computer sorting reveals to have two, or more ways of being
+> spelt.
+
+What sort of guide for the selection of terminal vowels? Perhaps data
+from the period of deregulation would be helpful here. What did people
+prefer?
+
+> *	This is possibly the short end of standardisation of
+> spelling/pronunciation: both the soft "J" of 'jump' and the soft compound
+> "SH" of 'fish' got lost in the shuffle.  In Glosa ~sc~ is pronounced as two
+> sounds "S-CH", both hard, while ~sk~ is more fluid, with the two hard
+> sounds running together to make "SK" as in the English word, "sky".
+
+But the Glosa Basic Reference says "SC as the 'sh' sound in neSCience",
+and my dictionary says that's pronounced "nesh'i-ens". Perhaps GLOSAREF
+is speaking here of older Glosa? Paul? Help! Robin's unexcepting my
+exception!
+
+> While you like "fish" and "ships", I enjoy a "jolly" "jump"
+
+Ah, Robin, you made me giggle at my computer again. What will my wife think?
+
+- Salata! - Bill
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+A Real Programmer can write FORTRAN programs in any language.
+
+From: ailanto
+Subject: Re: Note from Uganda (PGN)
+To: GLOSALIST
+Date: Thu, 16 Apr 98 23:2
+
+Wed, 15 Apr 98 21:25:26 EDT, Robin Gaskell skribe:
+
+> Uganda has more regional Glosa groups than Glosalist has subscribers.
+
+Funny you should mention that. Just a few days ago curiosity struck
+so I asked Majordomo for the who-list and received a list of only
+eight addresses. And I thought it was amazing, that in this whole
+big world only eight of us ended up here.
+
+- Saluta! - Bill
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+A Real Programmer can write FORTRAN programs in any language.
+
+From: Paul O Bartlett
+Subject: Glosa Publications
+To: glosalist
+Date: Fri, 17 Apr 98 09:4
+
+    I inadvertently deleted some of Robin's recent messages, but as I
+recall he was remarking about my reference to new small booklets which
+could be added to the "catalog" of existing Glosa publications.  No, I
+think new publications should *replace* some of the existing
+publications, which I consider unstaisfactory.  It would be feasible 
+to maintain the stapled-page A5 format with an expanded "Mechanics of
+Glosa" (and not just dialogue, incidentally) together with a corrected,
+standardized, and slightly expanded vocabulary without the booklets
+becoming too much larger than they are now.  Whether G.E.O. would acept
+replacement publications, I do not know.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Test -- Please Ignore
+To: glosalist
+Date: Tue, 21 Apr 98 15:1
+
+    I have had serious mail problems in the last day or two
+and wanted to see if I was still subscribed to the Glosa list.
+Thanks.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Robin Gaskell
+Subject: Re: Glosa Publications
+To: GLOSALIST
+Date: Wed, 24 Apr 96 17:3
+
+At 09:48 AM 4/17/98 -0400, Paul Bartlett wrote:
+>    I inadvertently deleted some of Robin's recent messages, but as I
+>recall he was remarking about my reference to new small booklets which
+>could be added to the "catalog" of existing Glosa publications.  No, I
+>think new publications should *replace* some of the existing
+>publications, which I consider unstaisfactory. 
+*	In theory, we will get the best results, for all, if ideas and opinions
+are pooled - hopefully resulting in a concensus.  But this is a statement
+of the idealised situation.  The "replacement" ploy depends on the putting
+together of alternatively worded leaflets, and, in some cases, considerable
+original work to come up with exercises and examples that are more suitable
+for learners than are the present ones: this might involve some hammering
+out of policy on instructional methods .. and even of gramatical principles.
+	"Replacement" also involves some retooling at Glosa Central, and this is
+not without cost.  Originals of Replacement leaflets would have to have
+printing plates prepared: there could be a cost-based inertia here,
+opposing change.
+
+>  It would be feasible 
+>to maintain the stapled-page A5 format with an expanded "Mechanics of
+>Glosa" (and not just dialogue, incidentally) together with a corrected,
+>standardized, and slightly expanded vocabulary without the booklets
+>becoming too much larger than they are now. 
+*	Agreed, I must raise the matter with the authors, who are on the net at 
+ glosauk{at}cix{dot}compulink{dot}co{dot}uk .  For economic reasons replies to our emails
+will be by snail mail.
+	The current work with dictionary rationalisation, at present being mainly
+done by Bill Patterson, is to this end.  But the economics of retooling
+would still be a consideration for the authors.
+
+>  Whether G.E.O. would accept replacement publications, I do not know.
+>
+>Paul                             <pobart{at}access{dot}digex{dot}net>
+*	As well as writing to the authors and discussing changes to publications
+with them, I suggest that we all pray for a wealthy sponsor for Glosa; and,
+meanwhile, cross our fingers that sales of present books generate the
+capital that would be needed for their replacement.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Brevi Artikla pro PGN
+To: G.E.O.
+Cc: GLOSALIST
+Date: Sat, 27 Apr 96 09:0
+
+Mi Plu Amika,
+	Ci mi bali a vi u brevi artikla in Glosa; reporta de u Glosalist Posta
+Lista.  Na a-nu habe u ta pusi numera intra u grega, ke oligo mesage gene
+ge-kambio dutante u seti-mana.
+
+	Seqe lekto un artikla ex Herbert Banobi intra PGN #82, mi vo re-komence u
+gravi ergo de grafo a plu Glosa-pe intra Afrika.  Place bali a mi an
+adresse: pa meno mi (pa)* grafo u grama a Peter Kwagala, sed tu recento
+grama sugere ke an pa ki apo an previo adrese.  Mi spe: u grama gene
+ge-re-direkti ad an.  Alterno-co, mi pa posi lose an: e, si so, mi bali mi
+apologi.
+
+	Un item intra PGN #82 ex Herbert pa gene ge-post ad u Glosalist: u
+komenta ke " ... 26 regio habe plu membra .. " habe mega signifi; u
+Glosalist habe u teknologi, sed Uganda habe plu numera.
+
+(pa)* - A Paul Bartlett, te uti u-ci tem-partikula dona no-nece repeti; sed, 
+a mi, id este korekti te re-uti id.  Place bali, a na, vi plu komenta
+koncerne u-ci forma de adito, posi no-nece, dona de semani (Eng. redundancy).
+
+	A plu membra de u Glosalist, mi dice qestio: qe, tu habe akorda ko u seqe
+grafo-ra?  Si tu habe no-akorda ko plu mero de id ... de faktu alo uti de
+lingua ... place grafo-retro a mi.  Ma boni, diskursi id epi u Glosalist.
+ ----------------------------------
+
+GLOSA EPI UN INTER-RETI
+	Durante plu previo anua, plu Glosa-pe pa kambio plu grama, per e-posta; e,
+plura de na pa jugo plu diskursi grega - plu Posta Lista -
+CONLANG e AUXLANG.  Pa anua, u Posta Lista speciali pro diskursi de Glosa,
+pa gene ge-proto: u GLOSALIST.  
+
+	Si tu habe un Inter-reti nexu, tu pote posta a majordomo{at}zeta{dot}org{dot}au u
+mesage  subscribe glosalist .  U-ci akti fu adi tu e-posta adrese ad u
+Glosalist.  Seqe, tu pote bali plu itema, a holo plu membra de u lista, per
+adrese mu a  glosalist{at}zeta{dot}org{dot}au .  U-ci es un ideali mode de komunika.
+Id es komo plu radia de u rota: u mesage gene bali ad u centra; e gene
+re-bali longo singu radia, a holo-pe epi u cirkumfera.
+
+	A-nu, anti-co, na opera ne pa es iso ideali de u rota.  Pro tekno basi, na
+pra bi re-proto, e u numera de plu membra ne pa gene a kritiki-masi.  Ko
+deka membra, demi de qi solo lekto plu mesage, na habe oligo itema durante
+u seti-mana.  Pluso, na grafo plu itema uti Glosa ... e de Glosa uti un
+England-lingua.  Tem multi imtema, a-nu, habe u sekunda forma, mi petitio
+tu te jugo u Glosalist, ko u buta de grafo ad u munda in Glosa.
+
+	Place jugo u Glosalist te posta - a holo plu ge-nexu Glosa-pe - tu
+plu histori, exempla de tu grafo in Glosa, e tu plu qestio de u lingua.  Mo
+di, multi artikla epi u Reti fu es ge-publika uti bi lingua: u natio lingua
+de un autori-pe e un Internatio Auxi Lingua.  Un IAL; ge-uti dia u holo
+munda uno fu di, sio pote es Glosa.  Si tu nu uti Glosa, alo sio vo akti so
+- e tu habe un Inter-reti nexu - place acepta u-ci defi a monstro u-c beli
+lingua ad u munda.  
+
+	Si id sembla ke Glosa sio es u gru lingua pro un akro ergo, de IAL, 
+tu pusi eforti nu, fu auxi u kresce de Glosa.  Face u mikro nivi-bola to un
+akro de u monta, bali id kade u monta; e, a-tem id gene ad u funda de u
+monta, if fu es u giganti nivi-bola.  Nu, Glosa es u mikro nivi-bola: auxi
+na volve id in u giganti mo - per uti u Reti.
+	
+	Il es nuli preci te jugo u Glosalist; e, si tu vide u lista, e decide veni
+retro ex id, tu simpli bali a  majordomo{at}zeta{dot}org{dot}au  un alterno mesage
+unsubscribe glosalist .
+
+	Place kogita de plu posi.  Si tu habe u puta-me, il es pusi ergo te 
+"subscibe"; e, si tu ne habe u puta-me, sed habe u valuta te jugo u Reti,
+mi sugere ke jugo un Inter-reti ofere u fo excita aventura.
+
+Robin Gaskell rgaskell{at}zeta{dot}org{dot}au
+
+The 'bottom line' is people, not money.  R.G.
+
+
+From: wood
+Subject: Glosa & Ido
+To: Glosa Education Organisation
+Cc: GLOSALIST
+Date: Sun, 28 Apr 96 09:2
+
+Autori-pe e plu membra de Glosalist, Ave!
+	Here is a "Redirection" of Thomas Wood's personal note to me. [Am I
+breaking confidence OR 'invading privacy' by publishing to a select group:
+comments please?]
+ ----------------------------
+Robin -
+
+Glosa has always attracted me on account of its emphasis on minimal
+grammar.  However I do not believe in no grammar at all. 
+
+I have not found Glosa really easy to understand.  I prefer the basic
+vocabulary of Ido with which I am much more familiar.
+
+I am in favour of grammatical freedom in Ido.  Then Ido can be written
+in different ways.  One can write using minimal grammar e.g. me skrib
+Ido nun per uz di radik-vort.  Of course, there must be a sufficient
+number of vowels to make the pronunciation easy.  I think it is a good
+idea, in general, to indicate the verb.
+
+Best Wishes
+
+Tom
+ -------------------------------
+	So, actually Thomas is an honest person, a good guy, and - in Glosa terms
+- a statistic.
+RESPONSE??
+  Do we all study Ido to see exactly what its attraction is?
+  Should we try to understand the different psychological gearings people
+bring 	with them to the Language Reform process?
+  After finding all of the Glosa words in either the Latin or Greek
+dictionary, and assuring people that the Classical lexicon is well 		known
+to scientists and people who have studied the Humanities, do 	 	we try to
+understand a preference for "the basic vocabulary of Ido"?
+  Do we recognise that, for some people, a simple statement of the
+functioning 	of the grammar behind Glosa is necessary?
+  Might we take Thomas' "defection" to Ido as a sign that the "NO GRAMMAR"
+tag, 	as well as being factually wrong, is also misleading to the point of 
+	being counter-productive?
+  Do the people who understand the functioning of Glosa present the
+language in 	its more "kindergarten" form so that people can " .. find
+Glosa really 
+	easy to understand .. " as did the school children at Atlanta's Oak
+Ridge Middle School?
+  Do we look into the rigidity/flexibility dimention of Glosa's syntax-based
+	grammar .. to demonstrate to new learners places where the syntactic
+pattern is prescribed, and where variations can occur without loss of
+meaning?
+  Might we look into "verb marking" or find some educational way of
+ensuring 		that users, through proper use of syntactic structures, make it
+quite 		plain where their verbs are?
+  Or do we do all of the above?
+
+CRISIS POINT
+	As I see it, the question of Glosa's unspoken grammar is due to 'come out
+of the closet' so that new learners, of a psychological gearing like Tom's,
+can enjoy and get on with the language.
+
+	Do we teach people that Glosa is, in point of fact, "head final"?  Years
+of Conlang membership resulted in my gleaning that this is the accepted
+technical description of phrases in which the substantive word is last.  I
+guess that we could find some appropriate way of presenting this fact to
+new learners - using non-technical language - so they could avoid
+guess-work on this essential point of Glosa grammar, right from the start.
+
+	Do we teach people that 'elision' is alive and well and in Glosa?  By this
+I mean that the 'telegramatic' style of Glosa, which would be equivalent to 
+its vernacular form, if it had a community of speakers of ~living Glosa~,
+has bits left out.  For the new learner, which bits have been left out, and
+from where, can become a critical question in their ability to progress
+with the language.  In the same way that children speak 'baby language'
+before progressing to the vernacular, I propose that Glosa learners be
+taught to use 'babi Glosa' with all the missing bits in place, before they
+learn to 'intuitively' drop out the 'elidable' words.
+	An pa ki ad an domi.  ...............  He went home.
+	An pa ki a domi.  ...................  He went home.
+	An pa ki domi.  .....................  He went home.
+	An ki domi.  ........................  He goes home.
+
+	On 'marking' the verb, I could imagine writing:-
+	U kanis pa VORA u felis. 
+but this would be an imposition equivalent to the German capitalisation of
+nouns.  And, Paul Bartlett would hasten to demand that I tell him how to
+pronounce a capitalised word differently from its lower-case form.
+Actually, I would have to request that people doubled their decibels or
+went up, or down, an octave to emphasise the verbs.
+	Back to the drawing board: maybe it would just be easier to teach people
+to use an accepted form of Glosa syntax, so that the verb, or verb phrase,
+was obviously apparent - by inspection - every time.  And I am still
+actively looking for a way of colouring words in e-mail, so that verbs were
+red and nouns green.  Once it was up and running, I think modifiers should
+be blue, with  adjectives light blue, and adverbs a darker shade.  Jokes
+aside, this could help learners - as it obviously would have done in Tom's
+case: does anyone have any technical data on how I can implement this in
+Eudora Pro Ver 3, or in HTML for offline reading from disk?
+
+	Ave Thomas!
+
+Saluta,
+ Robin
+ 
+
+
+From: ailanto
+Subject: Re: Glosa & Ido
+To: GLOSALIST
+Date: Tue, 28 Apr 98 21:2
+
+Sun, 28 Apr 96 09:22:26 EDT, Robin skribe:
+
+>   Do we all study Ido to see exactly what its attraction is?
+
+I've studied Esperanto a lot and Ido a little. Of the two I think I'd
+prefer Ido if I hadn't already invested so much time in Esperanto, and
+if Ido were more widely used.
+
+Ido shares much of its vocabulary with Esperanto but there are also many
+differences. Of particular interest to me: although classic Esperanto
+forms opposites by negation (as in right and opposite-of-right for
+right and left), Ido has separate words for these antonyms (although
+the negation-method would be understood also). But in literary Esperanto,
+and often in everyday conversation, the separate words are often used.
+It seems to me that as people expand their vocabularies, they prefer to
+have separate words for such antonyms. This would also make the meaning
+more clear under circumstances in which a word fragment might be missed,
+possibly inverting the meaning!
+
+The grammar of Ido seems to fall somewhere in between that of Esperanto
+and Glosa, as Tom has found. While Ido retains some inflections, it
+discards others, using syntax instead. For example, while Esperanto
+requires inflection of a direct object, Ido does not (*unless* the order
+of the subject and object are reversed) because, as in Glosa, it is
+understood that the subject (usually) precedes the object. For objects,
+Ido requires inflection only when the user does something unusual.
+
+>   After finding all of the Glosa words in either the Latin or Greek
+> dictionary, and assuring people that the Classical lexicon is well known
+> to scientists and people who have studied the Humanities, do we try to
+> understand a preference for "the basic vocabulary of Ido"?
+
+Perhaps the vocabulary of Ido is more recognizable to many of us because
+it is based upon languages of today (or not so long ago), while that of
+Glosa is based upon their ancestors, older forms. 
+
+>   Might we take Thomas' "defection" to Ido as a sign that the "NO GRAMMAR"
+> tag, 	as well as being factually wrong, is also misleading to the point of 
+> 	being counter-productive?
+
+Every language has a grammar. Some are just simpler than others. While
+Ido forms a plural by changing a final '-o' to '-i', Glosa does so by
+using a preceding 'plu' - not so different, really, though Glosa has
+the advantage of word invariability. And this touches on something that
+I've observed. The most common spelling inconsistency that I've seen in
+Glosa texts is in final vowels. And this troubles me also. In Ido or
+Esperanto, I know that a noun ends in '-o' (unless pluralized, but *we*
+could use 'plu' instead), and if a word ends in '-o', then it's a noun.
+
+> Do we teach people that Glosa is, in point of fact, "head final"?
+
+Yep. Head Final and SVO (Subject-Verb-Object).
+
+> Back to the drawing board: maybe it would just be easier to teach people
+> to use an accepted form of Glosa syntax, so that the verb, or verb phrase,
+> was obviously apparent - by inspection - every time.  And I am still
+> actively looking for a way of colouring words in e-mail, so that verbs were
+> red and nouns green.  Once it was up and running, I think modifiers should
+> be blue, with  adjectives light blue, and adverbs a darker shade.  Jokes
+> aside, this could help learners - as it obviously would have done in Tom's
+> case: does anyone have any technical data on how I can implement this in
+> Eudora Pro Ver 3, or in HTML for offline reading from disk?
+
+That's a good idea! But there's really no way to do this in email for
+everybody. If your mailer supports color, chances are most of your audience
+will have mailers that don't, or that do it differently. Standardization
+hasn't yet matured enough. HTML's another story: just wrap your text in FONT
+elements; I think most browsers today can handle this. And some mailers,
+too. For example, a red Hello and a green world!...
+
+<FONT COLOR=#FF0000>Hello,</FONT> <FONT COLOR=#00FF00>world!</FONT>
+
+(If your mailer can handle it, some of you might be seeing the colors
+instead of the code!) The sixdigit hexadecimal number after the #
+represents the amounts of red, green and blue to use, ranging from 00 (none)
+to FF (maximum) for each. Cyan, with no red and equal parts green and blue,
+would be #008080 or something close to it. Some browsers can understand
+COLOR=BLUE and such, but some don't, so it's best to use the numbers. Also,
+you may not get exactly the colors you want. It depends on how many colors
+your computer supports.
+
+- Saluta! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.12
+GS/CS/E d(-) s: a? C++++$ UHBUV++++$ P+ L E---(-) W++ N++
+o@ K(-) w$  O++@$ !M V+++$ PS+ PE Y+ PGP++ t++(---)
+5++ X+ R*$ tv++ b+++ DI+++$ D+++ G++ e++ h---- r+++ y++++
+------END GEEK CODE BLOCK------
+
+From: William W Patterson
+Subject: Re: Glosa & Ido
+To: GLOSALIST
+Date: Tue, 28 Apr 98 21:2
+
+Sun, 28 Apr 96 09:22:26 EDT, Robin skribe:
+
+>   Do we all study Ido to see exactly what its attraction is?
+
+I've studied Esperanto a lot and Ido a little. Of the two I think I'd
+prefer Ido if I hadn't already invested so much time in Esperanto, and
+if Ido were more widely used.
+
+Ido shares much of its vocabulary with Esperanto but there are also many
+differences. Of particular interest to me: although classic Esperanto
+forms opposites by negation (as in right and opposite-of-right for
+right and left), Ido has separate words for these antonyms (although
+the negation-method would be understood also). But in literary Esperanto,
+and often in everyday conversation, the separate words are often used.
+It seems to me that as people expand their vocabularies, they prefer to
+have separate words for such antonyms. This would also make the meaning
+more clear under circumstances in which a word fragment might be missed,
+possibly inverting the meaning!
+
+The grammar of Ido seems to fall somewhere in between that of Esperanto
+and Glosa, as Tom has found. While Ido retains some inflections, it
+discards others, using syntax instead. For example, while Esperanto
+requires inflection of a direct object, Ido does not (*unless* the order
+of the subject and object are reversed) because, as in Glosa, it is
+understood that the subject (usually) precedes the object. For objects,
+Ido requires inflection only when the user does something unusual.
+
+>   After finding all of the Glosa words in either the Latin or Greek
+> dictionary, and assuring people that the Classical lexicon is well known
+> to scientists and people who have studied the Humanities, do we try to
+> understand a preference for "the basic vocabulary of Ido"?
+
+Perhaps the vocabulary of Ido is more recognizable to many of us because
+it is based upon languages of today (or not so long ago), while that of
+Glosa is based upon their ancestors, older forms. 
+
+>   Might we take Thomas' "defection" to Ido as a sign that the "NO GRAMMAR"
+> tag, 	as well as being factually wrong, is also misleading to the point of 
+> 	being counter-productive?
+
+Every language has a grammar. Some are just simpler than others. While
+Ido forms a plural by changing a final '-o' to '-i', Glosa does so by
+using a preceding 'plu' - not so different, really, though Glosa has
+the advantage of word invariability. And this touches on something that
+I've observed. The most common spelling inconsistency that I've seen in
+Glosa texts is in final vowels. And this troubles me also. In Ido or
+Esperanto, I know that a noun ends in '-o' (unless pluralized, but *we*
+could use 'plu' instead), and if a word ends in '-o', then it's a noun.
+
+> Do we teach people that Glosa is, in point of fact, "head final"?
+
+Yep. Head Final and SVO (Subject-Verb-Object).
+
+> Back to the drawing board: maybe it would just be easier to teach people
+> to use an accepted form of Glosa syntax, so that the verb, or verb phrase,
+> was obviously apparent - by inspection - every time.  And I am still
+> actively looking for a way of colouring words in e-mail, so that verbs were
+> red and nouns green.  Once it was up and running, I think modifiers should
+> be blue, with  adjectives light blue, and adverbs a darker shade.  Jokes
+> aside, this could help learners - as it obviously would have done in Tom's
+> case: does anyone have any technical data on how I can implement this in
+> Eudora Pro Ver 3, or in HTML for offline reading from disk?
+
+That's a good idea! But there's really no way to do this in email for
+everybody. If your mailer supports color, chances are most of your audience
+will have mailers that don't, or that do it differently. Standardization
+hasn't yet matured enough. HTML's another story: just wrap your text in FONT
+elements; I think most browsers today can handle this. And some mailers,
+too. For example, a red Hello and a green world!...
+
+<FONT COLOR=#FF0000>Hello,</FONT> <FONT COLOR=#00FF00>world!</FONT>
+
+(If your mailer can handle it, some of you might be seeing the colors
+instead of the code!) The sixdigit hexadecimal number after the #
+represents the amounts of red, green and blue to use, ranging from 00 (none)
+to FF (maximum) for each. Cyan, with no red and equal parts green and blue,
+would be #008080 or something close to it. Some browsers can understand
+COLOR=BLUE and such, but some don't, so it's best to use the numbers. Also,
+you may not get exactly the colors you want. It depends on how many colors
+your computer supports.
+
+- Saluta! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.12
+GS/CS/E d(-) s: a? C++++$ UHBUV++++$ P+ L E---(-) W++ N++
+o@ K(-) w$  O++@$ !M V+++$ PS+ PE Y+ PGP++ t++(---)
+5++ X+ R*$ tv++ b+++ DI+++$ D+++ G++ e++ h---- r+++ y++++
+------END GEEK CODE BLOCK------
+
+
+From: Robin Gaskell
+Subject: Glossa [forward from Kjell Rhenstrom, Sweden]
+To: Glosa Education Organization
+Cc: GLOSALIST
+Date: Tue, 30 Apr 96 06:0
+
+Hello to Ron & Wendy and Glosalist subscribers,
+	Well, this is the second rasberry to arrive on my screen, this week, 
+claiming that Glosa is not easy to use.
+	Kjell is Swedish, and this might be a significant factor in his not
+finding Glosa easy to read.  I will write to Kjell privately, asking for
+more constructive feed-back on the difficulties he finds with Glosa: of
+course, he has no Glosa dictionary at all.
+	He likes Interlingua and uses it in his postings to Auxlang, which I don't
+take the time to read; although I can sort Interlingua out, by inspection,
+it still takes too long.  I had assumed that if Interlingua can be
+'understood' by me, my Glosa postings would similarly be understandable to
+Interlingua speakers: but, not so, it seems.
+	The following is my translation into Glosa from an original segments in
+Interlingua, English and Rap Lin Rie.  The first section (omitted), from
+which I translated from a combination of the English and Interlingua
+versions, was not included by Kjell.  We play these translation games in
+AUXLANG.
+>> --------------------------------------
+>>        [&&&
+I>Occidendal es demo-krati Latina.
+>>Plu skience artikla in Occidental habe semani pro holo skience-pe.
+>>Plu komerci pronuncia-ra e promoti in Occidental gene ge-logi per 500
+>>miliona  Europa-pe e Amerika-pe, sine extra stude.
+>>Plu publika in Occidental habe u mega efekti intra plu citata ko plu mega
+>>popula de multi-lingua-pe.
+>>
+E>So, u-la es holo id.  Mi kredi u-ci es fo interese; dice minimo.  Itera,
+>>plura acenta marka pa gene ge-omiti, e mi ne pretypo-lekti u holo textu.
+>>
+R>Holo-tem un optima-pe.
+>>        &&&]
+>>Saluta,
+>> Robin
+>>
+>>--------------------------------------------------------------------------
+----
+>> ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+>> 	[  ..... my Signature omitted .....  ]
+>
+>Si isto es glossa illo es troppo incomprehensibile pro me a prime vista.
+>si = if = om
+>isto = this = detta, det här
+>es = is = är
+>illo = it = den, det, det där
+>troppo = too (much) = alltför
+>incomprehensibile = obegripligt
+>pro = for = för
+>Glossa appertine al linguas que postula un charismatic leader del tipo
+>Zamenhof.
+>
+>Kjell Rehnstrom{at}abc{dot}se
+>
+*	So, there!  I trust that it results in a plus for Glosa: IE we can use
+this sort of negative feedback to improve our operation.
+
+Saluta,
+ Robin
+
+
+From: Robin Gaskell
+Subject: Re: The story about a farmer who's horse ran away
+To: International Auxiliary Languages
+Cc: cross-posted
+Date: Tue, 30 Apr 96 10:1
+
+Saluta Glosalist; and Hello to Auxlang,
+	I send this as a contribution to the AUXLANG collection of conlang
+translations; and, I send it to the Glosalist for checking and editing.
+
+Continuing the saga, here is a Glosa rendition of this tale of folksy
+philosophy.  I met the same thinking, however, when I did the ten-day
+Goenka "Vipassana" Meditation Course: the farmer was simply being
+'equanimous.'
+
+	I include the original English language version for Glosalist people who
+do not have it.
+
+The story of a farmer, whose horse ran away.
+
+Once there was this farmer whose horse ran away. His neighbor
+came over to tell him he felt sorry for him, only to be told
+in return: "Who knows what is good or bad?" It was true. The
+next day the horse returned, bringing with it eleven wild horses
+it had met during its adventurous escape. The neighbor came over
+again, this time to congratulate the farmer on his good fortune.
+Only to be told once again "Who knows what is good or bad?"  True
+this time too; the next day the farmer's son tried to tame one of the
+wild horses and fell off, breaking his leg. His neighbor came back again
+one more time to express how bad he felt But for the third time all the
+farmer had to say was: "Who knows what is good or bad?"  And once again the
+farmer was correct, for this time, the king of that land
+had started a war and the following day soldiers came by to draft young
+men into the army, but because of his injury the son was not taken.
+
+U histori de un agri-pe; qi equs pa kurso ab.
+
+	Mo tem il es u-ci agri-pe; qi equs pa kurso ab.  
+	An proxi-pe; pa veni ad an te dice ko an, parola ke an pa este tristi pro
+an, pa gene solo u responde: "Qo-pe ski qod es boni alo mali?"
+	Id pa es veri.  U seqe di un equs pa veni retro, duce ko id mo-mo no-dama
+equs; qi id pa enkontro durante id aventura libe-tem.
+	U proxi-pe pa itera veni ad an te kongratula un agri-pe de an boni
+fortuna, solo gene ge-dice, mo tem itera, "Qo-pe ski qod es boni alo mali?"
+Veri, u-ci tem pluso; u seqe di un agri-pe an-fili pa tenta dama mo de plu
+no-dama equs, e pa kade ex, frakto an podi.  An proxi-pe pa veni retro, mo
+tem itera, te dice de qanto mali an pa este.
+	Sed, pro u tri tem, u holo ke un agri-pe pa habe dice es, "Qo-pe ski qod
+es boni alo mali?"
+	E, itera, un agri-pe pa es korekti, ka to u-ci tem, u regi-an de u-la
+landa pra proto u guera, e u seqe di plu milita-pe pa veni dia u regio te
+induce plu juve andra in u milita; sed, ka an plu noku-ra, un an-fili ne
+pa gene ge-prende.
+
+	My inclusion of the English language original is also for the benefit of
+Auxlangers wishing to test Kjell Rhonstrom's claim about the difficulty of
+reading and understanding Glosa, by inspection.
+
+Saluta,
+ Robin
+
+The 'bottom line' is people, not money.  R.G.
+
+
+From: Robin Gaskell
+Subject: Re: The story about a farmer who's horse ran away
+To: International Auxiliary Languages
+Cc: cross-posted
+Date: Tue, 30 Apr 96 09:5
+
+Saluta Glosalist; and Hello to Auxlang,
+	I send this as a contribution to the AUXLANG collection of conlang
+translations; and, I send it to the Glosalist for checking and editing.
+
+Continuing the saga, here is a Glosa rendition of this tale of folksy
+philosophy.  I met the same thinking, however, when I did the ten-day
+Goenka "Vipassana" Meditation Course: the farmer was simply being
+'equanimous.'
+
+	I include the original English language version for Glosalist people who
+do not have it.
+
+The story of a farmer, whose horse ran away.
+
+Once there was this farmer whose horse ran away. His neighbor
+came over to tell him he felt sorry for him, only to be told
+in return: "Who knows what is good or bad?" It was true. The
+next day the horse returned, bringing with it eleven wild horses
+it had met during its adventurous escape. The neighbor came over
+again, this time to congratulate the farmer on his good fortune.
+Only to be told once again "Who knows what is good or bad?"  True
+this time too; the next day the farmer's son tried to tame one of the
+wild horses and fell off, breaking his leg. His neighbor came back again
+one more time to express how bad he felt But for the third time all the
+farmer had to say was: "Who knows what is good or bad?"  And once again the
+farmer was correct, for this time, the king of that land
+had started a war and the following day soldiers came by to draft young
+men into the army, but because of his injury the son was not taken.
+
+U histori de un agri-pe; qi equs pa kurso ab.
+
+	Mo tem il es u-ci agri-pe; qi equs pa kurso ab.  
+	An proxi-pe; pa veni ad an te dice ko an, parola ke an pa este tristi pro
+an, pa gene solo u responde: "Qo-pe ski qod es boni alo mali?"
+	Id pa es veri.  U seqe di un equs pa veni retro, duce ko id mo-mo no-dama
+equs; qi id pa enkontro durante id aventura libe-tem.
+	U proxi-pe pa itera veni ad an te kongratula un agri-pe de an boni
+fortuna, solo gene ge-dice, mo tem itera, "Qo-pe ski qod es boni alo mali?"
+Veri, u-ci tem pluso; u seqe di un agri-pe an-fili pa tenta dama mo de plu
+no-dama equs, e pa kade ex, frakto an podi.  An proxi-pe pa veni retro, mo
+tem itera, te dice de qanto mali an pa este.
+	Sed, pro u tri tem, u holo ke un agri-pe pa habe dice es, "Qo-pe ski qod
+es boni alo mali?"
+	E, itera, un agri-pe pa es korekti, ka to u-ci tem, u regi-an de u-la
+landa pra proto u guera, e u seqe di plu milita-pe pa veni dia u regio te
+induce plu juve andra in u milita; sed, ka an plu noku-ra, un an-fili ne
+pa gene ge-prende.
+
+	My inclusion of the English language original is also for the benefit of
+Auxlangers wishing to test Kjell Rhonstrom's claim about the difficulty of
+reading and understanding Glosa, by inspection.
+
+Saluta,
+ Robin
+
+The 'bottom line' is people, not money.  R.G.
+
+
+From: Paul O Bartlett
+Subject: Re: Glossa [forward from Kjell Rhenstrom, Sweden]
+To: GLOSALIST
+Cc: Glosa Education Organization
+Date: Thu, 30 Apr 98 10:2
+
+On Tue, 30 Apr 1996, Robin Gaskell wrote (excerpt):
+
+>                           I had assumed that if Interlingua can be
+> 'understood' by me, my Glosa postings would similarly be understandable to
+> Interlingua speakers: but, not so, it seems.
+
+    There is, I think, a misapprehension on the part of Glosa-pe about
+the recognizability of Glosa words.  I personally doubt that many of
+them are as immediately recognizable as thought or hoped.  Lots of
+people may *use* words which contain Greco-Latin roots without really
+knowing the _meaning_ or those roots themselves.  Those people probably
+use the root-containing words as semantic wholes.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Re: The story about a farmer who's horse ran away
+To: glosalist
+Cc: International Auxiliary Languages
+Date: Thu, 30 Apr 98 10:2
+
+{crossposted to Glosalist and AUXLANG}
+
+On Tue, 30 Apr 1996, Robin Gaskell wrote:
+
+> Saluta Glosalist; and Hello to Auxlang,
+> 	I send this as a contribution to the AUXLANG collection of conlang
+> translations; and, I send it to the Glosalist for checking and editing.
+> [English original and Glosa translation snipped]
+
+    Good job, Robin.  I would make only a couple of remarks.
+
+1)  I think nearly every instance of 'pa' could have been omitted
+    (the "historical present").
+
+2)  'Pra' seems no longer to be part of standard Glosa, only
+    Gaskell-Glosa.
+
+3)  'U(n)' is a noun marker that need not be used before an obvious
+    noun such as 'X-pe'.
+
+4)  It might be worthwhile, as a sort of appendix, to list those words
+    which were not taken from any of the so-called "Glosa 1000" lists
+    but rather from Glosa 6000 or some other source, in order to help
+    determine which words might profitably be added to the basic
+    vocabulary (which collation shows to be more like Glosa 1500).
+
+(As an aside, would you consider indenting the first lines of your
+paragraphs fewer than eight spaces?  So much indentation causes
+unsightly wrap-around on my display.)
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+

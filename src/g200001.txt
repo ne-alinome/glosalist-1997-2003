@@ -1,0 +1,1252 @@
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] Finally Updated Website
+From: "Jay Bowks" <jjbowks{at}adam{dot}cheshire{dot}net>
+Date: Sat, 1 Jan 2000 10:21:21 -0500
+
+Hi, Paul,
+If you wish I can send you the info on how to ftp
+to the site any files you wish to store there.
+Just let me know and I'll email you privately
+the username and password.
+
+Since,
+Jay B.
+--
+      jjbowks{at}cheshire{dot}net
+             L(©¿©)K!
+http://adam.cheshire.net/~jjbowks
+----- Original Message -----
+From: Paul O Bartlett <bartlett{at}smart{dot}net>
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Sent: Saturday, January 01, 2000 3:01 PM
+Subject: Re: [glosalist] Finally Updated Website
+
+
+>On Sat, 1 Jan 2000, Jay Bowks wrote:
+>
+>> Paul O Bartlett <bartlett{at}smart{dot}net>
+>> >    Robin's post reminds me that I really would like someone
+>> >else to take over the Glosa WWW pages I have hosted for quite
+>> >some time now.  It might be a shame if it comes to the point
+>> >at which I simply remove them without notice in order the
+>> >reclaim the space
+>>
+>> Hi Paul,
+>> Here's a message from a couple of months ago
+>> where I announced the new pages where your
+>> files can reside if you wish...
+>> http://komunika.intercosmos.com
+>> http://glosa.intercosmos.com
+>> http://glosa2000.intercosmos.com
+>
+>    Jay, I have to say honestly that I do not recall your message.
+>However, 1) my memory is not as good as it used to be; and 2) there was
+>a while that I was not subscribed to Glosalist, so I might have missed
+>it, anyway.
+>
+>> Robin can have these sites if he wishes
+>> and they are for anyone wishing to publish
+>> materials for Glosa...
+>
+>    I took a hasty look, and it seem as if they have most of the
+>material, although I did not check for all eight files.  (See below.)
+>
+>-----Original Message-----
+>> [omitted for space]
+>
+>==============================================================
+>
+>On Fri, 31 Dec 1999, William W Patterson wrote:
+>
+>> Je lundo, 31 dec 1999 20:55:01 -0500 (EST), vi skribis:
+>>
+>> >     Robin's post reminds me that I really would like someone
+>> > else to take over the Glosa WWW pages I have hosted for quite
+>> > some time now.  It might be a shame if it comes to the point
+>> > at which I simply remove them without notice in order the
+>> > reclaim the space.
+>>
+>> Ooooh, don't do that! Maybe I could give them a home. How much
+>> diskspace do they require? Looks like the biggest chunk is the
+>> reference, eh?
+>
+>    Actually, there are two large files, the Basic Reference and the
+>spelling checker for MS-DOS (which might run in a DOS window under
+>Windows, although I have not tried it).  Altogether there are eight
+>files, totalling 290156 bytes as they sit on my ISP's Linux server.
+>(The exact byte count might vary on a Microsoft-based server.)
+>
+>    I moved them off GeoCities back when Yahoo took it over and there
+>was some hullaballoo about copyright issues.  I placed links to where
+>they sit now.  If someone will definitively take over all eight files
+>(I would like the spelling checker to go, too), I will place links on
+>my site pointing to the new site.  Whether I can change the links on
+>GeoCities I don't know, as I have not tried to access those link-files
+>in a looong time, and as best I recall I had difficulty the last time I
+>ever tried.
+>
+>--
+>Paul                                  <bartlett{at}smart{dot}net>
+>..........................................................
+>Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+>Keyserver (0xF383C8F9) or WWW for PGP public key
+>Home Page:  http://www.smart.net/~bartlett
+>
+>
+>---------------------------------------------------------------------
+>To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+>For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+>
+>
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Finally Updated Website
+From: Paul O Bartlett <bartlett{at}smart{dot}net>
+Date: Sat, 1 Jan 2000 15:01:08 -0500 (EST)
+
+On Sat, 1 Jan 2000, Jay Bowks wrote:
+
+> Paul O Bartlett <bartlett{at}smart{dot}net>
+> >    Robin's post reminds me that I really would like someone
+> >else to take over the Glosa WWW pages I have hosted for quite
+> >some time now.  It might be a shame if it comes to the point
+> >at which I simply remove them without notice in order the
+> >reclaim the space
+> 
+> Hi Paul,
+> Here's a message from a couple of months ago
+> where I announced the new pages where your 
+> files can reside if you wish...
+> http://komunika.intercosmos.com
+> http://glosa.intercosmos.com
+> http://glosa2000.intercosmos.com
+
+    Jay, I have to say honestly that I do not recall your message. 
+However, 1) my memory is not as good as it used to be; and 2) there was
+a while that I was not subscribed to Glosalist, so I might have missed
+it, anyway.
+
+> Robin can have these sites if he wishes
+> and they are for anyone wishing to publish
+> materials for Glosa...
+
+    I took a hasty look, and it seem as if they have most of the
+material, although I did not check for all eight files.  (See below.)
+
+-----Original Message-----
+> [omitted for space]
+
+==============================================================
+
+On Fri, 31 Dec 1999, William W Patterson wrote:
+
+> Je lundo, 31 dec 1999 20:55:01 -0500 (EST), vi skribis:
+> 
+> >     Robin's post reminds me that I really would like someone
+> > else to take over the Glosa WWW pages I have hosted for quite
+> > some time now.  It might be a shame if it comes to the point
+> > at which I simply remove them without notice in order the
+> > reclaim the space.
+> 
+> Ooooh, don't do that! Maybe I could give them a home. How much
+> diskspace do they require? Looks like the biggest chunk is the
+> reference, eh?
+
+    Actually, there are two large files, the Basic Reference and the
+spelling checker for MS-DOS (which might run in a DOS window under
+Windows, although I have not tried it).  Altogether there are eight
+files, totalling 290156 bytes as they sit on my ISP's Linux server. 
+(The exact byte count might vary on a Microsoft-based server.)
+
+    I moved them off GeoCities back when Yahoo took it over and there
+was some hullaballoo about copyright issues.  I placed links to where
+they sit now.  If someone will definitively take over all eight files
+(I would like the spelling checker to go, too), I will place links on
+my site pointing to the new site.  Whether I can change the links on
+GeoCities I don't know, as I have not tried to access those link-files
+in a looong time, and as best I recall I had difficulty the last time I
+ever tried.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au, Jay Bowks <jjbowks{at}adam{dot}cheshire{dot}net>
+Subject: Re: [glosalist] Finally Updated Website
+From: Paul O Bartlett <bartlett{at}smart{dot}net>
+Date: Sun, 2 Jan 2000 18:07:17 -0500 (EST)
+
+On Sat, 1 Jan 2000, Jay Bowks wrote:
+
+> Hi, Paul,
+> If you wish I can send you the info on how to ftp
+> to the site any files you wish to store there.
+> Just let me know and I'll email you privately
+> the username and password.
+
+    You may send me the information.  However, I want to make it clear
+that I am looking for someone who is willing to take over the
+RESPONSIBILITY for the Glosa www pages and not merely provide some
+space for them.  Sorry if I did not make tha sufficiently clear in the
+beginning.
+
+-- 
+Regards,
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Finally Updated Website
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Wed, 05 Jan 2000 00:32:36 +1100
+
+At 22:13 31/12/1999 -0500, you wrote:
+
+>Je lundo, 31 dec 1999 20:55:01 -0500 (EST), vi skribis:
+
+>>     Robin's post reminds me that I really would like someone
+
+>> else to take over the Glosa WWW pages I have hosted for quite
+
+>> some time now.  It might be a shame if it comes to the point
+
+>> at which I simply remove them without notice in order the
+
+>> reclaim the space.
+
+>Ooooh, don't do that! Maybe I could give them a home. How much
+
+>diskspace do they require? Looks like the biggest chunk is the
+
+>reference, eh?
+
+>
+
+>- Bill
+
+>
+
+*    Thank You, Bill,
+
+       This is a nice offer.
+
+  
+
+       I would adjust my Website to give your location, AND the Glosalist archives, in a new update .. if you and Paul can negotiate the transfer of files that would otherwise be lost.
+
+
+       I am using AceFTP, and this is a very smoothe program for the job, which I was putting off, and putting off, until I had a free mind to concentrate on the 'ordeal.'  Doing the webpages has been a snip - being able to dummy them up on a floppy disk, then to transfer them all to the ISP's computer.  But, I wasn't looking forward to it.
+
+       Once into the swing of it, I decided to do a version of the Glosa history: while the kocher, Richmond, version does not actually mention me, the one on my webpages does.
+
+       Sadly, I have got cauught up in the whirlwind of the 'interesting times' and am closely following the Seattle WTO story: I feel that what happened is one up for the good guys.  If Glosalistas feel that there is any hope of IAL adoption - this side of the Revolution - then I will get active again.  But the hot topic is definitely the putsche from the Transnatioals attempting to take over the world: there seems little room, in their plans, for a democratic, Common Second Language for the world.
+
+       I certainly feel that Glosa's beauty should not be lost.  What worries me is the extremely small number, who follow their interest in Glosa with writing it in prose.  Perhaps we ought to institute a special status, with special title, for anyone who writes a story of treatise of over one page, in length, using Glosa!  Zamenhof did, for Esperanto.
+
+       Maybe "Glo'Sko-pe" would do the trick.  What does the panel think?  Sends your suggestions for the title to this List.
+
+       Possibly, to publish stories and original non-fiction articles, an e-zine needs to be instituted.
+
+
+Saluta,
+
+  Robin Gaskell.
+
+ 
+
+
+
+>
+
+>-- 
+
+>William W. Patterson                         http://www.neosplice.com/~ailanto
+
+>mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+>
+
+>The brutality of clocks. Listen for the alarm. Wake up!
+
+>
+
+>---------------------------------------------------------------------
+
+>To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+
+>For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+>
+
+<underline> 
+------------------------------------------------------------
+
+MAILING LIST:  (now EZMLM not Majordomo)  Send blank e-mails to:-
+
+         To: glosalist-subscribe{at}lists{dot}zeta{dot}org{dot}au  
+
+      -OR-   glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+
+ -For INFO-  glosalist-info{at}lists{dot}zeta{dot}org{dot}au
+
+WEBPAGE:  www.zeta.org.au/~rgaskell
+
+ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
+
+BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
+
+CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au  
+
+       (A$10 each, incl post; to Glosalist Subscribers - free)
+
+AUTHORS: "Plu Glosa Nota", Dictionaries 
+
+        P.O. Box 18, Richmond Surry TW9 2AU, U.K. 
+
+                 </underline>
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Good News! ( [glosalist] Finally Updated
+  Website
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Wed, 05 Jan 2000 22:54:53 +1100
+
+At 11:16 31/12/1999 -0500, you wrote:
+>Paul O Bartlett <bartlett{at}smart{dot}net>
+>>    Robin's post reminds me that I really would like someone
+>>else to take over the Glosa WWW pages
+>
+>Hi Paul,
+>Here's a message from a couple of months ago
+>where I announced the new pages where your 
+>files can reside if you wish...
+>http://komunika.intercosmos.com
+>http://glosa.intercosmos.com
+>http://glosa2000.intercosmos.com
+>
+>Robin can have these sites if he wishes
+>and they are for anyone wishing to publish
+>materials for Glosa...
+>
+*   Thank You Jay,
+    Yes, I will surf these sites, and will send items to you for inclusion.
+    I would like some other Glosalistas to consider writing in, or on,
+Glosa for your pages also.
+
+Saluta,
+  Robin Gaskell
+
+
+The Bottom Line is people NOT money.
+    ___________    ^^^^^^     $$$$$ 
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Finally Updated Website
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Thu, 06 Jan 2000 00:58:18 +1100
+
+At 18:07 02/01/2000 -0500, Paul Bartlett wrote:
+>On Sat, 1 Jan 2000, Jay Bowks wrote:
+>
+>> Hi, Paul,
+>> If you wish I can send you the info on how to ftp
+>> to the site any files you wish to store there.
+>                  .....
+>     .....    I want to make it clear
+>that I am looking for someone who is willing to take over the
+>RESPONSIBILITY for the Glosa www pages and not merely provide some
+>space for them.  Sorry if I did not make tha sufficiently clear in the
+>beginning.
+>
+>Regards,
+>Paul  
+*   Paul,
+    Please elucidate: what is implied by "take over the
+RESPONSIBILITY for the Glosa www pages"?  What special work is involved in
+"maintaining" the pages?    
+
+    Thanks .. in advance
+
+Robin                 
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Finally Updated Website
+From: Paul O Bartlett <bartlett{at}smart{dot}net>
+Date: Thu, 6 Jan 2000 20:33:37 -0500 (EST)
+
+On Thu, 6 Jan 2000, Robin Gaskell wrote:
+
+> At 18:07 02/01/2000 -0500, Paul Bartlett wrote:
+> >On Sat, 1 Jan 2000, Jay Bowks wrote:
+> >
+> >> Hi, Paul,
+> >> If you wish I can send you the info on how to ftp
+> >> to the site any files you wish to store there.
+> >                  .....
+> >     .....    I want to make it clear
+> >that I am looking for someone who is willing to take over the
+> >RESPONSIBILITY for the Glosa www pages and not merely provide some
+> >space for them.  Sorry if I did not make tha sufficiently clear in the
+> >beginning.
+> >
+> >Regards,
+> >Paul  
+> *   Paul,
+>     Please elucidate: what is implied by "take over the
+> RESPONSIBILITY for the Glosa www pages"?  What special work is involved in
+> "maintaining" the pages?    
+> 
+>     Thanks .. in advance
+
+    What it means is that once someone else takes over the files, I
+will put links to them on my web space (which are already linked to
+from the old GeoCities site), and thereafter I wash my hands of them 
+to have whatever life anyone else will give them (although I have
+parked a zipped copy on my home machine for safekeeping).  My pages had
+the approval of A&C in Richmond, and excerpt for the introductory page
+all the material was theirs.  Anyone who took them over would have any
+responsibility for negotiating with Richmond anything else having to do
+wiht copyrighted material.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: dante{at}pop{dot}interport{dot}net
+Subject: [glosalist] Beware!
+From: "Nick Hempshall" <nick_hempshall{at}hotmail{dot}com>
+Date: Thu, 13 Jan 2000 11:25:10 PST
+Cc: glosalist{at}lists{dot}zeta{dot}org{dot}au
+
+
+Found the W32/NewApt.worm trojan !!!
+
+Rosati,
+
+There seems to be a virus in the attachment in your e-mail message "Re: 
+Glosa Grammar .Ver.2 (Part 1)"!
+
+Nick
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Beware!
+From: Charles <catty{at}pacificnet{dot}net>
+Date: Thu, 13 Jan 2000 11:39:48 -0800
+
+Nick Hempshall wrote:
+> 
+> Found the W32/NewApt.worm trojan !!!
+> 
+> Rosati,
+> 
+> There seems to be a virus in the attachment in your e-mail message "Re:
+> Glosa Grammar .Ver.2 (Part 1)"!
+
+Oh man, when will people learn ... Abandon the Microsoft nazis
+and get Linux today! No more viruses, cheap and easy updates
+under your control, multiple user logins on the same machine
+for family use. Besides much higher performance in every sense.
+Run your own web/mail servers, post 10gb of data if you want. Etc.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: [glosalist] German Glosa-webpage
+From: "Marcel Springer" <m.springer{at}nikocity{dot}de>
+Date: Thu, 20 Jan 2000 08:06:51 +0100
+
+
+Saluta,
+
+ex meno mo-bi mi es epi glosalist. U-ci es mi grama mo.
+Mi nima es Marcel, mi habe tri-bi anua, mi eko in Hamburg in Deutschland.
+
+Mi volu loka oligo info de Glosa-lingua in Deutschland-lingua epi mi
+internet pagina.
+Ka-co mi fu prende materi ex hetero Glosa internet pagina. Place ne turba de
+u-ci.
+
+(Since December I am on the glosalist. This is my first mail.
+My name is Marcel, I am 32 and I am living in Hamburg/Germany.
+I want to put some information about Glosa in German on my homepage.
+Therefore I will take over material from the other Glosa-pages.
+Please do not be angry about that.)
+
+Marcel
+
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] German Glosa-webpage
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Fri, 21 Jan 2000 12:06:20 +1100
+
+--=====================_948377180==_
+Content-Type: text/enriched; charset="us-ascii"
+
+At 08:06 20/01/2000 +0100, Marcel Springer grafo:
+
+>
+
+>Saluta,
+
+>
+
+>ex meno mo-bi mi es epi glosalist. U-ci es mi grama mo.
+
+>Mi nima es Marcel, mi habe tri-bi anua, mi eko in Hamburg in Deutschland.
+
+>
+
+>Mi volu loka oligo info de Glosa-lingua in Deutschland-lingua epi mi
+
+>internet pagina.
+
+>Ka-co mi fu prende materi ex hetero Glosa internet pagina. Place ne turba 
+
+>de u-ci.
+
+>
+
+>(Since December I am on the glosalist. This is my first mail.
+
+>My name is Marcel, I am 32 and I am living in Hamburg/Germany.
+
+>I want to put some information about Glosa in German on my homepage.
+
+>Therefore I will take over material from the other Glosa-pages.
+
+>Please do not be angry about that.)
+
+>
+
+>Marcel
+
+>
+
+*   Boni Eforti, Marcel,
+
+    Tu monstra posi u major faceta te gene ski de Glosa: uti id.
+
+    E tu akti so, fo boni.  Per tenta expresi tu auto, uti Glosa, tu fu este plu verbi loka-se, ko maxi gru.  U-ci este kresce ko praxi.
+
+    Qe, tu gene dificili ex cogita uti Deutschland-lingua, e, seqe, kogita uti Glosa?
+
+   
+
+    Koncerne u re-loka de plu existe Reti pagina intra tu auto Reti-lo, u-ci akti habe fo logika: si tu ne traduce un info in Deutschland-lingua, qo-pe fu akti id?  Kron tu traduce plu pagina ex Richmond, U.K. - posi ex Paul Bartlett Reti-lo - place dona atributi a plu autori-pe.
+
+    Si tu uti plu itema ex mi Reti-lo, posi tu fu inklude u nota de mi, sed solo pro plu raisona de histori.  
+
+    Qe, tu habe este ke un inklude de "Seminar #1" fu auxi plu futura stude-pe de Glosa, intra deutschland?  Tu sio posi don u lista de plu beneficia stude-ma pro plu Deutsch stude-pe de Glosa.
+
+  _=_=_=_=_=_
+
+
+&   A Good Effort, Marcel,
+
+    You demonstrate possibly the main aspect of learning Glosa: using it. 
+
+    And you do so very well.  By trying to express your-self using Glosa, you will feel the words locate themselves with best fit.  This feeling grows with practice.
+
+    Do you have trouble thinking in German, and then, thinking in Glosa?
+
+
+    Regarding re-locating existing Web-pages in your own Web-site, this action is very logical: if you do not translate this information into German, who will do it?  When you translate the pages from Richmond, U.K.  
+
+- possibly from Paul Bartlett's Website - please give recognition to the authors.  
+
+    If you use items from my Web-site, possibly you will include a note about me, but only for reasons of history.
+
+    Do you have the feeling that inclusion of "Seminar #1" will help future Glosa students in Germany?
+
+  [N.B. The languge of Linguistics is not fully worked out for Glosa, but Seminar #1 should translate readily into German .. if you think it fits in a Web-page.]
+
+  ~=~=~=~=~=~=
+
+    Place kogita de grafo (pl)u Deutschland histori, pro plu ju-pe, uti Glosa.
+
+
+Saluta,
+
+     
+
+Robin Gaskell
+
+  P.S Would you like to receive an IBM disk with the Glosa 6000+ on it: if so please send your land address.   R.
+
+
+--=====================_948377180==_
+Content-Type: text/plain; charset="us-ascii"
+
+_A first Seminar on Glosa____________________________R. Gaskell Sept,1995_
+               (With apologies, in English)
+WORDS
+        Words in Glosa represent concepts, and are really `concept/words.'
+They represent ideas, but, depending on their position in the sentence,
+and their relationships to other words, they may represent that idea in its
+solid form (noun), active form (verb), or as a modifier of another idea
+(adjective, adverb).
+
+        The words do not change for reasons of grammar (system for getting
+understanding from words): this means that words can be used, within
+reason, as any part of speech, but have no letters added to indicate this
+useage (no Part-of-Speech markers); also, the words which act as verbs,
+`verbs', have no endings added to them (no inflections) to give added
+understanding of how, or when, the action is taken.
+
+        The order of the words (syntax) gives us the meaning in Glosa; the
+language can be described as having `syntax-based grammar.'
+
+PHRASES
+        The phrase (small group of words) is the basic unit of sentence
+construction in Glosa.  A small group of words might include a thing and
+some description of it (noun phrase), or the group might include an action
+and some modifications to this action (verb phrase).  A small group of
+words at the start of a Glosa sentence might qualify the action of the
+sentence (adverbial phrase).
+
+        Within each phrase, each word is modified by the one before it, and
+there is a gradual increase in importance of the words, with the main
+concept/word (`noun' or `verb') as the last word of the phrase.
+                e.g.  the three fast, loud red cars                  NP
+                      plu tri celero fo-sono rubi vagona
+
+                e.g.  were quickly end excitedly talking loudly      VP
+                      pa du celero e excita fo-sono dice
+
+                e.g.  while running     (relates to  --->  verb)     AdvP
+                      tem kursi
+
+        In speech, phrases are said as one group, often with a raising then
+lowering of intonation (pitch), from start to finish; in written form, if
+it seems necessary for the understanding of meaning, the start and finish
+of phrases, is indicated using punctuation (commas).
+
+CLAUSES
+        A clause is a larger group of words containing two (NP + VP) or
+more phrases, and such a simple two or three phrase clause can make up the
+whole sentence (major clause).  However, a clause - which always includes
+at least one verb phrase - might add meaning to the action of the
+sentence (Adverbial Clause), might give more description to one of the
+things in a sentence (Adjectival Clause), or it could be a group of words,
+including a `verb,' used in the place that you would normally find a noun
+phrase (Noun Clause).
+
+      e.g.  The boy arrived.              U ju-an pa ariva.            MC
+
+      e.g.  The girl went home.           U ju-fe pa ki a fe domi.     MC
+
+      e.g.  The man will eat the meal.    Un andra fu vora u vora.     MC
+
+      e.g.  She spoke so loudly that she was heard.
+            Fe pa ta sono dice ke fe pa gene ge-audi.                AdvC
+                          ~~~~ <-- ~~~~~~~~~~~~~~~~~
+
+      e.g.  The girl went home after she had eaten a good meal.
+            U ju-fe pa ki a fe domi, po fe pra vora u boni vora.     AdvC
+                       ~~   <---     ~~~~~~~~~~~~~~~~~~~~~~~~~~
+      e.g.  The boy, who was fat and badly dressed, arrived.
+            U ju-an; qi pa es paki e mali ge-vesti, pa ariva.        AdjC
+              ~~~~~ <-- ~~~~~~~~~~~~~~~~~~~~~~~~~~
+      e.g.  I like to get away from the house.
+                  (getting)
+            Mi amo gene ab u domi.                                     NC
+                   ~~~~~~~~~~~~~~
+      e.g.  The farmer hoped that it would rain.
+            Un agri-pe pa spera: ke id sio pluvi.                      NC
+                       ~~~(V)~~  ~~~~(O)~~~~~~~~
+
+SEQUENCE IN A CLAUSE
+        The normal sequence in Glosa is the same as in English:-
+ Main Clause =   noun phrase    -    verb phrase     -    noun phrase
+                  (SUBJECT)            (VERB)              (OBJECT)
+            Doer of the action    Action being done    Thing acted upon
+           e.g.     He                 posts               a letter.
+                    An                 posta               u grama.
+
+        There are three main variations to this: clauses with no object
+(intransitive verb); clauses where, for reasons of style, the speaker,
+or writer, wishes to emphasise the object by placing it first (Passive
+Voice); and Noun Clauses which have no subject (infinitive verb).
+           e.g.    She (NP)    sang. (VP)                 Fe pa kanta.
+                 (SUBJECT)    (VERB)
+
+           e.g.   The letter       was posted        by the man.
+                   U grama      pa gene ge-posta     ex un andra.
+                               (did get got-post)
+                   (OBJECT)         (VERB)                (SUBJECT)
+
+           e.g.                  - running (=to run)     on wet grass
+                                    kursi              epi ge-hidra gra
+                                    (VERB)                 (OBJECT)
+
+        Because its grammar depends on the word order, Glosa works best if
+we keep to the normal (S-V-O) structure in clauses.  In poetry and fiction,
+however, the stylistic variations are necessary.
+
+FUNCTION WORDS
+        These are the small words that are not concept/words, but which
+join these words together (conjunctions), lead us into a phrase or clause
+(prepositions), create negatives, introduce questions, or modify the timing
+of an action when placed before a `verb' (tense particles).  There are also
+the small words placed before `nouns' to tell us that they are things, and
+how many, or how much, of them there are (determinants).
+        Joining words:  e, sed, pluso, alo, ni
+
+        Prepositions: tem, a, ex, de, anti, seqe, po, pre, vice, krom ....
+
+        Negatives: ne, nuli, no-, ni ... ni, nuli-
+
+        Questions: Qe, qestio, qod, qo-
+
+        Tense particles: pa, fu, du, nu, pra, sio, ge-, gene
+
+        Before `nouns': u, plu, plura, uno, vario, poli, oligo, u mero de
+         (determinant)
+
+SENTENCES
+        Putting all the above together, in Glosa, as in English, sentences
+can be made up of various combinations of phrases and clauses - as long as
+the Subject-Verb-Object rule is observed.  In Glosa, also, there is the
+added requirement that words in phrases follow the rule of increasing
+importance, with the main concept/word last.
+
+        If the sentence is made up of phrases only, there is a single
+`verb', and the sentence is described as a Major Clause.  If there are two
+or more `verbs', then the `verb' describing the main action forms the Main
+Clause, and the other clauses (NC, AdvC, AdjC) are called Subordinate
+Clauses.  The whole sentence can, however, still be called the Major
+Clause.
+        The secret of good sentence formation is in using well-formed
+phrases to make up the sentences and their constituent clauses.
+
+PRECEDENCE IN PHRASES
+RULE: In a phrase, a word is modified by the word in front of it (its
+        precedent.)
+RULE: In a normal sentence (Major Clause), there is a tendency for the
+        first noun phrase (SUBJECT) to modify the verb phrase (VERB), and
+        then, for the verb phrase to modify the second noun phrase (OBJECT).
+RULE: A modifying clause (Adjectival or Adverbial) follows directly after
+        the concept/word that it modifies; this structure is indicated
+        by the placing of a semi-colon (;) or possibly a colon (:) before
+        the new clause.
+
+ In a noun phrase, the sequence is:-
+
+           determinant  -  number  -  quantity  -  modifier(s)  -  noun
+
+        e.g. plu tri no-ge-numera, fo sono, no-puri ju-an
+             the three uncounted, shouting, dirty boys
+
+           Note.  The concept/word used as a noun is the only element of
+              a noun phrase that is essential.
+
+ In a verb phrase, the sequence is:-
+                                                    |   verb
+  negative - tense - modifier(s) - auxiliary verb - |      OR
+ particle                                           | verboid + amplifier
+
+                     e.g. ne pa hedo, no-soni tenta | kursi
+                                                    | ki ana
+
+                       did not happily, quietly try | to run
+                                                    | to go up
+
+           Note, again.  The concept/word used as a verb is the only
+               element of a verb phrase that is essential.
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+--=====================_948377180==_
+Content-Type: text/enriched; charset="us-ascii"
+
+
+
+<underline> 
+------------------------------------------------------------
+
+MAILING LIST:  (now EZMLM not Majordomo)  Send blank e-mails to:-
+
+         To: glosalist-subscribe{at}lists{dot}zeta{dot}org{dot}au  
+
+      -OR-   glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+
+ -For INFO-  glosalist-info{at}lists{dot}zeta{dot}org{dot}au
+
+WEBPAGE:  www.zeta.org.au/~rgaskell
+
+ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
+
+BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
+
+CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au  
+
+       (A$10 each, incl post; to Glosalist Subscribers - free)
+
+AUTHORS: "Plu Glosa Nota", Dictionaries 
+
+        P.O. Box 18, Richmond Surry TW9 2AU, U.K. 
+
+                 </underline>
+
+--=====================_948377180==_
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--=====================_948377180==_--
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] German Glosa-webpage
+From: "Marcel Springer" <m.springer{at}nikocity{dot}de>
+Date: Sun, 23 Jan 2000 00:30:19 +0100
+
+
+ Karo Robin, 
+
+ gratia pro tu grama, plu tu qestio, ofero e puta. 
+ Mi fu grafo itera a tu. 
+
+ Gratia pro tu textu "Seminar #1". 
+ Mi fu traduce e uti id pro mi internet pagina. 
+
+ Plu saluta 
+
+     (Dear Robin, thanks for your letter, your questions, offers 
+     and ideas. I will write you again. Thanks for your text 
+     "Seminar #1". I will translate it and use it for my internet 
+     page. Greetings)
+
+ Marcel
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] German Glosa-webpage
+From: "Marcel Springer" <m.springer{at}nikocity{dot}de>
+Date: Wed, 26 Jan 2000 22:34:47 +0100
+
+
+ Deutsche Glosa-Seite:
+ =====================
+
+     http://www.tu-harburg.de/~smms1406/glosa.htm
+
+ es un internet pagina ko info de lingua Glosa
+ in Deutschland-lingua. Place visita. Gratia.
+
+ (Webpage with information about Glosa in German:
+     www.tu-harburg.de/~smms1406/glosa.htm
+  Guide through the page in German and English:
+     www.tu-harburg.de/~smms1406/gguide.htm
+  Zip-file for offline-reading:
+     www.tu-harburg.de/~smms1406/marcel.zip)
+
+ Marcel
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: "David Porter" <David{at}eastholmeonsea{dot}freeserve{dot}co{dot}uk>
+Subject: [glosalist] Re: From DP Continuing discussion re Glosa
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Mon, 31 Jan 2000 12:12:03 +1100
+Cc: glosalist{at}lists{dot}zeta{dot}org{dot}au
+
+At 12:09 29/01/2000 -0000, you wrote: 
+
+>>>>
+
+<excerpt><smaller>Hello Robin!
+
+Thank you for your interesting observations    .....    feel that there
+is enough to learn without having to overcome contradictions and
+inconsistencies - that was my reaction anyway. 
+
+</smaller></excerpt>** Hi David,
+
+    The main problem, for me, with these base-level annoyances in the
+Glosa lists, is that I do not have a printing press, and that while
+refining these matters - to "standardise" Glosa - I had a computer
+wipe-out with a virus.
+
+It was complicated, and I was off the Net for a month, which was enough
+to take the impetus away from the Glosalist, whose members were working
+on it.
+
+    So, For the many non-Networked Glosa-pe printed paper copies of the
+dictionaries is all they have.  Howevber, for the Netted Glosa-pe, we can
+change the spelling and remove unwanted synonyms, but this was taking a
+long while to reach concensus. 
+
+    Also, we had the other problem of 'copyright' and the authors'
+dominance and moral suasion.  But, for financial reasons, Clark and Ashby
+while joining the Internet, were not active on it, and did not join the
+Glosalist discussions.
+
+    So, I was creating what could almost be seen as a parallel
+administration of Glosa, and I needed to maintain good connections with
+the authors at the same time.  That was just the way it was.
+
+    Now, however, Glosa's basic plan is just as good as it ever was, but
+the authors are not able to maintain as active a role as they had.  So, I
+could exert a stronger influence in the works: I could buy a laser
+printer, so that dictionaries I print will not run when wet (as
+bubble-jet does); and I could complete the "Glosa 2500 Learner's
+Dictionary" that was nearly ready when I got virussed: also I could
+become much more active in the creation of learning materials, such as
+cassettes and instruction books.  But ....
+
+    Just when I started bouncing back from the wipe-out, other ..
+non-linguistic .. problems arose on the horizon.  Had there been no worry
+about the survival of basic Democracy, I would have happily put all of my
+effort into getting Glosa off the ground.
+
+    I am not sure how much you know about the MAI, G7 or WTO, but there
+really was good reason for all of those people moving into Seattle to
+alert the world to its perilously dangerous situation.  I an afraid that
+political forces are far stronger than those of language reform, and that
+we will probably see Capitalism collapse - as cataclysmically as did
+Russian Socialism - before we see world leaders decide to act on the IAL
+hypothesis.  I am working on the question of which system follows
+Capitalism when it has been discredited.
+
+
+
+<excerpt><smaller>  I accept your point regarding creativity (where would
+humanity be without it?) and if the language should ever become accepted
+and used as an IAL then change, innovation, creativity should follow
+naturally (as happens with languages anyway). 
+
+</smaller></excerpt>**   The bad news is that there isn't much spare
+creativity about: most creatives are busy exploiting their imaginations
+as song-writers, pop musicians, advertising copy-writers, hack
+journalists, novel-writers, etc.
+
+     Very few are employing their creative abilities altruistically to
+prevent our civilisation from falling into the abyss.  In a round-about
+way, I am saying that I have been distracted, by events, from applying
+myself single-mindedly to the success of the IAL.
+
+
+<excerpt><smaller>  Whilst Glosa is in its infancy (with regard to
+becoming known and accepted) I do believe that it should be made as
+simple as possible and presented in such a way that its functionality
+cannot be criticised. 
+
+</smaller></excerpt>**   And it is obvious, as well.  The authors did
+simplify Hogben's pattern considerably, and Glosa is now recognised as
+the Planned Language with th most simplified structure.  But, on
+functionality, the authors misjudged the need for regularity on the part
+of the majority of mankind.  They did not standardise the dictionary
+spellings; but, for reasons of cost, kept printing the same wordlists ..
+even though the lack of standardisation was reported, to them, as being
+irksome to many learners.
+
+
+<excerpt><smaller>  Faulty dictionaries, contradictory word endings, more
+than one word to represent a definitive idea (in the basic 1000 words at
+least) allows areas for criticism which could be avoided without too much
+trouble.   It is easy to criticize of course but there are other areas of
+concern to me.   Firstly I don't really understand why punctuation needed
+to be changed from the conventional (when writing Glosa as I did some
+five years ago I found myself keeping to conventional punctuation - and
+only used colons and semi-colons where I would normally have done when
+writing English.
+
+</smaller></excerpt>**    This is a tricky one.  However, I suspect that
+there is such a thing as a "Grammar of Punctuatuion."  It is possible,
+that, as evolved as it is, an also as conventionalised as it is, English
+punctuation might be right for the way English works, but not necessarily
+for the ways some other languages work.
+
+      I tried to understand what Ron Clark was doing, when he introduced
+specialised punctuation rules for Glosa, and I try to apply them .. to
+see if they are 'funcional.'  When I 'think in Glosa' I use the Ronald
+Clark system of punctuation - more or less; and, when I think in English,
+i tend to use a standardised version of English punctuation.  And I note
+that when I give Glosa and English versions of the same sentence, they
+might be differently punctuated.
+
+      As an explanation, not an excuse, I would mention that Glosa,
+having a 
+
+syntax-based grammar with uninflected words, means that sometimes the
+puntuation needs to do some of the grammatical work: I liken it to the
+use of a shoehorn - to make sure that things go into the right place, IE
+are understood by the reader to articulate in the way intended by the
+writer.  Then again, in spoken Glosa, vocal inflection gives us the
+internal structure of the sentence, much as punctuation does in written
+text.  So, in Glosa, I might say that good punctuation is more important
+than it is in English.  There probably is a clear relationship between
+written punctuation and the vocal inflection that it is used to indicate.
+ You are having trouble with the fact that Glosa and English have a
+different set of ground-rules to indicate this relationship.
+
+      Although Ron did not express it as functionally as I do, Glosa
+phrases are 'flagged' with a starting comma, and Glosa Clauses are
+'flagged' with a starting semi-colon.  This is not a hard and fast rule,
+so that semi-colons can be elided to commas; and commas can be elided
+out.  However, where it seems necessary to mark the sentence structure
+for reasons of clarity - and with Glosa's simplified form, this may
+become necessary - then the mechanism, to do so, exists.
+
+      Most English-speakers claim that an excess of semi-colons makes a
+sentence look ugly.  And this may be so.  But were the language taught
+functionally, then learners would happily use the "start of clause" mark,
+so that the reader had no trouble in understanding the structure of his
+sentence.
+
+
+EG  Fe pa ki a fe domi; qi habe loka to u buta de u via.
+
+
+   She went (to her) home, (which is) located at the end of the road.
+
+
+    Fe pa ki domi; loka to u buta de u via.
+
+
+In Glosa the same functional punctuation, the semi-colon, is used
+whether, or not, there is elision.  While I could have 'puristically'
+placed a comma after LOKA to indicate the start of a subsidiary phrase,
+this structure was obvious, and I elided the comma.
+
+    Had Ron Clark thought differently, he mght have invented unique
+punctuation marks for Glosa - to avoid confusion with the established
+usages for the traditional marks of English.
+
+    Since having thought about the 'function' of punctuation, as it
+applies to Glosa, I have loostened up my own markings in normal English
+.. especially on the Net, EG
+
+   raining ^cats and dogs^
+
+   well .. only at Christmas
+
+   he *really* got angry
+
+   then, I knew ... it was the flat battery
+
+   couldn't move; but, when it growled
+
+
+<excerpt><smaller>   Also I found it rather annoying when reading Plu
+Glosa Nota to come across words that I couldn't fathom the meaning of
+which didn't appear in the dictionaries.    Subsequently advice was given
+to use an Italian dictionary to supplement Glosa vocabulary - do you
+think that is sound advice - what are the alternatives with regard to
+expanding the vocabularly? 
+
+</smaller></excerpt>**   Agreed it was a bit silly, however I use mainly
+the Latin dictionary for word divination and creation, and on rare
+occasions I consult the Greek one.
+
+     Italian is relevant to pronunciation: borrow a cassette of spoken
+Italian, and you hear Glosa's sounds.
+
+
+<excerpt><smaller>   Also what do you think about the practice of naming
+days and months by numbers?   Is it not just a bit too 'clinical' - too
+detached?  (I'm having difficulty in expressing conveying what I mean
+here).   Days and months tend to have recognisably internationalised
+names and are usually learned without too much difficulty - personally I
+know I would have found it easier and quicker to have learned names
+rather than to have tried to work out which day di sixa represented or
+which month is meno seti.   The dictionaries do give some names but not
+all. 
+
+</smaller></excerpt>**   While it might be more human to have folksy
+names for days and months, it is probably more 'ecumenical' to
+standardise the calendar mathematically, at least for beginners; once
+people have moved up to a dictionary with synonyms, they then should have
+no problem in being understood using either "Januari" or "Mo 1".
+
+
+<excerpt><smaller>  I suppose that my experience with Esperanto showed me
+the advantages of a well controlled language although this too can be
+problematical if "conservatives" refuse to budge when innovation is
+called for - and I am referring to the reluctance to accept change
+concerning  the accented letters which  many Esperantists wanted to
+abolish so as to make the language more user friendly, particularly  with
+regard to the computer.
+
+</smaller></excerpt>**   Yes, we have some conservatism in Glosa too: as
+Esperantists think accent marks are OK, some, in Glosa, think variable
+spellings are OK.  But full standardisation is needed for any language
+that is intended for use within all cultures!  This was, originally to
+have been achieved by the Glosalist.
+
+<excerpt>  
+
+<smaller>Yes, I am still interested in the Glosa social invention - I am
+a "one world" person who does not consider that he has a country - the
+absolute opposite of a patriot/nationalist.   Part of my
+political/economic/social outlook embraces the need for an IAL (or as I
+mentioned before any language that may be universally acceptable).  
+
+</smaller></excerpt>**   Interesting themes here: a community-based
+society probably is more likely to be 'patriotic' than 'globalised'.  And
+centralisation of power and wealth are proving to be major evils of this
+Later Phase of Capitalism.  So, does Interlingualism favour the
+centralisation of power, or does it maintain the strength of community?
+
+
+<excerpt><smaller> At the moment my wife and I are struggling to learn
+some Spanish -and it is because of this (added to some disillusion with
+Glosa for reasons stated)  that I put Glosa on the back burner for a
+while.   We go down to Spain for a camping holiday during Feb & March so
+for that period I will not be available.   This email was started a few
+days ago but then put aside whilst I endeavoured to download your
+seminars - I could't transfer them to 'word' - had to 'phone my son who
+knows about these things  - anyway to cut the story short I got at them
+through 'notepad' this morning but I will not  have time to digest them
+properly before going away so will print them off and take them  with
+me.
+
+</smaller></excerpt>** Happy travelling in Spain, and success with the
+language.  Spanish is the major second language in the southern states of
+the USA.  I have tended to keep in ASCII, where possible; perhaps I will
+need to adopt a newer w.p. convention.
+
+<excerpt>Wordpad is much better than Notepad.
+
+  
+
+<smaller>I see with interest that you are a jazz enthusiast and I am also
+(where trad is concerned).   Unfortunately I do not have your gift of
+being able to play a musical instrument and my singing (in or out of the
+bath) brings on an amused smile from my wife.   We do manage to  get away
+to a few jazz weekends during the year and we regularly attend the
+monthly jazz session at the quaintly named venue in Norwich called  the
+'Norfolk Dumpling' .   Unfortunately we will miss the next three sessions
+two of which are good continental bands.      I look forward to hearing
+from you.
+
+Saluta.   
+
+</smaller></excerpt>**   It's more of a fading memory these days.  When
+Peace returns, I will retire, and probably start playing again.
+
+
+Saluta
+
+  Robin Gaskell
+
+  
+
+
+
+
+<underline> 
+------------------------------------------------------------
+
+MAILING LIST:  (now EZMLM not Majordomo)  Send blank e-mails to:-
+
+         To: glosalist-subscribe{at}lists{dot}zeta{dot}org{dot}au  
+
+      -OR-   glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+
+ -For INFO-  glosalist-info{at}lists{dot}zeta{dot}org{dot}au
+
+WEBPAGE:  www.zeta.org.au/~rgaskell  [in English]
+
+          www.tu-harburg.de/~smms1406/glosa.htm  [in German]
+
+ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
+
+BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
+
+CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au  
+
+       (A$10 each, incl post; to Glosalist Subscribers - free)
+
+AUTHORS: "Plu Glosa Nota", Dictionaries 
+
+        P.O. Box 18, Richmond Surry TW9 2AU, U.K. 
+
+                 </underline>
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+

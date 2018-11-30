@@ -1,0 +1,1001 @@
+
+From: ailanto
+Subject: subscribe William Patterson
+To: glosalist listserv
+Cc: 
+Date: Wed, 16 Jul 97 20:06:28 EDT  
+
+subscribe William Patterson
+
+From: Robin Gaskell
+Subject: I Think We Are Ready (1)
+To: glosalist
+Date: Tue, 22 Jul 97 11:1
+
+Hello Friends, 
+        This is a first message to sixteen subscribers, not a test.
+
+        Which lexicon are you using for selection of Glosa words?  There are
+basically two lists: Glosa 1000 and Glosa 6000.  But there are also "Glosa
+Central" and "Glosa Classified" lists, with some variations between each
+list - as pointed out to me recently by Paul Bartlett.
+
+        So, for those with a copy of "Glosa 1000", your use of words will be
+economical in the extreme.  This `starting vocabulary' has only one root
+(Greek or Latin) for each concept, and allows you to get the feel of the
+language.  Now, if you really are trying to say something complicated, this
+beginners'
+dictionary will hardly satisfy you.
+
+        In "Glosa 6000" there are some synonyms (both Greek and Latin roots
+for one concept), and there is a much wider choice of words to allow the
+speaker/writer more freedom.  I can speak from experience that the writer
+will find it boring and repetitive if the alternative root is not available.
+So, for good style, the synonyms are essential.  However, in a query
+language situation involving man/machine interaction, there is a strong case
+for using only one root per concept.  
+
+        For people who do not have the larger dictionary, I have a scanned
+version of the "6000", and will clean it up to print and post copies to
+those who request it.  A copy of the "Glosa Classified" wordlist is
+available through my website: this features the core thousand words grouped
+according to their linguistic function.
+
+        To get started with using Glosa, it is a good idea to buy the "18
+Steps to Fluency in Euro-Glosa."  I will be guided by your wishes - aiming
+to give part of my time here to teaching the usage of Glosa, and the other
+time to discussing the language and means of dissemination.
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au
+ GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: ailanto
+Subject: Re: I Think We Are Ready (1)
+To: Robin Gaskell
+Date: Tue, 22 Jul 97 23:3
+
+On Tue, 22 Jul 97 11:11:41 EDT, Robin Gaskell said:
+
+> Hello Friends
+
+Hi!
+
+> Which lexicon are you using for selection of Glosa words? 
+
+I have what I've found on the Net. Glosa 1000 and some other info.
+
+> For people who do not have the larger dictionary, I have a
+> scanned version of the "6000", and will clean it up to print
+> and post copies to those who request it.  
+
+Please do send me a copy!
+
+> To get started with using Glosa, it is a good idea to buy
+> the "18 Steps to Fluency in Euro-Glosa."
+
+I'll check those bookstores.
+
+   - Thanks - Bill
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+From: John Schilke
+Subject: Re: I Think We Are Ready (1)
+To: Robin Gaskell
+Cc: glosalist
+Date: Wed, 23 Jul 97 11:1
+
+Well, for what it isworth, I use all, though I try the '1000' first, 
+since it is small.  It is amazing how much you can say with such a 
+limited vocabulary, although nuances and style ae quite another matter.  
+I happen to prefer the Greek choices over the Latin, but that is a 
+personal matter of taste -- I think I can recognize both in most instances.
+
+Since the list is up, best wishes to all.  Henceforward I'll try to write 
+in Glosa.
+
+John
+
+
+From: Paul O Bartlett
+Subject: Experimental Glosa Discussion Group
+To: fearn{at}compuserve{dot}com; William
+Date: Wed, 23 Jul 97 12:2
+
+To recipients of this email interested in Glosa:
+
+    On an experimental basis, I have set up an email discussion 
+group for the following purposes:
+
+1) Discussion of Glosa as an international auxiliary language;
+2) Practice in using Glosa with positive feedback from others.
+
+Please note that this is NOT a conventional mailing list as often
+found on the Internet.  There is no automatic subscription,
+unsubscription, archive retrieval, help files, and so on.  It is merely
+a central point to which you can send an email for either or both of
+the above purposes and have it distributed to other discussion group
+members.
+
+    To join this group, just send an email to the following address:
+
+To: Paul Bartlett <pobart{at}access{dot}digex{dot}net>
+
+and ask to join the group.  Note that it is important that the word
+glosa   itself not appear anywhere in the above address.
+
+    After you have joined the group, if you want to send an email to
+other group members for group purposes, send an email addressed as
+follows:
+
+To: glosa <pobart{at}access{dot}digex{dot}net>
+
+It is critical that you note the difference in addressing.  In the
+first case, the word   glosa   must _not_ appear anywhere in the "name"
+field.  In the second case, it is *necessary* that my name _not_ appear
+in the name field but that the word   glosa   be the only word in the
+name field, even though my email address appears.
+
+    As I mentioned, this is experimental, and I do not guarantee that 
+I have all the wrinkles ironed out.  Also, it is possible that this
+discussion group, being experimental, could go away at any time on
+short notice.
+
+Paul Bartlett                    <pobart{at}access{dot}digex{dot}net>
+----------------------------------------------------------
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Re: Experimental Glosa Discussion Group
+To: Glosa Distribution List; 106703.1661{at}compuserve{dot}com; 75757.3027{at}compuserve{dot}com; conrad{at}cix{dot}compulink{dot}co{dot}uk; G E O; iaymat{at}cerebus{dot}asiaonline{dot}net{dot}tw; jack_swanson{at}acd{dot}org; krs{at}cortex{dot}caos{dot}aamu{dot}edu; Paul Easton; Robin Gaskell; rhill{at}thehost{dot}com; rmsamy{at}pop{dot}jaring{dot}my; John Schilke; seda{at}magnus{dot}acs{dot}ohio-state.edu; SXCZ85A{at}prodigy{dot}com; fearn{at}compuserve{dot}com; William; David C J Oort-Gijsen
+Date: Wed, 23 Jul 97 12:3
+
+On Wed, 23 Jul 1997, Paul O Bartlett wrote:
+
+> To recipients of this email interested in Glosa:
+> 
+>     On an experimental basis, I have set up an email discussion 
+> group for the following purposes: [...]
+
+    Let me clear up a possible confusion.  You are *NOT* automatically
+a member of this experimental discussion group.  You are only a member
+if you explicitly ask to be.  My previous message was only to make
+people aware of its existence.
+
+Paul Bartlett                    <pobart{at}access{dot}digex{dot}net>
+----------------------------------------------------------
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Robin Gaskell
+Subject: Re: I Think We Are Ready (1)
+To: William W Patterson
+Date: Wed, 23 Jul 97 20:2
+
+At 11:38 PM 7/22/97 EDT, you wrote:
+>On Tue, 22 Jul 97 11:11:41 EDT, Robin Gaskell said:
+>
+>> Hello Friends
+>
+>Hi!
+>
+>> Which lexicon are you using for selection of Glosa words? 
+>
+>I have what I've found on the Net. Glosa 1000 and some other info.
+>
+>> For people who do not have the larger dictionary, I have a
+>> scanned version of the "6000", and will clean it up to print
+>> and post copies to those who request it.  
+>
+>Please do send me a copy!
+>
+>> To get started with using Glosa, it is a good idea to buy
+>> the "18 Steps to Fluency in Euro-Glosa."
+>
+>I'll check those bookstores.
+>
+>   - Thanks - Bill
+>
+>
+>--
+>William W. Patterson <ailanto{at}neosplice{dot}com>
+>http://www.neosplice.com/~ailanto
+>
+Bill, Hi!
+
+        Nice to have you aboard, as they say in nautical circles.
+
+        One bit of news is that it works out we are not quite ready, yet,
+after all.  I am attempting a manually-operated, no-cost Mailing List, and
+my ISP has
+typed in a small program into his computer, plus allocated me a location
+where I can put the list of e-mail addresses.  
+
+        Your name is on that list, and hence you got my broadcast, and I got
+your "Reply."  BUT my ISP informed me that he hadn't arranged it so that
+"Replies" go back to all  glosalist  subscribers; I got your reply, but
+no-one else did.
+
+        HOWEVER, we have back-up.  Paul Bartlett, another subscriber and ex-
+programmer, has done a better job with creating a "Reflector" inside his
+Internet connection, so, as soon as he is happy with its operation, I will
+ask people to head their Glosa List contributions ...
+         To: glosa <pobart{at}access{dot}digex{dot}net>
+   ... I know his system recycles replies back to all List-members: I have
+sent replies back to Paul and John - in our test group of three.
+
+        I have sent Paul the "List" and when he gives me the nod, I will
+broadcast a call for people to use the new "Reflector" system.  Until then -
+and afterwards - the   glosalist   address, you used, is functional (with
+limitations).  All we need to do is to avoid the "Reply" button, and
+"Redirect"  or "Forward" replies to the list, by typing in
+glosalist{at}zeta{dot}org{dot}au   at the 
+"To:" prompt.  Then it will operate like a normal Mailing List.
+
+        Re the Glosa 6000 scan: it is still in the process of topping and
+tailing, but your resopnse elevates it to Priority 1.  The authors have not
+yet authorised me to make "6000" available electronically, so I will have to
+use the hard-copy/snail-mail system to get it to you.  Needless to say,
+"Glosa 6000" should be available through the bookstores, and this is how the
+authors survive financially ... but I am of the opinion that a Shareware
+release would ony tend to boost hardcopy sales.
+
+        Please send questions about, and expectations of, Glosa to the
+glosalist  now that I know its broadcast facility is working.  Have you
+downloaded my Glosa version of the Three Bears?  I will post it to the group
+as a little light reading.
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au
+ GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: ailanto
+Subject: Re: I Think We Are Ready (1)
+To: Robin Gaskell
+Date: Wed, 23 Jul 97 22:2
+
+On Wed, 23 Jul 97 20:21:36 EDT, Robin Gaskell said:
+
+> Have you downloaded my Glosa version of the Three Bears?
+
+As a matter of fact, I did - just today at lunchtime!
+
+       - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+From: Robin Gaskell
+Subject: Re: I Think We Are Ready (1)
+To: William W Patterson
+Date: Fri, 25 Jul 97 10:2
+
+At 10:24 PM 7/23/97 EDT, you wrote:
+>On Wed, 23 Jul 97 20:21:36 EDT, Robin Gaskell said:
+>
+>> Have you downloaded my Glosa version of the Three Bears?
+>
+>As a matter of fact, I did - just today at lunchtime!
+>
+>       - Bill
+>
+>--
+>William W. Patterson <ailanto{at}neosplice{dot}com>
+>http://www.neosplice.com/~ailanto
+>
+Karo Bill,
+        One or two comments on the Tri Ursus story:-
+. I firstly tried translating into Glosa from an English language original. This
+        did not work because of vocabulary difficulties, but more
+importantly         because of the difficulties inherent in the syntax of
+English.
+. I then decide to 'retell' the story in Glosa, and this took a lot of
+strain         off me!  I was not restricted by the ideosyncratic usages of
+English.
+. After writing every sentence, I reread it out aloud, and listened for the
+sound, felt how comfortable it was in the mouth, and tried to recall
+from the words my original intent in the communication.
+. If the new sentence sounded unpleasant, felt awkward as I said it, or
+did not immediately bring back to mind what I had originally meant to 
+        say, then I scrapped the sentence and started again.
+. The "Bears" was a learning experience for me.  It was the first of my
+three         favourite children to receive the "re-dice in Glosa"
+treatment.  I would
+        like to compile a primer of easy-reading stories for learners of Glosa.
+. If you wish to develop the art of writing in Glosa, you might pick another
+such children's story to retell.  We can edit it if this is necessary,
+and, if a few more do it, then we will have enough to print a primer.
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ORGANISATIONAL
+        The "glosalist" Mailing List is not re-broadcasting "Replies".
+
+        I will ask you to change over to the alternative organised by Paul
+Bartlett - and tested with two others of us - for the purpose of trouble-free
+group involvement.  Basically, instead of sending Glosa discussion to 
+
+        glosalist{at}zeta{dot}org{dot}au     use    glosa <pobart{at}access{dot}digex{dot}net>
+
+at the "To:" prompt.
+
+        However, Paul will ask everyone to go through the application
+process, and so will want you to "Request" to join with a short message sent to 
+
+        Paul Bartlett <pobart{at}access{dot}digex{dot}net>
+
+requesting to join the Experimental Glosa Discussion Group.  Afer that, with
+your address on his list, everyting anyone sends 
+        To: glosa <pobart{at}access{dot}digex{dot}net>
+will be `reflected' to everyone else on Paul's list.  Meanwhile I will see
+what I can do to get the original idea into working order.
+
+        ??? Please share your interest in the idea of Auxiliary Language,
+and what you expect of Glosa.  But just to get us all in the one place,
+please go through Paul's "Request " process.
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au
+ GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: ailanto
+Subject: Re: I Think We Are Ready (1)
+To: Robin Gaskell
+Date: Sat, 26 Jul 97 11:2
+
+On Fri, 25 Jul 97 10:26:47 EDT, Robin Gaskell said:
+
+> I would like to compile a primer of easy-reading stories for
+> learners of Glosa. If you wish to develop the art of writing
+> in Glosa, you might pick another such children's story to
+> retell.  We can edit it if this is necessary, and, if a few
+> more do it, then we will have enough to print a primer.
+
+I like that idea. Sounds like a good glosalist group project. 
+
+        - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+a lowtech guy in a hightech world
+
+From: ailanto
+Subject: experimental group
+To: Paul Bartlett
+Date: Sat, 26 Jul 97 11:4
+
+Please add me to the Experimental Glosa Discussion Group.
+
+   - Thanks - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+a lowtech guy in a hightech world
+
+From: Paul O Bartlett
+Subject: Re: experimental group
+To: William W Patterson
+Date: Sat, 26 Jul 97 19:2
+
+On Sat, 26 Jul 1997, William W Patterson wrote:
+
+> Please add me to the Experimental Glosa Discussion Group.
+> 
+>    - Thanks - Bill
+
+(England-lingua textu seqe / English text below)
+
+GLOSA
+
+Tu nu es u grega-pe de u Glosa Dice-grega.  Un objekti de u-ci grega es te
+genera komunika tem id membra praxi u lingua, e dice-alelo koncerne un auxi
+lingua, GLOSA.
+
+Tu fu automati gene plu artikla ex plu hetero grega-pe.
+
+Si tu ne volu es u grega-pe, place bali un e-posta ad u-ci e-posta adresa:
+
+                Paul Bartlett <pobart{at}access{dot}digex{dot}net>
+
+e grafo ke tu nima gene ge-apo ex u grega lista.
+
+Te bali plu artikla a plu hetero grega-pe; bali mu, per e-posta, ko u seqe
+adresa intra u "To:" line, topo u kefa de un e-posta:
+
+                To: glosa <pobart{at}access{dot}digex{dot}net>
+
+Tu nece loka u verba 
+   glosa
+iso u prima verba intra u un e-posta adresa.  
+Nota: uti u norma e-posta adresa pro plu petitio de adi, alo apo, plu nima
+ad, alo ex, u grega; sed, te bali plu artikla; qi fu gene ge-reflekti a holo
+plu hetero grega membra, tu nece loka u verba   glosa   pre u norma adresa,
+in u "To:" line.
+
+ENGLISH
+
+You now are a group-member of the Glosa Discussion Group.  The object of
+this group is to generate communication while its members practice the
+language, and talk together comcerning the auxiliary language, GLOSA.
+
+You will automatically get articles from the other group members.
+
+If you do not wish to be a group member, please send an e-mail to this
+e-mail address.  
+
+                Paul Bartlett <pobart{at}access{dot}digex{dot}net>
+
+and write that your name be removed from the group list.
+
+To send articles to other group members, send them, by e-mail, with the
+following address in the "To:" line, at the head of the e-mail:
+
+                To: glosa <pobart{at}access{dot}digex{dot}net>
+
+You need to put the word   glosa   as the first word of the address.
+Note: use the normal e-mail address for requests to add or remove names 
+to or from the group; but in order to send articles, which will get 
+reflected to all the other group-members, you need to place the word
+   glosa
+before the normal address in the "To:" line.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+----------------------------------------------------------
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Plu Translati de WWW Pagina?
+To: Paul Bartlett
+Date: Sat, 26 Jul 97 21:2
+
+Karo plu ami:
+
+    Ave.
+
+    Retro plura di, mi lekto plu komence-lexi de regi-pe de Union
+Mondial de Interlingua (UMI) in Strasbourg, France.  An dice de
+no-facili habe fo-poli lingua in EU.  Akorda-co, an sti ki avanti u
+Interlingua.  Sura, il es poli pe in Europe; qi pre-nu gene sko de
+Interlingua e uti id tem panto di.
+
+    Feno a mi; si Glosa habe u tende es veri internatio auxi-lingua;
+plei ergo habe u nece.  In internexu, pe pote lekto de Interlingua per
+plura lingua.  Mi ne ski info de Glosa in internexu; qod klu plu lingua
+ali de England-lingua.  Fo nece; pe uti internexu.  Nu-di internexu gene
+fo valu ka komunika-metodi.
+
+    Il es plu WWW pagina re Glosa; qod es in England-lingua.  Es u peci
+de valuta (proxi zero) te adi plu pagina sin hetero lingua.  Mi WWW
+pagina habe u cepti de G.E.O. in Richmond.  Qe uno-pe pote translati mu
+in hetero lingua?  Nu mi proposi France-lingua, Espagna-lingua, e
+Deutschland-lingua.  Sati posi; uno-pe translati mi pagina se, sine
+muta, tem komence.  Si pe ne face muta, il es mei ergo e mei duranto.
+Mi ne habe u sko de Espagna-lingua alo Deutschland-lingua.  Retro poli
+anua, mi habe sko de mero de France-lingua, sed mi ne memo u sati.
+
+    (Mi plus mite u-ci e-posta a G.E.O. in Richmond; kausa mu ne es
+grega-pe de Glosa Dice-grega.)
+
+"Mi cepti plu sti-veri e gramatika proposi pro u-ci e-grama."
+
+Vale,
+Paul                             <pobart{at}access{dot}digex{dot}net>
+----------------------------------------------------------
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: C Ronald, Glosa
+Subject: Glosa info
+To: William
+Date: Sun, 27 Jul 97 04:0
+
+
+Dear Bill,    Thank you very much for your enquiry.   You will find
+vocabulary and examples of Glosa on the following web page:
+<http://www.geocities.com/Athens/Acropolis/6223/glosa.html>
+
+Below is a list of some of the chief publications for further study.
+
+GLOSA  PUBLICATIONS
+
+18 Steps to Fluency in Euro-Glosa
+Authors:   Wendy Ashby and Ron Clark
+3rd edition. revised.  Published 1992. ISBN..... 0-946540 -15-  2
+108 pages paperback     price.  8.95 
+Contents.  Each step has sentences in parallel text showing how to
+use the GlosaMechanics   Many exercises for  translation practice
+Glosa into English  and vice versa.  Samples of informal letters and
+useful phrases around a theme.   Informative illustrations.  Two
+Vocabularies.....
+Glosa 1000 into English 2000  and most useful English words into
+Glosa 1000.   Suitable for those who like to work systematically
+through exercises.  Suitable for children from  12 years  and adults.
+
+Introducing Euro-Glosa
+Authors:  Wendy Ashby & Ron Clark
+Pub. 1990 paperback  ISBN.... 0-946540-12-8
+36  pages.     2.50 
+Contents:   16 parallel Glosa-English extracts  of Literature and
+Communication, Green and Conservation issues, prose and short
+story.
+
+Introducing Euro-Glosa cassette.  60 minute cassette of the above
+extracts.
+Price:  5.00
+
+Glosa Study Pack
+18 Steps to EuroGlosa  &  Introducing Euro-Glosa & Cassette, Glosa
+summary
+and Sample issue of Plu Glosa Nota  packed in plastic zip-wallet
+Special price    ......15.95  
+
+Central Glosa
+5000 English into Glosa 1000, with Etymological notes.
+by Wendy Ashby and Ron Clark......published  ....July 1993
+Paper back 131 pages......ISBN   0 946540 19 5......First edition
+10.95
+
+Contents:  includes  3 dictionaries.
+1.....The main dic. translates 5000 most useful English wirds into
+GHlosa 1000
+2.....Glosa 1000-Eng dic   with etymological note to each word.
+3.....A selection of words from Glosa 1000  with most interesting 
+etymologies,
+.......of great educational value
+This book contains a gneral  Introduction to Glosa, Glosa Mechanics,
+a
+parallel text and examples in Glosa and English
+Readership......Ideal for beginners, Advanced students and Teachers
+
+
+
+
+Glosa 6000
+6000 Greek and Latin words and roots which occur in the Euro-
+languages and International Sci-tech Terminology.........Authors: 
+Wendy Ashby and Ron Clark .  3rd edition revised.
+ published April 1992........132 pages......paper-back....... ISBN  0 
+-
+946540-  14-  4
+9.95.
+
+
+
+Glosa publications above 2.50 are available from
+Balckwell's Internet Bookshop 
+<http://www.blackwell.co.uk/bookshops/>
+
+Please make out cheques in pounds sterling only, payable to  
+"Glosa".
+Sorry we cannot accept cheques in foreign currency.
+Postage, please add 10%  for orders in Britain and  20%  for orders
+in
+other countries.
+
+Glosa books can also be ordered from larger bookshops in most
+countries, and are also available through Public Libraries.
+Please send cheque with order and post to:  Glosa,  P.O.Box 18, 
+Richmond,  Surrey, TW9 2AU,  England.
+
+History behind Glosa
+This booklet gives a fascinating outline of the most important
+historical events which have led up to the development of Glosa and
+how it  has spread around the world.
+0.40.
+
+
+Plu Glosa Nota.............ISSN   0265- 6892
+This NewsLetter  keeps Glosa users in contact with each other, gives
+details of Glosa publications, activities and general progress.  
+Contains articles
+linguistic,scientific. technical educational, ThirdWorld issues and
+Conservation,  Translations, Poems. Letters, Penfriends and Word
+games.
+PGN is a great aid to acquiring fluency in Glosa and is suitable for 
+bothbeginners and advanced  students of the language.
+Suscription 6 pounds  in Britain.  Eleven pounds in other countries.
+
+
+From: Robin Gaskell
+Subject: Please Apply to Join "Experimental Glosa Mail Forwarder"
+To: 75757.3027{at}compuserve{dot}com; seda{at}magnus{dot}acs{dot}ohio-state.edu; Tom Wood; Ron Clark & Wendy Ashby; Adrian Baker; Robin Gaskell; John Schilke; Tosho; Paul Fearn; krs{at}cortex{dot}caos{dot}aamu{dot}edu; Jack Swanson; R. Hill; Paul Bartlett; P. Ramasamy; William
+Cc: rgaskell{at}godzilla{dot}zeta{dot}org{dot}au
+Date: Sun, 27 Jul 97 18:1
+
+Friends of Glosa,
+        I send out this follow-up message repeating the information from
+Paul Bartlett.  I use the "GL" super-nickname to cover all still on my original 
+"glosalist".
+
+        The pothole in the Superhighway, that caught my wheel, was that
+responses to "glosalist" contributions were sent back ONLY to the one who
+submitted the original message - not an ALL TO ALL system by any means!!!
+
+        Until the glitch is fixed, or my ISP installs commercial Mailing
+List software, Paul Bartlett has created an automatic =Mail Forwarder= that
+really is "all-to-all", and, so, he will be able to service our discussions,
+while the subscription list is small.
+
+        Following protocol, Paul has asked people to request to have their
+e-mail address added to the "Experimental Glosa Mail Forwarder" before they
+get all rebroadcast messages.  So, please send a message, or "Redirect" this
+present message, with a line like `Please add me to the Mail Forwarder'
+exactly to
+   To: Paul Bartlett <pobart{at}access{dot}digex{dot}net>
+
+        Paul will confirm receipt of you request.  After that, please send
+normal Glosa discussions exactly to
+   To: glosa <pobart{at}access{dot}digex{dot}net>
+
+        Once the "glosalist" is operational, with a full recursive function, 
+we can seamlessly change back to it, and carry on as if all this unnecessary
+confusion had not occurred.  With apologies for the inconvenience.
+
+Saluta,
+ Robin
+
+P.S. During the coming week I will send notes on the Syntax used by Glosa.  R
+P.P.S. N.B. This is NOT to be called a `Mailing List'.  To cover Paul's
+agreement with his ISP, it is the "Experimental Glosa Mail Forwarder", or
+"Forwarder" for short.  Thanks.  R
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au
+ GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: I Think We Are Ready (1)
+To: William W Patterson
+Date: Sun, 27 Jul 97 18:3
+
+At 11:25 AM 7/26/97 EDT, you wrote:
+>On Fri, 25 Jul 97 10:26:47 EDT, Robin Gaskell said:
+>
+>> I would like to compile a primer of easy-reading stories for
+>> learners of Glosa. If you wish to develop the art of writing
+>> in Glosa, you might pick another such children's story to
+>> retell.  We can edit it if this is necessary, and, if a few
+>> more do it, then we will have enough to print a primer.
+>
+>I like that idea. Sounds like a good glosalist group project. 
+>
+>        - Bill
+>
+>--
+>William W. Patterson <ailanto{at}neosplice{dot}com>
+>http://www.neosplice.com/~ailanto
+>
+>a lowtech guy in a hightech world
+>
+Keep up the good Lo-tech work Bill,
+        Just a quick reply.  I must visit your Page soon, but not till I
+complete the neatening up of the "Glosa 6000" file: possibly your Snail Mail
+address is given in your Page.  
+        I still do not have permission to put the "6000" into the Public Domain,
+so must send hard-copy.
+        Which story, or stories, are you thinking about working on?  I would
+use the more ~descriptive~ form of the language for such ... intended, as
+they are, for children and learners.  The alternative ~telegramatic~ form of
+Glosa, used in Plu Glosa Nota articles, is fairly highly elided
+(abbreviated, with some ##optional## function-words omitted).  The
+descriptive use of Glosa has all the function-words in place, to *shoe-horn*
+readers into the correct understanding of the text.
+
+        Paul informs me that you have requested being on the "Forwarder":
+thank you.
+Saluta,
+ Robin
+>
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au
+ GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Plu Translati de WWW Pagina?
+To: Robin Gaskell
+Date: Sun, 27 Jul 97 18:5
+
+At 09:26 PM 7/26/97 -0400, you wrote:
+>Karo plu ami:
+>
+>    Ave.
+>
+>    Retro plura di, mi lekto plu komence-lexi de regi-pe de Union
+>Mondial de Interlingua (UMI) in Strasbourg, France.  An dice de
+>no-facili habe fo-poli lingua in EU.  Akorda-co, an sti ki avanti u
+>Interlingua.  Sura, il es poli pe in Europe; qi pre-nu gene sko de
+>Interlingua e uti id tem panto di.
+>
+>    Feno a mi; si Glosa habe u tende es veri internatio auxi-lingua;
+>plei ergo habe u nece.  In internexu, pe pote lekto de Interlingua per
+>plura lingua.  Mi ne ski info de Glosa in internexu; qod klu plu lingua
+>ali de England-lingua.  Fo nece; pe uti internexu.  Nu-di internexu gene
+>fo valu ka komunika-metodi.
+>
+>    Il es plu WWW pagina re Glosa; qod es in England-lingua.  Es u peci
+>de valuta (proxi zero) te adi plu pagina sin hetero lingua.  Mi WWW
+>pagina habe u cepti de G.E.O. in Richmond.  Qe uno-pe pote translati mu
+>in hetero lingua?  Nu mi proposi France-lingua, Espagna-lingua, e
+>Deutschland-lingua.  Sati posi; uno-pe translati mi pagina se, sine
+>muta, tem komence.  Si pe ne face muta, il es mei ergo e mei duranto.
+>Mi ne habe u sko de Espagna-lingua alo Deutschland-lingua.  Retro poli
+>anua, mi habe sko de mero de France-lingua, sed mi ne memo u sati.
+>
+>    (Mi plus mite u-ci e-posta a G.E.O. in Richmond; kausa mu ne es
+>grega-pe de Glosa Dice-grega.)
+>
+>"Mi cepti plu sti-veri e gramatika proposi pro u-ci e-grama."  ********
+>
+>Vale,
+>Paul                             <pobart{at}access{dot}digex{dot}net>
+>----------------------------------------------------------
+>Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+>Finger, keyserver, or WWW for PGP 2.6.2 public key
+>Home Page:  http://www.access.digex.net/~pobart
+>
+>
+Karo Paul,
+        Point about getting the introductory info on Glosa into Fr. Sp. &
+Ger. is well taken.  Sorry I'm not a polyglot!
+        The authors could translate into all those, but, on your Page, you
+would like to have exact translations of the existing English ... you should
+ask them to do the translations for you - providing them with a copy of your
+original.  I could, of course, submit a Glosa version of same, as could they.
+        If you wish me to try a Glosa version of your introduction, please
+send me a copy, or indicate "From where" ... "To where" in your Page.
+        On the question of WRAP-AROUND, are you still getting it with this
+message?  If so, I will pull in my Right Margin another half-inch, to leave
+a one inch gap between the Eudora active area and the edge of my screen.
+        I have, just now, sent out a call to join the "Forwarder" using the GL
+"super-nickname" but you will know this: PaulB is within this grouping; and
+you will have received a copy, too.
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au
+ GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Glosa E-grama Grega Examina
+To: Paul Bartlett
+Date: Tue, 29 Jul 97 10:0
+
+U-ci e-grama es solo examina de grega-me.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+----------------------------------------------------------
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: De Mi Auto
+To: Paul Bartlett
+Date: Wed, 30 Jul 97 21:0
+
+    Saluta.
+
+    Mi nima es Paul BARTLETT.  Mi habe tet-nona anua, e mi ne 
+es ge-game.  Mi eko proxi civita Washington, DC, u kapitala de 
+Ge-Uni Stato.  Tem poli anua, mi habe interese de plu auxi-lingua 
+(Interlingua, Esperanto, Glosa, e plu hetero).
+
+    Nu, mi sti ergo u Glosa Dice-Grega in Internexu.  Anti-co, mi 
+ne ski; si mi fu es freqe grega-pe, sed mi volu; id es funktio.  
+(Mi a-nu gene sko de Glosa, e mi ne uti bene id.)
+
+Vale,
+Paul                             <pobart{at}access{dot}digex{dot}net>
+----------------------------------------------------------
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Glosa Dice-grega
+To: Paul Bartlett
+Date: Wed, 30 Jul 97 18:2
+
+Glosa dice-grega kresce.  Qo-lo es plu e-grama?  <labi ridi>
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+----------------------------------------------------------
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Robin Gaskell
+Subject: Re: I Think ... Got Address
+To: William W Patterson
+Date: Thu, 31 Jul 97 11:3
+
+Bill, Thankyou,
+        I have worked consistently on getting the scanned "6000" files into
+corrected and `printer ready' form.  And now we are ready for lift off!
+
+        So, I'll just print them to-morrow before work.  Later I might
+arrange the pages so I can double-side the print to save on postage, but
+won't worry about that for now.  I will send some info re Glosa writing on
+the Mail Forwarder to-morrow, also.  I would like to know your particular
+interest in Glosa, to help me flesh in your details.  Please send qestions
+you would like answered ... preferably through the Forwarder. IE   
+                      To: glosa <pobart{at}access{dot}digex{dot}net>
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au
+ GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: De Mi Auto
+To: Robin Gaskell
+Date: Thu, 31 Jul 97 21:4
+
+At 09:09 PM 7/30/97 -0400, you wrote:
+>    Saluta.
+>
+>    Mi nima es Paul BARTLETT.  Mi habe tet-nona anua, e mi ne 
+>es ge-game.  Mi eko proxi civita Washington, DC, u kapitala de 
+>Ge-Uni Stato.  Tem poli anua, mi habe interese de plu auxi-lingua 
+>(Interlingua, Esperanto, Glosa, e plu hetero).
+>
+>    Nu, mi sti ergo u Glosa Dice-Grega in Internexu.  Anti-co, mi 
+>ne ski; si mi fu es freqe grega-pe, sed mi volu; id es funktio.  
+>(Mi a-nu gene sko de Glosa, e mi ne uti bene id.)
+>
+>Vale,
+>Paul                             <pobart{at}access{dot}digex{dot}net>
+>
+Paul e plu hetero-pe intra u Glosa Dice-Grega,
+
+        Mi logi: u brevi item ex Paul; deskribe an-auto, es fo boni, e holo mu
+pote akti so, te introduce na-auto.  Pluso, an itema monstro *plu puri line*
+de Glosa.
+
+        Mi habe u nima, Robin Gaskell.  Mi habe six-ze anua, e spero de
+kontinu promoti Glosa durante mege anua, seqe.  Nu ge-divorce, mi fe-fili,
+Deborah, eko proi mi intra Sydney.  Ex 1977, tem mi proto enkontro plu Glosa
+autori-pe, mi pa habe un interese de auxi-lingua.  Mi ne recherka plu holo
+area de plu ge-skema lingua, sed pa habe freqe discursi ko Ronald Clark, tem
+na bi habita Christchurch in Dorset. 
+
+        Glosa sembla u fo simpli lingua, e pro plu basi komunika id es so.
+Anti-co, id dice-pe nece gene sko de vario tekno; qi ne es, to u proto, ge-vide.
+Mi kredi ke puri puta es u major tekno pro u dice de boni Glosa.  
+
+        Durante u pa-tem, mi pa grafo a plu persona intra u Tri Munda, e spe 
+itera akti so.  Sed, pro nu, mi du koncentra mi dina epi tekto plu nexi in u
+Mo Munda; qi du gene ge-apero per un Inter-reti.  Plu Afrika-pe du atende
+plu grama ex plu hetero-loka, e mi spe ke plura membra de u Glosa Dice-Grega
+fu hedo grafo a na non-Inter-reti Glosa-pe.  Pre-co, na nece gania konfide
+ko na uti de u lingua; u-ci faceta de u Dice-Grega es mo de qi mi fu es fo
+aktivi.
+
+        Mi kontinu de ergo iso u trena alexi-pe intra u Sydney sub-urba sistema.
+      
+        Sufici pro nu.
+
+Saluta,  
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au
+ GLOSALIST: glosalist{at}zeta{dot}org{dot}au   /   glosalist-request{at}zeta{dot}org{dot}au
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Glosa Dice-grega: "Redirect" to glosa <pob....
+To: Robin Gaskell
+Date: Thu, 31 Jul 97 21:5
+
+  Paul pa dice, e mi responde ne per "Reply" sed via "Redirect":-
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+Glosa dice-grega kresce.  Qo-lo es plu e-grama?  <labi ridi>
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+----------------------------------------------------------
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Saluta Holo Grega!
+
+Intra u-ci posta, mi pa klavi-in un adrese de u "Forwarder" (ko u "glosa"
+pre Paul adrese), e spe ke u-ci mesage ki a holo de u Dice-Grega.
+
+Intra mi hetero posta, mi pa tenta mite u "Reply", sed pa vide: u mesage pa
+ki ad u <pobart{at}access{dot}digex{dot}net> adrese, ne ad u `glosa
+<pobart{at}access{dot}digex{dot}net>'
+mo.  Qe, u-ci habe u semani: "Reply" ne dona "ALL TO ALL" transfere ko u
+"Forwarder"?  Qo-pe pa gene mi responde a Paul "De Mi Auto": holo-vi, alo
+solo Paul?
+
+U Ge-Mistifi,
+ Robin
+
+
+
+From: ailanto
+Subject: Re: Glosa Dice-grega: "Redirect" to glosa <pob....
+To: glosa
+Date: Thu, 31 Jul 97 23:5
+
+Thu, 31 Jul 97 21:58:06 EDT, Robin pa skribe:
+
+> Qo-pe pa gene mi responde a Paul "De Mi Auto": holo-vi, alo
+> solo Paul?
+
+Mi pa gene tu responde.
+
+        - Bill
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+From: William W Patterson
+Subject: Re: Glosa Dice-grega: "Redirect" to glosa <pob....
+To: William
+Date: Thu, 31 Jul 97 23:5
+
+Thu, 31 Jul 97 21:58:06 EDT, Robin pa skribe:
+
+> Qo-pe pa gene mi responde a Paul "De Mi Auto": holo-vi, alo
+> solo Paul?
+
+Mi pa gene tu responde.
+
+        - Bill
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+

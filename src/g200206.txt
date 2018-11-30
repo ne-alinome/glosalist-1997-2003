@@ -1,0 +1,2654 @@
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] (in-)definite article(s)
+From: Charles{at}Catty{dot}Com
+Date: Thu, 06 Jun 2002 23:56:51 -0700
+
+For easy automatic relexing, short of true translation,
+from English and many other significant languages,
+we need to specify good equivalents for the English
+numberless indefinite article "the", and for the so-called
+demonstrative adjectives "this/that/these/those" --
+
+Glosa lists U-CI U-LA PLU-CI PLU-LA for demonstratives,
+and uses U or UN and PLU as *definite* articles.
+It seems to me that U/UN/PLU make excellent *indefinite*
+articles, while LA/CI better serve for the definite.
+
+Consistently using UN instead of the unlovely U and
+freeing the order of particles, it could be like:
+
+UN FELI = a cat
+PLU FELI = some cats
+
+CI FELI = LA FELI = the cat(s)
+
+CI UN FELI = UN CI FELI = this cat
+LA UN FELI = UN LA FELI = that cat
+
+CI PLU FELI = PLU CI FELI = these cats
+LA PLU FELI = PLU LA FELI = those cats
+
+Maybe CI FELI vs. LA FELI could express some nuance.
+I don't know. It's just an idea.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] (in-)definite article(s)
+From: Kevin Smith <kevins{at}qualitycode{dot}com>
+Date: Fri, 07 Jun 2002 09:20:14 -0600
+
+--- Charles{at}Catty{dot}Com wrote:
+> It seems to me that U/UN/PLU make excellent *indefinite*
+> articles, 
+
+I agree that U/UN/PLU seem more indefinite than definite.
+
+> Consistently using UN instead of the unlovely U and
+
+But UN, to me, is too close to UNO and "one". Perhaps we could drop U/UN 
+altogether in favor of MO?
+
+MO FELI = a/one cat
+PLU FELI = some cats
+
+> CI FELI = LA FELI = the cat(s)
+
+Literally, "here cat", "there cat" (...everywhere a cat cat :-)
+
+I have thought about replacing U-CI with CI, but it just seemed like "here" was 
+an important enough concept not to muddle up with "this", let alone "the".
+
+I like the intent, and would *love* to get rid of U-CI and U-LA, but to me CI 
+and LA can't serve as the or this by themselves. Any other ideas?
+
+Kevin
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] Re: (in-)definite article(s)
+From: Charles{at}Catty{dot}Com
+Date: Fri, 07 Jun 2002 12:19:43 -0700
+
+Kevin wrote:
+
+> I agree that U/UN/PLU seem more indefinite than definite.
+
+> But UN, to me, is too close to UNO and "one". Perhaps we could drop U/UN
+> altogether in favor of MO?
+
+> Literally, "here cat", "there cat" (...everywhere a cat cat :-)
+
+> I have thought about replacing U-CI with CI, but it just seemed like "here" was
+> an important enough concept not to muddle up with "this", let alone "the".
+
+My real intent was to get "LA = the" as in other euro-style IALs.
+If that link were broken as in Loglan/Lojban, it would be easy to
+define reasonable apriori particles. Then MO would be much better
+than U/UN, which is indeed the same as "one" and English "a/an".
+But as I understand it, the authors wanted Glosa to serve as an
+introduction to Mega-Glosa, which imports all international words
+much as the other euro-IALs do.
+
+The same word could be used for "one" and "a", or "there" and "the",
+provided the syntax supports it. All pidgins use phrases like
+"one black cat finish eat there mouse", because that's the basis
+for all language anyway ... But it does sound rather bizarre and
+might not attract the sort of upscale market desired.
+
+One good feature of Glosa is the ability to add or elide particles,
+so it is not necessary but remains possible to specify tense, number,
+and other such notions. Logically there ought to be an orthogonal
+set including at least { singular, plural, definite, indefinite,
+near, far, masculine, feminine, animate, inanimate }. These could
+be freely applied at the start of any noun phrase (but after the
+optional preposition). By eliding the remainder of the noun phrase,
+we obtain "pronouns". So a mo' careful design is essential ...
+Maybe we should collect and study Shaq talk.
+
+noun-phrase := (preposition) (articles) (adjectives) (noun)
+preposition := ad | de | etc.
+article     := un | la | mi | etc.
+adjective   := melano | blanco | etc.
+noun        := feli | etc.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: [glosalist] audi-exempla
+From: "Marcel Springer" <marcel{at}mspringer{dot}de>
+Date: Sat, 8 Jun 2002 21:38:50 +0200
+
+Glosa Listening Examples
+
+   http://www.glosa.org/en/audi.htm
+   http://www.glosa.org/dt/audi.htm
+
+- NEW: a sound file now with the complete dialogue "Turisti Ofici" with
+    the voices of the Glosa authors (not only the first minute).
+- NEW: "Turisti Ofici" also in written form for parallel listening and
+    reading.
+    (Sorry, I have got only the pirate-copy cassette from Robin, not
+    the original and not the book.  I wrote the text only by
+    listening.  If one of you has the book, she/he could tell me some
+    hearing or typing errors, thanks in advance.)
+- NEW: cowboy song in whole length (not only the first minute).
+- NEW: "Kosmo Glosa", a Glosa hymn.  Words by Wendy Ashby, music and
+    voice Gary Miller.  MP3-soundfile, music (notes) and written
+    words.
+- NEW: a Glosa version of audi.htm is now available at
+    http://www.glosa.org/gl/audi.htm .
+- SAD&SORRY: did/could not improve sound quality.
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] audi-exempla
+From: Charles{at}Catty{dot}Com
+Date: Sat, 08 Jun 2002 13:36:17 -0700
+
+Marcel produced:
+
+>   http://www.glosa.org/en/audi.htm
+>   http://www.glosa.org/dt/audi.htm
+
+Cool! They play fine with linux's mpg123 program.
+
+It sounded like Wendy Ashby studied Italian, and Ron Clark
+knew some German. And probably Robin's microphone was underwater.
+Maybe all British-speakers front their vowels like Swedes,
+I never noticed that before; the O and U should be stronger.
+(My own accent tends to merge most of the consonants,
+politely allowing the listener to project his own meanings,
+but at least the vowels are clear and true, sometimes.)
+
+Now, why not generate sound directly from the writing,
+a soundex-type program (like the ancient Atari-800 used,
+to pronounce English text most amusingly)? There must be
+something out there on the net. Simulate nubile females
+or Darth Vaders speaking whatever ...
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] audi-exempla
+From: Charles{at}Catty{dot}Com
+Date: Sat, 08 Jun 2002 19:58:21 -0700
+
+> Now, why not generate sound directly from the writing,
+
+Well, success at last. I found that same Irish-accented
+mechanical voice and it is reciting from an endless loop
+piped from the unix "fortune" program. I heard this one
+and thought of our noble list owner, but unfortunately
+it is as yet untranslated into Glosa ...
+
+:         Barlow was a crossing-tender at a junction where an express train
+: demolished an automobile and its occupants. Being the chief witness, his
+: testimony was vitally important. Barlow explained that the night was dark,
+: and he waved his lantern frantically, but the driver of the car paid
+: no attention to the signal.
+:         The railroad company won the case, and the president of the company
+: complimented the old-timer for his story. "You did wonderfully," he said,
+: "I was afraid you would waver under testimony."
+:         "No sir," exclaimed the senior, "but I sure was afraid that durned
+: lawyer was gonna ask me if my lantern was lit."
+
+Of course it required a 27mb download of something called
+"Festival". Software bloat since the good old Atari days ...
+Now I have to figure out the API. One should be able to dump
+fuhnetic Glosa text directly down its throat sans dictionary.
+It will soon be the world's most fluent speaker, inshallah.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] audi-exempla
+From: "Alexander E. Kirpichev" <brickswall{at}mtu-net.ru>
+Date: Sun, 9 Jun 2002 15:34:46 +0400
+
+Saluta!
+> - NEW: "Kosmo Glosa", a Glosa hymn.
+As far as I know, the word "hymn" can't be used in last phrase. Only religions may have hymns, while states have anthems. But R gimn
+and G die hymne make anthem not-international word.
+
+Poli ami Saluta,
+Alex.
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] audi-exempla
+From: Charles{at}Catty{dot}Com
+Date: Sun, 09 Jun 2002 10:20:22 -0700
+
+>> - NEW: "Kosmo Glosa", a Glosa hymn.
+
+> As far as I know, the word "hymn" can't be used in last phrase.
+> Only religions may have hymns, while states have anthems.
+> But R gimn and G die hymne make anthem not-international word.
+
+My super-non-authoritative database of true international words
+has only "hymn = eng hymn, fre hymne, glo himna, ido himn, spa himno"
+for this approximate concept, i.e. a special theme song. In other words,
+3 major source languages (French Spanish English) and at least
+2 well-known IALs (Ido Glosa) have selected this root.
+
+Stretching HIMNA to cover both meanings is exactly what an IAL
+would need to do, in order to cover the entire semantic space
+with a reasonably small number of words. The only thing that
+bothers me about it, is that H goes silent in most languages.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] audi-exempla
+From: "Alexander E. Kirpichev" <alex_kirpichev{at}freemail{dot}ru>
+Date: Mon, 10 Jun 2002 23:00:55 +0400
+
+Saluta!
+> My super-non-authoritative database of true international words
+> has only "hymn = eng hymn, fre hymne, glo himna, ido himn, spa himno"
+> for this approximate concept, i.e. a special theme song. In other words,
+> 3 major source languages (French Spanish English) and at least
+> 2 well-known IALs (Ido Glosa) have selected this root.
+Controll langs - German and Russian use it too.
+I just said that we can't say "Glosa's hymn", because this word is not used in this meaning in literary English (all the dics say
+so)! While R and G use it completely for both meanings!
+> Stretching HIMNA to cover both meanings is exactly what an IAL
+> would need to do, in order to cover the entire semantic space
+> with a reasonably small number of words. The only thing that
+> bothers me about it, is that H goes silent in most languages.
+Replace it by "G" - this the way used in Russian...
+
+Alex.
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] audi-exempla
+From: "Marcel Springer" <marcel{at}mspringer{dot}de>
+Date: Tue, 11 Jun 2002 09:44:56 +0200
+
+Alexander wrote, 02-06-09:
+ > > ... "Kosmo Glosa", a Glosa hymn.
+ > As far as I know, the word "hymn" can't be used in last phrase.
+ > Only religions may have hymns, while states have anthems.
+
+So in http://www.glosa.org/en/audi.htm should I change "Glosa hymn" to
+"Glosa anthem"?
+
+(I think, in the German file http://www.glosa.org/dt/audi.htm
+"Glosa-Hymne" and in Glosa http://www.glosa.org/gl/audi.htm
+"Glosa-himno" are okay.)
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] foneticizm
+From: Charles{at}Catty{dot}Com
+Date: Sat, 15 Jun 2002 19:45:40 -0700
+
+Not a lot of life in this group since Wendy reasserted
+control over Glosa. Where there's hope, there's talk.
+
+It was Otto Jesperson, the most famous linguist of his time,
+who invented the International Phonetic Alphabet. Later,
+he participated in the 1907 committee to reform Esperanto
+which produced Ido. He served as its president for some years
+until it became clear that Occidental was scooping up all of
+Ido's followers in the 1920's. Then he tried to ameliorate
+Occ's flaws with his own Novial, which eventually merged
+back into it just before WW II (after which they both
+devolved into Gode's Interlingua, another story ...).
+
+Anyway, Jesperson left us a wonderful book which is
+fortunately available for free on the web. And in it
+he openly discusses many of the design choices faced by
+any aspiring IAL creator/reformer. In particular I'm
+now interested in his remarks on the letter Z at:
+
+http://www.geocities.com/Athens/Forum/5037/AILz.html
+
+In my own expriments in algorithmifying the selection
+of international words from free online sources, I had to
+deal with this troublesome letter (like J did) replacing
+it with either S or C depending on its environment:
+
+$word =~ s/([aeiou])z([aeiou])/${1}s${2}/g;
+$word =~ s/z([aou])/s${1}/g;
+$word =~ s/z/c/g;
+
+I'm convinced that it needs to be removed from any viable IAL
+because it is too confusing for the potential target audience.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] BNF?
+From: Sydpidd{at}aol{dot}com
+Date: Mon, 17 Jun 2002 03:32:30 EDT
+
+--part1_5a.d096e74.2a3eea8e_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+In a message dated 5/23/02 01:03:36 GMT Daylight Time, rgaskell{at}zeta{dot}org{dot}au 
+writes:
+
+
+>    What really will do harm is if Glosa-pe do NOT write stories in Glosa -
+> whichever punctuation they might plan to use!!!
+> 
+
+akusti, akusti, akusti !   -    audi, audi, audi!     -  oti, oti, oti!  
+or:---;,.`#~          hear, hear, hear!
+   
+sid
+
+--part1_5a.d096e74.2a3eea8e_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2>In a message dated 5/23/02 01:03:36 GMT Daylight Time, rgaskell{at}zeta{dot}org{dot}au writes:<BR>
+<BR>
+<BR>
+<BLOCKQUOTE TYPE=CITE style="BORDER-LEFT: #0000ff 2px solid; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px; PADDING-LEFT: 5px">&nbsp;&nbsp; What really will do harm is if Glosa-pe do NOT write stories in Glosa -<BR>
+whichever punctuation they might plan to use!!!<BR>
+</BLOCKQUOTE><BR>
+<BR>
+akusti, akusti, akusti !&nbsp;&nbsp; -&nbsp;&nbsp;&nbsp; audi, audi, audi!&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; oti, oti, oti!&nbsp; <BR>
+or:---;,.`#~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hear, hear, hear!<BR>
+&nbsp;&nbsp; <BR>
+sid</FONT></HTML>
+
+
+--part1_5a.d096e74.2a3eea8e_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_5a.d096e74.2a3eea8e_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] A Question For The List
+From: N0PSB{at}aol{dot}com
+Date: Mon, 17 Jun 2002 09:08:50 EDT
+
+Please pardon my not writing in Glosa, but I am not yet a Glosa-pe, and I am 
+trying to gather information.
+
+At the University of Richmond in the United States we have Bachelor's and 
+Graduate degree programs in disaster science and emergency management.  As 
+part of those programs we publish a free electronic journal that we wish to 
+make available to an international audience.  We are considering auxiliary 
+languages as one way of doing so, and plan to use Internacia Lingvo 
+(Esperanto) in that effort because of the number of speakers and readers.  In 
+examining the other auxiliary languages, Glosa appears to have the next most 
+vibrant community.  
+
+Can the list give me an idea of how many people use Glosa today, in how many 
+countries, whether there is any scientific literature in Glosa, and whether 
+the Glosa community would be receptive to such an effort?
+
+Thank you for your help.
+
+Walter G. Green III, Ph.D.
+Assistant Professor of Emergency Management
+University of Richmond   
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] BNF?
+From: Sydpidd{at}aol{dot}com
+Date: Mon, 17 Jun 2002 10:53:24 EDT
+
+ja, veri ,veri, veri!
+slight tongue in cheek with the hear, hear variants, nevertheless there is 
+very, very little Glosa on the list and that is extremely important.
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] BNF?
+From: Kevin Smith <kevins{at}qualitycode{dot}com>
+Date: Mon, 17 Jun 2002 09:46:34 -0600
+
+--- Sydpidd{at}aol{dot}com wrote:
+In a message dated 5/23/02 01:03:36 GMT Daylight Time, 
+rgaskell{at}zeta{dot}org{dot}au writes:
+> 
+>    What really will do harm is if Glosa-pe do NOT write stories in 
+> Glosa - whichever punctuation they might plan to use!!!
+> 
+> akusti, akusti, akusti !   -    audi, audi, audi!     
+> -  oti, oti, oti!  
+> or:---;,.`#~          hear, hear, hear!
+
+I trust you realize that this is an idiom, and shouldn't really be translated 
+literally. Perhaps:
+
+Ja! Ja! Ja!   -   Veri! Veri! Veri!
+
+Kevin
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] A Question For The List
+From: Kevin Smith <kevins{at}qualitycode{dot}com>
+Date: Thu, 20 Jun 2002 01:06:41 -0600
+
+--- N0PSB{at}aol{dot}com wrote:
+> Please pardon my not writing in Glosa, but I am not yet a Glosa-pe, and I am 
+> trying to gather information.
+
+No problem. Welcome to our community.
+
+I had expected someone like Robin or Marcel to respond already, but I'll provide 
+my own opinions in the meantime.
+
+> We are considering auxiliary 
+> languages as one way of doing so, and plan to use Internacia Lingvo 
+> (Esperanto) in that effort because of the number of speakers and readers.  
+
+That sounds great, and your choice of Esperanto makes perfect sense as your 
+first IAL, given its relatively massive base of speakers.
+
+> In examining the other auxiliary languages, Glosa appears to have the 
+> next most vibrant community.  
+
+That's exciting to hear. I don't understand why more IAL's don't have mailing 
+lists, because it is very difficult for a language to thrive without one.
+
+> Can the list give me an idea of how many people use Glosa today, in how many 
+> countries, whether there is any scientific literature in Glosa, 
+
+Unfortunately, I suspect the head count of Glosa speakers is still quite small. 
+It seems to be most popular in the USA, Europe, Australasia, and Russia, and I 
+understand there are a number of African Glosa speakers who do not have internet 
+access. I am not aware of any significant bodies of scientific literature in 
+Glosa.
+
+> and whether the Glosa community would be receptive to such an effort?
+
+I would imagine that the Glosa community as a whole would be very receptive and 
+cooperative.
+
+Saluta,
+
+Kevin
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] A Question For The List
+From: Sydpidd{at}aol{dot}com
+Date: Thu, 20 Jun 2002 06:33:49 EDT
+
+There have been a number ( more than about 15, I think) of interesting 
+scientific articles in Plu Glosa Nota which show that G has its uses in that 
+field
+sid 
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] Plu Nota de u Extremi Konditio Skience
+From: N0PSB{at}aol{dot}com
+Date: Thu, 20 Jun 2002 09:46:07 EDT
+
+Karo Kevin e Sid e Marcel,
+
+Gratia de u info.  Na in Glosa fu promulga u info; cirka plu mal-acide.  Mi 
+spe na fu habe u lista auxi.  Mi fu volu id - u eduka tem u grafo.
+
+Saluta
+
+Walter Green
+Urge Manu Auxi Sko-pe
+Universita de Richmond
+
+PS - please pardon any gross grammatical errors above - I am learning 
+dictionary and grammar book in hand.  I did find some interesting holes in 
+Glosa vocabulary - academic ranks being one of them.  "Auxi sko-pe" was as 
+close as I could come to Assistant Professor, but could be translated 
+Assistant Instructor (almost not a rank) or Assistant Pupil - and that would 
+drive the professorial ranks crazy.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] Plu Nota de u Extremi Konditio Skience
+From: Charles{at}Catty{dot}Com
+Date: Thu, 20 Jun 2002 10:23:41 -0700
+
+> I did find some interesting holes in
+> Glosa vocabulary - academic ranks being one of them.  "Auxi sko-pe" was as
+> close as I could come to Assistant Professor, but could be translated
+> Assistant Instructor (almost not a rank) or Assistant Pupil - and that would
+> drive the professorial ranks crazy.
+
+Not all words in a vocabulary can be listed, without running over
+100,000 entries in the dictionary. Only the basic words are listed.
+The rules for selection of "Mega-Glosa" words state that all of
+the "international" words are included in Glosa. A quick check
+turns up the following:
+
+eng assist, fre assistez, ita assistere, por assistir, spa asistir
+eng professor, fre professeur, ita professore, por professor
+
+So, you would be justified in using "asisti profeso" or thereabouts.
+Terminal vowels are euphonic but non-significant (unlike Esperanto).
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Plu Nota de u Extremi Konditio Skience
+From: Sydpidd{at}aol{dot}com
+Date: Thu, 20 Jun 2002 14:09:19 EDT
+
+nice bit of Glosa
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] returned tape
+From: Sydpidd{at}aol{dot}com
+Date: Thu, 20 Jun 2002 15:06:17 EDT
+
+karo robin
+mi pa mite u audi-banda a tu sed id nu-pa gene versi ko u mesage qi du dice 
+ke u adresi pa ne ge-ski!
+id du habe plu soni de glosa e i.p.a. , fu tenta mite a lista ko auxi se u-mi 
+an-fili.
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Plu Nota de u Extremi Konditio Skience
+From: Nicholas Hempshall <nick_hempshall{at}yahoo{dot}co{dot}uk>
+Date: Fri, 21 Jun 2002 07:20:58 -0700 (PDT)
+
+--- Walter Green wrote:
+>  "Auxi sko-pe" was as 
+> close as I could come to Assistant Professor
+
+In GID, il es 
+~profesi~ - "profess (declare belief); profess
+(teach)"
+
+So, ~Auxi Profesi-pe~ feno es boni a mi. Qe tu ne amo
+~auxi~? U alo-ra posi es ~vice~.
+
+
+
+Mi fo hedo tu e-grama in Glosa. Fo boni!
+
+Saluta,
+Nick
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! - Official partner of 2002 FIFA World Cup
+http://fifaworldcup.yahoo.com
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] Profesi-pe
+From: N0PSB{at}aol{dot}com
+Date: Fri, 21 Jun 2002 12:33:00 EDT
+CC: N0PSB{at}aol{dot}com
+
+Karo Nick,
+
+Mi favo u tu solve.  Plu USA universitata du uti tetra doci-pe gradu - ko u 
+mi sugesti translati:
+
+Instructor - u Doci-pe
+Assistant Professor - u Auxi Profesi-pe
+Associate Professor - u Asocia Profesi-pe
+Professor - u Profesi-pe
+
+Mi du gene ski u Glosa verba-lista.  Mi nece grafo a gene ski u verba-lista e 
+u gramatika.
+
+Saluta,
+
+Walter 
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] international vocabulary
+From: Charles{at}Catty{dot}Com
+Date: Fri, 21 Jun 2002 12:00:40 -0700
+
+Mega-Glosa includes all the international vocabulary,
+but doesn't provide a list of those words. I'm trying
+to find them, and not by digging through 50-year-old
+retreads of the Thorndike list ... Here are some of
+the results so far, a table of counts of roots/stems
+that are common across the 11 selected languages --
+I included French Italian Spanish Portuguese and 6 IALs.
+English is used as the pivot language, because it's easy
+(the true reason for so many debateable design decisions).
+
+
+         total    GOOD    fair    poor
+ALL      10258    2388    3182    4688
+ila       6920    2184    2284    2429
+spa       4547    1825    1612    1080
+fre       3680    1783    1197     678
+eng       6348    1740    1957    2635
+por       3155    1598     809     700
+glo       2749    1500     793     440 <---
+ido       2311    1396     559     301
+ita       2595    1301     635     503
+occ       1431     838     365     201
+lfn       1348     820     332     196
+lfr        877     438     225     213
+
+
+I have found a total of 10258 word-stems that resemble
+the synsets of WordNet, mentioned previously. Of those,
+2388 were found in 5 or more of the source languages
+(and marked as "good" above), 4688 only in 2 langs
+(and therefore not very international). Sample:
+
+
+10  eng family, fre famille, glo famili, ido famili, ila familia,
+    lfn familia, lfr familia, occ familie, por família, spa familia
+
+4   eng famine, fre famine, glo famina, ido famin
+
+7   eng famous, ila famose, ita famoso, lfn famos, occ famos, por famoso, spa famoso
+
+
+Glosa with its reviled GED words did very well, Ido with
+its smaller word list was quite similar. The two LF sources
+and Occ's are quite small and did very poorly. Ila hit 67%
+of all possible matches, though it also has the largest
+number of bad matches (obsolete medical terms etc.)
+
+Increasing the quality of the source lists would certainly
+improve the output, but it looks like there are only around
+7,000 true international root-stems, the rest being variants.
+
+If anyone wishes to assist with data entry or correction,
+it would be appreciated ... However, I cannot expand the list
+of source langs to include Germanic or Slavic. The sources
+for FISP are at wordgumbo.com, and are not extremely good,
+but I developed heuristic filters to avoid false positives.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] audi-exempla
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Sat, 22 Jun 2002 13:16:06 +1000
+
+At 11:00 PM 6/10/02 +0400, Alex wrote:
+>Saluta!
+>>[ ] My super-non-authoritative database of true international words
+>> has only "hymn = eng hymn, fre hymne, glo himna, ido himn, spa >>himno"
+for this approximate concept, i.e. a special theme song. In >>other words,
+3 major source languages (French Spanish English) and at >>least 2
+well-known IALs (Ido Glosa) have selected this root.
+>Controll langs - German and Russian use it too.
+>I just said that we can't say "Glosa's hymn", because this word is not
+>used in this meaning in literary English (all the dics say
+>so)! While R and G use it completely for both meanings!
+>> Stretching HIMNA to cover both meanings is exactly what an IAL
+>> would need to do, in order to cover the entire semantic space
+>> with a reasonably small number of words. The only thing that
+>> bothers me about it, is that H goes silent in most languages.
+>Replace it by "G" - this the way used in Russian...
+>
+* This sounds like ~himna~ would become ~gymna~.
+  However, I agree that the very religious symbol of a "hymn" may not be
+suitable for something as all-encompassing as a Global Auxilliary Language.
+ So, I looked up "ode" in the Latin dictionary, and found that:-
+        ode(Eng)  =  carmen(Lat)
+My guess is that using such a 'neutral' concept as thi would not detract
+from the status of Glosa, but would avoid any pseudo-religiosity in
+relation to a possible global medium of communication.
+  I know that Esperanto has a 'Hymn,' but this is no reason for us - one
+century later - to make the same mistake.
+
+  While ~karmen~ is not in the Glosa lexicon, it quite well could be. 
+
+Saluta,
+Robin Gaskell
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] audi-exempla
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Sat, 22 Jun 2002 14:11:34 +1000
+
+At 09:38 PM 6/8/02 +0200, Marcel wrote:
+>Glosa Listening Examples
+>
+>   http://www.glosa.org/en/audi.htm
+>   http://www.glosa.org/dt/audi.htm
+>
+>- NEW: a sound file now with the complete dialogue "Turisti Ofici" with
+>    the voices of the Glosa authors (not only the first minute).
+>- NEW: "Turisti Ofici" also in written form for parallel listening and
+>    reading.
+>    (Sorry, I have got only the pirate-copy cassette from Robin, not
+>    the original and not the book.  I wrote the text only by
+>    listening.  If one of you has the book, she/he could tell me some
+>    hearing or typing errors, thanks in advance.)
+*   I will go through and check it out for accuracy; it should be quite
+good, now.
+
+>- NEW: cowboy song in whole length (not only the first minute).
+*  Sounds great, already.
+
+>- NEW: "Kosmo Glosa", a Glosa hymn.  Words by Wendy Ashby, music and
+>    voice Gary Miller.  MP3-soundfile, music (notes) and written
+>    words.
+*  Multi-media is the way to go.  We ought to make things look and sound
+interesting for our enquirers!
+
+>- NEW: a Glosa version of audi.htm is now available at
+>    http://www.glosa.org/gl/audi.htm .
+>- SAD&SORRY: did/could not improve sound quality.
+>
+*  I wish to enquire further: Marcel, you did tell me about compressing
+MP3, but I need a refresher.
+
+   For my part - trying to get pictures, spoken word and text together - I
+have been advised that "Flash" best creates Java-Script code capable of
+playing on most operating systems, and using the widest range of auxilliary
+software.  I am chasing Flash up, but need to use compressed MP3, not .WAV
+files for sound.
+
+   In a week, or two, the pressure will be off me, and I can relax with
+Glosa .. as I wish to.
+
+Saluta,
+Robin
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] audi-exempla
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Sat, 22 Jun 2002 14:35:08 +1000
+
+At 01:36 PM 6/8/02 -0700, you wrote:
+>Marcel produced:
+>
+>>   http://www.glosa.org/en/audi.htm
+>>   http://www.glosa.org/dt/audi.htm
+>
+>Cool! They play fine with linux's mpg123 program.
+>
+>It sounded like Wendy Ashby studied Italian, and Ron Clark
+>knew some German. And probably Robin's microphone was underwater.
+*   Nice to hear they work on new systems like Linux.  I will even buy a
+better microphone if that solves the problem.
+
+>Maybe all British-speakers front their vowels like Swedes,
+>I never noticed that before; the O and U should be stronger.
+>(My own accent tends to merge most of the consonants,
+>politely allowing the listener to project his own meanings,
+>but at least the vowels are clear and true, sometimes.)
+>
+*   If I knew what ^fronting my vowels^ meant, I might try to ^back^ them a
+bit.
+
+>Now, why not generate sound directly from the writing,
+>a soundex-type program (like the ancient Atari-800 used,
+>to pronounce English text most amusingly)? There must be
+>something out there on the net. Simulate nubile females
+>or Darth Vaders speaking whatever ...
+>
+*  I have tried Dragon Dictate (Australian Version) and it worked very
+well, but this costs about $A350, and doesn't allow a general 'Listen Only'
+mode.  Needless to say, I was talking in English (possibly Australian); my
+guess is that, for Glosa, a Dragon Dictate for Italian speakers would be
+better than the English language version.
+
+   In the ancient days of DOS 3, I did try a program that converted typing
+into sound, but to get many of the Glosa vowel sounds, I had to spell the
+words very funnily.
+
+  Possibly there is a Public Domain, Italianate type-to-sound program out
+there; in theory, Glosa has been designed to have only one pronunciation
+for each letter, so the production of a _Glosa Pronunciation_ program
+should not be all that difficult.  However, it sounds as if
+English-speakers have lost the plot on truly international pronunciation of
+vowels; so, such development work should be done by Europeans - preferably
+not Swedes.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] Plu Defini
+From: N0PSB{at}aol{dot}com
+Date: Sat, 22 Jun 2002 12:23:27 EDT
+
+--part1_7f.27fe5390.2a45fe7f_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+Mi du ergo epi u verba lista; pro na u mal-acide inter-reti loka.  Mi vo 
+apreci plu vi komenta.   
+
+task force - a tactical unit composed of several resource types
+buta dina - u acide akti seri unita komposi de plu dura fonta tipo
+(note - acide akti seri seems to me to be a good equivalent of tactics, see 
+polisi akti seri for strategy below)
+
+strategy - a planned course of action and allocation of resources to control 
+a disaster at the community, state, or national level
+polisi akti seri - u skema acti seri e u dura fonta asigna governa u 
+mal-acide; ex u komunita alo stato alo natio
+
+company - a fire or rescue unit composed of personnel and an emergency 
+vehicle
+kompani - u piro alo salva unita komposi de plu persona e u urge vagona 
+
+battalion - an operational level of organization above the company in the 
+fire service
+multi kompani - u funktio organismo libela supra u kompani; in u piro service
+
+Saluta,
+
+Walter Green
+
+
+--part1_7f.27fe5390.2a45fe7f_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2>Mi du ergo epi u verba lista; pro na u mal-acide inter-reti loka.&nbsp; Mi vo apreci plu vi komenta.&nbsp;&nbsp; <B><BR>
+<BR>
+task force</B> - a tactical unit composed of several resource types<BR>
+<B>buta dina</B> - u acide akti seri unita komposi de plu dura fonta tipo<BR>
+(note - acide akti seri seems to me to be a good equivalent of tactics, see polisi akti seri for strategy below)<BR>
+<BR>
+<B>strategy</B> - a planned course of action and allocation of resources to control a disaster at the community, state, or national level</FONT><FONT  COLOR="#000000" style="BACKGROUND-COLOR: #ffffff" SIZE=3 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+</FONT><FONT  COLOR="#000000" style="BACKGROUND-COLOR: #ffffff" SIZE=2 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><B>polisi akti seri</B> - u skema acti seri e u dura fonta asigna governa u mal-acide; ex u komunita alo stato alo natio<BR>
+<BR>
+<B>company</B> - a fire or rescue unit composed of personnel and an emergency vehicle<BR>
+<B>kompani</B> - u piro alo salva unita komposi de plu persona e u urge vagona <BR>
+<BR>
+<B>battalion</B> - an operational level of organization above the company in the fire service<BR>
+<B>multi kompani</B> - u funktio organismo libela supra u kompani; in u piro service</FONT><FONT  COLOR="#000000" style="BACKGROUND-COLOR: #ffffff" SIZE=3 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+<BR>
+</FONT><FONT  COLOR="#000000" style="BACKGROUND-COLOR: #ffffff" SIZE=2 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Saluta,<BR>
+<BR>
+Walter Green<BR>
+<BR>
+</FONT></HTML>
+
+--part1_7f.27fe5390.2a45fe7f_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_7f.27fe5390.2a45fe7f_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] subscribe
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Tue, 25 Jun 2002 14:45:35 +1000
+Cc: "Alain Vezes" <alain.vezes{at}wanadoo{dot}fr>
+
+At 10:10 AM 6/23/02 +0200, Alain wrote:
+>subscribe
+>
+>
+>---------------------------------------------------------------------
+>To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+>For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+>
+*Hello Alain,
+   Welcome  OR  Bene-veni.
+
+   To get started in Glosa, you will probably need to acquire a wordlist,
+and these are available on the Net.  The alternative is to buy  a copy of
+_Glosa 6000_ through Wendy Asby, one of the authorswof Glosa:-
+  Wendy Ashby 
+  Glosa Education Organisation
+  PO Box 18
+  Richmond
+  Surry TW9 2GE
+  England
+
+   Oh, yes; Please subscribe yourself to the Glosalist Mailing List if you
+have not already done so - send a blank email:-
+
+  To subscribe, e-mail: glosalist-subscribe{at}lists{dot}zeta{dot}org{dot}au
+
+  One place to start is the Glosa section of my website:-
+     http://www.zeta.org.au/~rgaskell
+
+  The language is in full working order, and there are numerous wordlists
+available on various websites.  Owing to some haste at the beginning, some
+variations of spelling do exist.  These have mostly been sorted out through
+the GID (Glosa Internet Dictionary) Project.
+
+  I did locate table of Glosa grammar on my website, but the most direct
+place to start with understanding the Syntax-based Grammar is probably with
+Seminars #1 & #2.
+  Ron Clark, the prime author of Glosa, now deceased, did not want to write
+a Glosa Grammar book, but prefered people to pick up the pattern by
+observation - reading the periodical Plu Glosa Verba.  The primary rule is
+that one word affects the next ... and so on.  The phrase is the basic unit
+of Glosa, and these phrases are either Verb Phrases or Noun Phrases, with
+the major word last in the phrase: this is described Linguistically as
+'Head Final' structure.  The second major feature of Glosa is that a word
+does not change morphologically for reasons of grammar. As in English,
+where we have "to run" and "a run," similarly, in Glosa, the phrase
+structure and surrounding words clarify gramatical function: the words are
+not inflected.  As Ron Clark used to say, In Glosa a word can function,
+within reason, as any part of speech.
+
+  The Phrase and Clause structure is basically similar to that of good
+English, and so, punctuation within sentences acts as 'signposts' to
+indicate the start of new phrases and clauses - where an absence of such
+marks might cause ambiguity.  I forgot to mention: we use
+Subject-Verb-Object structure within sentences.
+  There are two classes of words, the smaller group of 'function words'
+(conjunctions, preposition, and determinants - in English), and the vast
+body of words for things and action, called 'substantives' in Glosa.
+  If you are interested in the possibility of using Glosa as an auxilliary
+language, I would suggst that you start soon to put words togeter to form
+simple sentences: say them out aloud, and consider whether they have a
+pleasant sound, and whether you can recall your originally intended meaning
+as you hear yourself speak your sentence.
+A sentence that fails the hearing/sense test should probably be recast ..
+until it feels right.  And finally, the quickest way to developing fluency
+in Glosa is to reach the stage where you can 'think in Glosa' - at first,
+in small sentences, of course.
+
+  I trust that you find the language worthwhile.  One place to start would
+be to 'retell' well-known French children's stories in Glosa.  I say
+'retell,' rather than 'translate,' because, at the beginning you will be
+restricted by a limited vocabulary, and might have to change the story
+slightly to fit in with the Glosa vocabulary you know.
+
+  We look forward to seeing you on the List.
+
+Saluta,
+
+Robin Gaskell
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] audi-exempla
+From: Charles{at}Catty{dot}Com
+Date: Tue, 25 Jun 2002 01:16:37 -0700
+
+> For my part - trying to get pictures, spoken word and text together - I
+> have been advised that "Flash" best creates Java-Script code capable of
+> playing on most operating systems
+
+No, that would be most non-standard and uninclusive.
+Pure HTML (without javascript) and MPEG files are the way.
+And the place for them is the web, never email lists ...
+
+> If I knew what ^fronting my vowels^ meant, I might try to ^back^ them a bit.
+
+The back vowels are the "U" and "O" sounds, so important in X-rated MPEGs.
+They need to be pronounced with the lips rounded. British and even
+Americans tend to disgrace these vowels, but the Scots avoided the
+Great Sound Shift and so are more intelligible to continentals.
+The sound of "A" is not so troublesome because it's understandable
+whether fronted or not -- except when slurred into a schwa.
+The only real antidote to English vowels is to live with Spanish
+speakers several years, at least in my case. I gratuitously mention,
+the RP posh "EU" diphthong is a sickening travesty of a solid "O".
+
+> English-speakers have lost the plot on truly international pronunciation of
+> vowels; so, such development work should be done by Europeans
+
+I prefer Latin Americans, more musical and always rhotic.
+But the letter "H" is a hopeless lost cause, always silent.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: [glosalist] Some ideas
+From: "Alain Vezes" <alain.vezes{at}wanadoo{dot}fr>
+Date: Wed, 26 Jun 2002 15:33:18 +0200
+
+Hello Robin
+
+I am happy to get in touch again with Glosa. I've got all issues of PGN and
+all the books of Ron and Wendy. A year before Ron died, he said he was going
+to work at a grammar for Glosa, but perhaps he changed his mind, or the dead
+did not allow him to do that.
+
+I like very much Glosa, but am not fully happy with some little things.
+First of all, the important role of context to clarify the sense of words
+introduces, in my opinion, some ambiguity. Secondly, there is some lack of
+accuracy in the spelling of words, that changes according with issues of PGN
+(I noticed the GID project). Thirdly, it seems to be no rule to decide if a
+word coming from Latin will end with A or O or I (to be true, Ron wrote
+about it in an old PGN, but some blur remains).
+
+I've given those problems a great deal of thought, and it seems to me that
+just some little changes to Glosa would fix it. I'd like to talk about it
+with Wendy, but she presently has no e-mail address. If you like, I'll tell
+you those ideas, but I've no intention to dictate anything.
+
+Regards, Alain
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Some ideas
+From: Sydpidd{at}aol{dot}com
+Date: Wed, 26 Jun 2002 10:52:31 EDT
+
+--part1_14e.ff09500.2a4b2f2f_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+In a message dated 6/26/02 02:31:49 GMT Daylight Time, alain.vezes{at}wanadoo{dot}fr 
+writes:
+
+
+> the important role of context to clarify the sense of words
+> introduces, in my opinion, some ambiguity
+> a long long time ago, I complained that the absence, so called, of grammar 
+> made some Glosa difficult to understand and was told that context always 
+> makes things clear. It doesn't. We need to have a clear grammar that is 
+> independant of meaning. I've been burbling on and experimenting that way 
+> for some time ........
+> sid
+
+
+--part1_14e.ff09500.2a4b2f2f_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2>In a message dated 6/26/02 02:31:49 GMT Daylight Time, alain.vezes{at}wanadoo{dot}fr writes:<BR>
+<BR>
+<BR>
+<BLOCKQUOTE TYPE=CITE style="BORDER-LEFT: #0000ff 2px solid; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px; PADDING-LEFT: 5px">the important role of context to clarify the sense of words<BR>
+introduces, in my opinion, some ambiguity<BR>
+a long long time ago, I complained that the absence, so called, of grammar made some Glosa difficult to understand and was told that context always makes things clear. It doesn't. We need to have a clear grammar that is independant of meaning. I've been burbling on and experimenting that way for some time ........<BR>
+sid</BLOCKQUOTE><BR>
+<BR>
+</FONT></HTML>
+
+--part1_14e.ff09500.2a4b2f2f_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_14e.ff09500.2a4b2f2f_boundary--
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] Some ideas
+From: "Alain Vezes" <alain.vezes{at}wanadoo{dot}fr>
+Date: Wed, 26 Jun 2002 21:30:33 +0200
+
+------=_NextPart_000_003E_01C21D58.B3E74180
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+    the important role of context to clarify the sense of words
+    introduces, in my opinion, some ambiguity
+    a long long time ago, I complained that the absence, so called, of =
+grammar made some Glosa difficult to understand and was told that =
+context always makes things clear. It doesn't. We need to have a clear =
+grammar that is independant of meaning.=20
+    sid
+
+    Hi !
+
+    Yes, I do agree. As I said, I think it is possible to set up a =
+grammar for Glosa in a quite easy way and without scrambling the Glosa =
+system.
+
+    Alain
+
+------=_NextPart_000_003E_01C21D58.B3E74180
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 5.50.4134.600" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#f0f0e8>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<BLOCKQUOTE=20
+style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 5px; MARGIN-LEFT: 5px; =
+BORDER-LEFT: #000000 2px solid; MARGIN-RIGHT: 0px"><FONT=20
+  face=3Darial,helvetica><FONT size=3D2>
+  <BLOCKQUOTE=20
+  style=3D"PADDING-LEFT: 5px; MARGIN-LEFT: 5px; BORDER-LEFT: #0000ff 2px =
+solid; MARGIN-RIGHT: 0px"=20
+  TYPE=3D"CITE">
+    <DIV>the important role of context to clarify the sense of=20
+    words<BR>introduces, in my opinion, some ambiguity<BR>a long long =
+time ago,=20
+    I complained that the absence, so called, of grammar made some Glosa =
+
+    difficult to understand and was told that context always makes =
+things clear.=20
+    It doesn't. We need to have a clear grammar that is independant of =
+meaning.=20
+    <BR>sid</DIV>
+    <DIV>&nbsp;</DIV>
+    <DIV>Hi !</DIV>
+    <DIV>&nbsp;</DIV>
+    <DIV>Yes, I do agree. As I said, I think it is possible to set up a =
+grammar=20
+    for Glosa in a quite easy way and without scrambling the Glosa =
+system.</DIV>
+    <DIV>&nbsp;</DIV>
+    =
+<DIV>Alain</DIV></BLOCKQUOTE></BLOCKQUOTE></FONT></FONT></BODY></HTML>
+
+
+------=_NextPart_000_003E_01C21D58.B3E74180
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+------=_NextPart_000_003E_01C21D58.B3E74180--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Plu Defini
+From: Nicholas Hempshall <nick_hempshall{at}yahoo{dot}co{dot}uk>
+Date: Wed, 26 Jun 2002 12:35:16 -0700 (PDT)
+
+--- Walter Green wrote:
+> task force - a tactical unit composed of several
+> resource types
+> buta dina - u acide akti seri unita komposi de plu
+> dura fonta tipo
+
+~dina~, for me, means force in a more abstract
+sense.
+How about ~buta grega~?
+
+tactical: there is a Glosa word ~taktiki~ which
+means tactics.
+Im not really sure what a tactical unit is, maybe
+its a mobile group ~kine grega~?
+composed of would be ~ge-komposi ex~.
+~dura~ : maybe this can be elided.
+~tipo~ is typing/printing.
+
+Buta Grega  u kine grega ge-komposi ex plura speci de
+fonta.
+
+> strategy - a planned course of action and allocation
+> of resources to control 
+> a disaster at the community, state, or national
+> level
+> polisi akti seri - u skema acti seri e u dura fonta
+> asigna governa u 
+> mal-acide; ex u komunita alo stato alo natio
+
+
+There is a Glosa word ~strategi~ defined in GID as a
+trick!
+So, I guess, also a plan of action. Maybe just
+~skema~.
+
+~stato~ and ~natio~: I think these are synonyms.
+federal unit = ~federa mero~
+
+Strategi  ge-skema akti alo dona te kontrola u mega
+mal-acide ex komunita, federa mero alo natio.
+
+> company - a fire or rescue unit composed of
+> personnel and an emergency 
+> vehicle
+> kompani - u piro alo salva unita komposi de plu
+> persona e u urge vagona 
+
+Kompani  un anti-piro alo salva unita ge-komposi ex
+plu ergo-pe e un urge vagona.
+
+> battalion - an operational level of organization
+> above the company in the 
+> fire service
+> multi kompani - u funktio organismo libela supra u
+> kompani; in u piro service
+
+~libela~ : I think this is level in the sense of
+flat or smooth. 
+
+Kompani-fa  ana hierarki de kompani in anti-piro
+service.
+
+Hope this helps. Im sure others will want to comment.
+
+Nick
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! - Official partner of 2002 FIFA World Cup
+http://fifaworldcup.yahoo.com
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] Some ideas
+From: Charles{at}Catty{dot}Com
+Date: Wed, 26 Jun 2002 13:00:24 -0700
+
+Alain:
+
+> the important role of context to clarify the sense of words
+> introduces, in my opinion, some ambiguity
+
+Syd:
+
+> a long long time ago, I complained that the absence, so called, of grammar
+> made some Glosa difficult to understand and was told that context always
+> makes things clear. It doesn't. We need to have a clear grammar that is
+> independant of meaning. I've been burbling on and experimenting that way
+> for some time ........
+
+I am happy to see a new critic has arrived. Through such
+efforts Glosa may someday evolve into a great IAL. But I
+think there is sufficient meta-grammar already in Glosa
+to answer these questions: One simply adds more words
+until the meaning is unambiguous. It is a huge advantage
+of Glosa over Ido and Novial that over-fussy distinctions
+are optional, never mandatory, e.g.,
+
+kaval medik = horse doctor = doctor to/for horses
+kaval milit = horse soldier = soldier with/on horse
+
+In some weird situation a "horse doctor" might mean
+"the doctor with a horse" but that isn't fatal, or
+even a defect in the language -- we can simply say
+"medik kon kaval" or whatever to get precise enough.
+(I drop useless terminal vowels and ugly -PE suffixes,
+because those are some of _my_ reform issues, but
+at least I changed Cs into Ks, this time.)
+
+As long as some kind of verbal phrase introductory particle
+is always used, and similarly for the accusative/object,
+and if relative clauses and punctuation are corrected,
+Glosa's grammar is just fine! I'd change out most of the
+particles though, like FU -> VA, PA -> FE, ...
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] random
+From: Sydpidd{at}aol{dot}com
+Date: Thu, 27 Jun 2002 09:07:56 EDT
+
+not very happy with the G words I get for "random". any suggestions?
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] random
+From: Sydpidd{at}aol{dot}com
+Date: Thu, 27 Jun 2002 09:25:15 EDT
+
+would fortitu do perhaps? - from latin - Eng fortituous
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] random
+From: "Alain Vezes" <alain.vezes{at}wanadoo{dot}fr>
+Date: Thu, 27 Jun 2002 15:28:28 +0200
+
+
+> Not very happy with the G words I get for "random". Any suggestions ?
+> Sid
+
+For RANDOM, Central Glosa proposes ELEKTI ALI-RA. I am not either happy with
+it and suggest ALEA or ALEO (I think words in O are better, when possible).
+
+Alain
+
+ALEO ES GE BALO !
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] A Contrarian View on Grammar
+From: N0PSB{at}aol{dot}com
+Date: Thu, 27 Jun 2002 09:40:22 EDT
+
+I am a new Glossa user.  I am also not a gramatika-pe.  Based on my 
+experience with Internacia Lingvo (Esperanto) and my review of at least a 
+dozen other constructed languages, I think Glosa looses its distinctiveness 
+and value in direct proportion to any increase in the size and complexity of 
+its grammar.  Most of these efforts, except probably Unish, seem to focus on 
+just how complicated a set of grammar rules they can construct to make 
+language simpler.  Esperanto sells itself on how simple it is - my Esperanto 
+introductory grammar book has 214 pages of grammar in it.
+
+For someone who has not thought about grammar in 30 plus years the eight page 
+(on my printer) Syntax-Based Grammar of Glosa was a challenge to get through. 
+ I do not think I have mastered all of it yet - and I had to buy a grammar 
+book just to understand what I was trying to understand.  If Glosa moves from 
+that level of complexity to something approaching that of Esperanto, I have 
+to ask, why not just give it up and learn Esperanto?
+
+>From my perspective as a new user the distinctiveness of Glosa is (1) simple 
+grammar that relies on word position to tell the story and (2) a simple, 
+limited vocabulary.  These are also its great strengths as an auxiliary 
+language - simple rules, plus not a thick dictionary to memorize (I am now 
+approaching a foot long section of Esperanto dictionaries in my reference 
+book case).
+
+I have been working on translating a short technical paper on emergency 
+response plans into Glosa - hence my proposed definitions posted on the 
+listserv.  What is very obvious to me, again as a new user, is that the 
+dictionary needs work, and a lot of it, to define clearly what the real 
+English equivalents (and French and German and ...) are for given words. 
+
+For example, I suggested polisi-akti-seri as an equivalent to the English 
+word strategy (and, yes, I know it is bad Glosa to hyphenate three words 
+together, but why?).  The GID has a Glosa word "strategi," which Nick 
+suggested, along with some quite useful refinements of the definition - the 
+GID defines this as "trick."  Those of us who work in the strategic 
+environment identify strategy as the operationalization of policy into a 
+course of action to achieve top level goals.  What is strategy and strategi 
+to be - a policy level activity that guides the affairs of nations and 
+organizations, or a simple trick to fool someone?  Or is it to be both, based 
+on context?  Or do we go back to the root word context of strategy?
+
+I think the real area of ambiguity in Glosa is the 1000/6000/GID.  This is 
+not a criticism of any of these - they are tremendous efforts, especially the 
+GID, and the authors deserve all of the credit in the world.  But if I, or 
+any other author, am to write technical or scientific material, I need a 
+better product to work from.  
+
+The other comment I have is that Glosa's simple rules have had an interesting 
+impact on how I think about my writing.  I find myself thinking more about 
+what is important in what I am saying and a lot more about the relationship 
+of words.
+
+So my vote is do not fool with the grammar until we know what the words mean. 
+ I am sure that the users of the list already understand the full meaning of 
+the words, but until they are also obvious to new users I am not sure you 
+will have achieved a solid foundation for growth.
+      
+Walter G. Green III, Ph.D.
+Assistant Professor of Emergency Management
+University of Richmond
+wgreen{at}richmond{dot}edu
+(804) 287-1246
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] A Contrarian View on Grammar
+From: "Alain Vezes" <alain.vezes{at}wanadoo{dot}fr>
+Date: Thu, 27 Jun 2002 16:03:52 +0200
+
+In my opinion, Grammar is just a name for the set of rules for a language.
+So, using the word "grammar" does not imply that this grammar is huge and
+abstruse (a good Glosa grammar could comprise just about ten pages). But the
+main goal is, as for words, there is no ambiguity. A good balance should be
+found between simplicity and speed (but ambiguity) and accuracy (but
+complexity).
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] random
+From: Nicholas Hempshall <nick_hempshall{at}yahoo{dot}co{dot}uk>
+Date: Thu, 27 Jun 2002 08:24:02 -0700 (PDT)
+
+--- sid wrote:
+> not very happy with the G words I get for "random".
+> any suggestions?
+
+In what context do you indend to use the word?
+
+Nick
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! - Official partner of 2002 FIFA World Cup
+http://fifaworldcup.yahoo.com
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] A Contrarian View on Grammar
+From: Nicholas Hempshall <nick_hempshall{at}yahoo{dot}co{dot}uk>
+Date: Thu, 27 Jun 2002 09:50:28 -0700 (PDT)
+
+Karo Glosa-pe,
+
+Mi doxo; il es sati de gramatika in proto mero de
+"GLOSA BASIC REFERENCE"
+http://www.glosa.org/en/gref.htm 
+
+Pe habe libe de uti oligo idio mode de grafo; si logi
+ne gene noku.
+
+Alain: qe tu pote monstra plu exempla de plu frase; qi
+habe ma de mo signifi; qi habe semani?
+
+Walter: mi akorda ko tu; plu Glosa verba-lista debi
+habe ma klari. Marcel fo ergo te ma boni mu.
+
+Saluta ex
+Nick
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! - Official partner of 2002 FIFA World Cup
+http://fifaworldcup.yahoo.com
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] A Contrarian View on Grammar
+From: Charles{at}Catty{dot}Com
+Date: Thu, 27 Jun 2002 11:13:06 -0700
+
+> I am a new Glossa user.  I am also not a gramatika-pe.
+
+I've been into Glosa and Interglossa since 1970.
+Interlinguistics (study and design of bridge languages)
+led me to study "real" linguistics. What is commonly
+called "grammar" of the type taught in lower schools
+(verbs, indirect objects, ad nauseum) is now at least
+100 years obsolete. That is the sort of thing we can
+do without in Glosa. But we can't contravene the
+linguistic realities ...
+
+> I think Glosa looses its distinctiveness and value
+> in direct proportion to any increase in the size
+> and complexity of its grammar.
+
+Agreed. The designers/authors aimed Glosa at people
+who basically hate "grammar", and this is correct
+"strategy" for a bridge language, which will always
+be a second language, learned and used by adults
+for practical purposes. The model should be Swahili
+(simplified Bantu with Arabic loanwords) or the
+Lingua Franca (ultra-simplified Romance). All such
+languages share many features, and not following
+"grammarians" is one of those features ...
+
+> Syntax-Based Grammar of Glosa was a challenge to get through.
+
+Glosa's grammar is just a simplified mixture of English and
+whatever Romance language one has studied in high school.
+All inflections are eliminated, and word order within a phrase
+is like English, modifiers preceding the words they modify.
+There are around 50 special words called particles which do
+whatever additional magic stuff which may be necessary.
+
+> I had to buy a grammar book just to understand what I was
+> trying to understand.
+
+Just do a web search for "pidgins and creoles and Bickerton".
+
+> why not just give it up and learn Esperanto?
+
+I like all the artificial languages, but only a pidgin-like
+analytic-grammar type such as Glosa or Lingua Franca can be
+learned easily enough by the vast majority of working adults.
+Others are nice toys or hobbies or secret-codes or cult langs.
+However: Glosa leaves you with the problem of how to create
+long compound words to simulate the huge vocabulary of concepts
+an adult would need to use in the real world; this is the
+problem of "derivation". The solution is to realize that
+1000 basic roots get us nowhere. We need to import many more
+from the already-existing "international vocabulary".
+This was called "Mega-Glosa" by the authors.
+
+> simple rules, plus not a thick dictionary to memorize
+
+The trick is to use only those words that are already present
+in the source (lexifier) languages. That is the Norman and
+Latinate portion of English, as opposed to the Anglo-Saxon.
+There's the winning "strategy" (French stratégie, Spanish
+estrategia, Italian strategìa, etc). You know most of them
+at-sight without any study, and once comfortable with the
+system, you can guess most of the remainder. No pain.
+
+> What is very obvious to me, again as a new user, is that the
+> dictionary needs work, and a lot of it, to define clearly what the real
+> English equivalents (and French and German and ...) are for given words.
+
+I'm a programmer. I've written software to input public domain
+bilingual word lists and cross-correlate them to find cognate words
+with similar meaning. It generates approx 10,000 entries like this,
+among which one can find the international words:
+
+SORTKEY  BEST MATCH    MULTILINGUAL SOURCES ..................... ENGLISH SYNONYMS
+strab    crosseyed     2  glo strabo, ila strabe                  1  crosseyed
+strabis  strabismus    2  eng strabismus, ila strabismo           1  strabismus
+strabot  strabotomy    2  eng strabotomy, ila strabotomia         1  strabotomy
+strad    street        3  ido strad, lfn strada, occ strade       2  road street
+stram    litter        2  glo strama, ita strame                  1  litter
+stran    peculiar      2  ita strano, lfn strana                  2  peculiar strange
+strang   strangle      3  glo strangula, ido strangul, ila stran  5  foreign odd strange strangle
+straps   straps        2  eng straps, fre straps                  1  straps
+strat    layer         4  glo stratu, ido strat, ila strato, ita  3  layer stratum street
+stratag  stratagem     2  eng stratagem, ila stratagema           1  stratagem
+strateg  strategy      4  eng strategy, fre stratégie, ido strat  1  strategy
+stratif  stratify      2  eng stratify, ila stratificar           1  stratify
+stratos  stratosphere  3  eng stratosphere, fre stratosphère, il  1  stratosphere
+
+> I know it is bad Glosa to hyphenate three words together, but why?
+
+It's only bad if there is no shorter equivalent. Works fine in German ...
+
+> a policy level activity that guides the affairs of nations and
+> organizations, or a simple trick to fool someone?
+
+The bad news is that all languages must work in exactly that way.
+You have reified (and refined) the lowly word into a high concept,
+but the word remains as it was, a mere culturally-founded artifact.
+Above, the stated goal was minimization of vocabulary, but just in
+computer jargon I could use up 10,000 specifically essential words,
+so we're going to be hyphenating an awful lot, or else using more
+general senses. Precision is impossible in the base vocabulary,
+lower-frequency specific senses are implemented as compounds.
+
+> I am sure that the users of the list already understand
+> the full meaning of the words,
+
+Not so!
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] random
+From: Sydpidd{at}aol{dot}com
+Date: Thu, 27 Jun 2002 14:45:55 EDT
+
+shuffling a pack of cards by hand or by computer - microsoft has Solitaire - 
+I shall put something about it, in glosa, on the list fairly soon - I shall 
+probably use "fortuitu" .......
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] solitaire
+From: Sydpidd{at}aol{dot}com
+Date: Thu, 27 Jun 2002 15:16:40 EDT
+
+tem u tri semana visita a skotolanda(56nord5uest), plu tem, mi pa prende u 
+paketa de plu karda e pa ludo "solitaire". ad u-mi eko-lo, mi du ludo u-co 
+sed epi u-mi puta-me.
+
+ko u paketa, mi du nece kura mixa plu karda te tenta gene mu in fortuitu seri 
+e seqe te loka mu in u-mu sepera kumu pre mi du ludo.
+u-mi puta-me du face pan mu pro mi. u resulta de ambi metodi sio es eqa.
+
+anti-co, po u tem, mi pa observa ke plu sucede pa es mega ma rari ko plu 
+karda de ko puta-me. (karda feno proxi 3%, puta-me proxi 10%)
+mi ne pa face metri id sed u-la pa feno proxi veri.
+
+plu qestio pa veni a menta .....
+mo)   inter plu bdifere metodi te detekte fortuitu seri, qe mu muta plu 
+resulta?
+bi)    u facili de monstra plu karta epi puta-me alo u mei facili de loka mu 
+epi u mensa, qe u-la du muta plu-mi puta de plu sucede?
+tri)    qe u puta-me programa du nume plu defici de sucede e du gentili ofere 
+u ma facili grega te inkoragio u ludo-pe?
+tetra)    qe id sio remove plu taxo qi du dona plu no sucede resulta?
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] random
+From: Kevin Smith <kevins{at}qualitycode{dot}com>
+Date: Fri, 28 Jun 2002 00:01:15 -0600
+
+--- Sydpidd{at}aol{dot}com wrote:
+> not very happy with the G words I get for "random". any suggestions?
+
+kaos?
+
+ne pote ge-predice?
+
+We seem to be lacking a word for 'pattern', and I don't mean 'pattern' as in a 
+dress pattern. I mean like a pattern of dots on wallpaper. Random would then be 
+without-pattern.
+
+Kevin
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] [glosa] Saluta plu ami!
+From: Xipirho <xipirho{at}runbox{dot}com>
+Date: Fri, 28 Jun 2002 18:58:16 +0000
+
+Cau plu demo! Me puta me no pa crea u posta (ke es u verba veri, ia?) en 
+u-ci lista pre nu. kuo-ka habe glosa "q" - "ku" es un homo fono, ia? 
+gratia de un horo de vi (qo-ka no es ke "plu-tu"?), me spe vi pote lekto u 
+kako glosa de me! gratia, uale.
+
+Xip/Roly
+
+Ciao people! I think I have not made a post (that's the right word, yes?) 
+on this list before. Why does glosa have "q" - "ku" is the same sound, yes?
+  Thanks for your time (why is that not "plu-tu"?), I hope you are able to 
+read my bad glosa! Cheers, bye.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] random
+From: Sydpidd{at}aol{dot}com
+Date: Fri, 28 Jun 2002 15:18:09 EDT
+
+What I.m thinking of is the mathematical use of "random" like generating 
+random numbers. I like the entry in my latin dictionary - random .. fortuitus 
+and would like to coin a G word "fortuitu" - I don't know whether the powers 
+that be would allow it
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] [glosa] Saluta plu ami!
+From: Sydpidd{at}aol{dot}com
+Date: Fri, 28 Jun 2002 15:37:22 EDT
+
+saluta
+it is not "bad" glosa, the word "bad" is pretty meaningless here. it is 
+decidedly unusual but understandable. on the other hand we must all come to 
+some agreement about how to express ourselves in G otherwise our 
+wtitings/speech would be misunderstood. I could work out yours but needed 
+some head scratching -  Glosa could learn one or two things from you  too 
+........... keep at it with the help of dictionaries etc you will be able to 
+adapt your style to a more orthodox one - not that I.m all that orthodox or 
+well behaved ( i.e. does G need capitals?)
+what glosalist needs is lots and lots of glosa, "good", "bad", orthodox or 
+unorthodox
+sid 
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] alphabet (Saluta plu ami!)
+From: Charles{at}Catty{dot}Com
+Date: Fri, 28 Jun 2002 12:52:15 -0700
+
+> Why does glosa have "q" - "ku" is the same sound, yes?
+
+Many IALs have attempted to accommodate speakers pronouncing
+"kw" as "kv". I think it would be much better to simplify,
+and use only "ku". But then, as in Novial, the dictionary
+gets eye-glazingly thick in the K section ...
+
+But it is possible and desireable to eliminate spelling
+difficulties, recognizing that each native speaker group has
+different problems. By accepting the hard/soft C/G rule,
+quasi-instinctive (by childhood training) to almost every
+person in Europe/Americas/Australia, it is possible to
+eliminate H J K Q W X Y Z, like a more-regularized Spanish.
+
+It would gain immensely in both recognition and production.
+Mangling the international vocabulary by strange spellings
+(Esperanto, Ido, Novial, Glosa) is worse than semi-apriori
+(Loglan/Lojban) because it's actually anti-mnemonic. Using
+more natural spelling facilitates learning, for everyone.
+
+And then Glosa could be marketed worldwide as a first step to
+otherwise impossibly difficult (western) European languages.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] alphabet (Saluta plu ami!)
+From: Xipirho <xipirho{at}runbox{dot}com>
+Date: Sat, 29 Jun 2002 13:09:25 +0000
+
+--Apple-Mail-2--195674811
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain;
+	charset=US-ASCII;
+	format=flowed
+
+
+On Friday, June 28, 2002, at 07:52 , Charles{at}Catty{dot}Com wrote:
+
+>> Why does glosa have "q" - "ku" is the same sound, yes?
+>
+> Many IALs have attempted to accommodate speakers pronouncing
+> "kw" as "kv". I think it would be much better to simplify,
+> and use only "ku". But then, as in Novial, the dictionary
+> gets eye-glazingly thick in the K section ...
+
+Es u-la mon bene logika ka litere (kuod es "ing" in glosa) non-logika? Plu 
+demo debi gene ski [to speak] id (u plu fono) bene.
+
+Is that a good reason for spell (what's "ing" in glosa?) illogically? 
+People shoudl learn to say it (the sounds) properly.
+
+>
+> But it is possible and desireable to eliminate spelling
+> difficulties, recognizing that each native speaker group has
+> different problems. By accepting the hard/soft C/G rule,
+> quasi-instinctive (by childhood training) to almost every
+> person in Europe/Americas/Australia, it is possible to
+> eliminate H J K Q W X Y Z, like a more-regularized Spanish.
+
+U dura/moli regula non es idem trans europa-lingua plu landa. kuo-ka no 
+uti "g" pro "g" in "glosa", e uti "c" o "k" pro "k" in "ka", panto-tem. 
+plu tu pote uti "x" o "c" pro glosa "sc", e "tx" o "tc" pro glosa "c".
+
+The hard/soft rule is not is not the same throughout the european language 
+lands. Why not use "g" for "g" in "glosa", and "c" or "k" for "k" in "kuo"
+, always. You could use 'x" or 'c" for glosa "sc", and "tx" or "tc" for 
+glosa "c".
+
+>
+> It would gain immensely in both recognition and production.
+> Mangling the international vocabulary by strange spellings
+> (Esperanto, Ido, Novial, Glosa) is worse than semi-apriori
+> (Loglan/Lojban) because it's actually anti-mnemonic.
+
+id non es! es logika!
+
+It isn't! It's logic!
+
+>  Using
+> more natural spelling facilitates learning, for everyone.
+
+boni, sed kuo-ka no uti elementa latin alora?
+
+Well, but why not use simple Latin in that case?
+
+> And then Glosa could be marketed worldwide as a first step to
+> otherwise impossibly difficult (western) European languages.
+
+sed glosa no es homo plu-la plu lingua. u gramatika es forti difere.
+
+But glosa isn't like those tongues. The grammar is very different.
+
+
+> ---------------------------------------------------------------------
+> To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+> For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+>
+>
+>
+Liv long and prospx, Khjpjrho (Xipirho)/Rxwlj (Roly).
+
+--Apple-Mail-2--195674811
+Content-Transfer-Encoding: 7bit
+Content-Type: text/enriched;
+	charset=US-ASCII
+
+
+On Friday, June 28, 2002, at 07:52 , Charles{at}Catty{dot}Com wrote:
+
+
+<excerpt><excerpt>Why does glosa have "q" - "ku" is the same sound,
+yes?
+
+</excerpt>
+
+Many IALs have attempted to accommodate speakers pronouncing
+
+"kw" as "kv". I think it would be much better to simplify,
+
+and use only "ku". But then, as in Novial, the dictionary
+
+gets eye-glazingly thick in the K section ...
+
+</excerpt>
+
+Es u-la mon bene logika ka litere (kuod es "ing" in glosa) non-logika?
+Plu demo debi gene ski [to speak] id (u plu fono) bene.
+
+
+Is that a good reason for spell (what's "ing" in glosa?) illogically?
+People shoudl learn to say it (the sounds) properly.
+
+
+<excerpt>
+
+But it is possible and desireable to eliminate spelling
+
+difficulties, recognizing that each native speaker group has
+
+different problems. By accepting the hard/soft C/G rule,
+
+quasi-instinctive (by childhood training) to almost every
+
+person in Europe/Americas/Australia, it is possible to
+
+eliminate H J K Q W X Y Z, like a more-regularized Spanish.
+
+</excerpt>
+
+U dura/moli regula non es idem trans europa-lingua plu landa. kuo-ka
+no uti "g" pro "g" in "glosa", e uti "c" o "k" pro "k" in "ka",
+panto-tem. plu tu pote uti "x" o "c" pro glosa "sc", e "tx" o "tc" pro
+glosa "c". 
+
+
+The hard/soft rule is not is not the same throughout the european
+language lands. Why not use "g" for "g" in "glosa", and "c" or "k" for
+"k" in "kuo", always. You could use 'x" or 'c" for glosa "sc", and
+"tx" or "tc" for glosa "c".
+
+
+<excerpt>
+
+It would gain immensely in both recognition and production.
+
+Mangling the international vocabulary by strange spellings
+
+(Esperanto, Ido, Novial, Glosa) is worse than semi-apriori
+
+(Loglan/Lojban) because it's actually anti-mnemonic.
+
+</excerpt>
+
+id non es! es logika!
+
+
+It isn't! It's logic!
+
+
+<excerpt> Using
+
+more natural spelling facilitates learning, for everyone.
+
+</excerpt>
+
+boni, sed kuo-ka no uti elementa latin alora?
+
+
+Well, but why not use simple Latin in that case?
+
+
+<excerpt>And then Glosa could be marketed worldwide as a first step to
+
+otherwise impossibly difficult (western) European languages.
+
+</excerpt>
+
+sed glosa no es homo plu-la plu lingua. u gramatika es forti difere.
+
+
+But glosa isn't like those tongues. The grammar is very different.
+
+
+
+<excerpt>---------------------------------------------------------------------
+
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+
+
+
+</excerpt><fontfamily><param>Helvetica</param>Liv long and prospx,
+Khjpjrho (Xipirho)/Rxwlj (Roly).</fontfamily>
+
+--Apple-Mail-2--195674811
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--Apple-Mail-2--195674811--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] [glosa] Saluta plu ami!
+From: Xipirho <xipirho{at}runbox{dot}com>
+Date: Sat, 29 Jun 2002 13:45:39 +0000
+
+--Apple-Mail-3--193500558
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain;
+	charset=US-ASCII;
+	format=flowed
+
+
+On Friday, June 28, 2002, at 07:37 , Sydpidd{at}aol{dot}com wrote:
+
+> saluta
+> it is not "bad" glosa, the word "bad" is pretty meaningless here. it is
+> decidedly unusual but understandable.
+
+bene. sed CUOD es cseno?
+
+good. but WHAT is unusual?
+
+> on the other hand we must all come to
+> some agreement about how to express ourselves in G otherwise our
+> wtitings/speech would be misunderstood. I could work out yours but needed
+> some head scratching
+
+plu ecsempla?
+
+examples?
+
+>  -  Glosa could learn one or two things from you  too
+
+ma plu ecsempla?
+
+More examples?
+
+> .......... keep at it with the help of dictionaries etc you will be able 
+> to
+> adapt your style to a more orthodox one - not that I.m all that orthodox 
+> or
+> well behaved ( i.e. does G need capitals?)
+> what glosalist needs is lots and lots of glosa, "good", "bad", orthodox or
+> unorthodox
+> sid
+>
+> ---------------------------------------------------------------------
+> To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+> For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+>
+>
+>
+Liv long and prospx, Khjpjrho (Xipirho)/Rxwlj (Roly).
+
+--Apple-Mail-3--193500558
+Content-Transfer-Encoding: 7bit
+Content-Type: text/enriched;
+	charset=US-ASCII
+
+
+On Friday, June 28, 2002, at 07:37 , Sydpidd{at}aol{dot}com wrote:
+
+
+<excerpt>saluta
+
+it is not "bad" glosa, the word "bad" is pretty meaningless here. it
+is 
+
+decidedly unusual but understandable. 
+
+</excerpt>
+
+bene. sed CUOD es cseno?
+
+
+good. but WHAT is unusual?
+
+
+<excerpt>on the other hand we must all come to 
+
+some agreement about how to express ourselves in G otherwise our 
+
+wtitings/speech would be misunderstood. I could work out yours but
+needed 
+
+some head scratching
+
+</excerpt>
+
+plu ecsempla?
+
+
+examples?
+
+
+<excerpt> -  Glosa could learn one or two things from you  too 
+
+</excerpt>
+
+ma plu ecsempla?
+
+
+More examples?
+
+
+<excerpt>.......... keep at it with the help of dictionaries etc you
+will be able to 
+
+adapt your style to a more orthodox one - not that I.m all that
+orthodox or 
+
+well behaved ( i.e. does G need capitals?)
+
+what glosalist needs is lots and lots of glosa, "good", "bad",
+orthodox or 
+
+unorthodox
+
+sid 
+
+
+---------------------------------------------------------------------
+
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+
+
+
+</excerpt><fontfamily><param>Helvetica</param>Liv long and prospx,
+Khjpjrho (Xipirho)/Rxwlj (Roly).</fontfamily>
+
+--Apple-Mail-3--193500558
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--Apple-Mail-3--193500558--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] alphabet (Saluta plu ami!)
+From: Charles{at}Catty{dot}Com
+Date: Sat, 29 Jun 2002 10:00:32 -0700
+
+>> Many IALs have attempted to accommodate speakers pronouncing
+>> "kw" as "kv".
+
+> Is that a good reason for spell [...] illogically?
+> People shoudl learn to say it (the sounds) properly.
+
+Ido tries to be "logical" but it is impossible to use.
+Always remember that an IAL is a second language for adults,
+and if it is too difficult they can't learn it. We must
+accommodate a range of pronunciations in the real world,
+not excluding people because of insignificant differences.
+
+> (what's "ing" in glosa?)
+
+English "-ing" is similar to Glosa "du-".
+
+> The hard/soft rule is not is not the same throughout
+> the european language lands.
+
+We must use what is natural to Spanish/English/French,
+the vast majority of all potential Glosa speakers.
+It would be nice to include a wider audience, but that
+is not possible. Unless you try Occidental instead.
+
+>> Mangling the international vocabulary by strange spellings
+>> (Esperanto, Ido, Novial, Glosa) is worse than semi-apriori
+
+> It isn't! It's logic!
+
+You can't win that argument. See the Ido vocabulary for
+examples. Nobody can memorize all the artificial divergences.
+So it can never be spoken or understood in real life, and
+is hard enough even in writing, where you must look up
+every word in a dictionary. Logically you could better use
+numbers instead of words, with decimal points to mark off
+the affixes.
+
+>>  Using more natural spelling facilitates learning, for everyone.
+
+> Well, but why not use simple Latin in that case?
+
+Latin is not simple, and is dead. Whereas half the world today
+speaks English/Spanish/French/Portuguese, and they all mix well.
+So those are the best sources for vocabulary, and spelling must
+be similar to Spanish. Logic! Just don't go changing random
+letters to differentiate meanings, because that sort of mangling
+destroys any potential ease of learning.
+
+> But glosa isn't like those tongues. The grammar is very different.
+
+Only superficially.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] alphabet (Saluta plu ami!)
+From: Nicholas Hempshall <nick_hempshall{at}yahoo{dot}co{dot}uk>
+Date: Sat, 29 Jun 2002 13:30:03 -0700 (PDT)
+
+--- Xipirho wrote:
+> >> Why does glosa have "q" - "ku" is the same sound,
+> >> yes?
+
+Well, really, it is "KW". 
+
+Hogben suggested that what was important was that
+every letter or digraph should always have the same
+pronunciation, and that it was not necessary that
+every sound should have only one spelling.
+
+> Es u-la mon bene logika ka litere (kuod es "ing" in
+> glosa) non-logika? Plu 
+> demo debi gene ski [to speak] id (u plu fono) bene.
+
+No need for -ing here :- spelling = to spell = letter.
+
+> Is that a good reason for spell (what's "ing" in
+> glosa?) illogically? 
+> People shoudl learn to say it (the sounds) properly.
+
+Qe u-la habe logika de litera minus uniformi?
+[Question - the former has reason to letter without
+regularity?
+Does that have reasonableness in relation to spelling
+inconsistently?]
+
+
+Qo-mode pe glosa "-ing"?
+[How one glosas "-ing"?
+ How do you say in Glosa "-ing"?] 
+
+Plu persona debi gene sko de dice gru.
+[People ought to receive instruction about speaking
+fittingly.
+People should learn to say it (the sounds) properly.]
+
+Poli ami saluta ex
+Nick
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! - Official partner of 2002 FIFA World Cup
+http://fifaworldcup.yahoo.com
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] solitaire
+From: Nicholas Hempshall <nick_hempshall{at}yahoo{dot}co{dot}uk>
+Date: Sat, 29 Jun 2002 13:51:09 -0700 (PDT)
+
+--- sid wrote:
+> mi du nece kura mixa plu karda te tenta
+> gene mu in fortuitu seri 
+
+"fortuitu" is not really any different from the
+standard Glosa ~fortuna~ "chance", mid-way between
+"lucky" and "unlucky" [~boni-fortuna~ and
+~mali-fortuna~].
+
+Aren't you really trying to get an unpredictable
+order?
+The cards would already be in a random order, unless
+it was the first time they had been used.
+
+"unpredictable" = ~ne-pre-ge-ski~
+
+poli ami saluta ex
+Nick
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! - Official partner of 2002 FIFA World Cup
+http://fifaworldcup.yahoo.com
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] solitaire
+From: Sydpidd{at}aol{dot}com
+Date: Sun, 30 Jun 2002 13:20:03 EDT
+
+--part1_126.12d7774c.2a5097c3_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+In a message dated 6/29/02 09:51:30 GMT Daylight Time, 
+nick_hempshall{at}yahoo{dot}co{dot}uk writes:
+
+
+> "unpredictable" = ~ne-pre-ge-ski~
+
+gratia, es posi sed  ..........  mi no  ski qi mu volu .....
+sid
+
+
+
+
+--part1_126.12d7774c.2a5097c3_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2>In a message dated 6/29/02 09:51:30 GMT Daylight Time, nick_hempshall{at}yahoo{dot}co{dot}uk writes:<BR>
+<BR>
+<BR>
+<BLOCKQUOTE TYPE=CITE style="BORDER-LEFT: #0000ff 2px solid; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px; PADDING-LEFT: 5px">"unpredictable" = ~ne-pre-ge-ski~</FONT><FONT  COLOR="#000000" style="BACKGROUND-COLOR: #ffffff" SIZE=2 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></BLOCKQUOTE><BR>
+<BR>
+</FONT><FONT  COLOR="#000000" style="BACKGROUND-COLOR: #ffffff" SIZE=2 FAMILY="SANSSERIF" FACE="Arial" LANG="0">gratia, es posi sed&nbsp; ..........&nbsp; mi no&nbsp; ski qi mu volu .....<BR>
+sid</FONT><FONT  COLOR="#000000" style="BACKGROUND-COLOR: #ffffff" SIZE=2 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+</FONT><FONT  COLOR="#000000" style="BACKGROUND-COLOR: #ffffff" SIZE=2 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+<BR>
+<BR>
+</FONT></HTML>
+
+--part1_126.12d7774c.2a5097c3_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_126.12d7774c.2a5097c3_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Fw:      Translation contest
+From: Kevin Smith <kevins{at}qualitycode{dot}com>
+Date: Sun, 30 Jun 2002 12:01:42 -0600
+
+--- "Nick Hempshall" <nick{at}hempshall{dot}fsbusiness{dot}co{dot}uk> wrote:
+> I thought this challenge might interest the list.
+
+Indeed. I am just now beginning to find time again for Glo/Glosa activities, and 
+am catching up on my old emails.
+
+The first thing that strikes me about this passage is that it is not very well 
+written in English. Well, I suppose if you like really complex, run-on sentences 
+it is fine. But I prefer to be able to actually understand what is written, 
+quickly and easily.
+
+So my first task, I suspect, would be to rewrite it _in English_. I suspect that 
+would be easier for me than trying to restructure AND translate it at the same 
+time.
+
+Kevin
+> 
+> Nick
+> 
+> ----- Original Message ----- 
+> From: Christopher Burd
+> >  I always enjoy
+> > [a translation contest], especially if accompanied
+> > by intelligent commentary and criticism. How
+> > about this text:
+> > 
+> > In a cold but stuffy bed-sitting room
+> > littered with cigarette ends and
+> > half-empty cups of tea, a man in a
+> > moth-eaten dressing gown sits at a
+> > rickety table, trying to find room
+> > for his typewriter among the piles
+> > of dusty papers that surround it.
+> > He cannot throw the papers away
+> > because the wastepaper basket is
+> > already overflowing, and besides,
+> > somewhere among the unanswered letters
+> > and unpaid bills it is possible that
+> > there is a cheque for two guineas
+> > which he is nearly certain he forgot
+> > to pay into the bank. There are also
+> > letters with addresses which ought to
+> > be entered into his address book. He
+> > has lost his address book, and the
+> > thought of looking for it, or indeed
+> > of looking for anything, afflicts him
+> > with acute suicidal impulses.
+> > 
+> > --from "Confessions of a Book Reviewer"
+> > by George Orwell, _The Tribune_, 1946
+> > 
+> > Cheers,
+> > 
+> > Chris
+> 
+> 
+> ---------------------------------------------------------------------
+> To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+> For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] solitaire e komente
+From: Sydpidd{at}aol{dot}com
+Date: Sun, 30 Jun 2002 14:47:36 EDT
+
+plu solitaire komente
+
+mo)    mi du volu ke pan plu-mi glosa grafo du gene soni homo u internatio 
+fonetika alfa-beta.
+bi)    u-ci, plu meso-verbe-grupo du sti ko "pa, du, te, sio" alo du seqe plu 
+verbe "mi, tu, il, id, fe ,an, pe, na, vi, mu" . plu-co grupo du fini ante 
+"u, plu, pan ...... alo '.',  e,  sed ...... alo "a, epi, in, ........" . 
+"es" es ok solo.
+
+so, id es facile detekte u mo-verbe-grupo e u tri-verbe-grupo.
+ 
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] solitaire e komenta
+From: Sydpidd{at}aol{dot}com
+Date: Sun, 30 Jun 2002 14:47:36 EDT
+
+plu solitaire komente
+
+mo)    mi du volu ke pan plu-mi glosa grafo du gene soni homo u internatio 
+fonetika alfa-beta.
+bi)    u-ci, plu meso-verbe-grupo du sti ko "pa, du, te, sio" alo du seqe plu 
+verbe "mi, tu, il, id, fe ,an, pe, na, vi, mu" . plu-co grupo du fini ante 
+"u, plu, pan ...... alo '.',  e,  sed ...... alo "a, epi, in, ........" . 
+"es" es ok solo.
+
+so, id es facile detekte u mo-verbe-grupo e u tri-verbe-grupo.
+ 
+sid
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Fw:      Translation contest
+From: Kevin Smith <kevins{at}qualitycode{dot}com>
+Date: Sun, 30 Jun 2002 23:54:55 -0600
+
+I haven't read Nick's Glo translation yet (the one he posted a few weeks ago). 
+Here is my own. Note that this is written in Glo, not Glosa. I think that 
+Glosa-pe can simply:
+- Pretend each sentence starts with a capital letter
+- Ignore 'ca', which begins a verb (or pretend it is 'nu')
+- Ignore 'sa', which indicates posession
+- Remember that 'zero' is used in place of 'ne'
+
+I think it's a bit weak in a couple spots, due to Glo's very small (and 
+unfinished) vocabulary. Still, I think it proves that 500 roots can go pretty 
+far.
+
+Now I'll go take a look at Nick's submission to see how close we ended up.
+
+Kevin
+
+---
+mo an ca sedi intra de an sa somni e sedi 
+kam, qi ca es frigi e ca zero habe sati 
+juve aero. an ca tenta trovi u loka, qi 
+pote vasa u an sa litera meka. u kam ca 
+habe plu poli fini mero de plu pusi fumi 
+pali, e ca habe plu vora flu vasa qi ca 
+mero vasa. plu zero taxo e zero puri grega 
+de papira lami ca es pan loka de an sa 
+zero solida lami stru.
+
+an ca zero debe bali ab plu la papira lami, 
+kausa u skoria vasa ca es sati. plus, an 
+ca doxo; ke an pa lose u bi Guinea 
+valuta nota intra plu papira lami. plu ci 
+papira lami ca habe plu poli zero ge-reakti 
+grafo nota e plu zero ge-reakti vendo 
+volu valuta nota. plus, plu grafo nota ca 
+habe plu loka info, qi an ca debe grafo 
+intra an sa loka info bibli.
+
+mali fortuna, an pa lose an sa loka info 
+bibli. u puta de tenta trovi u ra intra 
+u kam ca kausa; ke an ca puta de sto an 
+se sa bio.
+---
+
+--- "Nick Hempshall" <nick{at}hempshall{dot}fsbusiness{dot}co{dot}uk> wrote:
+> I thought this challenge might interest the list.
+> 
+> Nick
+> 
+> ----- Original Message ----- 
+> From: Christopher Burd
+> >  I always enjoy
+> > [a translation contest], especially if accompanied
+> > by intelligent commentary and criticism. How
+> > about this text:
+> > 
+> > In a cold but stuffy bed-sitting room
+> > littered with cigarette ends and
+> > half-empty cups of tea, a man in a
+> > moth-eaten dressing gown sits at a
+> > rickety table, trying to find room
+> > for his typewriter among the piles
+> > of dusty papers that surround it.
+> > He cannot throw the papers away
+> > because the wastepaper basket is
+> > already overflowing, and besides,
+> > somewhere among the unanswered letters
+> > and unpaid bills it is possible that
+> > there is a cheque for two guineas
+> > which he is nearly certain he forgot
+> > to pay into the bank. There are also
+> > letters with addresses which ought to
+> > be entered into his address book. He
+> > has lost his address book, and the
+> > thought of looking for it, or indeed
+> > of looking for anything, afflicts him
+> > with acute suicidal impulses.
+> > 
+> > --from "Confessions of a Book Reviewer"
+> > by George Orwell, _The Tribune_, 1946
+> > 
+> > Cheers,
+> > 
+> > Chris
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+

@@ -1,0 +1,2521 @@
+
+From: Robin Gaskell
+Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
+To: GLOSALIST
+Cc: 
+Date: Wed, 03 Mar 99 08:37:55 EST  
+
+At 18:57 21/02/99 -0500, Paul Bartlett wrote:
+>On Sun, 21 Feb 1999, Robin Gaskell wrote (excerpted):
+>
+>>     And I still appreciate the "get" used to make the original passive
+>>form.
+>
+>    I do not appreciate it at all. [...]
+
+>  [...]   Really, we do need
+>to get this tense/aspect/mood matter straight if we are to be taken
+>seriously and if Glosa is to be used by non-Indo-European peoples (or
+>even just non-English-speaking peoples).
+>
+*   Unless I get some hard information on these different particles (or
+functions) I will have nothing to go on.
+
+    I do not know how much of a laughing stock Glosa would be if it
+continued with the present system that lumps tense, aspect and mood
+together ... and calls them particles.  It would be a lot easier for 99% of
+the human population, as well.
+
+>> *   It looks as if the Glosa "Tense Table" will need some slight
+>> adjustment,
+>
+>    I recommend that the phrase/name "Tense Table" be scrapped
+>entirely.  Refer to it as a "verb table."
+*   The main thin is that the vast majority of people who know anything
+about grammar have heard of tense, but do not know what "mood" and "aspect"
+are.
+    Calling it a "Verb Particle Table" would be honest, but a mouthful, and
+somewhat confusing to the vast majority.
+
+    I really can understand why Ron Clark wanted to leave the formalities
+of grammar out of the story.  But I am sorry to say he vastly
+underestimated the ability of people to jump into Glosa, and start using it
+.. in such a way that the pattern would emerge with use.
+    Another snippet of Glosa history: the way I learnt how to use Glosa was
+by using it.  There was no Grammar Book then: there is none now.
+Where, one wonders, is the courage that once made warriors into heros?
+    There ent much of it about in the halls of Interlinguistics, anyway.
+
+With Apologies,
+ Robin G.
+
+
+From: Robin Gaskell
+Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
+To: GLOSALIST
+Date: Mon, 01 Mar 99 10:3
+
+At 20:42 20/02/99 -0500, you wrote:
+>    One excerpt from Robin's letter to A&C.
+>
+>On Sat, 20 Feb 1999, Robin Gaskell wrote:
+>
+>>     Is there an alternative particle to allow us to tell the difference
+between the idea that something _has_ begun and the thought >>that it _had_
+begun, or, in Glosa, does this distinction not matter?
+>
+>    Robin, sorry for the seemingly harsh words, but do you understand
+>the difference between tense and aspect?  You are still asking your
+>question of "has begun" and "had begun" in terms of the English verb
+>system, which blends and/or confuses tense and aspect.  "Has begun,"
+>despite being called (rather mistakenly) a "(present) perfect tense,"
+>has more of a tense which 
+*   Right, I understand that English may be doing funny things to my brain,
+but in seeking a semantic reference for Glosa, i have little alternative
+than to rely on an understanding of practical English and an intuitive feel
+about what good language should allow me to do.
+
+    What I am not sure about is whether the Formal Grammar-type terminology
+that you are using is similarly ^hung up^ on Engish. 
+
+    I do suspect that Glosa grammar far from being a cleaned up carbon copy
+of English Grammar could be something quite different, and a medium of pure
+communication .. or communication as pure as something as imperfect as the
+human brain, can get it. 
+ 
+    Although you havn't said it, I am suspecting that you have something
+against the use of "has" and "had" as particles in English, possibly 
+because they appear to mix the verbs "to have" and "to do". 
+
+    has begun  - did start and is still going on; did continue to begin
+
+    had begun  - did start, but is not going now; did cease to begin
+               - did start, but is no longer starting now
+
+ ???  Apart from the confusions of English that you dislike, and which
+English-speakers use without knowing about all the rules they are breaking,
+why not accompany you questions with ^trial sentences^ in Glosa???  
+
+    Maybe I am asking the group to make positive comments about the way
+meaning is, or can be, conveyed in Glosa.
+
+    Say a person asks, how do you say this in Glosa, and a number of
+Glosalistas put forward suggestions, then we will have something to work 
+on.  I would ask people to try Glosa, even if they start with phrases.  If
+you put the mental effort in, you will be able to grade up to sentences,
+and one day, whole stories.
+
+Saluta,
+ Robin G.
+
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**# {now: "ke" & "that"}
+To: GLOSALIST
+Date: Tue, 02 Mar 99 09:5
+
+At , Charles wrote:
+>>  EG  Mi kogita: ke na pote akti id. [I think that we can do it.] NC
+>>  EG  An pa ridi ta forti ke an plora. [He laughed so hard that he
+>>    cried.] AdvC
+>
+>THAT works just fine, except the colon.
+>
+*   ?? Which looks and 'sounds' best:-
+    Mi kogita ke na pote akti id.  ......  no stopping*
+    Mi kogita, ke na pote akti id.  .....  O.K.
+    Mi kogita; ke na pote akti id.  .....  a bigger break & Richmond preferred
+    Mi kogita: ke na pote akti id.  .....  XS(?) marking, ":" = here follows
+
+>> While I believe that vocal inflection follows clearcut psychological
+>> rules,  [...]  I acknowlege that we can't rely on the first generation
+>> adult learners being taught vocal inflection.
+>
+>THAT is so true.
+>
+*   So, written Glosa will have to be robust enough to withstand people's
+reading it with incorrect inflection, IE both its syntax and in its
+punctuation will need to give all the cues necessary for the clear
+understanding of the internal structure of a sentence.
+
+
+>> 3. I know that it is true -   mi ski: KE id es veri  ... NC
+>> 4. so hard that it broke -   ta forti KE id frakto  .... AdvC     
+>> Can we find an alternative clause marker for either 3. NC or 4. AdjC?
+>
+>THAT item #3 just needs a colon excision.
+>
+*   comma or semi-colon (but I know the latter is not preferred by
+Glosalist posters)?
+
+>Item #4 is an idiom THAT needs to be banned from usage.
+>Re-phrase as "then" or "causing".
+>
+*   Possibly  " .. so X that Y."   ~ .. ta X ke Y.~
+  is an English idiom relixified into Glosa; I thought it was an Adverbial
+Phrase.  Still, I had thought that in any language, the logicality of ''and
+so it follows'' [=that] was a necessity for clear thinking and logical
+exposition.
+    But trying hard, I wondered about the suitability of alternative Glosa
+words:-
+  ta forti KAUSA id frakto  [so hard causing it to break] 
+  ta forti KA id frakto     [so hard because it breaks]*
+  ta forti SEQE id frakto   [so hard and, as a consequence, it breaks]
+  ta forti SO id frakto     [so hard, and thus it breaks]$
+  ta forti ??? id frakto 
+    OR is there a better structure, altogether, and if so, what?
+
+>> Most language use commas for clause marking: the Glosa authors decided
+>> that a semi-colon should be used at the start of a new clause;
+>
+>Commas are very simply and universally *pauses*, and should not
+>be futzed with. Hogben introduced the weird semicolon and colon,
+>THAT (qi?) are so ridiculous and unworkable.
+>
+*   Neither rediculous nor unworkable, just unfamiliar.
+    With commas, in English, it can be confusing if a series of them is
+used in a sentence, with each comma having a different function; in Glosa,
+where there are less textual clues, the "; = ,+" idea seems a worthwhile
+innovation, to mark the introduction of a new clause.
+
+Saluta,
+ Robin G.
+
+
+
+From: Robin Gaskell
+Subject: Re: tense particles, Re: Glosa 2.5K? (SBG)
+To: GLOSALIST
+Cc: Glosa Education Organization
+Date: Mon, 01 Mar 99 20:0
+
+At , Charles quotes and responds:
+>>    Glosa has some difficulty with its phonological structure based on
+>>its history which would seem to militate against your preference here. 
+>>Following its basis in Hogben's Interglossa, Glosa attempts to maintain
+>>some at least vague recognizability of Greco-Latin roots.  This works
+>>-against- strict CV, VCV, and CVCV words consistently.  It appears that
+>>we can't have it both ways (approximate recognizability versus simple
+>>phonological word structure).
+>This is somewhat true. But still, whenever there is a necessity to
+>coin a new word or even a new grammatical structure, as would happen
+>if a perfective aspect were added, as it *should* be, then (now) is
+>a good time to TRY to follow "idealistic meta-principles" such as
+>
+>1. CV for particles and affixes
+>2. CVCV or CVCVCV for substantives
+>
+*   This sounds like a good set of guidelines: in my time with Glosa I have
+seen contractions occur in this direction, EG, POSTO --> PO [after], VOLU
+--> VO [would,wish].
+
+> ... While I'm at it, ...
+>
+>3. minimal number of verbs/verboids/auxiliaries
+>4. topicalized dictionary (grouped semantic fields).
+>
+*   As far as I have experienced it the number of true auxiliaries is less
+than ten, ES, HABE, AKTI, GENE; and the verboids, which are usually used as
+'helper 'verbs' is around twenty, POSI, POTE, NECE, DEBI, VOLU, 
+SEQE, .... .   But, Glosa is not supposed to be classified to the ultimate
+degree: this would be tantamount to rigidifying the language to the point
+where the life(vitality) was squeezed out of it.  Some of the words which
+can function as verboids are also able to function as verbs in their own
+right, others not.  Many substantives, under the right circumstances, can
+function as verboids.
+    I would say that the essence of a word - the idea embued in it - is
+part of SEMANTIC GRAMMAR, and not part of the syntactic analysis of the
+language.  
+    Here, in trying to force meaning into morphological structures, we are
+erring in a way analogous to trying to force tense and aspect into 
+PRA.  There probably should be lee-way in both areas; but trying to shape a
+word because of its usual function seems, to me, to be getting away from
+the original Glosa ethos.  If it works psychologically, as well as for the
+computer, well and good; but, if an imposed CVCV structure feels
+artificial, I believe it is wrong.
+
+>For all peoples universally, CV syllables are easiest.
+>To maximally distinguish grammatical from content words,
+>the only method available in modern Glosa is length.
+>
+*   Saying it with softer words, I would suggest that function-words tend
+to be shorter than most substantives.  The words that glue together the
+substance of what we want to say, are dealt with briefly, while the words
+that have full semantic strength (substantial meaning) are the ones we
+emphasise.
+    But I am still of the impression that Glosa is supposed to be
+naturalistic, with the feel of a normal human language.  Hence, I believe
+that rigid rules will give the language a stilted feel.
+
+>Assuming the language catches on to the extent of having
+>a speaking community, all rules go out the window anyway.
+>And it's too late to recast Glosa's existing deviant words.
+>
+*   So, yes, it would be beneficial to all if the starting point is a solid
+foundation!
+
+>So once again, I'm recommending aspiration to better principles
+>whenever possible, but be practical about when to make-do with
+>what is. Perfection is unattainable, but the opposite is avoidable.
+>
+*   This feels like a game of "Go" just before the end, where there is
+little opportunity for manouvre.  Just how much room is left for
+innovation, in Glosa, I do not know: not much I imagine. 
+
+>The Graeco-Latin pattern is not untouchable; current Glosa is
+>far enough from recognizability that a *little* more mangling
+>wouldn't hurt. In fact, the Frater project, which I regard as
+>a close, uh, relation to Glosa, has gone much further in that
+>direction, with no ill effects, i.e. it looks OK and would work.
+>
+*   Still feels close to the Classical to me, but I have absorbed most of
+the shocks of change, in Glosa, and may not be fully aware of the
+cumulative 'drift'.  I definitely must stop typing, and look at my
+accumulated "Bookmarked" file, which includes Frater.
+
+Saluta,
+ Robin G.
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa**# {now: "ke" & "that"}
+To: GLOSALIST
+Date: Wed, 03 Mar 99 10:2
+
+On Wed, 3 Mar 1999, Robin Gaskell wrote:
+
+> [most cut]
+
+>     But trying hard, I wondered about the suitability of alternative Glosa
+> words:-
+>   ta forti KAUSA id frakto  [so hard causing it to break] 
+>   ta forti KA id frakto     [so hard because it breaks]*
+>   ta forti SEQE id frakto   [so hard and, as a consequence, it breaks]
+>   ta forti SO id frakto     [so hard, and thus it breaks]$
+>   ta forti ??? id frakto 
+>     OR is there a better structure, altogether, and if so, what?
+
+    This is far, far better than trying to subsume all the connectives
+under one, such as some counterpart to the egregiously overloaded
+English "that."
+
+    (By the way, it is looking more and more like my participation on
+Glosalist may soon be coming to an end due to the time constraints of
+upcoming employment.)
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: John Schilke
+Subject: Re: Glosa**# {now: "ke" & "that"}
+To: Robin Gaskell
+Cc: GLOSALIST
+Date: Wed, 03 Mar 99 13:3
+
+Robin,
+	Saluta!
+	I have given the matter of ";" vs "ke" some thought, and am going 
+to stop doing so.  It is becoming very confusing!  PROVIDED THAT ";" has 
+the meaning of introducing a clause AND is a definite stop, like a period 
+(full stop), I think it can be retained.  I have to admit that I cannot 
+come down heavily on either side.  A comma would merely add to the mess 
+again.
+	John
+
+
+From: charles
+Subject: Re: Glosa**# {now: "ke" & "that"}
+To: GLOSALIST
+Date: Wed, 03 Mar 99 16:2
+
+
+
+On Wed, 3 Mar 1999, Robin Gaskell wrote:
+
+> *   ?? Which looks and 'sounds' best:-
+>     Mi kogita ke na pote akti id.  ......  no stopping*
+
+That's it!
+
+> >> 4. so hard that it broke -   ta forti KE id frakto  .... AdvC     
+
+> >Item #4 is an idiom THAT needs to be banned from usage.
+> >Re-phrase as "then" or "causing".
+
+>   ta forti KAUSA id frakto  [so hard causing it to break] 
+>   ta forti KA id frakto     [so hard because it breaks]*
+>   ta forti SEQE id frakto   [so hard and, as a consequence, it breaks]
+>   ta forti SO id frakto     [so hard, and thus it breaks]$
+>   ta forti ??? id frakto 
+>     OR is there a better structure, altogether, and if so, what?
+
+I think you need the comma and/or some (any) conjunction;
+KE is too valuable as a relativizer to use in that spot, IMO.
+
+>     With commas, in English, it can be confusing if a series of them is
+> used in a sentence, with each comma having a different function; in Glosa,
+> where there are less textual clues, the "; = ,+" idea seems a worthwhile
+> innovation, to mark the introduction of a new clause.
+
+No good if you can't HEAR them, as indeed you cannot.
+
+
+
+From: Robin Gaskell
+Subject: Re: "Present Perfect Progressive""
+To: GLOSALIST
+Date: Wed, 03 Mar 99 17:4
+
+At 19:02 21/02/99 -0500, Paul Bartlett wrote:
+>On Sat, 20 Feb 1999, Robin Gaskell wrote (excerpted):
+>> At 17:24 31/01/99 -0500, Paul Bartlett wrote:
+>> >I have been going to school recently.
+>> >
+>> >In the school grammar that I learned, this would be called a 
+>> >"present perfect progressive tense."  But such a thing is a >>
+>monstrosity. [...]
+>
+>> *   Is either the book, or the usage of English, in error?
+>
+>    I think it's a little bit of both.  Because the English verb system
+>is so sloppy, sloppy terms are used to describe it.
+>
+*   Since trying to get Glosa standardised, I have found, increasingly,
+that, by contrast with what we are trying to do in Glosa, the general
+standard of usage of English is quite 'sloppy'.
+    This, and Paul's comments are what makes me wonder if we should not
+come up with our own, appropriate terms to cover what happens in Glosa.
+    And this, of course, begs the question: what really does happen in Glosa!?
+
+    Thus, by circular argument, we come back to the starting point of
+learning how to use Glosa, by using it.
+
+    So, we come back to the question about the most suitable way to
+describe Glosa's grammar, and the attempt to set this out in readable form.
+
+    I will try soon, to catch up with an editing of my earlier SBG
+(Syntax-based Grammar) posting, with ammendments as suggested by people on
+this list.
+
+Saluta,
+ Robin G.
+
+
+From: Robin Gaskell
+Subject: Re: ++dress, engine, hasty, meter, liter, kingdom
+To: GLOSALIST
+Date: Wed, 03 Mar 99 19:1
+
+At , Charles wrote:
+>> > Colors, animals, plants; qualities and abstractions; "verboids" and 
+>> >   [...]
+>> *   Hmm ... a very worthwhile project 
+>
+>It should *not* be a huge undertaking though, just an addition to
+>what is already in Paul's glosaref web page (which he got the idea of
+>from someone previous). [...]
+*   This is from the authors' "Glosa Classified".
+
+>
+>> >My theory on organizing a lexicon is
+>Hey, it's just theoretical! I'm not trying to overthrow the czar!!
+>
+>> [...] would attract its own coterie of enthusiasts .. [...]
+>I think all that is needed is some very *minimal* tweaking,
+>nothing major as you appear to be thinking here. 
+*   Yes, I was obviously suffering from imaginitis.
+
+>  A consistent use
+>of existing particles would make machine parsing much easier,
+>and perhaps a *very few* added particles like "perfective"
+>would help humans more than machines. Also, the current
+>dictionary project will be a great help to all.
+>
+*   All true.  I trust that a 2.5K Net Dictionary will soon be completed.
+
+>> Charles, please post the proposal for a regularised, specifically
+>> machine-handleable derivative of Glosa on this List.
+>
+>If I was to get off my butt, I'd write a Glosa chatterbot.
+>There are several implementation options which need not be exclusive:
+>1. Pure CGI/Perl on a web page with a type-in form interface
+>2. Java applet that can run disconnected from the net
+>3. Standalone Perl program for some software platforms
+>
+*   These brief terms do not sound like the ancient idea of a Parser
+program, except the last (3. Standalone Perl program).
+    For those of us who are not up with the latest, can you please give
+more details of how the newer, simple automated translation systems work.
+    Such information would be helpful with the selection of lexemes for a
+Machine-handlable subset of Glosa - or even for refining the full language. 
+
+>What would it do? Be a conversational Glosa translator of sorts.
+>It would have the 2.5k Glosa net dictionary embedded in it,
+>and ask the user to clarify whatever it could not parse.
+>And maybe after editing it, optionally upload the message to a
+>web-page bulletin-board, or just read messages others have left.
+>
+*   Agreed if a computer set-up can do this, such an objective would be
+worth aiming at.
+    But I would like to understand more of the HOW, so that I can
+understand the shape of the language that facilitates such a system.
+    For example, had the DLT (Distributed Language Translation) project,
+based on Esperanto, got closer to the nuts and bolts of the mechanics of
+the process, I suspect that a more congruent Intermediate Language would
+have been derived from Esperanto, and that the project would have been
+flourishing to-day.  While, of course, I believe now, as I did then, that
+the thing would have worked beautifully had the starting point been Glosa,
+not Esperanto.
+
+>That's a somewhat do-able idea, open-ended enough to add some
+>fun features to maintain interest. Hmm, such an idea must have
+>been tried before. ???
+>
+*   The DLT with Esperanto, is the closest anyone has come to trying Glosa
+with a parser.  I have tried, in the past, to generate interest in the both
+ideas: developing parsers for Glosa; and of seeing Glosa as a potential
+"Middle Language" or 'meaning representation system', for translation.
+But, what you are suggesting as a possibility is the closest we have come
+to realisation of either of these ideas.
+
+>> My original proposal for specialist lexicons [...] .. but with
+>> computer database backup.
+>
+>I see computers as ultimately a counterforce to corporate fascism,
+*   Reckon we all have expectations of the positive use of computers for
+mankind's good.
+    But such thoughts smack of altruism, and generally lack a profit
+motive.  I suspect that it will only be through 'not-for-profit' groupings
+like Auxlang and Glosalist, that such broadly beneficial, though
+non-exploitable, usages of computers will come.  
+    So, go for it.  There could even be a ^buck in it^ for you, if you
+retain copyright, and Glosa does become generalised.
+
+Saluta,
+ Robin G.
+
+
+From: Robin Gaskell
+Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
+To: GLOSALIST
+Date: Sat, 06 Mar 99 04:3
+
+At 20:41 28/02/99 -0500, Paul Bartlett wrote:
+>On Mon, 1 Mar 1999, Robin Gaskell wrote (here and there and reformatted
+>>     I have sent my suggestions of the tense and aspect particles [..]
+>
+>    [...] So using
+>'get/got' to describe a verb construction just muddies up the water
+>because of inconsistent usage even among native anglophones.  As for a
+>perfective marker, I have not yet seen a good candidate and have not
+>come up with one of my own.
+>
+>>     As Paul says, there's tense, aspect, mood and VOICE too. [--]
+>>     Perhaps, Paul,  [...]
+>
+>    [...]   However, my short list is approximately like so:
+>Tense: past, present, future; the present could possibly be the
+>       unmarked form, although this is negotiable in ambiguous cases.
+>
+*    PA past [did]
+      - present
+     NU immediate [now]
+     FU future [will,shall]
+     
+>Aspect: imperfective, perfective; the ummarked form is simply unmarked 
+>        for aspect.
+>
+*    DU continuous [continues to]
+     PARATO completed [already] (poss. perfective)
+     SIO conditional [would]
+
+>Mood: this remains not entirely well worked out, although some
+>      languages (such as English) often mark mood primarily with 
+>      auxiliaries; the existing Glosa auxiliaries appear to be
+>      adequate; however, do imperative/jussive and/or optative 
+>      need to be set out better?
+>
+*    ES [is X-ing]
+     HABE [has the property of X]
+     GENE [becomes X]
+
+     I found "jussive" and "optative" in the Glossary in the back of my
+_Encyclopedia of Syntactic Theories_ but it hasn't done me much good.
+     I suspect that we never did go out of our way to create special forms
+for these.  Please suggest Glosa usages to convey these forms, if you feel
+they should be in Glosa.  My understanding is that the 'simplicity' idea
+acts against the introduction of special particles or auxiliaries for such
+sophisticated moods in Glosa.
+
+>Voice: active for the unmarked form; passive needs to be regularized: 
+>      I favor the 'es ge-X' form of G.E.O.; I do NOT like the 'gene 
+>      ge-X' form, considering it rather ugly, redundant, and an 
+>      unnecessary aping of some -- not all! -- dialects of English;
+>
+*    If ~gene ge-X~ causes such deep feeling I will go along with the now
+Kosher ~es ge-X~ from Richmond.
+     I did not know the Americans could not say "get".
+     However, in terms of pure communication, I feel that ~es~ is the
+English-language import, while ~gene~ [gets] seems to be what Passive voice
+is all about.
+  EG  ~Veri, si tu veni mo grada ma proxi; u pusi andra gene id.  Ja,
+      mi fu fusili, si tu veni ma proxi; e u pusi-an fu gene ge-morta.~
+
+>      medial/reflexive voice can be taken care of by pronominal 
+>      constructions, although the appropriate uses of 'se' and 'auto' 
+>      are ambiguous and not well defined.
+>
+*    SE reflexive action {to a third person or object}
+     AUTO self, often reflexive 
+
+   EG  U makina pa frakto-se. [The machine broke itself.]
+       Kron an pa kade, an noku auto. [When he fell, he hurt himself.]
+
+>>     While algebraically, it would be nice to keep each category of 
+>> pre-verb function separate, I imagine that the human mind might not 
+>> be so neat.  This accounts for contractions, that are combinations 
+>> of elements from the different categories, popularly used in English.  
+>> They might not be neat, but they are warm and cosy, and strangely >>
+human:-
+>    Rubbish.  Any particular set of contractions tends to depend on the
+>particular characteristics of the language in which they occur.  They
+>seem "warm and cosy, and strangely human" -only- to native speakers. 
+> [...]  I think you are once again being 
+>led astray by your native language habits.
+*    So much for that theory!
+
+>>     I suspect that a Glosa with fully separated particles will look 
+>> and sound stilted, even though it may be computationally perfect.
+>    My opinion is to the contrary.
+>
+*    It sounds like its examples at ten paces.  We'll have to shoot it out
+with particles.
+
+>>     Then there is the odd question about finding suitable separate 
+>> particles that fit in with Glosa's derivational system: do the sought 
+>> for particles exist as separate elements in the Classical languages, 
+>    No, because Greek and Latin were/are highly inflected languages, so
+>there were numerous inflected forms doing the work of particles in an
+>highly isolating language like Glosa.
+>
+*   We are not looking for many particles, anyway.  The missing
+"perfective" seems the main one.  Has anyone else on this List got any
+ideas on this?
+>> or can we derive suitable particles from other languages, as I 
+>> understand Glosa's GE- affix to have been, coming from German?
+>
+>    I thought that 'ge-' was contracted from 'gene', itself of Greek
+>origin.
+>
+>-- 
+>Paul                                  <bartlett{at}smart{dot}net>
+>..........................................................
+>Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+>Keyserver (0xF383C8F9) or WWW for PGP public key
+>Home Page:  http://www.smart.net/~bartlett
+>
+
+
+From: Robin Gaskell
+Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
+To: GLOSALIST
+Date: Fri, 05 Mar 99 17:3
+
+At 20:41 28/02/99 -0500, Paul Bartlett wrote:
+>On Mon, 1 Mar 1999, Robin Gaskell wrote (here and there and reformatted
+>>     I have sent my suggestions of the tense and aspect particles [..]
+>
+>    [...] So using
+>'get/got' to describe a verb construction just muddies up the water
+>because of inconsistent usage even among native anglophones.  As for a
+>perfective marker, I have not yet seen a good candidate and have not
+>come up with one of my own.
+>
+>>     As Paul says, there's tense, aspect, mood and VOICE too. [--]
+>>     Perhaps, Paul,  [...]
+>
+>    [...]   However, my short list is approximately like so:
+>Tense: past, present, future; the present could possibly be the
+>       unmarked form, although this is negotiable in ambiguous cases.
+>
+*    PA past [did]
+      - present
+     NU immediate [now]
+     FU future [will,shall]
+     
+>Aspect: imperfective, perfective; the ummarked form is simply unmarked 
+>        for aspect.
+>
+*    DU continuous [continues to]
+     PARATO completed [already] (poss. perfective)
+     SIO conditional [would]
+
+>Mood: this remains not entirely well worked out, although some
+>      languages (such as English) often mark mood primarily with 
+>      auxiliaries; the existing Glosa auxiliaries appear to be
+>      adequate; however, do imperative/jussive and/or optative 
+>      need to be set out better?
+>
+*    ES [is X-ing]
+     HABE [has the property of X]
+     GENE [becomes X]
+
+     I found "jussive" and "optative" in the Glossary in the back of my
+_Encyclopedia of Syntactic Theories_ but it hasn't done me much good.
+     I suspect that we never did go out of our way to create special forms
+for these.  Please suggest Glosa usages to convey these forms, if you feel
+they should be in Glosa.  My understanding is that the 'simplicity' idea
+acts against the introduction of special particles or auxiliaries for such
+sophisticated moods in Glosa.
+
+>Voice: active for the unmarked form; passive needs to be regularized: 
+>      I favor the 'es ge-X' form of G.E.O.; I do NOT like the 'gene 
+>      ge-X' form, considering it rather ugly, redundant, and an 
+>      unnecessary aping of some -- not all! -- dialects of English;
+>
+*    If ~gene ge-X~ causes such deep feeling I will go along with the now
+Kosher ~es ge-X~ from Richmond.
+     I did not know the Americans could not say "get".
+     However, in terms of pure communication, I feel that ~es~ is the
+English-language import, while ~gene~ [gets] seems to be what Passive voice
+is all about.
+  EG  ~Veri, si tu veni mo grada ma proxi; u pusi andra gene id.  Ja,
+      mi fu fusili, si tu veni ma proxi; e u pusi-an fu gene ge-morta.~
+
+>      medial/reflexive voice can be taken care of by pronominal 
+>      constructions, although the appropriate uses of 'se' and 'auto' 
+>      are ambiguous and not well defined.
+>
+*    SE reflexive action {to a third person or object}
+     AUTO self, often reflexive 
+
+   EG  U makina pa frakto-se. [The machine broke itself.]
+       Kron an pa kade, an noku auto. [When he fell, he hurt himself.]
+
+>>     While algebraically, it would be nice to keep each category of 
+>> pre-verb function separate, I imagine that the human mind might not 
+>> be so neat.  This accounts for contractions, that are combinations 
+>> of elements from the different categories, popularly used in English.  
+>> They might not be neat, but they are warm and cosy, and strangely >>
+human:-
+>    Rubbish.  Any particular set of contractions tends to depend on the
+>particular characteristics of the language in which they occur.  They
+>seem "warm and cosy, and strangely human" -only- to native speakers. 
+> [...]  I think you are once again being 
+>led astray by your native language habits.
+*    So much for that theory!
+
+>>     I suspect that a Glosa with fully separated particles will look 
+>> and sound stilted, even though it may be computationally perfect.
+>    My opinion is to the contrary.
+>
+*    It sounds like its examples at ten paces.  We'll have to shoot it out
+with particles.
+
+>>     Then there is the odd question about finding suitable separate 
+>> particles that fit in with Glosa's derivational system: do the sought 
+>> for particles exist as separate elements in the Classical languages, 
+>    No, because Greek and Latin were/are highly inflected languages, so
+>there were numerous inflected forms doing the work of particles in an
+>highly isolating language like Glosa.
+>
+*   We are not looking for many particles, anyway.  The missing
+"perfective" seems the main one.  Has anyone else on this List got any
+ideas on this?
+>> or can we derive suitable particles from other languages, as I 
+>> understand Glosa's GE- affix to have been, coming from German?
+>
+>    I thought that 'ge-' was contracted from 'gene', itself of Greek
+>origin.
+>
+>-- 
+>Paul                                  <bartlett{at}smart{dot}net>
+>..........................................................
+>Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+>Keyserver (0xF383C8F9) or WWW for PGP public key
+>Home Page:  http://www.smart.net/~bartlett
+>
+
+
+From: Charles
+Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
+To: GLOSALIST
+Date: (No/invalid date)  
+
+
+Robin G. said:
+
+> We are not looking for many particles, anyway.  The missing
+> "perfective" seems the main one.  Has anyone else on this List got any
+> ideas on this?
+
+I would use "fini", or maybe "fin".
+Auxiliaries almost always start out as regular verbs,
+then get "semantically bleached" into particles.
+The perfective really means the action is finished,
+whether as of now or as of a past time.
+
+"Fe PA gene u feli" ... She was getting (and possibly did get) a cat.
+"Fe PA DU gene u feli" ... She was getting (in the act of) a cat.
+"Fe PA FIN gene u feli" ... She did get (completely) a cat.
+"Fe PA PRE-FIN gene u feli" ... She had already gotten a cat.
+
+Or something like that. I don't like "NO-DURA" much,
+but that looks like the status quo for completive aspect.
+Lots of tricky "modals" are already in there already ...
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
+To: GLOSALIST
+Date: Sat, 06 Mar 99 18:2
+
+On Sat, 6 Mar -1, Charles wrote (small excerpt):
+
+> I would use "fini", or maybe "fin".
+> Auxiliaries almost always start out as regular verbs,
+> then get "semantically bleached" into particles.
+> The perfective really means the action is finished,
+> whether as of now or as of a past time.
+
+    Best suggestion I have heard yet on the matter, although G.E.O.
+materials seem to put a teleological twist on "fini" as having the 
+meaning "end, aim."
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
+To: GLOSALIST
+Date: Sat, 06 Mar 99 18:3
+
+On Sat, 6 Mar 1999, Robin Gaskell wrote (excerpted):
+
+> >Aspect: imperfective, perfective; the ummarked form is simply unmarked 
+> >        for aspect.
+> >
+> *    DU continuous [continues to]
+>      PARATO completed [already] (poss. perfective)
+
+    As I mentioned before, 'parato' seems a bit long for the usage.
+
+>      SIO conditional [would]
+
+    Conditional is a mood, not an aspect.
+
+>      I found "jussive" and "optative" in the Glossary in the back of my
+> _Encyclopedia of Syntactic Theories_ but it hasn't done me much good.
+>      I suspect that we never did go out of our way to create special forms
+> for these.  Please suggest Glosa usages to convey these forms, if you feel
+> they should be in Glosa.
+
+    I am not recommmending that anything be added as long as what needs
+to be expressed can be expressed with what is available.
+
+>                           My understanding is that the 'simplicity' idea
+> acts against the introduction of special particles or auxiliaries for such
+> sophisticated moods in Glosa.
+
+    I concur.
+
+>      I did not know the Americans could not say "get".
+
+    We can say it, all right, but we seem not to -use- it the way you
+Australians (and probably some Brits) use it.  I think it was George
+Bernard Shaw (or somebody) who described Britain and the United States
+as two countries separated by the same language.  Usage is not uniform
+even among native speakers of a language as widely diffused as English. 
+Pity the poor Canadians, drawn betwixt and between the U.S. and
+Britain!
+
+> *    SE reflexive action {to a third person or object}
+>      AUTO self, often reflexive 
+> 
+>    EG  U makina pa frakto-se. [The machine broke itself.]
+>        Kron an pa kade, an noku auto. [When he fell, he hurt himself.]
+
+    I have to admit that these examples still have not clarified for me
+the difference between 'se' and 'auto'.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Robin Gaskell
+Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)??
+To: GLOSALIST
+Date: Sun, 07 Mar 99 01:3
+
+At 21:04 28/02/99 -0500, Paul Bartlett wrote:
+>On Mon, 1 Mar 1999, Robin Gaskell wrote (excerpted):
+>
+>> *  I am seeing something like Rubik's Cube tuning before my gaze: [...]
+>       [  ............  ]                            
+>    I am not aware that there is any better analysis of the way verbs
+>work.  What is the opposition to analytical categories which apply
+>across languages generally? [...]
+>
+*   I was thinking that Glosa could become a puzzle language in which a
+person recieves a series of short particles, and then has to decode them
+into meaningful bits of information, all in the space of time it takes to
+blink an eye.
+
+>> *   It is my belief that there very well could be a valid psychological
+>> law that say the combining of functions is a mental mechanism that >>
+avoids practical overload of the brain circuits, bringing parsimony and >>
+elegance in its wake.
+>    What does this even mean? 
+*   I tried to say that our brains might have difficulty in keeping up with
+a lot of little sounds, and might automatically run some of them together
+as a way of reducing strain on the grey matter.
+
+
+>   Languages are all over the map in
+>"parsimony and elegance," due to both linguistic characteristics and
+>social factors.  [...]   Again and again, we -must- not be misled
+>into thinking that the comfortable habits of our native language
+>constitute some sort of mystical "language universals."
+>
+*   OK, Glosa is no different: we need to be in line with other isolating
+languages. 
+
+>> *   I am certainly not into the artificial contractions of particles 
+>> because the combined forms look neat.
+>    Then why have any at all?
+>
+*   OK, contractions seem to be out: the closest Glosa might come to such
+combinations might be hyphenated compounds.
+
+Saluta,
+ Robin Gaskell
+P.S.  Paul, I have sent the full message that this Replies to, to the Glosa
+authors: I am trying to avoid going too far off at a tangent before letting
+them know of activities on this List.
+
+
+
+From: Robin Gaskell
+Subject: Re: tense particles, Re: Glosa 2.5K? (SBG) PRA @#&%%#$
+To: GLOSALIST
+Date: Sat, 06 Mar 99 22:5
+
+At 20:51 28/02/99 -0500, Paul Bartlett wrote:
+>On Sun, 28 Feb 1999, Robin Gaskell wrote (excerpt; really, the one-line
+>per paragraph posts are hard to reply to):
+>
+*   Tech note: I did not have this complaint when I was using my former
+set-up: 386/W3.1/Eudora3(for W3.1).  Now that I am using P2/95/Eudora3
+(for 95), I am sending my Eudora messages in "Word" format.
+    Who can tell me how to tweak Eudora3(for 95) so that it returns to the
+more socially acceptible WYSIWYG format?
+    I, already, at Paul's prompting, pull my Right Margin to within the 
+"^?" icon across the top of Eudora Pro(95) - so that my lines are not too
+long, and allow the insertion of "Reply" indentations.  But now, hi-tech
+programming has caused another problem for my lo-tech mates.
+
+>                    But I thought about our discussions, and I stuck to 
+>> your guns: still I am not convinced ... in the real world of 
+>> pragmatism  and psychology ... that a combined tense/aspect particle >>
+is WRONG.
+>    I am not saying that blending tense and aspect in one construction
+>is somehow -wrong-. [...]  1) In a planned
+>auxiliary language, I see no good reason for not keeping tense and
+>aspect separate, as is so in some languages [...]  2) I see no valid
+justification for
+>having a sole particle blending just one specific pair of tense and
+>aspect in place of a welter of particles combining every conceivable
+>combination of tense, aspect, mood, and voice.  Why not just have
+>several dozen such particles and be done with it?
+>
+*   So, Please find a language in which "tense, aspect, mood, and voice"
+are separate, and jot down, in *Whatever*, the various instances, of the
+above characteristics, that you imagine relevant to an IAL.
+    And for those of us who are 'monoglot', with English as our only
+natlang, would you please give English-language renditions of the gist of
+the meanings of the *Whatever* instances.
+
+    Then, those of us who are keen to see the Net Glosa idea ^wrapped up^,
+will have something to work on - so we can reach a conclusion on this
+"particles-before-the-verb" situation.
+
+    I imagine that we need to agree on the range of instances per
+characteristic, and then on the suitability of lexemes for the various
+positions, before we can be happy with making genuine additions to the
+language.  Selling such ideas to the authors may be another matter.
+
+    Before I am happy with something I write in Glosa, it has to pass the
+"tongue test": when I say it, it feels comfortable; and correspondingly,
+when I hear what I have said, it sounds good.
+    I believe that any such proposed ammendments to Glosa would need to
+pass the "tongue test" also, before we suggest them to Glosa Central.
+
+Saluta,
+  Robin G.
+   
+
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**# {now: "ke" & "that"}
+To: GLOSALIST
+Date: Tue, 09 Mar 99 06:1
+
+At 10:39 3/03/99 -0800, you wrote:
+>Robin,
+>	Saluta!
+>	I have given the matter of ";" vs "ke" some thought, and am going 
+>to stop doing so.  It is becoming very confusing!  PROVIDED THAT ";" has 
+>the meaning of introducing a clause AND is a definite stop, like a period 
+>(full stop), I think it can be retained.  I have to admit that I cannot 
+>come down heavily on either side.  A comma would merely add to the mess 
+>again.
+>	John
+>
+*   I feel that the Glosa authors made the right decision, in calling into
+play the semicolon as a "clause-start" marker.
+    It may look funny,and even ugly, but does help define the syntax in a
+language in which the syntax defines the grammar.
+
+    My natural feeling is that a Noun Clause is an 'object', and, as such
+warrants a colon.  However, if this is not a common belief, I feel that the
+semicolon is a worthwhile compromise, and I prefer to stick with it.
+
+    The resurrection of, the Old Glosa, ~ke~, on the other hand is another
+matter.  English speakers are used to having such a function-word at the
+start of Noun Clauses and Adverbial Clauses, and if possible, I feel it
+should be retained.
+
+Saluta,
+ Robin G.
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**# {now: "ke" & "that"}
+To: GLOSALIST
+Date: Tue, 09 Mar 99 04:5
+
+At 10:29 3/03/99 -0500, Paul Bartlett wrote:
+>On Wed, 3 Mar 1999, Robin Gaskell wrote:
+>>     But trying hard, I wondered about the suitability of alternative Glosa
+>> words:-
+>>   ta forti KAUSA id frakto  [so hard causing it to break] 
+>>   ta forti KA id frakto     [so hard because it breaks]*
+>>   ta forti SEQE id frakto   [so hard and, as a consequence, it breaks]
+>>   ta forti SO id frakto     [so hard, and thus it breaks]$
+>>   ta forti ??? id frakto 
+>>     OR is there a better structure, altogether, and if so, what?
+>
+>    This is far, far better than trying to subsume all the connectives
+>under one, such as some counterpart to the egregiously overloaded
+>English "that."
+>
+*   I still see a space - in any communication system - for a
+(mathematical) "therefore": I am not sure if this is my
+English-language-culture at it, again; or, if this intuition is gunuinely
+based on some deeper 'language sense', that is inherent.  In Glosa, this
+".'." function seems to be adequately covered by ~so~ [thus,so].  Use of
+~kausa~ [causing]
+or ~seqe~ [subsequently], would seem needed only if we wished to express
+relationships of causality or timing, correspondingly.
+
+>    (By the way, it is looking more and more like my participation on
+>Glosalist may soon be coming to an end due to the time constraints of
+>upcoming employment.)
+>
+*   In advance, I thank you, Paul, for all the inputs you have made, and
+insights you have shared with us.  However, I must try to put out another
+draft of Syntax-Based Grammar, before you get into paid employment again.
+
+Saluta, 
+ Robin G.
+
+
+From: Robin Gaskell
+Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)
+To: GLOSALIST
+Date: Thu, 11 Mar 99 00:2
+
+At 18:26 6/03/99 -0500, Paul Bartlett wrote:
+
+>On Sat, 6 Mar -1, Charles wrote (small excerpt):
+
+>
+
+>> I would use "fini", or maybe "fin".
+
+>> Auxiliaries almost always start out as regular verbs,
+
+>> then get "semantically bleached" into particles.
+
+>> The perfective really means the action is finished,
+
+>> whether as of now or as of a past time.
+
+>
+
+>    Best suggestion I have heard yet on the matter, although G.E.O.
+
+>materials seem to put a teleological twist on "fini" as having the 
+
+>meaning "end, aim."
+
+>
+
+*   I agree; thank you Charles.
+
+    On looking in the Latin dictionary, I find:-
+
+     <italic>finio  </italic>to limit, bound, enclose
+
+     <italic>finitus  </italic>limited, restricted, rhythmical
+
+     <italic>finis  </italic>boundary, limit, border  {Q. Did the Latin
+appear in italic?} 
+
+
+    So, if ~fini~ = end, finish
+
+           ~fin~  can be the perfective particle 
+
+
+    I use ~buta~ [butt,aim,purpose] to mean "end" (objective).
+
+
+Saluta,
+
+ Robin G.
+
+   P.S.  The ~parato~ [already] I suggested as a possible 'perfective',
+is quite a good, legitimate word in its own right, and probably should be
+in the lexicon.  At present, it is Old Glosa, and has possibly been
+?superceded? by another word.
+
+
+
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**# {now: "ke" & "that"}
+To: GLOSALIST
+Date: Tue, 09 Mar 99 22:5
+
+At 13:25 3/03/99 -0800, Charles wrote:
+>On Wed, 3 Mar 1999, Robin Gaskell wrote:
+>
+>> *   ?? Which looks and 'sounds' best:-
+>>     Mi kogita ke na pote akti id.  ......  no stopping*
+>
+>That's it!
+>
+*   Umm!?
+    I'd like to ^call uncle^ here, and wish to invoke the "Elision Rule".
+    If the dictum of >punctuate only when necessary for clarity< applied,
+as it seems to do in English, then I would find the solution of this
+conundrum easier.
+    You like the clean lines of a sentence that runs on .. without the
+interruption of (unnecessary) punctuation; I am thinking of the worst case
+scenario, where an absence of punctuation makes life difficult for the reader.
+    So, as far as I am concerned, people should have the freedom to operate
+their language within reasonable limits: from 'verbose' to 'maximum
+elision'.  If this situation applied, then we would be both right: me using
+the unnecessary verbose form; and, you using elision.
+
+>> >> 4. so hard that it broke -   ta forti KE id frakto  .... AdvC     
+>
+>> >Item #4 is an idiom THAT needs to be banned from usage.
+*
+*   We might be using different definitions of "idiom".
+    If, when expressing myself in English, I did hit something so hard that
+it broke, I would have to stop and think before being able to express the
+same thing using something other than "that".
+
+Home work for to-day.
+  Express the following in Glosa:-
+ a.   It was so hot that it burnt him.
+ b.   He walked so fast that he fell.
+ c.   She talked so loudly that my ears hurt.
+ d.   The bubble got so big that it burst.
+ e.   He was so sick he died.
+
+Vocab. 
+ termo - heat,  kausti - burn,  greso - walk,  celero - quick,
+ kade - fall,  dice - say,talk,  forti - loudly, strongly,  oti - ear,
+ noce - hurt,harm,  buli - boil,bubble,  bulbo -bulb,
+ explode - explode,  habe pato - be sick,  no-sani - unwell,  
+ morta - death
+ 
+>> >Re-phrase as "then" or "causing".
+>
+>>   ta forti KAUSA id frakto  [so hard causing it to break] 
+>>   ta forti SEQE id frakto   [so hard and, as a consequence, it breaks]
+*
+*   OK.  
+
+>>   ta forti SO id frakto     [so hard, and thus it breaks]$
+>
+*   But why not "thus", my firsty preference?
+
+>I think you need the comma and/or some (any) conjunction;
+>KE is too valuable as a relativizer to use in that spot, IMO.
+>
+*   Please give examples of your preferred usage(s) of ~ke~.
+
+
+>>     With commas, in English, it can be confusing if a series of them >>
+is used in a sentence, with each comma having a different function; in >>
+Glosa, where there are less textual clues, the "; = ,+" idea seems a >>
+worthwhile innovation, to mark the introduction of a new clause.
+>
+>No good if you can't HEAR them, as indeed you cannot.
+>
+*   I know we can't hear punctuation, but neither can we read vocal
+inflection and pauses.  My understanding goes something like this:
+
+            |     see       |       hear          |
+          __|_______________|_____________________|
+            |               |                     |
+ say        |   --------    |   vocal inflection  |
+            |               |    & pause          |
+          __|_______________|_____________________|
+            |               |                     |
+ write      |  punctuation  |     ----------      |
+            |               |                     |
+          __|_______________|_____________________|
+
+
+Saluta,
+ Robin G.
+
+
+From: Robin Gaskell
+Subject: Re: Glosa 2.5K? (Tense and Aspect Particles)&
+To: GLOSALIST
+Cc: Glosa Education Organization
+Date: Wed, 10 Mar 99 23:4
+
+At , Charles wrote:
+
+>Robin G. said:
+
+>
+
+>> We are not looking for many particles, anyway.  The missing
+
+>> "perfective" seems the main one.  Has anyone else got any ideas on
+this?
+
+>
+
+>I would use "fini", or maybe "fin".
+
+>Auxiliaries almost always start out as regular verbs,
+
+>then get "semantically bleached" into particles.
+
+>The perfective really means the action is finished,
+
+>whether as of now or as of a past time.
+
+>
+
+*   Excellent suggestion!
+
+
+>"Fe PA gene u feli" ... She was getting (and possibly did get) a cat.
+
+>"Fe PA DU gene u feli" ... She was getting (in the act of) a cat.
+
+>"Fe PA FIN gene u feli" ... She did get (completely) a cat.
+
+>"Fe PA PRE-FIN gene u feli" ... She had already gotten a cat.
+
+>
+
+*   I like your Glosa examples, but question your renditions into
+English:-
+
+*
+
+  PA gene u  ...  was getting (and possibly did get)   OR  got
+
+  PA DU gene  ...  was getting (in the act of)
+
+  PA FIN gene  ...  did get (completely)    OR  had got
+
+  PA PRE-FIN gene  ...  had already gotten    OR  had previously got
+
+
+What about combining with Present and Future tenses?
+
+
+   ~Fe fin gene u feli in u saka.~  ...  She's got the cat into the 
+bag.
+
+ OR  ~Fe nu-fin gene u ... ~       ...  She's now got the cat in the
+bag.
+
+
+   ~Fe fu fin gene u feli.~   ...  She will have got the cat.
+
+   ~Fe fu nece fin gene u feli.  ...  She will need to have got the cat.  
+
+
+And mixed Tenses?
+
+
+   ~Fe fu pa du gene u feli tem deka minuta.~  
+
+ ...  She will have been getting the cat for ten tinutes.
+
+
+   ~Fe fu pa fin gene u feli in u saka, tem na arive.~
+
+ ...  She will have got the cat into the bag, when (by the time) we
+arrive.
+
+
+   ~Fe fu pa nece fin gene u feli in u saka, pre na arive.~
+
+ ...  She will need to have got the cat in the bag, before we arrive.
+
+
+   ~Fe pa fu gene u feli.~   ...  She had to get the cat.
+
+   ~Fe pa fu fin gene u feli.~   ...  She had to have got the cat.
+
+
+ *****  Seems to work very well!
+
+
+>        I don't like "NO-DURA" much,
+
+>but that looks like the status quo for completive aspect.
+
+*
+
+* ~An dura tenta aperi u tira.~  ...  He continues to try to open the
+door.
+
+                                      He continues trying to open the
+door.
+
+
+  ~An no-dura tenta aperi u tira.~ .. He's not still trying to open the
+d.
+
+                                      He discontinues trying to open the
+d.
+
+
+  ~Po plura horo, an fu no-dura tenta aperi u tira.~
+
+ ...  After several hours, he will discontinue trying to open the door.
+
+
+  ~U bate epi u mura pa no-dura durante tri di; po-co, id re-dura.~
+
+ ...  The banging on the wall discontinued for three days; after that,
+
+     it started again.
+
+
+>Lots of tricky "modals" are already in there already ...
+
+>
+
+*   Aha!  On looking in the _Collins Cobuild English Grammar_ p 217,
+section 4.95, I find "Using Modals".
+
+    And I quote:
+
+
+    " .....  using a set of verbs called <bold>modals</bold>.  Modals are
+always
+
+    used with other verbs.  They are a special kind of <bold>auxiliary
+
+    verb.
+
+</bold>
+
+    Here is a list of the modals used in English:
+
+     ____________________________________________________
+
+    |                                                    |
+
+    |   can         might         shall        would     | 
+
+    |   could       must          should                 | 
+
+    |   may         ought to      will                   |
+
+    |____________________________________________________| " 
+
+
+   So, these, I have previously called "verboids".  Maybe I should get
+into line with Functional Grammar, and describe them as "modals".
+
+
+   In Glosa the list looks like:-
+
+    pote  [can]    nece  [must]      sio  [would]
+
+    posi  [may]    debi  [ought to] 
+
+
+    sio debi  [should]
+
+    sio pote  [could]
+
+    sio posi  [might]
+
+    sio nece  [must]
+
+
+    veri  [will,shall] {=truly}
+
+
+Saluta,
+
+ Robin G.
+
+
+
+From: Charles
+Subject: Re: Glosa**# {now: "ke" & "that"}
+To: GLOSALIST
+Date: (No/invalid date)  
+
+
+>     If the dictum of >punctuate only when necessary for clarity< applied,
+> as it seems to do in English, then I would find the solution of this
+> conundrum easier.
+
+Commas are OK with me, but I definitely want the "KE".
+Even in English, a "which/that" to start a clause is welcome.
+Those semicolons of Glosa will turn into commas, I predict,
+in actual common use; so I'll cease complaining about them.
+
+>> >> 4. so hard that it broke -   ta forti KE id frakto  .... AdvC     
+
+The word "hardness" applies more to objects than actions,
+so I still object to using "hard" instead of "forceful",
+especially in the same phrase with "broke". It's poor idiom.
+
+> a.   It was so hot that it burnt him.
+
+"KA id habe ta termo, SO id kausti an."
+
+I just noticed KA in the vocab.  At least it isn't exactly KE.
+I don't know which is better, or when to use one or the other.
+I would use SO in all the examples ...
+
+> >I think you need the comma and/or some (any) conjunction;
+> >KE is too valuable as a relativizer to use in that spot, IMO.
+> >
+> *   Please give examples of your preferred usage(s) of ~ke~.
+
+Relative clause introducer, only. "Keep it simple."
+
+>            |     see       |       hear          |
+>          __|_______________|_____________________|
+>            |               |                     |
+> say        |   --------    |   vocal inflection  |
+>            |               |    & pause          |
+>          __|_______________|_____________________|
+>            |               |                     |
+> write      |  punctuation  |     ----------      |
+>            |               |                     |
+>          __|_______________|_____________________|
+
+It isn't enough. In free speech, people often pause and re-state.
+We need to use the "KE" and other conjunctions to be explicit.
+Adding some pauses and commas doesn't hurt though.
+
+
+
+From: Paul O Bartlett
+Subject: Re: Leaving Glosalist (fwd)
+To: GLOSALIST
+Date: Thu, 11 Mar 99 01:0
+
+
+From: Paul O Bartlett <bartlett{at}smart{dot}net>
+To: Glosalist <glosalist{at}zeta{dot}org{dot}au>
+Date: Tue, 9 Mar 1999 19:11:09 -0500 (EST)
+Subject: Re: Leaving Glosalist
+
+This seems not to have made it out, so I will try again.
+
+On Mon, 8 Mar 1999, Paul O Bartlett wrote:
+
+>     Things have progressed faster for me than I have anticipated. 
+> After having been out of work for over six years due to ill health, I
+> am starting back to work tomorrow.  The consequence is that I will have
+> much less free time to follow other pursuits, so as soon as this
+> message clears the Glosalist server, I will be unsubscribing.  (I will
+> also be unsubscribing from some other lists as well.)  I wish everyone
+> well
+
+-- 
+Best regards,
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Robin Gaskell
+Subject: Ex% 1. Translation into English
+To: GLOSALIST
+Date: Sun, 14 Mar 99 01:4
+
+Glosa Exercises %1 Translation into English
+
+This is designed as a simple introduction to actual use of the language,
+ Glosa.
+
+0. Un andra pa ki ad u boteka, te merca pani.  The man went to the shop to
+    buy bread.
+1. U gina pa don u fago a plu andra. _________________________________
+2. Qe, tu habe ergo?  ________________________________________________
+3. Nu di, u meteo habe termo.  _______________________________________
+4. Fe du lekto un interese bibli.  ___________________________________
+5. Tu patri fu arive fo tardi, u-ci noktu. ___________________________
+
+ -------------------------------------------------------------------
+If you have trouble with the vocabulary, I will include key words, below.
+You can download the Glosa Classified (1000) from my website, and I can
+send you a wordlist by email, but the best bet is to ask for a free copy of
+the "Experimental dictionaries".
+
+ A to,  ANDRA man,he,  ARIVE arrive,  BIBLI book,  DI day,  DON give, 
+ DU continues,  ERGO work.  FAGO food,  FE she,her,  FO very,  FU will,
+ GINA woman,  HABE have,has  INTERESE interest,interesting,  LEKTO read,
+METEO weather,  NU now,  QE 'question format',  NOKTU night,  PA did,
+PATRI father, PLU 'noun marker(plural)',  TARDI late,slow,  TERMO hot,
+ TU you(singular),  U 'noun marker',  U-CI this.
+ ---------------------------------------------------------------------
+
+   If you have not had the chance to try glosa for yourself up to now,
+please take this opportunity to start.
+
+Saluta,
+ Robin G.
+
+
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**# {now: "ke" & "that"}
+To: GLOSALIST
+Date: Sat, 13 Mar 99 23:0
+
+At , Charles wrote:
+Robin Gaskell wrote:
+>>     If the dictum of >punctuate only when necessary for clarity<
+>>applied, as it seems to do in English, then I would find the solution of
+>>this conundrum easier.
+>
+>Commas are OK with me, 
+*   For the moment, I am going along with the authors' suggestion of the
+semicolon as the "Start Clause marker" (if such punctuation seems necessary).
+
+>but I definitely want the "KE".
+>Even in English, a "which/that" to start a clause is welcome.
+>
+*   In Glosa, at present, ~qi~ 'flags in' an Adjectival Clause, while ~ke~
+has been used with Adverbial Clauses, EG
+   U ju-an; qi pa uti u neo gladia, pa seka an facia.
+
+   An pa seka an facia; ka an uti u gladia; qi pa habe u tro akuto margina.
+   {Agreed commas would deliver the same amount of information as the semis
+     do, here.}
+
+   Id pa es un akuto, de u gladia; ke pa kausa an seka-auto. 
+
+   So an pote ki ad un urba; an pa celero razo-auto.
+
+   An pa razo-auto ta celero; ke an pa seka-auto, tem uti u neo gladia.
+
+>>> >> 4. so hard that it broke -   ta forti KE id frakto  .... AdvC     
+>
+>The word "hardness" applies more to objects than actions,
+>so I still object to using "hard" instead of "forceful",
+>especially in the same phrase with "broke". It's poor idiom.
+>
+*   I automatically switched to the right concept when using the Glosa:
+~forti~ [=strong,strongly].  It is the English language that has suffered
+idiomatically!
+
+>> a.   It was so hot that it burnt him.
+>
+>"KA id habe ta termo, SO id kausti an."
+>
+*   This forced Present Tense feels very odd to me.
+
+
+>I just noticed KA in the vocab.  At least it isn't exactly KE.
+>I don't know which is better, or when to use one or the other.
+>I would use SO in all the examples ...
+*
+*   Although ~ka~ is an abbreviation of ~kausa~, I find that they do seem
+to have different feelings, in use: ~ka~ [because,because_of], ~kausa~
+[cause,to_cause].  Maybe this is an instance of the
+Function_Word/Substantive difference, EG
+  An akti so, ka an volu akti so.  [He acts thus, because he wants to.]
+
+ An akti so; te kausa u resulta. [He acts so, (in order)to cause a result.]
+
+ An pa pugna pro u kausa.   [He fought for the cause.]
+
+ Ka id, an pa tardi arive.   [Because of it, he arrived late.]
+  {I can imagine English-speakers placing the adverb last.}
+
+>> >I think you need the comma and/or some (any) conjunction;
+>> >KE is too valuable as a relativizer to use in that spot, IMO.
+>
+>Relative clause introducer, only. "Keep it simple."
+>
+*   ~qi~ is supposed to be the "relativizer".
+
+>>            |     see       |       hear          |
+>>          __|_______________|_____________________|
+>>            |               |                     |
+>> say        |   --------    |   vocal inflection  |
+>>            |               |    & pause          |
+>>          __|_______________|_____________________|
+>>            |               |                     |
+>> write      |  punctuation  |     ----------      |
+>>            |               |                     |
+>>          __|_______________|_____________________|
+>
+>It isn't enough. In free speech, people often pause and re-state.
+>We need to use the "KE" and other conjunctions to be explicit.
+>Adding some pauses and commas doesn't hurt though.
+*
+*   Agreed, speech is ragged around the edges, but I was concentrating,
+here, on day to day communication, and it is still my considered opinion
+that, at the abstract level,  'punctuation' = 'vocal effects'.
+
+Saluta,
+ Robin G.
+
+
+From: Charles
+Subject: Re: Glosa**# {now: "ke" & "that"}
+To: GLOSALIST
+Date: (No/invalid date)  
+
+
+> >The word "hardness" applies more to objects than actions,
+> >so I still object to using "hard" instead of "forceful",
+> >especially in the same phrase with "broke". It's poor idiom.
+> >
+> *   I automatically switched to the right concept when using the Glosa:
+> ~forti~ [=strong,strongly].  It is the English language that has suffered
+> idiomatically!
+
+Exactly my point. But look here:
+
+> >> a.   It was so hot that it burnt him.
+> >
+> >"KA id habe ta termo, SO id kausti an."
+> >
+> *   This forced Present Tense feels very odd to me.
+
+It isn't ANY tense. The authors seem to have imported
+the English *idea* that "unmarked" tense == "present",
+yet we do not even use English that way. Our "present"
+can be timeless or habitual or past or future. To me,
+unless the NU particle is used, it isn't present tense.
+
+"Pa-di, id kausti an" ... surely this is more acceptable
+than "Pa-di, id pa kausti an". And without the "pa-di",
+context would most likely indicate the time of the event.
+
+> >> >I think you need the comma and/or some (any) conjunction;
+> >> >KE is too valuable as a relativizer to use in that spot, IMO.
+> >
+> >Relative clause introducer, only. "Keep it simple."
+> >
+> *   ~qi~ is supposed to be the "relativizer".
+
+Oops, I mixed them up. KA and SO too, probably.
+
+
+From: John Schilke
+Subject: Re: Ex% 1. Translation into English
+To: Robin Gaskell
+Cc: GLOSALIST
+Date: Sun, 14 Mar 99 12:0
+
+Answers:
+On Sun, 14 Mar 1999, Robin Gaskell wrote:
+
+> Glosa Exercises %1 Translation into English
+> 
+> This is designed as a simple introduction to actual use of the language,
+>  Glosa.
+> 
+> 0. Un andra pa ki ad u boteka, te merca pani.  The man went to the shop to
+>     buy bread.
+> 1. U gina pa don u fago a plu andra. _________________________________
+	A woman gave food to the men.
+
+> 2. Qe, tu habe ergo?  ________________________________________________
+	Do you have work? 
+
+> 3. Nu di, u meteo habe termo.  _______________________________________
+	The [the weather] [it] is hot.
+
+> 4. Fe du lekto un interese bibli.  ___________________________________
+	She is reading an interesting book.
+
+> 5. Tu patri fu arive fo tardi, u-ci noktu. ___________________________
+	Your father will arrive very late tonight.
+
+Saluta!
+	John
+
+
+From: Robin Gaskell
+Subject: Re: Ex% 1. Translation into English
+To: GLOSALIST
+Date: Tue, 16 Mar 99 11:1
+
+At 09:07 14/03/99 -0800, John Schilke wrote:
+>On Sun, 14 Mar 1999, Robin Gaskell wrote:
+>
+>> Glosa Exercises %1 Translation into English
+>> 
+*   John, all except one of your answers were as I imagined them: nice going. 
+
+>> 3. Nu di, u meteo habe termo.  __________________________________
+>	The [the weather] [it] is hot.
+>
+*   To-day, the weather is hot.
+
+More such exercises, soon.
+
+Saluta,
+ Robin G.
+
+
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**# {now: "ke" & "that"}
+To: GLOSALIST
+Date: Wed, 17 Mar 99 07:5
+
+At , Charles wrote:
+RG>>   It is the English language that has suffered idiomatically!
+>Exactly my point. But look here:
+>
+>> >> a.   It was so hot that it burnt him.
+>> >"KA id habe ta termo, SO id kausti an."
+>> *   This forced Present Tense feels very odd to me.
+>
+>It isn't ANY tense. The authors seem to have imported
+>the English *idea* that "unmarked" tense == "present",
+>yet we do not even use English that way. Our "present"
+>can be timeless or habitual or past or future. To me,
+>unless the NU particle is used, it isn't present tense.
+>
+*   Well, if a language uses NO marking of Tense as a 'default' to the
+Present, I see no harm in it ... and just because the English (or more
+likely the Americans) make a mess of it, there is no reason that we, in
+Glosa, should do the same.
+  "I goes into this bar: I see this beautiful brunette. I order her a
+beer." - pure Mickey Spillane, nothing to do with the Brits or us in Oz.
+
+   When Paul Bartlett was with us, he was always chiding me for my
+"punctillious" use of Tense Particles.
+   If it was Past, I used ~pa~ before every 'verb'.  And Not a bad rule
+either!
+
+ I?E?  I went home, get some food and eat it.          (~=2)
+
+  -->1.  Mi pa ki a domi; pa gene sito, e pa fago id.
+OR
+  -->2.  Mi pa ki a domi; gene sito, e fago id.
+
+AND ??
+        I went home, got some food, and ate it.         (~=1)
+
+ N.B. The English-language version of  2.  sounds funny, but that was what
+Paul demanded, in the Glosa!!!
+
+ I*E*  Mi nu ki a domi; nu greso peri, id e nu fosi intra u jardina.(->3)
+
+       Mi ki a domi; greso peri id, e fosi intra u jardina.        (->4)
+
+       Now I go home, walk around it, and dig in the garden.    (~=3)
+       
+       I go home, walk around it, and dig in the garden.       (~=4)
+
+
+I believe that Glosa versions  ->2 & ->4  pass the "tongue/ear test".
+
+ Glosa  ->1  does sound a bit heavy, but it is consistent.
+
+ Glosa  ->3  is too heavy, altogether.
+
+Please ponder on it: I'd like to hear Glosalista's opinions on this, thanks. 
+
+>"Pa-di, id kausti an" ... surely this is more acceptable
+>than "Pa-di, id pa kausti an". And without the "pa-di",
+>context would most likely indicate the time of the event.
+>
+*   Yes, I now see the sense (and psycholinguistics) of 
+
+       Pa-di, id kausti an  
+BUT
+   It still translates directly to      Yesterday, it burn him
+
+   So we have no alternative but to say that Glosa and English form tenses,
+in a sentence, DIFFERENTLY.
+
+>> *   ~qi~ is supposed to be the "relativizer".
+>
+>Oops, I mixed them up. KA and SO too, probably.
+>
+*   No, they are OK:-
+
+    Ka id habe ta termo; so id kausti an.
+   (because it has so_much heat thus it burns him)
+    Because it's so hot, it burnt him.
+OR  It's so hot that it burnt him.
+
+Saluta,
+ Robin G. 
+
+
+From: Robin Gaskell
+Subject: Ex% 2. Translation into Glosa
+To: GLOSALIST
+Date: Sat, 20 Mar 99 20:4
+
+Boni-di a holo plu Glosalista,
+  Ci mi posta a vi u sekunda praxi ko u lingua; u-ci tem id demanda u
+traduce in u opositi direkti, sed uti plu homo verbi de previo.
+
+[Good day to all Glosalistas,
+  Here I post to you the second practice with the language, this time it
+asks for translation in the opposite direction, but uses the same words as
+before.]
+
+Glosa Exercises %2: Translation from English into Glosa
+
+This is another simple introduction to actual use of the language, Glosa.
+
+0. The woman went to the shop to buy a book. __ U gina pa ki ad u boteka,
+     te merca u bibli.__
+
+1. Your father arrived home late from work. __________________________
+2. Is the weather hot?  ______________________________________________
+3. She enjoys eating her food. _______________________________________
+4. To-night, we will go to an interesting shop. ______________________
+5. She happily reads the book he gave her.  __________________________
+
+ -------------------------------------------------------------------
+  I again include key words, below.
+You can download the Glosa Classified (1000) from my website, and I can
+send you a wordlist by email, but the best bet is to ask for a free copy of
+the "Experimental dictionaries" (Glosa 6000. Eng->Glosa & Glosa->Eng -
+IBM:ASCII format).
+
+A to,  AN he,him,his,  ANDRA man,  ARIVE arrive,  BIBLI book,  DI day,  DON
+give,  DU continues,  ERGO work,  EX from,  FAGO eat,  FE she,her,  
+FO very,  FU will,   GINA woman,  HABE have,has  HEDO enjoy,  
+INTERESE interest,interesting,  LEKTO read,   METEO weather,  NA we,  
+NU now,  QE 'question format',  NOKTU night,  PA did,   PATRI father, 
+PLU 'noun marker(plural)',  SITO food,  TARDI late,slow,  TE in_order_to,
+TERMO hot,  TU you,your(singular),  U 'noun marker',  U-CI this.
+
+P.S. I am very sorry for rushing the vocab in Ex.%1, because I got "food"
+and "eating" mixed: sito = food, fago = eating,to_eat.  I have corrected
+this in the Ex.%2 associated vocab, above.
+ ---------------------------------------------------------------------
+
+   If you have not had the chance to try Glosa for yourself up to now,
+please start here.
+
+Saluta,
+ Robin G.
+
+PPS. I am aware that a general Glosa instruction book will move slower than
+these exercises - increasing in complexity more gradually.  However, I am
+hoping that, for subscribers to this List, such a pace would be too slow;
+if this is not the case, and I am asking you to progress with the language
+faster than is reasonable, please let me know.   R.G.
+
+
+
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Posi YA posi NO
+To: GLOSALIST
+Date: Mon, 29 Mar 99 20:1
+
+Saluta a holo plu membra de u Glosalist,
+  Ci es Exercisa #3: Posi YA posi NO
+
+ SIO would, POTE can, POSI possibly, DEBI ought, SIO DEBI should, 
+ SIO POTE could, SIO POSI perhaps
+ FU will,shall, A(D) to, EX from, IN into, DE of,about, qe [question], SI if
+ BOTEKA shop, GRESI walk, ANDRA man, AN he, BOTEKA-PROPRIO-PE shop-owner,
+ VALUTA money, GENE get,become, KI go, TRANS across, VIA road, ID it,
+ NU-DI to-day, BIBLI book, METEO weather,(it)
+
+ Grafo in Glosa plu seqe frasa:-
+  0. He would go shopping if it stops raining.  An sio ki ad u boteka si u
+        meteo sto pluvi.
+
+  1. He would if he could. .................................................
+  2. The man will possibly cross the road. .................................
+  3. He ought to get it. ...................................................
+  4. Will he go to the shop? ...............................................
+  5. Could he cross the road to get it? ....................................
+
+  6. The man should give it to the shop-keeper. ............................
+  7. He might give the shop-owner the money? ...............................  
+  8. Will he get the book today? ...........................................
+  9. He should get the book, to-day. .......................................
+ 10. Perhaps he will go to the shop across the road. .......................
+
+Saluta,
+ Robin G.
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Glosa Grammar .Ver.2 (Part 1)
+To: GLOSALIST
+Cc: Glosa Education Organization
+Date: Sun, 28 Mar 99 09:5
+
+Hello Friends,
+  I tried sending as a single file, but it was rejected as being too big
+(>40000 characters), so here's the firs t half of the current vesion of
+Glosa's grammar.  Please send in your comments and corrections.
+   Gracia,
+     Robin G.
+ -------------------------------------------------------------------------
+_Ver 2__________________________________________R. Gaskell 1999__________
+
+                                        (Uninflected, Isolating language
+    SYNTAX-BASED GRAMMAR  OF  GLOSA        with no Part-of-Speech markers)
+_________________________________________________________________________
+Contents:
+1. Overview
+  #1 Derivation of Language Characteristics
+  #2 Words Don't Change With Use
+  #3 No Part-of-Speech Markers
+  #4 Precedence Rule Creates Syntax
+
+2. Basic Structure
+  A. Words
+  B. Phrases
+  C. Clauses
+  D. Sentences
+
+3. Function Words 
+  E. Noun Markers
+  F. Prepositions
+  G. Modifiers
+  H. Other Functions
+
+4. Substantives
+  I. Concept Words
+
+5. Noun Phrases
+  J. Substantive as 'noun'
+  K. Pronouns                    
+  L. Determinants and Numerators
+  M. Noun Modifiers
+
+6. Verb Phrases
+  N. Substantive as 'verb'
+  O. Auxiliary Verbs
+  P. Modal Verbs
+  Q. Phrasal Verbs
+  R. Verb Modifiers
+
+7. Syntax
+  S. Precedence
+  T. Sentence Order (SVO)
+  U. Compounds
+  V. Concept Clusters
+
+8. Punctuation
+  W. Comma
+  X. Semi-colon
+  Y. Other
+
+9. Pronunciation
+  Z. Phonetic Rule
+  &. Vowels
+ &&. Consonants 
+_________________________________________________________________________
+
+1. Overview
+  #1 Derivation of Language Characteristics
+    . Vocabulary is from the Classical roots of Greek & Latin
+    . Pronunciation - Five Vowels of Italian & Spanish
+    . Sentence structure - Similar to English
+    . Words are Concept Centres - Based on Chinese
+  #2 Words Don't Change With Use
+    . Words do not have Gender.
+    . Words do not Agree in Number.
+    . The same word, unchanged, can function as noun, verb, or modifier.
+    . 'Verbs' have no inflections.
+    . 'Nouns' do not change to form the plural.
+  #3 No Part-of-Speech Markers
+    . A word is not changed to form a different part of speech.
+    . A word's functioning as a particular Part-of-Speech is indicated by 
+      its position in the sentence.
+  #4 Precedence Rule Creates Syntax
+    . One word modifies the next, and so on.
+    . Phrase starts with least significant word, ends in most significant.
+    . There is an order for placing words (least to most sig.) in a phrase. 
+    . Precedence combines with Subject-Verb-Object order and clause
+      structure to produce syntax.
+
+2. Basic Structure
+  A. Words
+    i. These are symbols for ideas, and are the atoms of language, but are
+       of little meaning, singly.
+   ii. There are two major groups of words:-
+      a)Primitives: comprising a small number of basic function words -
+        present in all languages - these allow us to describe the
+        relationships between the major concepts we convey, EG de [of], 
+        e [and], pre [before], qe [-> ?], supra [above].   
+      b)Substantives: the ever-expanding list of words representing things,
+        actions and descriptions (sometimes usable for all three), EG 
+        kurso [run], vide [see], via [road], oku [eye], hedo [happy], 
+        celera [swift].
+  iii. Consonant vowel (CV, CVCV, etc) structure for ease of pronunciation:
+       this pattern is the general trend, not a rigidly imposed rule.
+   iv. Formation of new words could be by adding completely new words, but 
+       is usually through compounding, with hyphens, of unchanged existing
+       words.
+  B. Phrases
+    i. A phrase is the smallest unit of Glosa to have recognisable meaning.
+   ii. There are four main phrases, depending on their function within
+        the sentence:-
+      a)Noun Phrase: small group with a 'noun' preceded by descriptive words. 
+      b)Verb Phrase: small group with a 'verb' preceded by its modifiers.
+      c)Prepositional Phrase: preposition plus a Noun Phrase; can be an
+        "Indirect Object" to the 'verb'. 
+      d)Adverbial Phrase: small group with a modifier, amplifying the 
+        meaning of the 'verb'; can be one word at the start or end of   the
+        sentence. 
+  iii. Phrases in a simple sentence follow the Subject+Verb(+Object) 
+        pattern, with:-
+      a)Noun Phrase+Verb Phrase ... with Intransitive 'verb'.
+      b)Noun Phrase+Verb Phrase+Noun Phrase ... Transitive 'verb'.
+      c)Noun Phrase+Verb Phrase+Prepositional Phrase .. 'verb' has Indirect
+        Object.
+   iv. Glosa phrases are "Substantive Final", starting with the least 
+       important word, and followed by additional words combining progress-
+       ively to extend the meaning of the substantive, which comes last.
+  C. Clauses
+     i. A Glosa sentence with only one 'verb' is a Major Clause.
+    ii. With two, or more 'verbs' in a sentence, there is one Major clause,
+        with the other 'verb(s)' usually in Minor Clauses that add meaning 
+        to the Major Clause.
+   iii. Two, or more, Major Clauses may be combined in a sentence through
+        the use of one, or more, conjunctions.
+    iv. Where ambiguity is otherwise possible, a semi-colon is used as a
+        Start-of-Clause Marker.
+     v. There are three types of Minor Clause in Glosa:-
+       a)Noun Clause: larger group that takes the place of a Noun Phrase.  
+       b)Adjectival Clause: larger group usually starting with the Relative 
+         Pronoun, ~qi~, and following the 'noun' it adds meaning to.
+       c)Adverbial Clause: larger group, that could be anywhere in the
+         sentence, but which extends the meaning of the main verb of the
+         sentence.  These start with a word that places or explains  the
+         action of the 'verb' they qualify, examples: time ~kron~ [when],
+         location ~loka~ [where], spacial ~dia~ [through],
+         logical ~anti-co~ [however], causal ~te~ [in order to].
+  D. Sentence
+     The minimum meaningful group within Glosa: it starts with a capital 
+     letter and ends with a full stop or equivalent.           
+
+3. Function Words 
+  E. Noun Markers
+    i. Indicating the start of a Noun Phrase, particles are placed in front 
+       of numerators and other modifiers that come before the 'noun'.
+   ii. The particle indicates whether the 'noun' is Singular or Plural:
+      a)~u~ is the particle for singular 'nouns', and
+      b)~plu~ is the particle for plural 'nouns'. 
+  F. Prepositions
+    i. Small words that give information about a following Noun Phrase or
+       Adverbial Clause:
+      a)Time: tem [at the time], po [after], pre [before], kron [when].
+      b)Place: lo [where], to [at], ab [away].  
+      c)Relationship: epi [on], in [into], intra [inside], a [towards],
+       infra [under], supra [over], inter [between], ex[out of],
+       tele [far], proxi [near].  
+   ii. Small words that introduce an Advebial Clause: 
+       so [thus], ka [because], sine [instead of], te [in order to]
+  G. Modifiers
+     Words placed before a substantive to amplify its meaning; they are 
+     usually substantives too, but they add meaning to the final word in 
+     the phrase.
+    i. Without changing, the same word can modify a 'noun'(being called an
+       adjective) or a 'verb'(and be called an adverb).
+   ii. In Noun Phrases, there are also modifiers of Number, Quantity & 
+       Quality, that are paced after the Noun Marker but before the 'noun'.   
+  H. Other Functions
+    i. Conjunctions
+       These join equivalent units within the sentence: words, phrases or 
+       clauses:-
+      a)Combination: e [and]
+      b)Opposition: sed [but]
+      c)Alternative: alo [or]  
+      d)Binary Alternative: alo X alo Y [either X or Y]
+   ii. Negatives
+       Placed before the substantive these negate its meaning:
+      a)Nouns: nuli [no,nothing] 
+      b)Verbs: ne [do not .. ], no- [un-...]
+      c)Binary Negatives: ni P ni Q [neither P nor Q]
+  iii. Questions
+      a)The placing of ~qe~ before a statement makes it a question.
+      b)~qo?~ [what?] 
+      c)~qo-~ is used to form compound question words: qo-lo [where],
+       qo-tem [when], qo-te [why,what intention], qo-mode [how], qo-pe [who]
+   iv. Generic Terms
+       Two-letter abbreviations of substantives can be added, using hyphens, 
+       as terminal affixes, to change the category of a word: there are about
+       twenty of these. 
+        EG post [mail], persona [person], posta-pe [postman]
+    v. Reflexive Forms
+       The action of the 'verb' is received by the Subject of the clause. 
+      a)Where the Subject is a person, ~auto~ is placed after the 'verb',
+         EG An bate auto. [He hit himself.]
+      b)For impersonal Subjects, ~se~, or ~-se~ is put after the 'verb'.
+    
+         EG U makina pa frakto-se. [The machine broke itself.]
+4. Substantives
+  I. Concept Words
+     In Glosa each concept is conveyed by one word, and it can function,
+     unchanged, as a noun, verb or modifier, depending on its position in
+     the sentence.  These make up the majority of the lexicon, and all new 
+     word for objects, action or descriptions, are substantives. 
+
+
+
+From: Robin Gaskell
+Subject: Glosa Grammar Ver.2 (Part 2)
+To: GLOSALIST
+Cc: Glosa Education Organization
+Date: Sun, 28 Mar 99 09:5
+
+Hello Again,
+  Here's the second half of the Ver.2 Glosa Grammar.   R.G.
+ ---------------------------------------------------------------------
+
+5. Noun Phrases
+  J. Substantive as 'noun'
+     A simple sentence has two Noun Phrases, one for Subject the other for
+     Object.  The final word in a NP is a substantive acting as a noun.
+   i. A single 'noun' can constitute a Noun Phrase.
+  ii. Alternatively, there may be a number of determinants and modifiers,
+      as well as the final substantive 'noun' in a Noun Phrase. 
+  K. Pronouns    
+     These take the place of substantives, and represent them, acting in 
+     every way like the full 'noun'.
+   i. Personal Pronouns represent people:
+     a)First person: mi [I], na [we]
+     b)Second Person: tu [you(singular)], vi [you(plural)]
+     c)Third Person: an [he], fe [she], pe [a person], mu [them]
+  ii. Impersonal Pronouns: u-ci [this], u-la [that]
+ iii. Relative Pronoun (Adjectival Clause Marker): qi [which,that]
+  L. Determinants and Numerators
+     These are particles that tell about the quantitative nature of the 
+     'noun', and are placed at the start of the Noun Phrase. 
+   i. Noun Markers: u [=a,the], plu [=the](indicates plurality); these 
+      can be omitted, if context, or other words in the NP, clearly 
+      indicate the presence of the 'noun'
+  ii. Countables
+      Countables exist in discrete numbers, and may be described using:
+     a)Numbers: mo [one], bi [two], deka [ten], bi-tri [twenty-three].
+     b)General terms: oligo [few], poly [many], mega, [big], pusi [small].
+      plura [several], 
+ iii. Quantifiers 
+      Substances that are Measured, not Counted, are described using:
+      u mero de [a piece of], ma [more], meio [less], maxi [most],
+      u qantita de [an amount of]. 
+  M. Noun Modifiers
+     Substantives functioning as nouns may be modifies qualitatively by 
+     other substantives placed directly before them.
+    i. Adjectives: This is the traditional term for Noun Modifiers.
+   ii. Compounding: When two, or more, substantives combine, often 
+       hyphenated, to form one complex concept, they modify the meaning of
+       one another.
+        EG trans-natio-korporati [TNC]
+
+6. Verb Phrases
+     A simple sentence has one Verb Phrase in the middle of the sentence:
+     the final word in a V.P. is a substantive acting as a verb.
+   i. A single 'verb' can constitute a Verb Phrase.
+  ii. Alternatively, there may be a number of particles and modifiers,
+      as well as the final substantive 'verb', in a Verb Phrase. 
+  N. Substantive as 'verb'
+     In a V.P. one substantive functions as the verb.
+    i. The 'verb' represents the action associated with the substantive.
+   ii. The substantive is not modified to show that it acts as a verb.
+  iii. 'verbs' in Glosa are not inflected.
+   iv. The substantive 'verb' is the final word in the V.P. being 
+       preceded in the phrase by particles and modifiers.
+  O. Auxiliary Verbs
+     These substantive - capable of acting as verbs on their own - precede
+     the main 'verb' and augment its meaning.  These are: es [being,is],
+     habe [has_the_quality_of,"is"], gene [gets,becomes,"is"].
+  P. Modal Verbs
+     These are lesser 'verbs' that usually precede the main 'verb'
+     modifying how it acts.  These are: posi [possibly], pote [can],
+     debi [ought to], nece [must], probabili [probably]. 
+  Q. Phrasal Verbs
+     A Phrasal Verb comprises a substantive 'verb' followed by one (or
+     more) "post-positions" that extend the meaning of the 'verb'.
+      EG,  ki ana  [go up], moti ab  [move away from], loka antero [put
+         in front of]
+  R. Verb Modifiers
+     The 'verb'is the final word in the V.P., and any word before the 
+     substantive 'verb' modifies that 'verb'. The modifiers in a V.P. 
+     follow a sequence of increasing importance to the meaning of the 
+     phrase:- 
+        Tense - Aspect - Modal - Auxiliary - Modifier(s) - Substantive   
+    i. Tense Particles
+       Strictly speaking there are two Tense particles:-
+        pa - Past Tense
+        -    Present Tense
+        fu - Future Tense
+        The default for a 'verb' not marked for tense is Present Tense. 
+   ii. Aspect Particles
+       A number of other words relating to the timing or intention of the
+       action can come after the Tense particle to extend the expresion of
+       the 'verb':-
+         nu - immediate present
+         sio - would .. if  (conditional)
+         du - continues  (continuous)
+         fin - completed  (perfective)
+  iii. Modifiers(Adverbs)
+       These are substantives that describe the action,
+         EG forti [strongly], celero [quickly], sine sono [silently].
+   iv. Verb as Noun (Gerund)
+       A Substantive may represent the action, but be in the position of
+       a noun: here the Substantive has the qualities of both verb and 
+       noun, and is called a Gerund; a Noun Marker (u/plu) is used to clarify 
+       the syntax, if necessary, EG
+        An hedo kurso. [He likes running/to run.], 
+        Fe kanto es fo boni. [Her singing is very good.]
+        U ju-an interese es u vola de plu modela aeroplana.
+         [The boy's interest is flying model aeroplanes.] 
+     v. Verb as Adjective (Participle)
+        When a Verb is used to modify a Noun, the prefix ~ge-~ is placed in 
+        front of the Verb to indicate that the action is received by the 
+        second word, IE ge-X Y  ... where X and Y are substantives,
+         EG  u ge-klude tira  [the closed door]. 
+    vi. Subject and Object reversed (Passive voice)
+        To form Passive Voice in Glosa, the Main Verb is converted into a
+        participle, and is preceded by an Auxiliary Verb; the "actor" 
+        follows the Verb Phrase as an "Indirect Subject", IE
+        "recipient"(Obj.)-Auxiliary-Participle-Preposition-"actor"(Subj.)
+         EG  andra           es      ge-morda      ex        kani
+          ... Un andra es ge-morda ex u kani.
+         The Auxiliary Verb can be ~es~ [is] or ~gene~ [gets].    
+
+7. Syntax
+    The definition of syntax used for Glosa is "word order".
+  S. Precedence
+     Words in phrases are sequential, and there is an order of precedence
+     of words in phrases, of phrases in a clause, and clauses in a 
+     sentence.
+    i. Precedence Rule
+       This states that, within a phrase, a word is modified by the word
+       immediately preceding it.  The modifying effect is cumulative 
+       throughout the phrase, with the meaning of the final substantive
+       being qualified addatively by all of the words preceding it in the 
+       phrase.
+   ii. Sequence in Phrases
+      a)Noun Phrases
+        Noun - Determinant - Numerator - Quantifier - Modifier(s) - 'noun'
+        Marker
+         EG. u   plura       tri-loba       mega      alti, rubi    flori 
+      b)Verb Phrases
+        Tense - Aspect  -  Modal - Auxiliary - Modifier(s) - Substantive
+        Part.   Part.(s)    Verb      Verb                      Verb
+        EG. pa   sio        posi       es         forti         hedo
+  T. Sentence Order (SVO)
+     Glosa follows the majority sequence, of subject-verb-object, in the 
+     structuring of its sentences.  As with English, on which Glosa 
+     sentence structure is modelled, there are variations on this theme:-
+   i. SV: subject-verb (intransitive 'verb'), EG  An kurso.
+  ii. SVd: subject-verb-dependent_phrase, EG  Fe dice fo celero.
+ iii. SVO: subject-verb-object (transitive 'verb'), EG U kani morda an.
+  iv. SViO: subject-verb-indirect_object, EG Fe ki ad u boteka. 
+   v. OVS: object-is_verbed_by-subject EG U kani es ge-bate ex un andra.
+  U. Compounds
+     Although words in Glosa do not change through usage, to generate new
+     concepts, two, or more, substantives may be grouped to form a 
+     compound word, and such compounds are usually joined with a hyphen.  
+   i. Normal compounds are formed from two or more full substantives, EG
+      kryso-buklas [golden curls,"Goldilocks"], moli-centra [soft-centered].
+  ii. Regularly compounded words are abbreviated to two-letter forms, 
+      called "Generic Terms", that are affixed with hyphens to the preced-
+      ing substantive word, EG -do (domi)[house], kani-do [dog-house];
+      -bo (boteka)[shop], pani-bo [bread shop,baker's].
+  V. Concept Clusters
+     Some very complex things and actions require, for their description, 
+     the adjacent placement of three, or more, substantive words; however,
+     this "clustering of concepts" is to be avoided, where possible, in 
+     Glosa.  EG  u televideo cyklo undu genera-me
+                [a television cyclic wave generator]  ... would be better
+     described as ... u genera-me de cyklo undu pro televideo
+                     [a generator of cyclic waves for television]. 
+
+8. Punctuation
+   Represents, in written form, the normal pauses and inflections of
+   speech; and, as required (to avoid ambiguity) indicates the beginning
+   of a new syntactic group.     
+  W. Comma
+      a)Pauses within phrase
+      b)Separating equvalent syntactic elments in a phrase
+      c)Pauses between phrases
+      d)Separating clauses joined with a conjunction        
+      e)Introducing a new phrase, where this avoids ambiguity
+      f)As parenthesis for brief additional information within a phrase
+  X. Semi-colon
+      a)Separating equivalent clauses in a sentence
+      b)Pauses between clauses
+      c)Introducing a new clause, where this avoids ambiguity
+  Y. Other
+    i. Colon    
+      a)Introducing a list comprising equivalent clauses
+      b)Following a clause to indicate a consequence 
+   ii. Exclamation Mark
+       At the end of a sentence to add emphasis or indicates surprise.
+  iii. Question Mark
+       At the end of a sentence indicating the asking of a question. 
+   iv. Quotation Marks 
+      a)Double quotes (") around
+         . Direct Speech
+         . Quotations from text
+         . specialised terminology
+         . book titles (Alternative use on Internet: underlining _Xxx_)
+                       (Alternative use in printed texts: Italics)
+      b)Single quotes (') around
+         . Direct Speech quoted within other Direct Speech
+         . literary reference
+         . special use of terminology for emphasis
+    v. em dash ( - ) pauses for additional information
+         . around additional information inserted as a clause
+         . as a single dash for additional information at the end of the
+            sentence
+   vi. Brackets (xxxx xx) around
+         . alternative wording
+         . special explanation
+         . additional information not part of the syntax of the sentence
+  vii. Idiom and metaphor
+       For clarity of expression across cultural boundaries these should
+       be avoided in Auxiliary Language usage; however, where it is 
+       necessary - for literary purposes - to quote a national-language
+       idiom within Glosa, then such non-literal language ought to be
+       marked with some 'neutral' symbol, EG pluvi ^plu feli e kani^.
+       
+9. Pronunciation
+   This follows the generalised pattern of European usage. 
+  Z. Phonetic Rule
+     Each letter has one associated pronunciation.
+     N.B. This is not automatically reversible, EG ~q~ sounds like /kw/.
+  &. Vowels
+     The five vowels of Glosa have Italian (or Spanish) pronunciation:
+     a - AH, e - AY, i - EE, o - OR, u - OO.
+ &&. Consonants 
+     These follow the general pronunciation within Europe, but, where 
+     consonants have alternative pronunciations, the "hard"
+     pronunciation is used (g, h, j, s, z).  c is pronounced CH; y as ~i~;
+     x as /ks/; w is not used; and there is no letter carrying the
+     "soft" g, or "soft" j, sound.
+ ------------------------------------------------------------------
+ (c) Glosa Education Organisation, Richmond U.K., 1999
+
+
+
+From: Michael D. Edwards
+Subject: Re: Posi YA posi NO
+To: GLOSALIST
+Date: Mon, 29 Mar 99 22:1
+
+Would love to have a list of users so that I could start to chat!
+Are you aware of ICQ and QTALK. What a great way to practice the language!
+
+Thanks
+Michael Edwards
+-----Original Message-----
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+To: glosalist{at}zeta{dot}org{dot}au <glosalist{at}zeta{dot}org{dot}au>
+Date: Monday, March 29, 1999 11:44 PM
+Subject: Posi YA posi NO
+
+
+>Saluta a holo plu membra de u Glosalist,
+>  Ci es Exercisa #3: Posi YA posi NO
+>
+> SIO would, POTE can, POSI possibly, DEBI ought, SIO DEBI should,
+> SIO POTE could, SIO POSI perhaps
+> FU will,shall, A(D) to, EX from, IN into, DE of,about, qe [question], SI
+if
+> BOTEKA shop, GRESI walk, ANDRA man, AN he, BOTEKA-PROPRIO-PE shop-owner,
+> VALUTA money, GENE get,become, KI go, TRANS across, VIA road, ID it,
+> NU-DI to-day, BIBLI book, METEO weather,(it)
+>
+> Grafo in Glosa plu seqe frasa:-
+>  0. He would go shopping if it stops raining.  An sio ki ad u boteka si u
+>        meteo sto pluvi.
+>
+>  1. He would if he could.
+.................................................
+>  2. The man will possibly cross the road.
+.................................
+>  3. He ought to get it.
+...................................................
+>  4. Will he go to the shop?
+...............................................
+>  5. Could he cross the road to get it?
+....................................
+>
+>  6. The man should give it to the shop-keeper.
+............................
+>  7. He might give the shop-owner the money?
+...............................
+>  8. Will he get the book today?
+...........................................
+>  9. He should get the book, to-day.
+.......................................
+> 10. Perhaps he will go to the shop across the road.
+.......................
+>
+>Saluta,
+> Robin G.
+>ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+>GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+>      To: majordomo{at}zeta{dot}org{dot}au
+>          subscribe glosalist
+>
+>GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+>
+>BOOKS ON GLOSA: Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+>                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk
+>
+
+
+From: Michael D. Edwards
+Subject: Re: Posi YA posi NO
+To: GLOSALIST
+Date: Tue, 30 Mar 99 11:0
+
+ Saluta a holo plu membra de u Glosalist,
+  Ci es Exercisa #3: Posi YA posi NO
+
+  SIO would, POTE can, POSI possibly, DEBI ought, SIO DEBI should,
+  SIO POTE could, SIO POSI perhaps
+  FU will,shall, A(D) to, EX from, IN into, DE of,about, qe [question], SI
+if
+  BOTEKA shop, GRESI walk, ANDRA man, AN he, BOTEKA-PROPRIO-PE shop-owner,
+  VALUTA money, GENE get,become, KI go, TRANS across, VIA road, ID it,
+  NU-DI to-day, BIBLI book, METEO weather,(it)
+
+  Grafo in Glosa plu seqe frasa:-
+  0. He would go shopping if it stops raining. An sio ki ad u boteka si u
+  meteo sto pluvi.
+
+  1. He would if he could-An sio si an sio pote.
+.................................................
+  2. The man will possibly cross the road- U andra fu posi trans u via.
+.................................
+  3. He ought to get it.-An debi gene id.
+...................................................
+  4. Will he go to the shop?-Qe an fu ki ad u boteka?
+...............................................
+  5. Could he cross the road to get it? Qe sio pote trans u via gene id?
+....................................
+
+  6. The man should give it to the shop-keeper.- U andra sio debi gene id ad
+u boteka-propio-pe.
+............................
+  7. He might give the shop-owner the money?- An sio posi gene u
+boteka-proprio-pe u valuta
+...............................
+  8. Will he get the book today? Qe fu gene u bibli nu-di?
+...........................................
+  9. He should get the book, to-day.- An sio debi gene u bibli nu-di.
+.......................................
+  10. Perhaps he will go to the shop across the road.- Sio posi fu ki ad u
+boteka trans u via.
+.......................
+
+ Saluta,
+Michael D. Edwards
+avmike{at}concentric{dot}net
+

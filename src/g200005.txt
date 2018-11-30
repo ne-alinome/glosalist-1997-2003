@@ -1,0 +1,770 @@
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Re: U Lupus, translation discussion
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Mon, 08 May 2000 16:43:59 +1000
+
+At 10:08 29/03/2000 +0200, Marcel wrote:
+>Karo Nick, 
+>
+>  Tu pa grafo:
+>  > ms > ... hesi-ki kata ... iso de plu perla. 
+>  > nh > hesi: English version has "steady" = NO-MUTA 
+>  > nh > iso de: HOMO (like) 
+>Ko u-ci komplika ra mi pa volu traduce "herabrieselte": 
+>   "herab"    = kata  (down) 
+>   "rieseln"  = ???   (purl, ripple, trickle) 
+>Qe tu habe proposi? 
+>Penite, mi pa no-memo grafo u "pa". 
+>   (With this complicated structure I wanted to paraphrase 
+>   "herabrieselte". ... Do you have a proposal?  Sorry, I forgot the 
+>   "pa".) 
+>
+*   This highlights the whole question of international communication.
+Sometimes we have to 'drop' into another national language for clarification.
+    I would like to see subsscribers to Glosalist come up with an inspired
+way of interleaving the odd natlang example, without upsetting the flow of
+the general argument.
+    In this case, English is the missing natlang; I would need something
+solid against which to compare the Glosa, that has been translated from
+German.  I am not speaking here of the actual words, because, in a poem,
+such as _The Wolf_, what needs to be captured is the poet's implied
+feeling: this is hard to capture when attempting to "reverse engineer'
+other people's Glosa, which has arrived via German.
+   
+>  Tu pa grafo: 
+>  > konfusi ... pa ki longi monti. 
+>  > nh > longi: PERI - English version has "skirted". 
+>Mi Glosa frase ne es harmoni, sed id mimi u Deutsch frase. U Deutsch 
+>stude-infanti sio gene in turba ko-co. U poeti merito Nobel-preci 
+>ko-co! 
+*
+*   Yes, this 'aside' marked by a hyphen did the trick.
+    I have found in the past that square brackets are generally acceptible
+for this sort of thing, EG ['skirted' in Eng. Ver.], or if only one
+alternative language is being mentioned, simply [skirted].
+
+
+>   (My Glosa sentence is not consistent, but it imitates the German. 
+>   A German pupil would come into trouble with such in an essay, but 
+>   the poet gains a Nobel price.) 
+>English try:
+>   Confusion ... skirted ALONG (= entlangziehen = longi ki) the 
+>   mountain. 
+>Logically better: 
+>   Confusion ... skirted along THE WAY UP the mountain 
+>   (but there is no WAY to be seen because of the snow?). 
+>
+>Gratia de plu tu idea e saluta 
+>Marcel <m.springer{at}nikocity{dot}de>
+>
+* I would run a number of formulations through my  head, seeking the best
+match for the poet's intention;
+   PERI [around]
+   LONGI [along]
+   ALELO [beside]
+   KI PERI [going around]
+   KI LONGI [move(d) along]
+   PA KI LONGI [moved along; did move along]
+   MOTI ALELO [moving beside; skirting]
+
+   Unfortunately I cannot attempt a match, because I do not have an
+English-language rendition of the poem.  What are the alternative ways
+around this communication difficulty?
+
+Saluta,
+  Robin
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Re: U Lupus, translation discussion
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Mon, 08 May 2000 17:02:36 +1000
+
+At 16:44 01/04/2000 PST, Nick grafo:
+>Karo Marcel,
+>
+>Tu pa grafo:
+>>   > konfusi ... pa ki longi monti.
+>>   > nh > longi: PERI - English version has "skirted".
+>>Mi Glosa frase ne es harmoni, sed id mimi u Deutsch frase. U Deutsch
+>>stude-infanti sio gene in turba ko-co. U poeti merito Nobel-preci
+>>ko-co!
+>>    (My Glosa sentence is not consistent, but it imitates the German.
+>>    A German pupil would come into trouble with such in an essay, but
+>>    the poet gains a Nobel price.)
+*   ~es harmoni~ 
+    posi ~habe harmoni~ {= ~habe u qalita de harmoni~} [has consitency]
+    alterno ~es harmoni~ {= ~habe harmoni ko~} [has consistency with]
+                    alo  {= ~es harmoni~} [is consistency]
+    ~ko-co~  
+    usuali to u komence de plu frasa {= ~Ko holo u-la; qi mi pa dice,~} 
+    sed pro poeti-uti, pote gene ge-loka ali-lo {=~....., ko-co.~    
+    mi prefero u ma greso-pe uti, de ... {~...., ko holo u-la.~
+
+    ~Nobel-preci~  
+    posi ~ (u) Nobel-premi~ PRECI = price
+                       ex _Glosa 6000_: prize     PREMI           p45
+                                        PREMIU    reward, profit  p113   
+
+>>English try:
+>>    Confusion ... skirted ALONG (= entlangziehen = longi ki) the
+>>    mountain.
+>>Logically better:
+>>    Confusion ... skirted along THE WAY UP the mountain
+>>    (but there is no WAY to be seen because of the snow?).
+>Ja. Mi amo u-ci. U via pa pote gene face per gresi de plu homi, alo mu
+>pote  detekti id alo memo id.
+>Akorda co:
+>Ko fo-spira, an pa proto kura skende ana fo-klina monti-mura, iso tem,
+>sub an, u konfusi de plu mali-dice, plu komanda e plu lumi ex plu
+>lanterna pa ki longi u ge-nivi-tegu via ana monti.
+>
+*   I would attempt a version of this part of the story.  Reading the
+English-language version, I have to picture the scene, and work out who is
+where, and why, before I can select the most suitable Glosa words to
+portray the same sense of drama:-
+  "Panting, he made his way up the steep wall, while below him a confusion
+of curses, commands, and lantern-lightsskirted the mountain."
+
+  ~Fo-spira, an pa selekti an via ana u fo-klina monti-mura; tem, infra an,
+u konfusi de plu mali-dice, plu komanda, e plu lanterna-lumi pa veni ex u
+peri-lo de u monti-basi.~
+
+>Tu pa grafo:
+>>   > ms > ... hesi-ki kata ... iso de plu perla.
+>>   > nh > hesi: English version has "steady" = NO-MUTA
+>>   > nh > iso de: HOMO (like)
+>>Ko u-ci komplika ra mi pa volu traduce "herabrieselte":
+>>    "herab"    = kata  (down)
+>>    "rieseln"  = ???   (purl, ripple, trickle)
+>>Qe tu habe proposi?
+>>Penite, mi pa no-memo grafo u "pa".
+>>    (With this complicated structure I wanted to paraphrase
+>>    "herabrieselte". ... Do you have a proposal?  Sorry, I forgot the
+>>    "pa".)
+>
+>Mi doxo; u "iso de plu perla"/"homo plu perla" nece gene apo.
+>U latu de an sub-leuko abdomina gene makula ex hema; qi no-muta-ratio >ki
+kata plu mega guto.
+ 
+*   "On one side his whitish belly was spotted with blood, which fell
+steadily in big drops."
+
+    ~Mo latu, de an leuko-iso abdomina, pa habe plu maluka de hema; qi pa
+kontinu kade per mega guta.~
+
+**   I must say that it worries me that such a range of possible
+translations is possible .. with Glosa.
+   In the case of translating potry, however, I veer towards attempting to
+maintain the rhythm, and economy of words, of the original.  The pleasant
+metaphoric use of English-language prepositions, is unfortunately, I fear,
+lost on Glosa, in which the use of non-literal language is to be avoided:-
+   "on one side" 
+       is not ~epi mo latu~,
+       while ~u latu~ seems to lack some specificity.
+       I feel that it is not Glosa usage, and ~mo latu~ suffices. 
+   "in big drops"
+       is neither ~intra plu mega guta~ nor ~in plu mega guta~,
+       but, ~per plu mega guta~ [BY big dropS] seems apt.
+   Meanwhile, from the forgoing mention of a 'continuous flow', the
+'dropping of blood' is already in the plural - from context, and so, the
+~plu~ seems redundant.
+
+   On a point of grammar, however, I would suggest that Nick's rendition is
+missing a word, leaving the Relative Clause [Adj. Cl.] a little incomplete:- 
+  ~ ... hema; qi no-muta-ratio ki kata plu mega guto.~
+  [ .. blood, which steadily  fell down big drops.] 
+
+   For me, to make this clause work, I would have to make ~abdomina~ the
+NOUN, which was modified; also, I would need to add an ~ex~.
+  ~Plu maluka, de hema, pa marka mo latu, de an leuko-iso abdomina; ex 
+    [drops    of blood   marked one side of his  whitish   belly,  from   
+
+qi no-muta-ratio ki kata plu mega guto.~
+which  steadily fell down  large drops] 
+
+Saluta,
+  Robin
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] The Wolf - Hermann Hesse (1907), English Version
+From: William W Patterson <ailanto{at}neosplice{dot}com>
+Date: Mon, 08 May 2000 07:42:45 -0400
+
+Yikes! I thought the English version had already been posted.
+Hmm. Maybe not. Maybe it was the German. Oh, well, here's the
+English version for comparison. It may also be found at...
+
+   http://www.neosplice.com/~ailanto/thewolf.htm
+
+...along with other translations too. For those of you who know
+French or Spanish, I have also webified translations as provided
+by The Fish Of Babel - I haven't taken a close look at them yet,
+but I imagine they should be pretty amusing!
+
+- Bill
+
+********
+
+The Wolf - Hermann Hesse (1907)
+
+Never had there been so cruelly cold and long a winter in the French
+mountains. For weeks the air had been clear, crisp and cold. By day the
+great slanting snowfields lay dull-white and endless under the glaring
+blue sky; by night the moon passed over them, a small, clear, angry
+frosty moon, and on the snow its yellowish glare turned a dull blue that
+seemed the very essence of coldness. The roads and trails were deserted,
+especially the higher ones, and the people sat lazy and grumbling in
+the village huts. At night the windows glowed smoky red in the blue
+moonlight, and before long they were dark.
+
+It was a hard time for the animals of the region. Many of the smaller
+ones, and birds as well, froze to death, and their gaunt corpses fell
+prey to the hawks and wolves. But they too suffered cruelly from cold
+and hunger. There were only a few wolf families in the region, and their
+distress led them to band more closely together. By day they went out
+singly. Here and there one of them would dart through the snow, lean,
+hungry, and alert, as soundless and furtive as a ghost, his narrow
+shadow gliding beside him in the whiteness. He would turn his pointed
+muzzle into the wind and sniff, and from time to time let out a dry,
+tortured howl. But at night they would all go out together and the
+villages would be surrounded by their plaintive howling. Cattle and
+poultry were carefully shut up, and guns lay in readiness behind sturdy
+shutters. Only seldom were the wolves able to pounce on a dog or other
+small prey, and two of the pack had already been shot.
+
+The cold went on and on. Often the wolves huddled together for warmth
+and lay still and brooding, listening woefully to the dead countryside
+around them, until one of them, tortured by hunger, suddenly jumped up
+with a bloodcurdling roar. Then all the others turned their muzzles
+toward him and trembled; and all together burst into a terrible,
+menacing, dismal howl.
+
+Finally a small part of the pack decided to move. Early in the morning
+they left their holes, gathered together, and sniffed anxiously and
+excitedly at the frosty air. Then they started off at a quick, even
+trot. Those who were staying behind looked after them with wide glassy
+eyes, trotted a few steps in their wake, stopped, stood still for a
+moment in indecision, and went slowly back to their empty dens.
+
+At noon the traveling party split in two. Three of the wolves turned
+eastward toward the Swiss Jura, the others continued southward. The
+three were fine strong animals, but dreadfully emaciated. Their indrawn
+light-colored bellies were as narrow as straps, their ribs stood
+out pitifully on their chests, their mouths were dry and their eyes
+distended and desperate. They went deep into the Jura. The second day
+they killed a sheep, the third a dog and a foal. On all sides the
+infuriated country people began to hunt them. Fear of the unaccustomed
+intruders spread through the towns and villages of the region. The mail
+sleighs went out armed, no one went from one village to another without
+a gun.
+
+After such good pickings, the three wolves felt at once contented and
+uncertain in the strange surroundings. Becoming more foolhardy than they
+had ever been at home, they broke into a cow barn in broad daylight. The
+warm little building was filled with the bellowing of cows, the crashing
+of wooden bars, the thudding of hooves, and the hot, hungry breath of
+the wolves. But this time people stepped in. A price had been set on the
+wolves, and that redoubled the peasants' courage. They killed one with
+a gunshot through the neck, the second with an ax. The third escaped
+and ran until he fell half-dead in the snow. He was the youngest and
+most beautiful of the wolves, a proud beast, strong and graceful. For a
+long time he lay panting. Blood-red circles whirled before his eyes, and
+at times a painful, wheezing moan escaped him. A hurled ax had struck
+him in the back. But he recovered and managed to stand up. Only then
+did he see how far he had run. Far and wide there were neither people
+nor houses. Ahead of him lay an enormous snow-covered mountain, the
+Chasseral. He decided to go around it. Tortured by thirst, he took a few
+bites of the frozen hard snow crust.
+
+On the other side of the mountain he spied a village. It was getting
+on toward nightfall. He waited in a dense clump of fir trees. Then
+he crept cautiously past the garden fences, following the smell of
+warm barns. There was no one in the street. Hungrily but fearfully, he
+peered between the houses. A shot rang out. He threw his head back and
+was about to run when a second shot came. He was hit. On one side his
+whitish belly was spotted with blood, which fell steadily in big drops.
+In spite of his wound he broke into a bounding run and managed to reach
+the wooded mountain. There he stopped for a moment to listen, and heard
+voices and steps in the distance. Terror-stricken, he looked up at the
+mountainside. It was steep, densely wooded, and hard to climb. But he
+had no choice. Panting, he made his way up the steep wall, while below
+him a confusion of curses, commands, and lantern lights skirted the
+mountain. Trembling, the wounded wolf climbed through the woods in the
+half-light, while slowly the brown blood trickled down his flank.
+
+The cold had let up. The sky in the west was hazy, giving promise of snow.
+
+At last the exhausted beast reached the top. He was at the edge of a
+large, slightly inclined snowfield not far from Mont Crosin, high above
+the village from which he had escaped. He felt no hunger, but a dull
+persistent pain from his wound. A low sick bark came from his drooping
+jaws, his heart beat heavily and painfully; the hand of death weighed
+on it like a heavy load. A lone fir tree with spreading branches lured
+him; there he sat down and stared forlornly into the snow-gray night.
+Half an hour passed. Then a red, strangely muted light fell on the snow.
+With a groan the wolf stood up and turned his beautiful head toward the
+light. It was the moon, which, gigantic and blood-red, had risen in the
+southeast and was slowly climbing higher in the misty sky. For many
+weeks it had not been so big and red. Sadly, the dying wolf's eyes clung
+to the hazy disk, and again a faint howl rattled painfully through the
+night.
+
+Then came lights and steps. Peasants in thick coats, hunters and boys
+in fur caps and clumsy leggings came tramping through the snow. A
+triumphant cry went up. They had sighted the dying wolf, two shots were
+quickly fired. Both missed. Then they saw that he was already dying and
+fell upon him with sticks and clubs. He felt nothing more.
+
+Having broken his bones, they dragged him down to Saint-Immer. They
+laughed, they boasted, they sang, they cursed; they were looking forward
+to brandy and coffee. None of them saw the beauty of the snow-covered
+forest, or the radiance of the high plateau, or the red moon which
+hovered over the Chasseral, and whose faint light shimmered on their
+rifle barrels, on the crystalline snow, and on the blurred eyes of the
+dead wolf.
+
+
+-- 
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Earth is like a great big funhouse without the fun.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Words & Grammar
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Thu, 11 May 2000 17:48:58 +1000
+
+At 07:41 17/04/2000 -0700, Charles wrote:
+>Robin Gaskell wrote:
+>
+>> While Esperanto does this well(?) with inflections, glosa tries hard with:-
+>>   . particles - in front of words  e.g. u, pa.
+>>   . generic terms - two-letter abbreviations of substantives added as
+>>        hyphenated suffixes  e.g. -pe, -do.
+>>   . a rare prefix, to achieve passivity  i.e. ge- .
+>>   . compounding of substantives with one (or more) generics e.g.  hedo-pe
+>>   . compounding between substantives, with hyphen, where there is a
+>>        dominant substantive, which comes last  e.g.  lana-tegu.
+>>   . compounding between substantives, where the resulting concept is a
+>>        meld of component concepts  e.g. u tele-video produce-pe.
+>
+>The particles and lexical compounding seem true to its nature,
+>but to begin adding affixes again doesn't, to me ... in that case
+>(the "-pe" and "ge-" types) one might as well opt for Ido's artificial
+>or Occidental's naturalistic affixes.
+>
+*   I have this odd idea that a ~Glosa-pe~ and a ~Glosape~ are two
+different things.
+    How many of the rest of humanity can recognise the "hyphen" concept?  I
+know that Paul Bartlett hates it, and says that people cannot HEAR a hyphen.
+
+    Were I to utter a discrete hyphen, no-one woulld hear it, unless we
+forced it to carry a "schwa."  Using English-language pronunciation, the
+"a-pe" would sound very different from an "ape" spelling.
+    However, using Glosa syntax and pronunciation rules, the Glosa hyphen
+can be '''heard''' by the butting together of two words (or word and
+affixed particle): there is an audible 'gap' between the two parts!
+
+    With Glosa stress on the penultimate syllable (or last syllable, if the
+word/particle comprises only a single), then, using capital letters to show
+the stressed syllable, we contrast:-
+   GLOsa-PE   cf   gloSApe
+   LAna-TEgu  cf   lanaTEgu
+
+    Do people hate the terminal category affixes?
+    They seem to go in English, though with no hyphen, EG
+   fast     faster    fasten
+   bake     baker     baked  
+   post     postman   postbox
+   water    waterway  waterwash
+
+    So, although you have a case, in keeping the words and particles
+discrete .. by banning hyphens, I feel that they are a handy, and
+humanly-acceptable device for separating lexical units within a semantic
+whole.
+
+    I will agree that the ~ge-~ prefix is a little bit forced, even though
+the authors refer us to the use of something very similar in German.
+Actually, at the start, the Glosa authors decreed that all Glosa utterances
+would be in the Active Voice.  So the Passive Voice, in Glosa is a recent
+addition to the language.  The syntactic model is from English, with the
+~ge-~ equivalent to the "ed" or "en."
+
+   He is hit(ted) by Fred.      Fred hits him.
+   An gene ge-bate ex Fred.   Fred bate an.
+
+   It was taken from the room.        Someone took it from the room.
+   Id pa gene ge-prende ex u kamera.  Uno-pe pa prende id ex u kamera. 
+
+>> >I'd like to see a Glosa version 3.
+>> *   So, it could happen.  Exactly what do you mean by "derivation": 
+>> are you speaking of the selection process for the Glosa lexicon; or
+>> are you referring to modification of meaning of the 'verbs'?
+>
+>The affixations mentioned above. They seem awkward and inadequate to me.
+>The virtue of Glosa is in its relatively lack of affixation/morphology.
+>
+*   I will agree that the invisible joining of words .. to form compounds
+or particle additions .. is un-Glosa, But I still feel that compounds whose
+parts are separated by hyphens, are an acceptible form, in which the parts
+can be immediately determined by inspection.  Again, in spoken Glosa, the
+use of stress readily informs us of the number of parts in a compound.
+    I could be shouted down by Linguists, who say that particles attached
+by hyphens are affixes; and words compounded using hyphens are simply cases
+of morphological change to 'the' word.  However, if the hyphen exists, and
+hyphenation has linguistic meaning, then why not use it .. if people can
+recognise its existence (visually and through spoken stress), and are happy
+with its use.
+
+>> *   Thus, your critical comment comes down to the words, themselves; 
+>> the way they have been selected, and the way they are modified to 
+>> build more complex comcepts!?
+>
+>Yes, sorry; I estimate only around half the vocab was well-chosen;
+>Ido's basic vocabulary is much better (though not "perfect" either).
+>If 3000 or so roots without affixes were enough for a usable language,
+>I could learn to like them, but clearly they are not enough, because
+>the authors haven't a systematic derivational scheme, so they
+>have to add completely different roots for each shade of meaning.
+>
+*   Yes, the question of vocab selection gets back to the foundation of the
+language .. and Dictionary production.  I almost feel that to alter a
+significant proportion of Glosa's vocabulary, one would be creating
+virtually a different language.
+    And this comes down to the question of the user-base: who has the
+present dictionaries of the language, and what would be involved in
+physically replacing these with upgraded versions, IE a Glosa Ver3.
+
+    While, theoretically, a better-designed language could result from
+lexical reform, what would be the criteria for the selection of a superior
+vocabulasry, and who would choose these criteria.  Were such a project to
+be embarked upon, it would take at least another five years - even with the
+aid of computers and database programs - and who would do the work?  The
+resulting product would probably have to have a distinctive and unique
+name: I favour "Lex."  It would not be Glosa, though it might be described
+as another derivation of Hogben's Interglossa.
+     I cannot volunteer to lead such a project for a number of reasons:
+ . age (63),
+ . more pressing interests (anti-globalisation, post-capitalism, 2012),
+ . loyalty to the Glosa authors,
+ . exhaustion at the thought of attempting to work up a user-base - again,
+ . a need to concentrate on my survival in retirement.
+
+     However, there is still the thought of the Glosa 2500 project, which I
+could be reactivated into - without conflict with any of the above points.
+I must ask Bill Patterson where he is up to in Glosa vocabulary reform
+process.  The Glosa 2.5K lexicon was supposed to be a streamlined vocab
+with virtually no synonyms, additional words - oversights from the original
+list, and the selection of the most suitable words where a range of
+alternatives had found their way into Glosa.
+
+>> >Well, as an experiment, if one were to select a random
+>> >page in the Interlingua dictionary that is online at
+>> >http://www.interlingua.com ...
+>
+>>     Please send the Occidental URL, too.   .....
+>
+>OCC does not have a good URL for comparison. Basically it uses the
+>same affixes as Interlingua (plus about 50% more) to extend roots.
+>The "Radicarium" I have only in paper form; it shows typically:
+>PRESS-er ... to press. affixes: -e, -ion, com-, ex-, im-, etc
+>
+>If one likes that sort of naturalistic affixation, then Glosa isn't
+>going to be able to compete. OCC goes for "at sight recognition"
+>and immediate comprehensibility, at the cost of needing to know
+>a significant (maybe 10,000 root) Latinate vocabulary. This works
+>well for lazy learners like me who already speak English, since Eng
+>swallowed most of the Latin-Greek roots.
+>
+*   Since I expect the English speaking cultures to dominate, economically,
+any ultimate selection of an IAL, I feel that these comments are likely to
+point to Glosa's being sidelined in such a bunrush (or is it bun-rush?).
+
+>Glosa could be something *different*, a minimal-vocab language
+>for non-euro-speakers. I imagine: the current syntax, and phonology,
+>plus a cleaned-up list of 2500 roots, minus all affixation.
+>Then market it as *the* easiest language to learn for all the world.
+>
+*  This is a distinct possibility, but I feel still only relevant at the
+IAL level.  Now, were China, the Asians and Africa to dominate the world
+stage, we might be onto something.  I must ask a Chinese speaker how they
+see the Glosa compounding - in comparison with the Way that the Chinese
+language puts characters together, sometimes side by side, and sometimes
+one inside another.
+ 
+Saluta
+
+Robin 
+  E mi dona apo logi pro u-ci mesage tardi posta.
+  U holo faski de plu mesage de 19 Mo-tet, pa gene ge-no-responde.  R.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] Re: GRATIA
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Fri, 12 May 2000 12:51:06 +1000
+
+At 21:21 08/05/2000 -0700, John Schilke wrote:
+
+>Just a very quick note, Robin, to thank you for the tapes and materials,
+
+>which have arrived safely.  Now to find some time to sit quietly, listen,
+
+>and study.
+
+>
+
+>Best wishes from Oregon,
+
+>Saluta,
+
+>John
+
+>
+
+Plu Saluta a Holo MI plu Amika epi u Reti,
+
+
+   Gratia a John de tu nota.
+
+   Mi fu kontinu bali plu-ci caseta e disko a plu membra de u Lista, si plu-pe demanda mu.
+
+   Anti-co, Volker Mengers ex Belgique pa grafo ke plu caseta, pa bi
+
+habe Glosa ge-dice uti un England-lingua voci. 
+
+   E so, tu nu habe u defi de rekorda Glosa uti u puri Glosa voci.
+
+
+   Qo-pe dice Glosa ko u voci; ge-cura de plu soni ex ali hetero lingua,  posi excepta Italia-lingua alo Espana-lingua.
+
+
+   Qad es u soni de puri Glosa?
+
+
+   Si tu rekorda tali u klari ge-dice kaseta, place bali a mi u kopi .. 
+
+plus u ge-tipo, alo elektroni, versio de un origi textu .. e mi fu adi id ad u grega de kaseta pro bali a plu-pe; qi gene-sko u lingua. 
+
+
+Saluta, 
+
+  Robin Gaskell
+
+
+
+<underline> 
+------------------------------------------------------------
+
+MAILING LIST:  (now EZMLM not Majordomo)  Send blank e-mails to:-
+
+         To: glosalist-subscribe{at}lists{dot}zeta{dot}org{dot}au  
+
+      -OR-   glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+
+ -For INFO-  glosalist-info{at}lists{dot}zeta{dot}org{dot}au
+
+WEBPAGE:  www.zeta.org.au/~rgaskell  [in English]
+
+          www.tu-harburg.de/~smms1406/glosa.htm  [in German]
+
+ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
+
+BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
+
+CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au  
+
+       (A$10 each, incl post; to Glosalist Subscribers - free)
+
+AUTHORS: "Plu Glosa Nota", Dictionaries 
+
+        P.O. Box 18, Richmond Surry TW9 1WD, U.K. 
+
+                 </underline>
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Words & Grammar
+From: Charles <root{at}catty{dot}com>
+Date: Thu, 11 May 2000 20:50:25 -0700
+
+Robin Gaskell wrote:
+> 
+> At 07:41 17/04/2000 -0700, Charles wrote:
+
+> *   I have this odd idea that a ~Glosa-pe~ and a ~Glosape~ are two
+> different things.
+>     How many of the rest of humanity can recognise the "hyphen" concept?  I
+> know that Paul Bartlett hates it, and says that people cannot HEAR a hyphen.
+
+Juncture and tone are both present in most/all languages.
+The hyphen is a very good typographical convention
+(whereas the Glosa semicolon is insupportable).
+
+>     However, using Glosa syntax and pronunciation rules, the Glosa hyphen
+> can be '''heard''' by the butting together of two words (or word and
+> affixed particle): there is an audible 'gap' between the two parts!
+
+>     With Glosa stress on the penultimate syllable (or last syllable, if the
+> word/particle comprises only a single), then, using capital letters to show
+> the stressed syllable, we contrast:-
+>    GLOsa-PE   cf   gloSApe
+>    LAna-TEgu  cf   lanaTEgu
+
+If the Greek style of compounding is used (e.g. hydro-plane)
+then I see no need for any suffixes in Glosa. The whole idea was
+to rid the IAL of confusing morphology, as in pidgin/creoles.
+
+>     Do people hate the terminal category affixes?
+>     They seem to go in English, though with no hyphen, EG
+>    fast     faster    fasten
+>    bake     baker     baked
+>    post     postman   postbox
+>    water    waterway  waterwash
+> 
+>     So, although you have a case, in keeping the words and particles
+> discrete .. by banning hyphens, I feel that they are a handy, and
+> humanly-acceptable device for separating lexical units within a semantic
+> whole.
+
+One must distinguish the "inflectional" from the "derivational".
+The fast-en suffix is inflectional/grammatical, whereas
+the water-way compound is derivational/semantic. I would
+reject the one (in Glosa) and accept the other. Then you can
+say "Glosa has no morphology, and the easiest grammar".
+
+> Actually, at the start, the Glosa authors decreed that all Glosa utterances
+> would be in the Active Voice.  So the Passive Voice, in Glosa is a recent
+> addition to the language.  The syntactic model is from English, with the
+> ~ge-~ equivalent to the "ed" or "en."
+> 
+>    He is hit(ted) by Fred.      Fred hits him.
+>    An gene ge-bate ex Fred.   Fred bate an.
+> 
+>    It was taken from the room.        Someone took it from the room.
+>    Id pa gene ge-prende ex u kamera.  Uno-pe pa prende id ex u kamera.
+
+Interesting. Well, 2 voices seem reasonable.
+Plus the "self" pronoun/particle for reflexive.
+
+> *   I will agree that the invisible joining of words .. to form compounds
+> or particle additions .. is un-Glosa, But I still feel that compounds whose
+> parts are separated by hyphens, are an acceptible form, in which the parts
+> can be immediately determined by inspection.  Again, in spoken Glosa, the
+> use of stress readily informs us of the number of parts in a compound.
+
+I think you are right and Paul was wrong on this point - er, dash.
+
+>     I could be shouted down by Linguists,
+
+Who cares about pedants?  Linguists love all languages equally
+and say none are better or worse, which is plain silly: I've made
+lots of provably worse conlangs myself. So some are better.
+Glosa could be made a far better IAL than it is now.
+
+> *   Yes, the question of vocab selection gets back to the foundation of the
+> language .. and Dictionary production.  I almost feel that to alter a
+> significant proportion of Glosa's vocabulary, one would be creating
+> virtually a different language.
+
+A new vocabulary would be Latin-based, most likely.
+I think the current Glosa fans prefer Greek.
+So instead of a new language, a better approach
+might be to evolve the current one by simply adding
+whatever Greek roots seem necessary, using as much
+as possible of the current "inadequate" set.
+
+I would avoid the -pe affixes and use only root compounding
+via the infamous hyphen. Added roots should use the CVCV pattern,
+and be recognizable (unmangled) to those who know a little Greek.
+As for the terminal vowel, I guess it doesn't matter, especially
+since it is unstressed.
+
+> I cannot volunteer to lead such a project for a number of reasons:
+
+Nor I. Just dreaming, here.
+
+>      However, there is still the thought of the Glosa 2500 project, which I
+> could be reactivated into - without conflict with any of the above points.
+
+Great idea. I suggest using anything else but M$ Outlook
+as an email reader, lest a virus hits again ...
+I've run Linux since 1996 and never a crash or loss yet.
+
+> *   Since I expect the English speaking cultures to dominate, economically,
+> any ultimate selection of an IAL, I feel that these comments are likely to
+> point to Glosa's being sidelined in such a bunrush (or is it bun-rush?).
+
+I worry about politics, but never concede defeat to it ...
+Make a better language and it can help save the world.
+Now, how does the Glosa vocabulary handle this semantic field?
+
+> >Then market it as *the* easiest language to learn for all the world.
+
+> *  This is a distinct possibility, but I feel still only relevant at the
+> IAL level.  Now, were China, the Asians and Africa to dominate the world
+> stage, we might be onto something.  I must ask a Chinese speaker how they
+> see the Glosa compounding - in comparison with the Way that the Chinese
+> language puts characters together, sometimes side by side, and sometimes
+> one inside another.
+
+Chinese has relative clauses on the opposite side,
+but otherwise fits English/Glosa syntax pretty well.
+Anyway, the goal is to overcome such dominance ...
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] Re: GRATIA
+From: John Schilke <schilkej{at}OHSU{dot}EDU>
+Date: Sat, 13 May 2000 07:49:01 -0700 (PDT)
+cc: glosalist{at}lists{dot}zeta{dot}org{dot}au
+
+Saluta!
+
+Gratia pro tu gramo, Robin.
+
+Place muta mi "E-mail address" pro plu gramo ad u-ci neo:
+		doc{at}clacknet{dot}com{dot}
+
+Itera, plu gratia.
+
+John
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+

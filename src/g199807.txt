@@ -1,0 +1,2349 @@
+
+
+From: DPOLLARD{at}ccmail{dot}sunysb{dot}edu
+Subject: a few questions
+To: GLOSALIST
+Cc: 
+Date: Sat, 04 Jul 98 22:04:28 EDT  
+
+Karo Glosalista:
+
+I am new to the list and I am not a linguist, but I have been enjoying
+getting into Glosa and reading the Glosalist postings and e-mails to me.
+But I have some questions and a couple of suggestions.
+
+1) The other evening I passed by a bakery. The wind was blowing towards me and 
+the bread smelled wonderful. Now, how to express this in Glosa?
+
+Last night I passed by a bakery.
+Pa-di noktu (Is there a word/phrase for "last night"?)
+mi pa ki proxi ("I went near" = "passed by"?)
+
+u pani popina (What is a "cook-shop"? It's in the EGB.)
+
+The wind was blowing towards me and the bread smelled wonderful.
+Pneumo pa du fla ad mi e pani pa se olface miranda.
+
+2) I noticed in William Patterson's list of missing Glosa words, the word
+"neighbor".  A kludge for this appears in a list of Glosa examples:
+para-fe but neither I nor William feel this to be the best possibility.
+William has listed a few words for neighborhood in Glosa: vicina and parokia.
+Vicina-pe, or vicina-an, or vicina-fe would seem to work well for neighbor.
+Parokia-pe doesn't roll off the tongue easily. What do other members of the
+list
+think?
+
+3) Another word that is missing is "boring". Not that Glosa is boring! In fact
+I've
+picked up Glosa to help me get through some absolutely-brain numbing meetings.
+Is
+"tedio" the closest Glosa equivalent?
+
+4) Pra = "had" but is there a past tense equivalent for "has"? 
+
+5) Can time words go anywhere in a Glosa sentence, as they can in English?
+*Now* I want to eat. I *now* want to eat. I want *now* to eat. I want to eat
+*now*.
+
+6) Am I right in thinking there is little distinction between adjectives and
+adverbs
+in Glosa? Position in the sentence determines the function?
+
+7) Finally, I have to come down in favor of using the verb gene or es with the
+prefix
+ge-. I do not feel ge- by itself is enough. It seems to me that ge- indicates a 
+state of being. The object has been put into the state of whatever - being
+broken,
+being seen, being cooked, whatever. The object *is* (es), or *becomes* (gene)
+the state.
+Maybe even *is made* the state - se face. Pa and fu change the time but not the
+state of being.
+
+Saluta,
+  Debs
+
+ 
+
+
+From: Paul O Bartlett
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Sun, 05 Jul 98 15:4
+
+    I will not try to respond to everything in detail but will only
+touch a few points.
+
+On Sat, 4 Jul 1998 DPOLLARD{at}ccmail{dot}sunysb{dot}edu wrote:
+
+> 1) The other evening I passed by a bakery. The wind was blowing towards me and 
+> the bread smelled wonderful. Now, how to express this in Glosa?
+> 
+> Last night I passed by a bakery.
+> Pa-di noktu (Is there a word/phrase for "last night"?)
+> mi pa ki proxi ("I went near" = "passed by"?)
+> u pani popina (What is a "cook-shop"? It's in the EGB.)
+
+    If you say 'pa-di', then it is not necessary to say 'pa ki',
+because 'pa-di' already puts the time reference in the past.  I keep
+harping on this in the list because if native-English Glosa-pe get into
+this habit of over-marking everything under the sun, they may run into
+trouble understanding Glosa-pe of other native languages which do not
+do this over-marking, so that the other Glosa-pe do not do it in Glosa. 
+(Actually, I would think that 'pa-noktu' would suffice in place of
+'pa-di noktu'.)
+
+     I would make "cook-shop" as 'kuko-do' and "bakery" as
+'pani-kuko-do'.
+
+> 2) I noticed in William Patterson's list of missing Glosa words, the word
+> "neighbor".
+
+    I think that 'para-pe' would serve well for "neighbor."  So do the
+Glosa authors.
+
+> 3) Another word that is missing is "boring".
+
+    Perhaps something could be worked up from the verb 'fatiga'
+("tire").
+
+> 4) Pra = "had" but is there a past tense equivalent for "has"? 
+
+    'Pra' seems to be an obsolete construction retained only by Robin
+Gaskell, at least in my acquaintance.  Glosa's verb constructions do
+not necessarily mimic those of English exactly, just as Esperanto has
+no simple set of perfect tenses.  We need not -- indeed, should not --
+think that the English way is the only way, and certainly not the only
+correct way, of doing things.  In fact, compared to those of some
+languages, English verb constructions are rather "muddy," mixing up
+tense, mood, and aspect.  Many adult learners of English have a
+difficult time with English verbs.  We should avoid introducing this
+confusion into Glosa.
+
+> 5) Can time words go anywhere in a Glosa sentence, as they can in English?
+
+    So far as I know, yes, so long as the meaning is clear.
+
+> 6) Am I right in thinking there is little distinction between adjectives and
+> adverbs
+> in Glosa? Position in the sentence determines the function?
+
+    That seems to be the case.  Both are modifiers of one usage or
+another.
+
+> 7) Finally, I have to come down in favor of using the verb gene or es with the
+> prefix
+> ge-.
+
+    I have already tendered my opinion on this in the past.
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: William W Patterson
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Sun, 05 Jul 98 19:0
+
+Sat, 04 Jul 98 22:04:28 EDT, DPOLLARD{at}ccmail{dot}sunysb{dot}edu skribe:
+
+> I've picked up Glosa to help me get through some absolutely-brain
+> numbing meetings.
+
+Teeheehee! 
+
+> Am I right in thinking there is little distinction between adjectives
+> and adverbs in Glosa? Position in the sentence determines the function?
+
+I tend to push this idea farther than the creators probably had in mind.
+My wish is that any word can act as any part of speech (though some
+combinations are less sensible than others!). But it does seem necessary
+to have *something* mark the end of the subject and the beginning of the
+verb.
+
+> Finally, I have to come down in favor of using the verb gene or es with
+> the prefix ge-...
+
+I'm still thinking about this one. Sometimes it feels wrong, and sometimes
+it feels like the only way to go!
+
+- Salata! - Bill
+
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Oh no - not me - I never lost control
+
+
+From: William W Patterson
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Sun, 05 Jul 98 18:4
+
+Sun, 05 Jul 98 15:42:38 EDT, Paul O Bartlett skribe:
+
+> I think that 'para-pe' would serve well for "neighbor."  So do the
+> Glosa authors.
+
+I disagree. I think that this is one of those situations in which
+agglutination fails, because the root-word combination just isn't
+specific enough. Of course, in any language that builds words as
+combinations of smaller roots, you'll run into what I like to call
+the "purple-berry" problem....
+
+(The "purple-berry" problem: I recall one language, or maybe just a
+hypothetical example, which referred to some small fruit, *not* a
+grape, as a "purple-berry"; a grape was a "wine-berry". Wine-berry
+would be recognizable by a member of a culture that does wine, but
+not by a person who doesn't know wine; either way, a purple-berry
+could easily be taken for grape, or some other purple berry.)
+
+Sometimes that's not a big problem, because once you learn that a
+purple-berry is (or is not) a grape, you'll be okay. And there
+aren't too many ways to interpret "purple" "berry". But "para-pe"
+(or "para-fe", etc.) just doesn't work for me. There are too many
+possible interpretations of "beside-person", and no particular reason
+to nail it down as "neighbor".
+
+We have...
+
+EKO = dwell
+HABITA = dwell
+INKOLA = resident
+KO-HABITA = live together
+PARA = beside
+PAROKIA = neighborhood
+VICINA = neighborhood
+
+And probably some others if I followed synonyms. I'd favor something
+like "parokia-pe" or "para-inkola", which nicely bring together the
+ideas of nearby+residence+people.
+
+I have great fun every time I dig into that Glosa dictionary!
+Just wish I could find the time and motivation to *write* in Glosa...
+
+- Saluta! - Bill
+
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Oh no - not me - I never lost control
+
+
+From: Paul O Bartlett
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Sun, 05 Jul 98 19:1
+
+On Sun, 5 Jul 1998, William W Patterson wrote:
+
+> Sun, 05 Jul 98 15:42:38 EDT, Paul O Bartlett skribe:
+> 
+> > I think that 'para-pe' would serve well for "neighbor."  So do the
+> > Glosa authors.
+> 
+> I disagree. I think that this is one of those situations in which
+> agglutination fails, because the root-word combination just isn't
+> specific enough.  [rest omitted]
+
+    And I disagree with your disagreement.  Where does that leave 
+us? ;-)  Actually, I thought of 'para-pe' before I looked it up in 
+the volume "Central Glosa: 5000 English into Glosa 1000 with
+Etymological Notes."  It seems good enough to me.  Here we get into 
+the thorny question of how much vocabulary is enough (and how much
+specificity is specific enough)?  I wish I knew more about pidgins
+(there is some about Tok Pisin on the www), which seem to do quite 
+well with a limited vocabulary.
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: William W Patterson
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Sun, 05 Jul 98 23:1
+
+Sun, 05 Jul 98 19:16:34 EDT, Paul O Bartlett skribe:
+
+> And I disagree with your disagreement. Where does that leave us? ;-)
+
+Teeheehee! Well, you've got the authors on you side. I'll just have to
+use Literary Glosa when I talk about my neighbors.
+
+> ...Here we get into 
+> the thorny question of how much vocabulary is enough (and how much
+> specificity is specific enough)?
+
+Very thorny! No problem once you *learn* things like "para-pe" = "neighbor".
+But if you have to *learn* them, then 1) you've lost some of the utility
+of agglutination and 2) you might just as well have a separate word for
+the term.
+
+I'm afraid "para-pe" didn't come to me naturally. I need to include
+something about "residence". To me, "beside-person" brings to mind
+a spouse or co-worker (figurative) or the passenger sitting next to
+me on a plane (literal).
+
+Makes me wonder if agglutination-type wordbuilding really works well
+between cultures that don't already have a lot in common. In the early
+stages anyway. Once you're familiar with it, *any* language can work.
+The question is, how long will it take to reach that point?
+
+> ...I wish I knew more about pidgins
+> (there is some about Tok Pisin on the www), which seem to do quite 
+> well with a limited vocabulary.
+
+Yes, I *must* take a look at Tok Pisin someday. I keep hearing about it
+but haven't yet found the time to investigate (or thought of it when I
+did!).
+
+- Bill
+
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Oh no - not me - I never lost control
+
+
+From: Aaron Irvine
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Mon, 06 Jul 98 08:4
+
+Saluta,
+
+I'd go for para-pe to loosely mean (home-)neighbour, co-worker, etc.,
+but still allow para-inkola (cool word) when precision was required.
+
+William W Patterson wrote:
+
+> I tend to push this idea farther than the creators probably had in mind.
+> My wish is that any word can act as any part of speech (though some
+> combinations are less sensible than others!). But it does seem necessary
+> to have *something* mark the end of the subject and the beginning of the
+> verb.
+>
+
+I strongly agree.  I only feel comfortable understanding a Glosa sentence when
+I see the noun - verb boundary, and I detect this with my sense of English
+language
+(arghh) rather than some objective means.  Is the Vorlin.nu minimal grammar
+approach
+better than Glosa "no" grammar attempt??  I feel three types of word (or types of
+word usage)...
+1) adverb / adjective / gerund / noun
+2) verb / preposition
+3) interjection
+The comma alone could maybe be used to distinguish these.
+
+Regarding adverbs, how to distinguish the following:
+a strongly skilled woman
+a strong skilled woman
+
+
+
+Aaron
+--
+
+--- Aaron Irvine ------------------------------------------------
+Apion Ltd, Interpoint Bldg, 20-24 York St., Belfast BT15 1AQ
+http://www.apion-tss.com
+mailto:a.irvine{at}apion-tss.com        mailto:adi{at}esperanto{dot}nu
+-----------------------------------------------------------------
+
+
+
+From: Paul O Bartlett
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Mon, 06 Jul 98 11:5
+
+On Mon, 6 Jul 1998, Aaron Irvine wrote (excerpt):
+
+> Regarding adverbs, how to distinguish the following:
+> a strongly skilled woman
+> a strong skilled woman
+
+    Why not just recast the phrase?  There is nothing writ large in the
+nature of the universe which says says that any non-English language
+has to mimic English word for word.  I would suggest that learners of
+any non-native language avoid that habit of trying to translate word
+for word.  This was drummed into me in elementary French class
+thirty-seven years ago.
+
+u gina; qi habe u resista tekno   a strongly skilled woman
+u resista gina; qi habe u tekno   a strong, skilled woman
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: William W Patterson
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Mon, 06 Jul 98 20:2
+
+Mon, 06 Jul 98 08:44:01 EDT, Aaron Irvine skribe:
+
+> Is the Vorlin.nu minimal grammar approach better than Glosa "no" 
+> grammar attempt??
+
+I like the Vorlin approach, but I'm not very familiar with Vorlin.
+(Have you seen the new site at http://www.vor.nu/vornet/index.html?)
+But the Glosa way is to use order within the sentence rather than affixes.
+
+> Regarding adverbs, how to distinguish the following:
+> a strongly skilled woman
+> a strong skilled woman
+
+Using Glosa's head-finalness, those three ideas in that order would
+parse as...
+
+   ( strong ( skill woman ) )
+
+1) As Paul points out, you could rearrange the first sentence.
+
+2) Or find an adverby Glosa word for the "strong" part, but I don't
+   really like that idea.
+
+3) How about linking the first two...
+
+   a strong-skill woman
+
+- Saluta! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+xyzzy!
+
+
+From: Aaron Irvine
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Tue, 07 Jul 98 04:1
+
+Saluta,
+
+Adverbs are not just European, they are universal and are used to
+provide a higher level of structure than simple linear {adjective}-noun.
+
+Consider "a very good person" = ((big good) person)
+
+A language needs somehow to identify the inner pair of brackets.  It could:
+0) ignore them and use two sentences instead (too clumsy)
+1) ignore them and let context assist (too risky)
+2) dictionnary define some "(big" as a LINK-NEXT (ie adverb) rather
+ than a LINK-LAST (ie adjective) (too much rote learning)
+3) tag the space between big and good
+ eg Esperanto:
+    bona homo -> a good person
+    multE bona homo -> a very good person (bigLY good person)
+4) indicate the inner brackets
+ eg Chinese:
+    hao ren -> a good person
+    hen hao DE ren -> a very good person
+5) let the adverb be a declination on the adjective
+ eg BSL
+    gVoEoRdY person
+
+Glosa could maybe use an affix, big-good person, but this mechanism is already
+used
+to form new words (para-pe etc)
+
+Aaron.
+--
+
+--- Aaron Irvine ------------------------------------------------
+Apion Ltd, Interpoint Bldg, 20-24 York St., Belfast BT15 1AQ
+http://www.apion-tss.com
+mailto:a.irvine{at}apion-tss.com        mailto:adi{at}esperanto{dot}nu
+-----------------------------------------------------------------
+
+
+
+From: Robin Gaskell
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Wed, 08 Jul 98 20:2
+
+At 10:04 PM 7/4/98 -0400, Deb Pollard grafo:
+>Karo Glosalista:
+>
+>I am new to the list and I am not a linguist, but I have been enjoying
+>getting into Glosa and reading the Glosalist postings and e-mails to me.
+>But I have some questions and a couple of suggestions.
+>
+>1) The other evening I passed by a bakery. The wind was blowing towards me 
+>and the bread smelled wonderful. Now, how to express this in Glosa?
+*   Exactly the right place to start exercising Glosa .. making up practice
+sentences in your head about things in your surroundings.
+
+>Last night I passed by a bakery.
+>Pa-di noktu (Is there a word/phrase for "last night"?)
+>mi pa ki proxi ("I went near" = "passed by"?)
+>
+*   pa-noktu  - should do for "last night"
+    mi pa pasa proxi  - "passed near(by)";  ki proxi  - "go (approach) near"
+
+>u pani popina (What is a "cook-shop"? It's in the EGB.)
+>
+*   u pani-bo | u pani boteka  - "bread-shop" \ "bread shop"  
+Ahh, 'popina' = "cook-shop"; I found it in _Glosa 6000_.  Well, I cheat,
+and my first port of call is the Langenscheidt _Shorter Latin Dictionary_:
+this word has been lifted totally from Latin.
+
+    popina, ae f cook-shop, eating house, low tavern; food sold at a 
+     cook-shop. 
+
+   I'd say the American "diner" or the Chinese "chop-suey joint" would
+cover it; but, who would have thought the Romans coined the phrase, "Let's
+pop-in for something to eat."
+
+>The wind was blowing towards me and the bread smelled wonderful.
+>Pneumo pa du fla ad mi e pani pa se olface miranda.
+>
+*   Possibly:  U venti pa du fla a mi; e id fero u miranda olface de pani.
+ 
+"a" --> "ad" only before a vowel; subsequent "pa" can be elided if
+'pastness' is clear, and its absence aids flow and rhythm; similarly "u"
+can be elided when the syntax clearly indicates an object, and its absence
+aids rhythm.
+    
+>2) I noticed in William Patterson's list of missing Glosa words, the word
+>"neighbor".  A kludge for this appears in a list of Glosa examples:
+>para-fe but neither I nor William feel this to be the best possibility.
+>William has listed a few words for neighborhood in Glosa: vicina and
+>parokia.  Vicina-pe, or vicina-an, or vicina-fe would seem to work well
+for >neighbor.  Parokia-pe doesn't roll off the tongue easily. What do
+other >members of the list think?
+>
+*   vicina-pe  wins for me.  This uses a standard format in Glosa, and it
+passes the tests of eye, tongue, and mind.  It is recognisable (to
+Europeans, at least), easy to say and hear, and a 'person of the vicinity'
+is a "neighbour".  The "next-door neighbour" is more likely to be the
+para-pe.
+    I use the phrase 'comfortable in the mouth' to describe, to myself, how
+a word feels as I say it: this factor has obviously been of enormous
+significance in the linguistic drift that occurs from generation to
+generation in the evolution of language 'in the wild.'
+    There is every reason for retaining the use of  parokia , the less
+pleaseant-sounding 'synonym', for a less-used concept describing one's
+surrounding area.
+
+>3) Another word that is missing is "boring". Not that Glosa is boring! In
+>fact I've picked up Glosa to help me get through some absolutely-brain
+>numbing meetings.  Is "tedio" the closest Glosa equivalent?
+>
+*   I think so.  If it's short, and comes to the mind and tongue readily,
+it is probably the right Glosa word.  Sorry about your meetings, but yours
+is the same response to that of the monks who had to say all of the "Te
+Deo"s in their cloisters.
+
+>4) Pra = "had" but is there a past tense equivalent for "has"? 
+>
+*   Funny word,  pra .  It is basically "Old Glosa" because the authors
+have dropped it from some of the recent dictionaries.  BUT I, personally,
+find the Perfect Past Tense both useful and significant, so I retain the
+use of the word, even though I might need to footnote it.  However, the
+alternative usages for the Simple Past, in English, viz did run, has run,
+ran, all boil down to one usage in Glosa, = did run.
+     kurso - run
+     pa kurso - ran, did run, has run
+     pra kurso - had run
+
+>5) Can time words go anywhere in a Glosa sentence, as they can in English?
+>*Now* I want to eat. I *now* want to eat. I want *now* to eat. I want to
+>eat *now*.
+>
+*   More or less, so.  I would check the Functional Grammar books before
+making any pronouncement, but there are two factors to juggle: different
+Glosa words relating to time, and the gist/intent/emphasis being put across.
+  nu  - at this moment  ................anywhere, depending on emphasis
+  tem  - at the time, as, while, time(N)  ...  general 'time' word, used
+    according to syntax, depending on which Part-of-Speech it functions as
+  seqe  - following, subsequently  /
+  po | post  - after  ............/  usually function as prepositions
+  freqe  - often, frequently     /     but can be 'adverbs' at start
+  usuali  - usually  ............. normally an 'adverb' before a 'verb'
+
+    Because Glosa has a Syntax-based, Functional-type Grammar, word order
+is strongly related to semantic significance, and, in general - in a simple
+sentence - we can say the more important concepts come first.  Note the
+difference in feeling between:-
+    Nu, na nece akti u-ci.  .......... & .....  Na nece akti u-ci, nu.   
+    Now, we must do this.  ...........   .....  We must do this now.
+
+>6) Am I right in thinking there is little distinction between adjectives
+>and adverbs in Glosa?  Position in the sentence determines the function?
+>
+*   More or less, so; and definitely yes, in that order.
+    Glosa has two main word groupings: substantives (concept-words) and
+function words.  The former comprise words with a distinct 'flavour', those
+that have lexical strength; the latter comprise the small, finite group of
+words that facilitate communication and clarify the relationships between
+the substantives used.  [N.B. I avoid technical Linguistic terminology to
+sidestep being caught in the snares of preconceived definitions.]
+    The substantives can (within reason) function as any P-o-S, and this
+usage is indicated by position.  So, the substantives can denote things,
+actions or descriptions: Nouns, Verbs, or Modifiers.
+    The standard Transitive sentence has S-V-O order, and this translates
+into:-
+  (S) Noun Phrase - (V) Verb Phrase - (O) Noun Phrase
+--EG  U .... gina   .......... bate   un .......... andra.
+----  U rusu gina   .....forti bate   u bruno derma andra.
+  ________|________________|______________|_____|_________ (Modifiers)
+
+Note: Here  derma  describes  andra  and is functioning as an adjective, so
+the English equivalent of the phrase would be "the brown-skinned man".
+    Also, in Glosa, modifiers precede the words they modify ... which does
+cause trouble with some adverbs for speakers of English.  When 'thinking in
+Glosa' one does not think of the 'adverb' last.
+
+>7) Finally, I have to come down in favor of using the verb gene or es with
+>the prefix ge-.  I do not feel ge- by itself is enough. It seems to me
+that >ge- indicates a state of being. The object has been put into the
+state of >whatever - being broken, being seen, being cooked, whatever. The
+object >*is* (es), or *becomes* (gene) the state.
+*   So far so good.  I also prefer the full 'verb' (gene | es) with the
+'participle'  ge- .  Where 'state of being' has the strength of an
+'adjective' then  ge-  does put an Object - somewhere else in the sentence - 
+into the 'state' indicated by the  ge-SUBSTANTIVE  compound, which is a
+functional participle.
+
+>Maybe even *is made* the state - se face. Pa and fu change the time but
+not >the state of being.
+>
+>Saluta,
+>  Debs
+>
+*   Not so sure about this one.  Normally  -se  is described as the
+Reflexive, EG Id frakto-se.  It broke itself.  This is the impersonal form;
+when talking about people, we use  -auto, EG An bate-auto.  He hit himself.
+   se  can occur on its own, but I have not used it as such.  But  se face
+seems more like "self-made" to me.  Try some sentences out on us and we
+will give you feedback.  Glad you are enjoying the List.
+
+Saluta,
+ Robin
+   P.S. Glad you sent in your 'maiden' blip; these Lists have, for too
+long, been a male preserve.    R.G.
+
+
+From: Robin Gaskell
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Wed, 08 Jul 98 22:1
+
+At 07:16 PM 7/5/98 -0400, Paul Bartlett grafo:
+>On Sun, 5 Jul 1998, William W Patterson wrote:
+>
+>> Sun, 05 Jul 98 15:42:38 EDT, Paul O Bartlett skribe:
+>> 
+>> > I think that 'para-pe' would serve well for "neighbor."  So do the
+>> > Glosa authors.
+>> 
+>> I disagree. I think that this is one of those situations in which
+>> agglutination fails, because the root-word combination just isn't
+>> specific enough.  [rest omitted]
+>
+>    And I disagree with your disagreement.  Where does that leave 
+>us? ;-)  Actually, I thought of 'para-pe' before I looked it up in 
+>the volume "Central Glosa: 5000 English into Glosa 1000 with
+>Etymological Notes."  It seems good enough to me.  Here we get into 
+>the thorny question of how much vocabulary is enough (and how much
+>specificity is specific enough)?  I wish I knew more about pidgins
+>(there is some about Tok Pisin on the www), which seem to do quite 
+>well with a limited vocabulary.
+>
+*   Yes, how many different "neighbourhood" groupings do we need in what I
+call a 'Starter Vocab'?
+    About three of four years ago, when Conlang was the only 'constructed
+language' List, the question of New Guinea pidgin came up, so I went to
+Sydney U. to do a bit of reading about it.  My feeling is that the way NGP
+combines the word-pool of English with the way New Guinea people think is
+quite creative, but it looks distinctly like a compromise and a 'make do.'
+Glosa, on the other hand is not a forced marriage of quite different
+language traditions, and so ought to 
+be consistent, streamlined ... and then creative.
+    So, I guess I would say that the pidgin tradition does not, as far as I
+can see, have anything to teach us about how to construct Glosa.
+    But when it comes to the 'full' Glosa, then I believe we should have
+more choice in the concepts we can use.  The whole range of possibilities
+should be open to us:
+  para-pe
+  vicini-pe 
+  parokia-pe
+  proxi-pe
+  ....
+  cyber-ami
+  nexu-pe
+    How might I say, "We neighbour on the Net"?  Na nexu epi u Reti. ??
+ 
+Saluta,
+ Robin
+
+
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST:   Majordomo reads your email address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re@ a few questions
+To: GLOSALIST
+Date: Thu, 09 Jul 98 05:3
+
+At 03:42 PM 7/5/98 -0400, Paul Bartlett grafo:
+>   [  ......  ]
+>On Sat, 4 Jul 1998 DPOLLARD{at}ccmail{dot}sunysb{dot}edu wrote:
+>
+>> 1) The other evening I passed by a bakery. The wind was blowing towards
+me >>and   [  ..............  ]
+>> Last night I passed by a bakery.
+>> Pa-di noktu (Is there a word/phrase for "last night"?)
+>> mi pa ki proxi ("I went near" = "passed by"?)   [  ...........  ]
+>
+>    If you say 'pa-di', then it is not necessary to say 'pa ki',
+>because 'pa-di' already puts the time reference in the past. 
+*   I know Paul sees the prescriptive use of all tense particles and all
+articles as boring overkill and a serious case of Linguistic redundancy,
+and I have been convinced that I should use a lighter hand where these are
+concerned.
+    But I am not convinced, yet, that 'omitting' "pa" and "u" is
+Linguistically Correct (LC); it could still just be a case of 'heavy elision.'
+    And so, I occupy the compromise position.  Although "pa-noktu" does set
+the scene in the past, I believe that the first use of the tense particle
+in a Verb Phrase is called for, and is LC ... prior to the omission of
+following tense particles in the same sentence - as being either completely
+'redundant', or optionally 'elided.'  And for naive learners, I would not
+elide any of the function words.  Deb Pollard shows that she has intuited
+this 'vernacular' usage, so I would not, now that Paul has convinced me,
+suggest that she goes back to ^kindergarten^ by including the tense
+particle in the second Verb Phrase.
+
+>    I keep
+>harping on this in the list because if native-English Glosa-pe get into
+>this habit of over-marking everything under the sun, they may run into
+>trouble understanding Glosa-pe of other native languages which do not
+>do this over-marking, so that the other Glosa-pe do not do it in Glosa. 
+>  [  ......  ]
+*   Yes, Paul certainly does.  I take what he says into the same ear that I
+use when listening to Chinese people saying "It nice day; I go to shop, and
+have walk."
+    Were the missing parts, from this 'telegramatic' sentence, incorrect
+omissions or serendipitous elisions?  People from the same linguo/cultural
+tradition are just as likely to do the same when speaking Glosa: I feel
+that the correct usage should be taught at the start.
+EG  Id u boni di; mi ki a boteka, e greso.*
+..  Id es u boni di; mi fu ki ad u boteka, e fu greso.
+
+     The only function word I would feel happy with eliding, here, is the
+second "fu".  I know which one of these two sentences I would teach to
+learners as good Glosa, and which one I would correct.
+
+>> 4) Pra = "had" but is there a past tense equivalent for "has"? 
+>
+>    'Pra' seems to be an obsolete construction retained only by Robin
+>Gaskell, at least in my acquaintance.  Glosa's verb constructions do
+>not necessarily mimic those of English exactly, just as Esperanto has
+>no simple set of perfect tenses. 
+*   Interesting about Esperanto.  Should the Past Perfect be put in the
+too-hard basket, as a quaint English-ism, or does it earn its place as an
+evolutionary improvement in language use, by giving newcomers to Glosa -
+whose L1 lacks this facility - an improved logical power?
+    The "Tense Table" may not be perfect, but has a pretty good try at
+giving forms that permit all of the tense constructions used in English ...
+except, perhaps, the "has gone"/"went" distinction that Deb asked about.
+
+>    We need not -- indeed, should not --
+>think that the English way is the only way, and certainly not the only
+>correct way, of doing things.  In fact, compared to those of some
+>languages, English verb constructions are rather "muddy," mixing up
+>tense, mood, and aspect.  Many adult learners of English have a
+>difficult time with English verbs.  We should avoid introducing this
+>confusion into Glosa.
+>
+*   Paul please give examples where English confuses these Linguistic
+qualities, and then, if possible, show how Glosa could similarly get it
+wrong, and also how Glosa might do it right.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST:   Majordomo reads your email address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Re: Re@ a few questions
+To: GLOSALIST
+Date: Wed, 08 Jul 98 10:5
+
+On Thu, 9 Jul 1998, Robin Gaskell wrote (excerpted):
+
+> At 03:42 PM 7/5/98 -0400, Paul Bartlett grafo:
+
+>                                       And for naive learners, I would not
+> elide any of the function words.
+
+    It's not merely a question of elision.  Some languages never use
+them in the first place, so far as I know, so elision does not enter
+into the picture.  Why is it somehow "right" for anglophones to use the
+function words as in English and not for others to use Glosa as in
+their native habits?
+
+>                                I take what he says into the same ear that I
+> use when listening to Chinese people saying "It nice day; I go to shop, and
+> have walk."
+
+    I don't find anything at all wrong in this.  It differs from
+English usage, yes, but why is it somehow "wrong"?  Are you taking the
+linguistic-chauvinistic position that only the English way of doing
+things is somehow "the right way"?
+
+>     Were the missing parts, from this 'telegramatic' sentence, incorrect
+> omissions or serendipitous elisions?
+
+    Why does it have to be either/or?  Why can it not be correct in its
+own right?
+
+>                                       People from the same linguo/cultural
+> tradition are just as likely to do the same when speaking Glosa: I feel
+> that the correct usage should be taught at the start.
+
+>      The only function word I would feel happy with eliding, here, is the
+> second "fu".  I know which one of these two sentences I would teach to
+> learners as good Glosa, and which one I would correct.
+
+    I.e., speak like English.  Then why not have them put forth a
+little more effort, learn English as the auxiliary, and put Glosa on
+the rubbish heap?
+
+> >                               In fact, compared to those of some
+> >languages, English verb constructions are rather "muddy," mixing up
+> >tense, mood, and aspect.  Many adult learners of English have a
+> >difficult time with English verbs.  We should avoid introducing this
+> >confusion into Glosa.
+> >
+> *   Paul please give examples where English confuses these Linguistic
+> qualities, and then, if possible, show how Glosa could similarly get it
+> wrong, and also how Glosa might do it right.
+
+    I will have to think about this one for a bit, just because I am
+myself a native English-speaker and get involved in this all the time
+without considering.  However, right off the top of my head I recall
+some Russian adult learners of English who tended to use English tenses
+as they seemed to think they would correspond to Russian aspect usage. 
+For instance, I once heard one Russian consistently use "He has been
+such-and-such" when a native anglophone would simply say "He was" for
+someone who was dead.  In Russian, I suppose, one would use the perfect
+aspect to indicate that something was over and done with, whereas in 
+English we would not mark the aspect at all.  (English "He was" might
+be used wither for a perfective or imnperfective aspect.)
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Robin Gaskell
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Fri, 10 Jul 98 06:2
+
+At 06:48 PM 7/5/98 EDT, you wrote:
+>Sun, 05 Jul 98 15:42:38 EDT, Paul O Bartlett skribe:
+>
+>> I think that 'para-pe' would serve well for "neighbor."  So do the
+>> Glosa authors.
+>
+>I disagree. I think that this is one of those situations in which
+>agglutination fails, because the root-word combination just isn't
+>specific enough.  [  .............................  ]
+>the "purple-berry" problem....  [  ...............  ]
+>   ; a grape was a "wine-berry"    [  .........................  ]
+>      or some other purple berry.
+>
+> But "para-pe" (or "para-fe", etc.) just doesn't work for me. There are
+>too many possible interpretations of "beside-person", and no particular
+>reason to nail it down as "neighbor".
+>
+*   The "para-pe" generic 'neighbour' is a "Glosa 1000" solution to the
+problem of delimiting the lexicon.  How many neighbours, and hence
+neighbourhoods, will be needed in a 'functional-enough' ~2K "Learners'
+Dictionary"?
+    While 'neighbour' conveys, in the abstract, "the next person", then
+*para-pe* suffices.  But, there are so many cultural differences between
+neighbourhoods around the globe, that we possibly have to decide if Glosa
+will blandly lump them all into  para-pe  or whether we will have to go
+specific so we can say,
+EG  Mi ski holo mi plu para-pe, e plura de plu vicina-pe intra plu via;
+proxi mi domi, sed mi ne ski holo plu parokia-pe; qi habita mi suburba.
+
+   I know all of my immediate neighbours, and several of the local people
+in the streets around my home, but I do not know all of the residents, who
+inhabit my suburb.
+
+Then, again, if we live in a village, we are more likely to say,
+EG  Mi ski holo plu persona de mi viki: mu es holo para-pe a mi.  Mi dice
+ko holo plu inkola de mi viki; e mi parokia extende a plu parokia-viki
+intra u vicina.
+
+    I know all of the people of my village: they are all neighbours to me. 
+I speak to all of the residents of my village, and my neighbourhood extends
+to the neighbouring villages in the vicinity.
+
+>We have...
+>
+>EKO = dwell
+>HABITA = dwell
+>INKOLA = resident
+>KO-HABITA = live together
+>PARA = beside
+>PAROKIA = neighborhood
+>VICINA = neighborhood
+>
+>And probably some others if I followed synonyms. 
+*   Enough, enough!
+
+>   I'd favor something
+>like "parokia-pe" or "para-inkola", which nicely bring together the
+>ideas of nearby+residence+people.
+>
+*   Surely that is the intention in creating an open-plan language like
+Glosa.  What we must do as a priority, is to sort out the 'optimal' number
+of ''other-people'' grouping CONCEPTS needed for the first offering of a
+language intended for a world of varied "other-people groupings."
+
+>I have great fun every time I dig into that Glosa dictionary!
+>Just wish I could find the time and motivation to *write* in Glosa...
+>
+>- Saluta! - Bill
+>
+*   Time to take flight, and risk falling from the ^sky^ of Glosa.
+    Step 1: think in Glosa.  Juggle the concepts you want to use, throw
+them into the air, and let them fall .. as words in a sentence.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST:   Majordomo reads your email address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re%% a few questions
+To: GLOSALIST
+Date: Fri, 10 Jul 98 08:4
+
+At 11:16 PM 7/5/98 EDT, Bill Patterson wrote:
+>Sun, 05 Jul 98 19:16:34 EDT, Paul O Bartlett skribe:
+>
+>> And I disagree with your disagreement. Where does that leave us? ;-)
+>
+>Teeheehee! Well, you've got the authors on you side. I'll just have to
+>use Literary Glosa when I talk about my neighbors.
+>
+*   What I hope for is some form of co-operation between us leading to a
+concensus, whereby we might agree, in principle, on the list of concepts
+that should be in a "Starters Dictionary" as opposed to the full "Literary
+Dictionary of Glosa," as Bill might call it. 
+    My method of working is the Australian way, which is somewhat opposite
+to the competitive way of working, and can be described as "co-operation."
+There could be a cultural difference between us at work, here.
+
+>> ...Here we get into 
+>> the thorny question of how much vocabulary is enough (and how much
+>> specificity is specific enough)?
+>
+>Very thorny! No problem once you *learn* things like "para-pe" = "neighbor".
+>But if you have to *learn* them, then 1) you've lost some of the utility
+>of agglutination and 2) you might just as well have a separate word for
+>the term.
+>
+*   I hope we can clip the thorns off, and find a smoothe bit to grasp.
+The specificity, as I see it, is different for a *functional* dictionary
+from more satisfyingly fuller dictionary.  I believe that we would do
+better to be working at the concept level, than at the level of words.
+    Agreed concepts are conveyed by words, but, somewhere along the line,
+we need to decide on the match-up between concepts and words.  In my book,
+the ideas which we want to convey should be primary to the words we use to
+convey them.  I know this is not the way languages emerged in the wild;
+but, now, with hindsight, and with some degree of urgency in seeking a
+solution to the World Languge Problem, I think we need to go back to the
+Roget approach, and look at language communication from the concept point
+of view.
+    Back at having discrete words for each concept vs. using agglutination
+to form hyphenated compounds: Glosa is already a blend of both; and I feel
+that we need to allow 'nature' to take its course, so that while there are
+words derived using both methods, we ought to allow usage to sort out which
+words will survive.  Even though compounding is part of the Glosa story, we
+still need to understand the same thing from the same compound for
+effective communication to occur.  My belief is that compounding works best
+if the component words are well founded as concepts before compounding
+takes place.  From this, the idea of word-translation dictionaries for
+Glosa, does not assist in concept clarifictation, which needs the fuller
+definitions found in normal dictionaries.
+    With no grant for such work, we could seriously follow up the
+suggestion, made by Paul, for more modifying words in the Glosa (word-list)
+dictionaries, to allow a fuller understanding of the meanings intended for
+Glosa words.
+
+>I'm afraid "para-pe" didn't come to me naturally. I need to include
+>something about "residence". To me, "beside-person" brings to mind
+>a spouse or co-worker (figurative) or the passenger sitting next to
+>me on a plane (literal).
+>
+*   There is a place in our communication system for the 'generic'
+"neighbour", and I feel that  para-pe  is as good as any, for this.  
+    If sombody shouted, very loudly:
+ Tena u manu de tu para-pe!  or more simply  Tena tu para-pe manu!
+
+you would very quickly get the urgency of the situation, and grab the hand
+of the person next to you.
+    With less urgency, we very likely will want to be more specific about
+who it is we relate to, and how far out from us the action, or
+relationship, extends.  In such, more normal situations, a larger range of
+choices would seem necessary .. both in relation to the people to whom we
+are relating, and the distance from us, that the relationship extends.
+
+>Makes me wonder if agglutination-type wordbuilding really works well
+>between cultures that don't already have a lot in common. In the early
+>stages anyway.
+*   Good question, but only one that will be answered by people 'testing' it.
+I must see if we can find a group of non-Indo-European-based Glosa-pe who
+are ready to enter into correspondence with Glosalist subscribers, for the
+purpose of our 'using' the language to find answers to such questions.
+    Such Glosa-pe would, however, be practising Glosa as it is, and would
+not be likely to want to spend lots of time discussing Linguistic aspects
+of the language.  I am not sure how many List members would be interested
+in such field research: I know Paul would.
+
+>   Once you're familiar with it, *any* language can work.
+>The question is, how long will it take to reach that point?
+>
+*   This seems to be the Esperanto position, "I took five years learning
+this language, and now feel I have invested part of my life in Esperanto,
+so identify with it, and its surrounding culture."   I believe, that, with
+Glosa, we do not have the luxury of expecting such a long lead-in time, so
+the language needs to be much more immediately usable.  Rules of
+compounding, and the relationships between component words probably need to
+be spelled out.
+
+>> ...I wish I knew more about pidgins
+*   I suspect that pidgins are a different matter, and that the
+Interglossa-Glosa path is a different one, evolutionarily.
+
+Saluta,
+  Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST:   Majordomo reads your email address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: William W Patterson
+Subject: Re: Re@ a few questions
+To: GLOSALIST
+Date: Thu, 09 Jul 98 19:3
+
+Just got back from another business trip to Alabama,
+and now I'm catching up with my mail!
+
+Thu, 09 Jul 98 05:39:01 EDT, Robin Gaskell skribe:
+
+> I take what he says into the same ear that I
+> use when listening to Chinese people saying "It nice day; I go to shop, and
+> have walk."
+>     Were the missing parts, from this 'telegramatic' sentence, incorrect
+> omissions or serendipitous elisions?
+
+In English, incorrect omissions. But when it comes to Glosa *used as an
+IAL*, I'm in favor of the telegrammatic style that Paul advocates and
+Chinese uses (well, Chinese is telegrammatic as compared to English,
+though of course to the Chinese it's not telegrammatic at all!). The
+very fact that the telegrammatic style works in telegrams is proof that
+the extra words are, indeed, extra. And I think it would be much easier
+for the student if such extra words were 1) not compulsory but were also
+2) permissible, as long as the student understands that they might cause
+confusion.
+
+Thus, those whose native language does not use such words would not have
+to learn this foreign way of speech, and those whose native language *does*
+use them could simply be told to just try to speak more telegrammatically.
+
+Extra words would also be quite useful in Literary Glosa.
+
+- Saluta! - Bill
+
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+vi vi vi - The Editor Of The Beast
+
+
+From: William W Patterson
+Subject: Re: Re%% a few questions
+To: GLOSALIST
+Date: Thu, 09 Jul 98 21:1
+
+Fri, 10 Jul 98 08:46:39 EDT, Robin Gaskell skribe:
+
+> There is a place in our communication system for the 'generic'
+> "neighbour", and I feel that  para-pe  is as good as any, for this.  
+
+Ah, I think I see! Your "neighbour" is generic, more inclusive, and
+*could* mean "spouse", "co-worker", "passenger in the seat next to you",
+or "person who resides next to you". Context would make that work. In fact,
+it would be a very handy literary device. But if I were to say "See her?
+She's my beside-person.", you really wouldn't know her relationship to me.
+As with the example in the Basic Reference: "The woman; who is going
+around the corner; is my neighbor.".
+
+So, we're talking about two different things. You're talking about a
+reflexive kind of situation, or a literary reference, but I'm talking
+absolutely.
+
+Yippee! We're both right, we both win!
+
+Except for one thing. When somebody looks up "neighbor" in the dictionary,
+what should the corresponding Glosa word be? Perhaps both "vicina-pe" and
+"para-pe" should be listed, with the latter marked as "generic" or some
+such thing.
+
+> Such Glosa-pe would, however, be practising Glosa as it is, and would
+> not be likely to want to spend lots of time discussing Linguistic aspects
+> of the language.  I am not sure how many List members would be interested
+> in such field research: I know Paul would.
+
+Me too! It might be of more interest, though, to see how beginners deal
+with it. As I said before, *any* language works once you learn it. The
+practicing Glosafolk are using it as they have learned to use it. The
+fact that it works doesn't prove that it is the best way or the easiest
+to learn or to use. (Unless their style is *not* by the book. Deviations
+would be of considerable interest!)
+
+(Somebody once said that *anything* is regular if the rules are complicated
+enough!)
+
+I said...
+> Once you're familiar with it, *any* language can work.
+> The question is, how long will it take to reach that point?
+
+...to which Robin replied...
+> This seems to be the Esperanto position, "I took five years learning
+> this language, and now feel I have invested part of my life in Esperanto,
+> so identify with it, and its surrounding culture."   I believe, that, with
+> Glosa, we do not have the luxury of expecting such a long lead-in time, so
+> the language needs to be much more immediately usable.
+
+(Since I realized our different approaches to the word "neighbor",
+some of the specifics in the following paragraph aren't relevant,
+but the logic still applies for explaining my lead-in-time remarks.)
+
+Well, that wasn't quite the point I wished to make. As it stands, if I
+learn "para" and "pe", I also have to learn what a "para-pe" is, because
+it doesn't contain the concept of "residence" and thus doesn't mean
+"neighbor" to me. I get three words for the price of three. But if I
+learn "parokia" and "pe", then "parokia-pe" is pretty straightforward;
+three words for the price of two. And I've also gained another link in my
+mind to "para"! I believe that this sort of regularity would make Glosa
+easier to learn, and without it, Glosa will suffer a long lead-in time.
+
+Similar arguments can be made for "vicina-pe" and "inkola-pe".
+
+This sort of analysis is why I have so much fun with the Glosa dictionary,
+but it is also why I always burn out and have to put it away for a while!
+
+- Saluta! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+
+
+From: Robin Gaskell
+Subject: Re: a few questions(Paul B. I)
+To: GLOSALIST
+Date: Sun, 12 Jul 98 08:2
+
+At 11:50 AM 7/6/98 -0400, Paul Bartlett grafo:
+>On Mon, 6 Jul 1998, Aaron Irvine wrote (excerpt):
+>> Regarding adverbs, how to distinguish the following:
+>> a strongly skilled woman
+>> a strong skilled woman
+>
+>    Why not just recast the phrase?  There is nothing writ large in the
+>nature of the universe which says says that any non-English language
+>has to mimic English word for word.  I would suggest that learners of
+>any non-native language avoid that habit of trying to translate word
+>for word.  This was drummed into me in elementary French class
+>thirty-seven years ago.
+>
+*   Seems like the good advice, from all those years ago, has lasted well.
+I would suggest, also, that your teacher of elementary French would have
+been happy when, through your diction, you demonstrated that you were
+'thinking in French' as well.
+
+>u gina; qi habe u resista tekno   a strongly skilled woman
+>u resista gina; qi habe u tekno   a strong, skilled woman
+>
+*   I enjoy your translation and note that you have used Adjectival Clauses
+to break up the structure, but keeping "strong" and "skilled" together when
+they comprise a single concept.  However, I prefer to use semantic matching
+when translating, and feel that the 'reactive' "strength" of  resista
+would be less acceptable to the woman than the 'proactive' "strength" of
+forti .
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST:   Majordomo reads your email address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: a few questions(Irvine I)
+To: GLOSALIST
+Date: Sun, 12 Jul 98 05:5
+
+At 01:44 PM 7/6/98 +0100, Aaron Irvine grafo: (OR pa grafo IF WE SHOW THE
+NOUN/VERB JUNCTION)
+>Saluta,
+>
+>I'd go for para-pe to loosely mean (home-)neighbour, co-worker, etc.,
+>but still allow para-inkola (cool word) when precision was required.
+>
+*   Yes.  Bill is simply using the agglutinative principle, as it applies
+to Glosa compounding, correctly.  And the join, _heard_ as a short "gap"
+between the component words, is _seen_ by the human, or computer, reader as
+a hyphen.
+ 
+>William W Patterson wrote:
+>
+>> I tend to push this idea farther than the creators probably had in mind.
+>> My wish is that any word can act as any part of speech (though some
+>> combinations are less sensible than others!). 
+*   I thought this concept, of the "concept-word" being able to be used -
+(as Bill points out) within reason - as any part of speech, was one of the
+first introductory statements that people read about the language.
+
+>>    But it does seem necessary
+>> to have *something* mark the end of the subject and the beginning of the
+>> verb.
+>>
+>
+*   Well, in a well-turned Glosa sentence, the substantive acting as a noun
+ - just before the start of the Verb Phrase - marks this boundary.  And, if
+we are in the Past, this start of the Verb Phrase is very likely to be a
+"pa," ... two markings of the boundary!? 
+ 
+>I strongly agree.  I only feel comfortable understanding a Glosa sentence
+>when I see the noun - verb boundary, and I detect this with my sense of
+>English language (arghh) rather than some objective means.
+*   Funny thing though, English has only five verbal inflections, and its
+grammar is 50% Syntax-based.  This could be your reason, Aaron, for finding
+English uncomfortably close to Glosa.  Glosa does the Syntax-based Grammar
+thing right: in English, however, Syntax-based Grammar "sort-of" evolved,
+and is still breaking away from the inflected German grammar that was added
+by the Anglo-Saxons.
+
+>    Is the Vorlin.nu minimal grammar approach better than Glosa "no"
+>grammar attempt?? 
+*   More information on Vorlin.nu required: some of us have only time for
+one Planned Language in our busy schedules.  Glosa uses 'Head Final' phrase
+structure and this is the foundation of its Syntax-based grammar.  We all
+apologise for the mis-statment of "no MORPHOLOGICAL grammar" as "no grammar."
+
+>   I feel three types of word (or types of word usage)...
+>1) adverb / adjective / gerund / noun
+>2) verb / preposition
+>3) interjection
+>The comma alone could maybe be used to distinguish these.
+>
+*   Without examples in Glosa or simple English, I cannot 'understand' this
+schema.  No time to run through the combination of the all possible
+interpretations that your groupings conjure up.
+    Rearanging  1) , slightly, I give EG
+ quickly running old man  (ADV/G/ADJ/N)
+ celero kurso paleo andra
+
+   This is the Noun Phrase minus its Determinant, "The" or "a" or "Several"
+(U | plu).  Please note:  andra  does not agree in number with its
+determinant  u  or  plu; also,  andra  is the only logical 'noun' in the
+whole four-word group .. it is the 'culmination' of the Noun Phrase, and,
+as such is the Linguistically 'Final' "Head," .... and the terminal
+boundary of the Noun Phrase in Glosa.
+   While the casual reader might say that all of these words are
+substantives, and that the grouping is a "concept cluster" and, thus,
+semantically too dense, I ask the non-casual reader to notice that the
+words follow a clear-cut sequence of increasing significance, and that the
+order is Syntactically correct, and cannot be changed.
+    Aaron, I suggest that the most direct path to the Glosa truth is for us
+to accept that words are basically all concepts, and that each concept
+could concievably function as any part of speech: after having decided to
+use this as a working hypothesis, we can then say that the surface
+structure, or syntax, gives us the ^lie of the land^ and indicates the
+particular way a word is being used in a specific instance (is it
+incarnating as a verb, noun, modifier, or what); and, then, we apply
+'hidden power' by allowing our "language centres" in the brain to go to
+work, and sort out the deep structure, or semantics, of the sentence - to
+*understand* what the sentence's words really mean.
+    Perhaps speaking and writing Glosa is the reverse of the above process.
+
+>Regarding adverbs, how to distinguish the following:
+>a strongly skilled woman
+>a strong skilled woman
+>
+*   We will agree on  "U .............. gina."  but what goes between; and
+even more importantly, does the rest of the message need to be tightly
+squeezed into that space?
+    And why should we not consider the possibility of 
+ a skilled strong woman  and
+ a skilfully strong woman  as well?
+
+   There is an underlying pattern in all of these phrases:-
+ LEAST IMPORTANT / MORE IMPORTANT / EVEN MORE IMPORTANT / MOST IMPORTANT
+
+That is how it goes in English, and that is basically how it goes in Glosa.
+But, in Glosa, without the "-ly", "-ed" and "-fully" Part-of-Speech
+markers, we might need to be a bit more basic in our sentence structure -
+not having the sophistication of using such inflections.
+    We can juggle  forti  and  tekno - throwing words, instead of balls,
+into the air - but we might, just might, have to spell out the relationship
+between these concepts, to ensure that we have conveyed the right meaning.
+    The need to think about what you want to say - before saying it - is, I
+fear, the major ^culture-shock^ when entering Glosaland.  After achieving a
+regularity of morphology .. for various believed advantages .. we then have
+to pay the price of this 'elegance' by using a more *descriptive* style in
+our sentence formation.  So, here are my attempts at the phrases in
+question  EG
+ a strongly skilled woman  ...  u gina; qi habe plu forti ge-developo tekno
+ a strong skilled woman  .....  u forti, ge-tekno gina
+    a skilled strong woman  ..  u ge-tekno, forti gina
+    a skilfully strong woman    u gina; qi uti fe forti ko tekno
+
+    Maybe, in English, we place the Adverb last because it is the remnant
+of an elided Adverbial Clause.  ... purely an unsubstantiated theory.  In
+Glosa, we have not had sufficient usage of the language to make such heavy
+elision current, yet.  Perhaps it will come; but, for the moment, it is
+probably best to *spell out* what we are trying to say, so that our
+readers, or listeners, have no trouble in following our drift.
+
+Saluta,
+ Robin
+    
+
+
+
+
+
+
+From: Robin Gaskell
+Subject: Re: a few questions (Aaron II)
+To: GLOSALIST
+Date: Sun, 12 Jul 98 08:0
+
+At 09:18 AM 7/7/98 +0100, Aaron Irvine grafo:
+>Saluta,
+>
+>Adverbs are not just European, they are universal and are used to
+>provide a higher level of structure than simple linear {adjective}-noun.
+>
+*   Ah so!  I bigly goodly want to sort this out, too!!!
+      
+>Consider "a very good person" = ((big good) person)
+>
+*   Obviously you, Aaron, I and all on the Glosalist fit this category.  We
+all would like to understand if, and how, Glosa might contribute to the
+progress of civilisation through reform of the language process.
+ 
+    So, let me say straight out,
+  u fo boni persona  =  a very good person
+
+    Aaron, I believe that you have fallen into the trap, all too common in
+Western Scholarship, of over-intellectualising the situation.  And here are
+a few details backing up my sentence, above:-
+   forti [strong]
+   fo [strong (abbreviated form)]
+   boni [good]  ..................are all 'modifiers', IE they add to the
+meaning of another substantive, usually a 'noun' or a 'verb'.  However,
+here, we see a modifier modifying another modifier: is this mouthfull
+permissible in Glosa?  Of course it is.
+   The only Grammatical Rule that the authors have published is:
+     "A word is modified by its precedent."
+
+   This is not much to go by, but it does lead directly into 'Head Final'
+phrase structure - something I had to figure out for myself; it also tells
+us that 
+" ... fo boni ..." is OK.
+   Is it a $good$ which is $very$, or do we suspend judgment, and wait to
+see what the next word is, only to discover that we have a #person# who is
+primarily #good#, and secondarily #very OR strongly so#?
+   On top of all that, I would see a distinction between the concepts of
+"big" and "very": we might describe somebody as 'Mr Big' but never as 'Mr
+Very'; this suggests to me that there is a semantic category difference
+between these concepts.  My guess is that  mega [big]  is a substantive
+while  fo [very]  is a function word.  This probably explains why we are
+more likely to read of a  fo mega andra  than of a  mega fo andra .
+   I believe that your mathematical approach to language is not the right
+one for understanding the structure of Glosa.  As children, we spend years
+'understanding' how we are supposed to juxtaspose words in our sentences,
+then, as educated adults, we carry on, as normal, 'knowing' that the way we
+sequence our words in sentences is 'obviously right.'
+   What makes both Chinese and English hard for learners is the
+'naturalistic' uninflected grammar.  Glosa ^joins the club^ - only moreso -
+with NO inflections, and a word order that is also assumed to be close to
+the 'natural.'
+   The difference between the two natlangs and Glosa is that the natlangs
+evolved, or devolved, to their 'natuarlistic', mainly uninflected, forms,
+while Glosa was 'hatched' under ^pressure-cooker^ conditions to simulate
+this 'naturalness' in language.  Did Clark and Ashby get it right: are they
+even close?  Only practice will tell!
+   Hence, in my understanding of the R&D situation, as it applies to Glosa,
+we are now in the "Application" (or Verification) stage of the language's
+development.  As such, I am very interested to see how the language fits
+the mouths of common people .. as it is.  The authors assumed that the
+language was ready to be picked up by the man, woman and child in the
+street, but they had not taken into account the Linguist in the road.
+
+>A language needs somehow to identify the inner pair of brackets.  It >could:
+>0) ignore them and use two sentences instead (too clumsy)
+*  Agreed about the clumsiness, but not that language contains the
+mathematical sort of bracketting that you suggest.
+
+>1) ignore them and let context assist (too risky)
+*  The authors trusted the people's cerebration more than you do; this was
+the sort of risk they were prepared to take.
+
+>2) dictionnary define some "(big" as a LINK-NEXT (ie adverb) rather
+> than a LINK-LAST (ie adjective) (too much rote learning)
+*   As stated above, the authors go for each word in a phrase impinging on
+the next, sequentially ... seeing concepts affecting concepts in a forward
+direction, rather than Adverbs modifying Adjectives, as we have been taught
+to do in English.
+
+>3) tag the space between big and good
+> eg Esperanto:
+>    bona homo -> a good person
+>    multE bona homo -> a very good person (bigLY good person)
+*  With all respect to Esperanto, I see that as their problem.  Glosa tries
+to see the "good person" as simply a  boni persona [good person], and a
+"very good person" as a  fo boni persona [very good person].
+    No *tag* seems necessary, or correct, to impede the modification
+process in Glosa.
+
+>4) indicate the inner brackets
+> eg Chinese:
+>    hao ren -> a good person
+>    hen hao DE ren -> a very good person
+*   Though I do not follow what is happening, here, in Chinese, I am going
+to ^play^ the "Recency Card" and say that, with hindsight, and the benefit
+of recent thinking in Linguistics (since it became a 'science'), the Glosa
+authors have ''streamlined'' language usage as much as they feel people can
+bear, and have attempted to iron out the wrinkles that have built up,
+through usage, in the national languages.
+
+>5) let the adverb be a declination on the adjective
+> eg BSL
+>    gVoEoRdY person
+>
+>Glosa could maybe use an affix, big-good person, but this mechanism is
+>already used to form new words (para-pe etc)
+>
+*   fo  is already an affix; this case was argued by some in previous
+discussions in the Conlang list.  There is no hyphen, and  fo  has the
+structure of a full word, but it is bound to the following word by the
+mythical Rules of Syntax; so, in Glosa we have the best of both worlds.
+    Though there might possibly be a BSL, I would have a lot of trouble
+speaking it, with its UPPER/lower case mix, so I suspect that you are
+finishing off your blip with an EXfTRuEMnELnYy joke.
+                                
+Saluta,
+ Robin
+    P.S.  Or is it EfXTuREnMEnLYy?
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST:   Majordomo reads your email address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: a few questions(Bill P.)
+To: GLOSALIST
+Date: Sun, 12 Jul 98 12:1
+
+At 08:21 PM 7/6/98 EDT, Bill Patterson grafo:
+>Mon, 06 Jul 98 08:44:01 EDT, Aaron Irvine skribe:
+>
+>> Is the Vorlin.nu minimal grammar approach better than Glosa "no" 
+>> grammar attempt??
+>
+>I like the Vorlin approach,  [  ..............  ]
+>But the Glosa way is to use order within the sentence rather than affixes.
+>
+>> Regarding adverbs, how to distinguish the following:
+>> a strongly skilled woman  ....................................  (A)
+>> a strong skilled woman  ......................................  (B)
+>
+>Using Glosa's head-finalness, those three ideas in that order would
+>parse as...
+>
+>   ( strong ( skill woman ) )
+>
+*   But note, this is only a surface parse, and does not take into account
+the semantic relationship between the words.
+    Using brakets, which I feel gives a misleading interpretation, they
+are:-  
+ (A)  ( ( strong skill ) woman )
+ (B)  ( strong ( skilled woman ) )
+    but could also be 
+ (C)  ( [ strong ] [ skilled ] woman )  where the qualifiers were equivalent.
+
+>1) As Paul points out, you could rearrange the first sentence.
+>
+*   Which he did well.  I recall that he re-arranged both phrases.
+
+>2) Or find an adverby Glosa word for the "strong" part, but I don't
+>   really like that idea.
+>3) How about linking the first two...
+>   a strong-skill woman
+>
+*   u forti, tekno gina  .....  modifiers equivalent  .....  (1)
+    u forti-tekno gina  ......  forti  modifies  tekno  ...  (2)
+    u forti tekno gina  ......  indeterminate relationship . (3) 
+    u forti tekno-gina  ......  a strong technologiste  ...  (4)
+
+   This lady probably worked out with weights while studying her technology.
+
+Saluta,
+ Robin     
+
+>xyzzy!
+>
+*   Agreed, whatever it means!
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST:   Majordomo reads your email address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: William W Patterson
+Subject: Re: concept words
+To: GLOSALIST
+Date: Sat, 11 Jul 98 23:1
+
+Sun, 12 Jul 98 05:57:29 EDT, Robin Gaskell skribe:
+
+RG> *   I thought this concept, of the "concept-word" being able to be
+RG> used - (as Bill points out) within reason - as any part of speech,
+RG> was one of the first introductory statements that people read about
+RG> the language.
+
+Yes, but while examining the Glosa 6000 I came across things like...
+
+ AMI = friend
+ AMIKA = friendly
+ FILEMON = friendly or loving
+
+ EKINO or SOLOX = bristly
+ HORIDO = bristling
+ KAETA or SETA = bristle
+
+...which may just be misleading, but it appears to indicate that some
+words are to be thought of as adjectives, some as nouns, etc. Could AMI
+be used as an adjective, or AMIKA as a noun? Well, probably, particularly
+if used to form a compound. So perhaps what we've discovered here is that
+there is yet another group of hidden synonyms in Glosa. Oh no!
+
+> *   Well, in a well-turned Glosa sentence, the substantive acting as a noun
+>  - just before the start of the Verb Phrase - marks this boundary.  And, if
+> we are in the Past, this start of the Verb Phrase is very likely to be a
+> "pa," ... two markings of the boundary!? 
+
+This well-turning could be tricky though, and critical, because if any
+word can be any part of speech, how can you know when you've reached the
+end of the phrase? (Reminds me of the old joke about spelling "Mississippi":
+I *know* how to spell it; I just don't know when to stop!) One has to make
+a determined effort to somehow mark the Head of the "Head Final". A "pa"
+marking the beginning of the verb phrase would certainly mark the end of
+the noun phrase. Or the first word that could not logically be used as a
+noun could perform the same function. This gives a lot of importance to
+the words that cannot logically be interpreted as any part of speech (can
+somebody think of a good word for that?) in a language that is based on
+words that can!
+
+- Salata! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Life is like an analogy.
+
+
+From: William W Patterson
+Subject: Re: a few questions
+To: GLOSALIST
+Date: Sat, 11 Jul 98 23:2
+
+Tue, 07 Jul 98 04:18:20 EDT, Aaron Irvine skribe:
+
+> Consider "a very good person" = ((big good) person)
+
+...e...
+
+> Glosa could maybe use an affix, big-good person, but this mechanism
+> is already used to form new words (para-pe etc)
+
+That's *exactly* how I'd do it. It creates a little head-final kind of
+compound word and then applies it to another word in a head-final phrase.
+
+To me, those two uses are the same.
+
+I don't think of compound words as separate words in their own right; at
+least, I don't think they should be. If the root words are precise enough,
+and the compounds are created carefully enough, then the meaning of a
+compound should be obvious. But I have retained many compounds in the
+dictionary (and added some for completeness) because 1) sometimes the
+compounds are *not* obvious (purpleberries!) and 2) I think they make
+the dictionary more useful.
+
+- billp
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Life is like an analogy.
+
+
+From: William W Patterson
+Subject: Re: a few questions and concept-words too
+To: GLOSALIST
+Date: Sun, 12 Jul 98 00:3
+
+Sun, 12 Jul 98 12:16:53 EDT, Robin Gaskell skribe:
+
+> *   u forti, tekno gina  .....  modifiers equivalent  .....  (1)
+>     u forti-tekno gina  ......  forti  modifies  tekno  ...  (2)
+>     u forti tekno gina  ......  indeterminate relationship . (3) 
+>     u forti tekno-gina  ......  a strong technologiste  ...  (4)
+
+Would (3) really be indeterminate? I'd say it's the same as (4). With no
+punctuation, "each word is modified by the one before it"? Uh, oh, as I
+wrote that, I realized that I'm not sure that I really understand it. I
+interpreted it to mean (FORTI(TEKNO GINA)) in (3), the case of no
+punctuation. As if each *thing* is modified by the word before it, and
+the *things* begin with the head and accumulate backward. But I could
+also argue for ((FORTI TEKNO)GINA) (GINA is modified by TEKNO, but TEKNO
+is first modified by FORTI).
+
+"And there is a gradual increase in the importance of the words."
+
+(Those quotations are from Robin's Seminar.)
+
+Help! I've managed to totally confuse myself. Maybe it's time for bed.
+
+> >xyzzy!
+> >
+> *   Agreed, whatever it means!
+
+It's a Magic Word in many Text Adventures.
+
+- Saluta! - Bill
+
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Life is like an analogy.
+
+
+From: William W Patterson
+Subject: Re: concept-words
+To: GLOSALIST
+Date: Sun, 12 Jul 98 00:1
+
+Sun, 12 Jul 98 08:09:33 EDT, Robin Gaskell skribe:
+
+>   u fo boni persona  =  a very good person
+
+Eeek! I don't see "fo" in G6000. But it's in G1000.
+
+>     Aaron, I believe that you have fallen into the trap, all too common in
+> Western Scholarship, of over-intellectualising the situation.  And here are
+> a few details backing up my sentence, above:-
+>    forti [strong]
+>    fo [strong (abbreviated form)]
+>    boni [good]  ..................are all 'modifiers', IE they add to the
+> meaning of another substantive, usually a 'noun' or a 'verb'.  However,
+> here, we see a modifier modifying another modifier: is this mouthfull
+> permissible in Glosa?  Of course it is.
+
+By modifiers, do you mean that they are *Modifiers* or that they are acting
+as modifiers in this sentence? Could "forti" or "boni" ever be the Head?
+When it is said that "Glosa words can be used, within reason, as any part
+of speech", I fear that maybe I'm not sufficiently reasonable!
+
+> What makes both Chinese and English hard for learners is the
+> 'naturalistic' uninflected grammar.  Glosa ^joins the club^ - only moreso -
+> with NO inflections, and a word order that is also assumed to be close to
+> the 'natural.'
+
+What's bothering me tonight is: Glosa seems to have an awful lot of words
+that *cannot* act as *any* part of speech. And they seem to be necessary,
+since there is no other way of marking the heads of the phrases. Is it
+*possible* to have a head-final concept-word language with no method of
+marking the heads? 
+
+(That's why I say that I probably push this concept-word idea farther
+than the authors had in mind.)
+
+Another troublesome aspect: if FORTI and its synonyms cannot be used
+as nouns, and the nouns are just nouns and the verbs just verbs, then
+we are left with ROBORA for the verb and VIS for the noun. Beauty, but
+not simplicity. Three forms of the same concept without any obvious
+relationship. It seems to me that it might be simpler to learn a regular
+inflection or a handful of POS markers/affixes to apply to concept-word
+roots. In fact, couldn't one say that the FORTI/ROBORA/VIS example
+demonstrates a highly irregular and inflected language?
+
+> The authors assumed that the
+> language was ready to be picked up by the man, woman and child in the
+> street, but they had not taken into account the Linguist in the road.
+
+Quick! Jump out of the way!
+
+- billp
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Life is like an analogy.
+
+
+From: Robin Gaskell
+Subject: Re: Re@ a few questions
+To: GLOSALIST
+Date: Mon, 13 Jul 98 10:3
+
+At 07:34 PM 7/9/98 EDT, Bill Patterson grafo:
+>Just got back from another business trip to Alabama,
+>and now I'm catching up with my mail!
+>Thu, 09 Jul 98 05:39:01 EDT, Robin Gaskell skribe:
+>
+>> I take what he says into the same ear that I
+>> use when listening to Chinese people saying "It nice day; I go to shop, 
+>> and have walk."
+>>     Were the missing parts, from this 'telegramatic' sentence, incorrect
+>> omissions or serendipitous elisions?
+>
+>In English, incorrect omissions. But when it comes to Glosa *used as an
+>IAL*, I'm in favor of the telegrammatic style that Paul advocates and
+>Chinese uses (well, Chinese is telegrammatic as compared to English,
+>though of course to the Chinese it's not telegrammatic at all!).
+*   This all comes down to a need for realworld feedback.
+    It is obvious that we have different *beliefs* about what would be best
+for the world: now we really need to get feedback from people from other
+linguo-cultural groups, to see what they say, as a result of practical
+experience.
+    I will take this as a top priority matter - finding addresses of
+Glosa-pe who are able to respond to us, in Glosa, from around the globe.
+
+>      The
+>very fact that the telegrammatic style works in telegrams is proof that
+>the extra words are, indeed, extra. And I think it would be much easier
+>for the student if such extra words were 1) not compulsory but were also
+>2) permissible, as long as the student understands that they might cause
+>confusion.
+>
+*   I do want to know: is Glosa a telegramatic language with extra words
+added for the convenience of learners; or is it a fully-featured language
+from which one can optionally elide function words.
+
+>Thus, those whose native language does not use such words would not have
+>to learn this foreign way of speech, and those whose native language
+>*does* use them could simply be told to just try to speak more
+>telegrammatically.
+*   If we are going to do things scientifically, I guess we should set up
+hypotheses for testing.  Chinese, and who else, are likely to find the
+Glosa grammar loading greater than that in their L1?  And, alternatively,
+speakers of which languages will find Glosa's grammar load much less that
+that of their L1?
+>
+>Extra words would also be quite useful in Literary Glosa.
+>
+*   My belief, as well.  But my understanding of the need to teach the
+fully-featured language, with all function words in place, is based on the
+educational theory that you can more easily leave out bits you know about,
+than try to stick pieces into place, if you haven't been taught where the
+right places are.
+
+Saluta,
+ Robin
+
+The 'bottom line' is people, not money.  R.G.
+
+
+From: Robin Gaskell
+Subject: Re: Re%% a few questions
+To: GLOSALIST
+Date: Sat, 25 Jul 98 06:0
+
+At 09:12 PM 7/9/98 EDT, Bill Patterson grafo:
+>Fri, 10 Jul 98 08:46:39 EDT, Robin Gaskell skribe:
+>
+>> There is a place in our communication system for the 'generic'
+>> "neighbour", and I feel that  para-pe  is as good as any, for this.  
+>
+>Ah, I think I see! Your "neighbour" is generic, more inclusive, 
+>   [  ................................  ]
+>So, we're talking about two different things. You're talking about a
+>reflexive kind of situation, or a literary reference, but I'm talking
+>absolutely.
+>   [  ...............................  ]
+>     When somebody looks up "neighbor" in the dictionary,
+>what should the corresponding Glosa word be? Perhaps both "vicina-pe" and
+>"para-pe" should be listed, with the latter marked as "generic" or some
+>such thing.
+>
+*   Precisely.  Paul Bartlett once pointed out that a "word-translation"
+dictionary would work better with qualifying words, as well.
+
+>   [  .............................  ]
+>> Such Glosa-pe would, however, be practising Glosa as it is, and would
+>> not be likely to want to spend lots of time discussing Linguistic aspects
+>> of the language.  I am not sure how many List members would be interested
+>> in such field research: I know Paul would.
+>
+>Me too! It might be of more interest, though, to see how beginners deal
+>with it. As I said before, *any* language works once you learn it. The
+>practicing Glosafolk are using it as they have learned to use it.
+*   And differences in usage will have been introduced through variations
+in the learning situation, and from cultural influences.   We can try to
+standardise the former, but the latter is a given, that must be reckoned
+with .. especially where the neurolinguistics of national speech patterns
+conflict with the 'European-style' pronunciation of Glosa.
+
+>The fact that it works doesn't prove that it is the best way or the easiest
+>to learn or to use. (Unless their style is *not* by the book. Deviations
+>would be of considerable interest!)
+>(Somebody once said that *anything* is regular if the rules are complicated
+>enough!)
+>
+*   These statements are relevant to the Glosa situation.  The authors have
+purposely not printed a Grammar Book, and have published only one
+grammatical rule: that a word is modified by its precedent.  This has shown, 
+among the Third World Glosa-pe, that the language does live even without a
+^smack on the bottom^ from a heavy grammar-book.  However, this experiment
+has proved counter-productive among the First World would-be-Glosa-pe, who
+feel that Glosa needs a ^life support system^ to make it live, for them.
+    The Ugandans are using Glosa "not by the book", because there is
+virtually no book to go by.   I was asked by Peter Kwagala for some help
+with a few "seminars" on Glosa's usage, and that was in 1995; after a
+serious lapse, I will resume the process, with 'Seminar #2', ' .. #3', and
+so on.
+    As an experiment run under very extreme conditions, I feel that Glosa
+showed, with statistical significance, that it works without complicated
+rules.  However, the experiment was, I feel, very costly - in that for
+those not in "extreme conditions" an un-Booked Glosa did not reach the
+significance level, of workability.
+    And that's where we are, now, in the Glosalist: I am trying to vivify
+Glosa with "life support" in an ad hoc manner.  The modification of a " 'no
+grammar'" Hypotesis 1, is a "syntax by seminars" Hypothesis 2.  This second
+experiment ought to gain an even higher significance rating for Glosa's
+workability in the Third World, and might even raise workability to
+significance in the First.
+
+>I said...
+>>   [  ...............  ]
+>>The question is, how long will it take to reach that point?
+>
+>...to which Robin replied...
+>>   [  ......................................  ]   I believe, that, with
+>> Glosa, we do not have the luxury of expecting such a long lead-in time
+>> *as has been had by Esperanto* so the language needs to be much more >>
+immediately usable.
+>
+*   I was suggesting that Glosa should be more "look and say" than
+"understand and work out".  The 'cut-off point' is IAL adoption, and we are
+IMHO much closer to this now that we were in 1881, when Esperanto kicked
+off.  It is my belief that Glosa needs to enable people to reach fluency
+quicker than does Esperanto, because there may not be 'five years' between
+now and when the machinery for IAL adoption is set in place, with, of
+course, the major player in the 'highly probable' slot.
+
+>  [  ..........  ]
+>Well, that wasn't quite the point I wished to make. As it stands, if I
+>learn "para" and "pe", I also have to learn what a "para-pe" is, because
+>it doesn't contain the concept of "residence" and thus doesn't mean
+>"neighbor" to me. I get three words for the price of three. But if I
+>learn "parokia" and "pe", then "parokia-pe" is pretty straightforward;
+>three words for the price of two. And I've also gained another link in my
+>mind to "para"! I believe that this sort of regularity would make Glosa
+>easier to learn, and without it, Glosa will suffer a long lead-in time.
+>
+>Similar arguments can be made for "vicina-pe" and "inkola-pe".
+>
+*   With the wizardry of electronic databases, such improvements to the
+Glosa dictionary are instantaneous, and a finger-press away.  I feel that
+the "neighbour" moity can be sorted out very quicly, as it seems to have
+been done on Glosalist, and adjustments to the dictionary can be made using
+suitable qualifiers.  How do I translate "next-door neighbour" into Glosa,
+anyway?  Possibly ~para-domi-pe~ simmers down to ~para-do-pe~.
+    Bill, you are putting up the case for spefic terminology, and fairly
+regularised rules for the derivation of words; I seem to be quoting the
+case for flexibility in concept-building.  I have the feeling that this is,
+as you observed earlier a win-win situation: some people will use Glosa in
+the concrete, and others will, as happens with most modern languages,
+polarise their usage to the abstract; with time, and suitable
+encouragement, others, again, will discover that they have, within Glosa,
+the flexibility to chose the specificty of the word they want to use.
+    But getting back to basics, we cannot hit Glosa learners on the head
+with the Glosa equivalent of the Full Oxford English Dictionary.  I feel
+that we should be fairly specific and restricted in range, in the Glosa
+Staters' Dictionary, but that there ought to be a few non-specifics
+included, to show learners that abstraction is alive and well in Glosa, also.
+
+>This sort of analysis is why I have so much fun with the Glosa dictionary,
+>but it is also why I always burn out and have to put it away for a while!
+>
+*   I am having the same problem with going through your list of unincluded
+words: I am up to "F".
+
+Saluta,
+ Robin
+
+
+From: Robin Gaskell
+Subject: Re: concept words
+To: GLOSALIST
+Date: Fri, 24 Jul 98 09:0
+
+At 11:11 PM 7/11/98 EDT, Bill Patterson grafo:
+>Sun, 12 Jul 98 05:57:29 EDT, Robin Gaskell skribe:
+>
+>RG> *   I thought this concept, of the "concept-word" being able to be
+>RG> used - (as Bill points out) within reason - as any part of speech,
+>RG> was one of the first introductory statements that people read about
+>RG> the language.
+>
+>Yes, but while examining the Glosa 6000 I came across things like...
+>
+> AMI = friend
+> AMIKA = friendly
+> FILEMON = friendly or loving
+>
+> EKINO or SOLOX = bristly
+> HORIDO = bristling
+> KAETA or SETA = bristle
+>
+>...which may just be misleading, but it appears to indicate that some
+>words are to be thought of as adjectives, some as nouns, etc. Could AMI
+>be used as an adjective, or AMIKA as a noun? Well, probably, particularly
+>if used to form a compound. So perhaps what we've discovered here is that
+>there is yet another group of hidden synonyms in Glosa. Oh no!
+>
+*   Firstly, I would say that in general use, the basic rule as enunciated,
+above, holds for most of the Glosa lexicon.   
+    While  amika  and  filemon  may be Classical synonyms, perhaps this
+represents a historical cultural difference, with the Greeks being more
+affectionate in their friendliness.
+    I have tried to avoid the ^square corner^ approach in my use of the
+Glosa lexicon, and have, possibly slackly, used  ami  and  amika  almost
+interchangably, choosing whichever felt best in a particular sentence.  The
+alternative view is that  amika  is the full substantive word, while  ami
+is the abbreviated form. 
+>> *   Well, in a well-turned Glosa sentence, the substantive acting as a noun
+>>  - just before the start of the Verb Phrase - marks this boundary.  And, if
+>> we are in the Past, this start of the Verb Phrase is very likely to be a
+>> "pa," ... two markings of the boundary!? 
+>
+>This well-turning could be tricky though, and critical, because if any
+>word can be any part of speech, how can you know when you've reached the
+>end of the phrase? (Reminds me of the old joke about spelling "Mississippi":
+>I *know* how to spell it; I just don't know when to stop!) One has to make
+>a determined effort to somehow mark the Head of the "Head Final". A "pa"
+>marking the beginning of the verb phrase would certainly mark the end of
+>the noun phrase.
+*   So far so good.
+
+>     Or the first word that could not logically be used as a
+>noun could perform the same function. This gives a lot of importance to
+>the words that cannot logically be interpreted as any part of speech (can
+>somebody think of a good word for that?) in a language that is based on
+>words that can!
+>
+*   I think we are falling down the crack between 'syntax' and 'semantics.'
+The Glosa rules relate to syntax; and, on an Internet List, like this one,
+the syntax can be seen - easily - on screen, but the semantics are not so
+readily discerned.  My guess is that Semanticists have had a lot to say
+about lexical items that are 'dedicated' to functionas only one part of
+speech.  And I would guess that at a later phase of Glosa research, we will
+give the language the full treatment of Semantic analysis, possibly along
+the lines of Functional Grammar.  However, at present, I go along with the
+authors, and am trying to get away with letting the brain of the Glosa-pe
+sort it out.
+   If any word could possibly function as any part of speech, but, in
+reality, we know that many words don't, then for normal language usage we
+are guided by common sense in this.  We have "But me no buts!" but not "To
+me no to-es."
+   I still find it very convenient (not a good Linguistic term) to use
+inverted commas when assigning a word its Part-of-Speech in Glosa, EG
+   Kurso dona mega hedo.
+    kurso - 'noun' (= word functioning as a NOUN)
+    dona  - 'verb' 
+    mega  - modifier: 'adjective'
+    hedo  - 'noun'
+
+Most of these words can function as other Parts-of-Speech:  kurso  is
+usually a 'verb';  dona  can be an 'adjective' or even a 'noun; we usually
+see  hedo  in its 'adjective' [happy] incarnation, but it can be a 'noun'
+[hapiness] as here.    mega  will only very seldom, if at all, be a thing
+or an action, so is dedicated to the "comparative" function and will almost
+always be an 'adjective', or rarely, an 'adverb'.  Lumping all such
+'dedicated' words into the "funtion word" category might be a bit crass,
+but it lets us get on with seeing Seantics in two broad categories: but is
+this enough of a classificatory division?  Some words are always verbs, and
+others always prepositions; while the authors believe that people have the
+language ability to sort these categories out automatically, is this
+classification something we should be doing now?  Personally, I believe
+that attempting to use the language in all its uncertainties, is more
+important, at present, than dotting every "I" and crossing every "T",
+metaphorically speaking, of course.
+
+
+From: Robin Gaskell
+Subject: Re: a few questions and concept-words too
+To: GLOSALIST
+Date: Sun, 26 Jul 98 15:2
+
+At 12:36 AM 7/12/98 EDT, Bill Patterson grafo:
+>Sun, 12 Jul 98 12:16:53 EDT, Robin Gaskell skribe:
+>
+>> *   u forti, tekno gina  .....  modifiers equivalent  .....  (1)
+>>     u forti-tekno gina  ......  forti  modifies  tekno  ...  (2)
+>>     u forti tekno gina  ......  indeterminate relationship . (3) 
+>>     u forti tekno-gina  ......  a strong technologiste  ...  (4)
+>
+>Would (3) really be indeterminate? I'd say it's the same as (4). With no
+>punctuation, "each word is modified by the one before it"? Uh, oh, as I
+>wrote that, I realized that I'm not sure that I really understand it. I
+>interpreted it to mean (FORTI(TEKNO GINA)) in (3), the case of no
+>punctuation. As if each *thing* is modified by the word before it, and
+>the *things* begin with the head and accumulate backward. But I could
+>also argue for ((FORTI TEKNO)GINA) (GINA is modified by TEKNO, but TEKNO
+>is first modified by FORTI).
+>
+>"And there is a gradual increase in the importance of the words."
+>(Those quotations are from Robin's Seminar.)
+>
+*   We do try to avoid confusion, and the normal sentence does flow
+normally with obvious rise in significance from word to word.  But, in
+situations, like the four-word sequence above, we need to aid the
+communication process by useing vocal inflection and punctuation to show
+the internal associations of the words.  
+Saluta,
+ Robin
+
+
+From: Robin Gaskell
+Subject: Re: concept-words
+To: GLOSALIST
+Date: Sun, 26 Jul 98 14:1
+
+At 12:13 AM 7/12/98 EDT, Bill Patterson grafo:
+>Sun, 12 Jul 98 08:09:33 EDT, Robin Gaskell skribe:
+>
+>>   u fo boni persona  =  a very good person
+>
+>Eeek! I don't see "fo" in G6000. But it's in G1000.
+>
+*   Just another case for the flexibility of correcting the word-list by
+having it in electrical storage.  Perhaps there could be some standard
+format for showing an abbreviation in the dictionary:  forti [fo] - strong,
+strongly, very.
+    It is simply an annoyance that all of our Glosa-pe, and potential
+Glosa-pe, are not computerised.  There might be some way around this
+permanence of the paper printed word lists; I can't imagine what it is,
+just at present.
+
+>>    [  ..... ]     And here are
+>> a few details backing up my sentence, above:-
+>>    forti [strong]
+>>    fo [strong (abbreviated form)]
+>>    boni [good]  ..................are all 'modifiers', IE they add to the
+>> meaning of another substantive, usually a 'noun' or a 'verb'.  [ ...  ]
+>
+>By modifiers, do you mean that they are *Modifiers* or that they are acting
+>as modifiers in this sentence? Could "forti" or "boni" ever be the Head?
+*   This could be the cause of sleepless nights, but I have not got this
+question from the Ugandans, yet.
+    I suspect that most people will use Glosa without realising that there
+is a problem with identifying the "Head", or with wondering how far the
+function of a word can spread.
+    An habe ta forti; an sio pote trakto id ad u sola.
+   [He has so much strength, he could pull it to the ground.]
+           ~~~~~~~~~~~~~~~~
+I would call "forti" the Head of a Noun Phrase, here.  
+
+    Fe pa akti id pro u demo boni.
+   [She did it for the people's good.]
+                   ~~~~~~~~~~~~~~~~~
+Likewise, "boni" is the Head of a phrase here.
+ 
+>When it is said that "Glosa words can be used, within reason, as any part
+>of speech", I fear that maybe I'm not sufficiently reasonable!
+>
+*   A good question.  As I recall it, the conditional "within reason" was
+absent from the original statement.  This is a legalistic addition to
+prevent people from trying to push words beyond there Semantic Limits.  I
+think that the "reason" here can be equated with the old cover-all, "common
+sense."
+
+>> What makes both Chinese and English hard for learners is the
+>> 'naturalistic' uninflected grammar.  Glosa ^joins the club^ - only moreso -
+>> with NO inflections, and a word order that is also assumed to be close to
+>> the 'natural.'
+>
+>What's bothering me tonight is: Glosa seems to have an awful lot of words
+>that *cannot* act as *any* part of speech. 
+*   By this, do you mean " ... *cannot* be made to function as *every* part
+of speech."?
+    Yes, in trying to make the rules for words universal, the authors have
+possibly over-generalised the situation.  I am certain that they were
+expecting the 'man, woman and child' in the street to apply their inherent
+linguistic abilities to the situation, knowing that, for example, they
+could not used "ad" as a verb.  
+    One can list all of the possible P-o-S usages of a word, and this would
+be a proper way for computer programmers to go about doing it.  The
+_Collins Cobuild Essential Dictionary_ does just this: it has a special
+column down the side in which the exact P-o-S usage is noted for every
+listing of a word; it makes the whole language thing very complicated.
+
+>    And they seem to be necessary,
+>since there is no other way of marking the heads of the phrases. Is it
+>*possible* to have a head-final concept-word language with no method of
+>marking the heads? 
+>
+*   In English we happily gabble on, without a second look to see where our
+phrases start and stop; and, in all but the most obtuse writing, we can
+easily divide a complex sentence up into its constituent clauses and
+phrases.  Sometimes this requires us to read out the sentence, aloud, to
+get the rhythm of it, to tell us where one phrase ends and the next starts.
+ This could be a demonstration of somatic knowlege being superior to
+intellectual knowlege.
+    Glosa, of course, is designed to make use of this 'feel' for language,
+also.
+
+>(That's why I say that I probably push this concept-word idea farther
+>than the authors had in mind.)
+>
+*   My first reaction is: too far!  For research purposes, yes, we ought to
+know what the ranges uf P-o-S usage are.  I am not sure if such fundamental
+research is relevant to the writing of a Starter Dictionary.
+
+>Another troublesome aspect: if FORTI and its synonyms cannot be used
+>as nouns, and the nouns are just nouns and the verbs just verbs, then
+>we are left with ROBORA for the verb and VIS for the noun. Beauty, but
+>not simplicity.
+*   This is not the pattern: one synonym the 'noun' another the 'verb',
+etc.  The authors in attempting to be all-inclusive, and to allow the use
+of all Classical referents, overdid their linguistic generosity.  Each
+synonym was intended to be treated equally!
+
+>   Three forms of the same concept without any obvious
+>relationship. It seems to me that it might be simpler to learn a regular
+>inflection or a handful of POS markers/affixes to apply to concept-word
+>roots. In fact, couldn't one say that the FORTI/ROBORA/VIS example
+>demonstrates a highly irregular and inflected language?
+>
+*   This plethora of synonyms was an unexpected turn-up from the
+scan/reverse/relist exercise that produced the English -> Glosa, 6000-word
+list.
+    Had Ron Clark thought the 'POS markers/affixes' path had been the right
+one, he would have left it to Esperanto to take the honours in the IAL
+race.  The fact that he had a feeling for the need for simplicity in our
+linguistic reform, led him to dedicate a couple of decades of his life to
+trying to put his finger on the non-agglutinative solution.
+    I would like to see the working behind your equation of synonyms with
+irregularity and inflection in language.  How about demonstrating this
+thesis with examples.
+
+>> The authors assumed that the
+>> language was ready to be picked up by the man, woman and child in the
+>> street, but they had not taken into account the Linguist in the road.
+>
+>Quick! Jump out of the way!
+*   When I first looked into the matter of Global Language Reform, I
+assumed that Linguists would naturally be the standard-bearers in this
+revolution: who, I asked, were supposed to know all about language, and
+would, accordingly, use this knowlege for the betterment of mankind's use
+of language on the Planet!?  I see the Linguist in the road holding out his
+arm in the direction of the man in the street: is he offering a helping
+hand to the man so he may progess on his path towards human communication,
+or is the Linguist barring the man's way?
+
+Saluta,
+ Robin
+
+
+From: William W Patterson
+Subject: Re: concept-words
+To: GLOSALIST
+Date: Thu, 30 Jul 98 21:4
+
+Sun, 26 Jul 98 14:19:44 EDT, Robin Gaskell skribe:
+
+> *   By this, do you mean " ... *cannot* be made to function as *every* part
+> of speech."?
+
+Yep, that's it.
+
+> One can list all of the possible P-o-S usages of a word, and this would
+> be a proper way for computer programmers to go about doing it.  The
+> _Collins Cobuild Essential Dictionary_ does just this: it has a special
+> column down the side in which the exact P-o-S usage is noted for every
+> listing of a word; it makes the whole language thing very complicated.
+
+Oooh, I need to take a look at that! (Yep, I'm a programmer, that's me.)
+But does it actually make language more complicated, or less, or even
+have no effect at all? Maybe just makes language *appear* more complicated.
+One way of looking at it (descriptively) is that such a dictionary merely
+codifies practice. If you're unsure, you can look it up. It may look
+difficult seen all together at once, but it's really just a textbook
+description of what folks are saying anyway. Well, perhaps I should say no
+more until I actually look at it!
+
+> *   This is not the pattern: one synonym the 'noun' another the 'verb',
+> etc.  The authors in attempting to be all-inclusive, and to allow the use
+> of all Classical referents, overdid their linguistic generosity.  Each
+> synonym was intended to be treated equally!
+
+It's just a dictionary problem. If you look up "strong", you find "forti"
+but not the others; if you look up "strengthen" you find "robora" but not
+the others; if you look up "strength" you find "vis" but not the others.
+They are, of course, synonyms (eek!), but to users whose language is not
+concept-word-oriented, the segregation makes it appear that these are
+different forms of the same word, but wildly different from one another.
+
+Synonyms don't make irregularity. (It was a joke! (That was the thesis!)
+(But it could go something like this...))
+
+Root word (noun): VIS = strength
+
+To form a verb: If the leading character is V, drop the leading V- and
+append -ORA, the verbal suffix. Substitute R for leading vowels. If two
+consonants are found to be adjacent, replace the second with -OB- since
+this is easier to pronounce. Thus, "robora". (If the leading character
+is not V, see page 231, paragraph 4.)
+
+To form an adjective: If, during construction of the verbal form, a
+secondary consonant was replaced by the -OB- infix, then begin by dropping
+the final consonant, if the word contains a consonant. See Table XIII
+for consonantal shifts; in this case, F replaces leading V. And remember,
+whenever a word might consist of only a consonant and a vowel, the infix
+-ORT- (Organic Recyclable Trash, according to my daughter, or "leaving,
+refuse" in Old or Middle English, I can't remember which and can't find
+my source) must be inserted between them. Thus, "forti".
+
+And I before E except where it isn't.
+
+- Saluta - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Oh, goody!  My Alludium Q-36 Explosive Space Modulator!
+

@@ -1,0 +1,5108 @@
+
+From: Paul O Bartlett <bartlett{at}smart{dot}net>
+Subject: Word Pairs and Terminal Vowels
+To: glosalist <glosalist{at}zeta{dot}org{dot}au>
+Date: Sun, 6 Dec 1998 22:40:38 -0500 (EST)
+
+    Quite some time ago I took the Glosa Basic Reference from my web
+pages and "cut it down to size" by deleting the Glosa-English portion
+and reformatting it somewhat for personal use.  This evening, with some
+judicious editing, I processed that in turn.  What I came up with was a
+list of approximately 155 word pairs (or a triple or two), some for the
+same thing and some instances of the same term differing only by the
+terminal vowel.  I advocate that in each instance, one term be accepted
+and the other(s) dropped.  I append the list for information.  Note
+that this list does -not- cover all the possibilities of couplets and
+triplets in Glosa 6000.  Because of the manual editing process, it is
+possible that I missed something here and there.
+
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart..net/~bartlett
+
+a, ad
+a, topo
+adeno, glandi
+agri, kampo
+akusti, audi
+ala, ptero
+albi, leuko
+aliena, xeno
+ambienta, peri-lo
+animo, menta
+anto, flori
+aqa, hidro
+arena, sili
+artikula, artro
+ateli, posta-bileta
+audi, akusti
+auri, oti
+austra, sud
+baka, koku
+banda, taeni
+bio, vita
+boni, eu
+boreo, nord
+brio, muski
+buno, kolina
+buro, ofici
+destru, nekro
+digi, digita
+enkefa, cerebra
+eqilibri, libra
+ergo, labori
+excesi, tro
+fago, vora
+fascina, faskina
+feki, kopro
+feli, felis
+festa, libe-tem
+foli, fisa
+fono, soni
+forma, morfo
+frea, putea
+frigi-tem, hiberna
+frika, frikti
+fungu, miko, fungus
+gania, vikto
+gene, esce
+gimno, nudi
+glacia, kristali
+glutea, piga
+gra, gramini
+grafo, skribe
+gumi, latex, latici
+habitu, more
+helio, sola
+hemi, semi
+infra, hipo
+intestina, entero
+iride, spektra
+juga, zigo
+ka, kausa
+kako, mali
+kancera, kanceri, kancero
+kanta, kanti
+kapila, triko
+kapsu, kapsa, paketa
+kaverno, speleo
+kerati, kornu
+kine, ki
+ko, kon, sin
+kolea, vagina
+kon alelo, simul
+konekti, nexi
+kongru, gru
+konka, ostraka
+kosmo, universa
+kotona, kotoni, gosipa
+krepita, susura
+kri, lisi
+kritici, kritika
+kron, instanta
+kune, kunea
+laku, limni, limno
+lase, lice, permite
+laxa, laxi
+lepidoptera, papilio
+lexi, verba
+lime, limo
+lingua, glosa
+litora, margina
+malus, pomi
+mana, matina
+mars, meno tri
+mero, peci
+metodi, mode
+mode, senti
+nervo, neuro
+nexu, reti
+nima, nomina
+nokti, noktu
+nuli, zero
+ocide, uest
+odoro, olface
+ok, okto
+ordinari, vulga
+ori, surge
+orienta, est
+os, stoma
+osku, oskula
+pan, panto
+pen, penta
+pen, penta
+penite, pardo
+pisu, pisum
+pluvi, pluvia
+po, post
+po-kron, tardi
+poli, multi
+porta, janu
+qe, veri?
+qo numera?, qanto?
+qo-horo?, qo-di?
+qo-mode?, komo?
+ra, pragma
+repli, responde
+rota, ciklo
+rubi, eritro
+rubi-xanto, orange
+saluta, ave
+sedi, side
+semani, signifi
+senti, este fobo
+septi, seti
+seri, lista
+seta, kaeto
+seti, septi
+sipa, disipa
+smi, sub ridi
+solidi, stereo
+somni, sopo
+strata, via
+su, supra
+sub, hipo
+supra, su
+te, tende
+tele, dista
+tem, duranto
+termo-tem, estiva
+tet, tetra
+topika, tema
+trakto, tira
+unda, undu
+vaku, keno
+vasa, vaso
+vegeta, sito-fito
+ze, zero
+zoa, animali
+
+From: Robin Gaskell
+Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Tue, 08 Dec 98 05:4
+
+At 11:31 AM 11/30/98 -0500, Paul Bartlett wrote:
+>On Mon, 30 Nov 1998, Aaron Irvine wrote excerpt):
+>
+>> ASAP please.  A target date (eg 1st Jan 2000) should be set for
+completion --
+>> nobody really wants to learn roots that are going to change!
+>
+>    Yes, the language needs to be stabilized once it is optimized.
+>
+*   The last time something was knocked into shape by "mass action" was the
+refining of the _Tense Table_.  This was done, off-line, by different
+people looking at the copy of the Tense Table they recieved, and rewriting
+it and adding to it, so that the final form was a melding of many inputs,
+with the resultant 'stabalised' form of the Table being the version that
+people were happy with after it had been through many hands.
+    Maybe the Net is supposed to work like this, too.  But, so far, the
+Glosalist hasn't worked as a ^hands on^ experimental work-place in the same
+sort of way.  Bottle-necks occur, and this slows down the innovation
+process: up to now, I have been the main bottle-neck, because I am the one
+who went through the dictionary - word for word - in an attempt to
+stabalise it.  The only other substantial effort since then has been Bill
+Patterson's compiling of a list of English-language words for which he
+could find no Glosa equivalents.
+    It took me a long while going through this list trying to find
+equivalent words from the existing Glosa dictionaries or the Latin
+dictionary, or by creating compound words or phrases that would act as
+equivalents.  After I type this up, and it will be a long list added as an
+"Attachment", I will ask for feedback from the members of this List.  I
+will also send a copy to the authors.
+    As soon as I mail off the list of "missing words" I will start
+seriously on the job of chopping down the "6000" to at least half of its
+size: this will be approached on an *every second word must go* sort of basis.
+    I am not saying that others should not attempt the same, just that
+others are not.  Hence, I need to work a bit harder to give you a shorter
+dictionary to look at, think about and ammend.  One possible "missing word"
+for example, is 
+ JOB.  Do we lump it in with WORK, or do we divide 'work' up into smaller
+pieces called 'jobs'?  What is the Glosa equivalent of the English-language
+word, "job": is it ~ergo~, ~opus~, ~job~ or can it be any of these?
+
+>>   Can we have a *definitive* list of phrase
+>> markers?  Never use the semicolon, it's invisible in speech. 
+>
+*   Well, the authors settled on the semi-colon for dividing clauses in
+text, because they thought that, with syntax being the main factor in
+grammar, they would need to indicate clause boundaries very clearly.  The
+semi-colon was elevated to the status of a "syntax marker."
+    If you don't like the semi-colon, put forward your own suggestion with
+examples of Glosa text demonstrating it.  As I see it, text is the main
+problem in communicating meaning: there is no emotion, intonation, emphasis
+or pausing.
+So, it is my belief that written communication needs a hell of a lot more
+help, in trying to get the message through, than does spoken communication.
+    Looking at relative values, I think that putting a distinctive,
+non-verbal syntax marker in written text is more important than the fact
+that such an indication cannot be heard in speech.
+    As I recall, the Glosa authors were quite happy with the comma for
+normal phrase marking, where it seems either necessary or helpful.  When I
+write parallel texts in Glosa and English, I look at the two sentences, and
+evaluate them separately: I read the English-language sentence, and decide
+whether or not the phrases need marking off with a comma; and then, I read
+the Glosa sentence, independently of the first, sensing whether commas are,
+or are not, needed in it.  There does not seem to be a direct 'mapping
+across' of the punctuation marks from one language to the other: each seems
+to imply its own rules of 'punctuation'.
+
+>    By the "Mechanics of Glosa" I am referring to the lists of
+>paradigmatic phrases and sentences that appear in various publications,
+>as well as in the web pages I set up.  My only real complaint with
+>these lists of paradigms is that they are insufficient.
+>
+*   Yes, a complete book of _Glosa Grammar - By Example_ would be a great
+thing.  You are all invited to send in your own examples; there is no
+guarantee that they will be among the finally-accepted examples adopted by
+the group; nor will your intellectual property be rewarded.  Such a
+'group-think' product would bear the GEO (Glosa Education Organisation)
+copyright mark, which means that the Glosa charity would own the results of
+our collective participation.
+    I put a case here for "altruism": 'think not what your world can do for
+you, but what you can do for your world'.  The above suggestion is one of
+organised anarchism: while no-one is "boss", neither are we losing our
+authority, nor are we losing to someone else's advantage.  The authors did
+not create the mechanics examples with word functions indicated: I did.
+So, I can be free to give away this idea for the greater good.  While, for
+those who would be worried about having their intellectual productions
+stolen by others who would profit from them, placing the G.E.O. copyright
+on the final book (GG-BE), would protect our collective efforts from
+possible outside exploitation.
+
+>    A young child does not learn her native tongue from a grammar book. 
+>However, neither does she learn paradigmatic phrases free from a
+>context.  That context is feedback, both verbal and nonverbal, from her
+>elders.  Such feedback is missing in the current "Mechanics of Glosa"
+>approach.
+>
+*   Why on earth, did I attempt to retell in Glosa children's stories, like
+the "Three Bears" legend?  The grammar inherent in this story is absorbed
+by osmosis: it is a story that tells itself; most of us know what is coming
+next.  This is the sort of "context" you ask for.  The sentences of the
+childrens stories are the examples of the 'mechanics' of the language,
+while the stories give the context.
+    I didn't say that writing these stories was easy, just that I worked
+hard to make the final products easy to read.
+    When are you going to try your hand at Glosa, by retelling your
+favourite(s) in Glosa?
+
+>  [  ...........  ]    If the
+>time referent is clearly in the past or the future, then it is simply
+>not necessary to keep using 'pa' and 'fu' all over the place.  Some
+>natlangs (such as English) are forever marking tense, but there is no
+>reason Glosa has to.  Similarly, it is simply not necessary to mark
+>every noun with 'u(n)' and 'plu' every time, such as after a
+>preposition, especially when number is unknown or irrelevant.
+>
+*   This truth is the main contribution, so far, from Paul Bartlett to the
+refining of Glosa.  Paul states the case very clearly, and leaves it to the
+sense of the writer/speaker to decide whether context does, or does not,
+indicate the need for particles.
+    Formerly, I had thought that all Glosa documents had to be 'machine
+readable' for the purpose of Machine Translation.  But no: Glosa, like all
+languages operates at different levels, and Paul pointed out that it was
+'wrong' to demand the repetition of tense markers and determinants, where
+they were essentially redundant.
+    When, on the other hand, it might become necessry to run Glosa
+documents through the Translating Machine, we could see the possibility of
+^topping and tailing^ Glosa texts, prior to running them through the
+translator, by adding the 'missing particles', for the benefit of
+translation.  
+    So, I still see the "verbose", full form of Glosa with the redundant
+particles in place, and the "vernacular" form with the otherwise redundant
+particles 'elided.'  I suspect that Paul would not see things this way:
+even so, when we write conversational Glosa, both of our versions of the
+language come out looking much the same.
+
+Saluta,
+ Robin Gaskell
+
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST:   Majordomo reads your email address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Mon, 07 Dec 98 19:0
+
+At 04:05 PM 11/30/98 +0000, Aaron Irvine wrote:
+>
+>Paul O Bartlett wrote:
+>> 1) Eliminate the terminal confusion.
+>>
+>Yes.  And get rid of any unnecessary final consonants.
+>
+*   Not sure if this is intended as a facetious comment or not: there are
+few Glosa words ending in consonants, EG kron [when], sed [but], tem [time].
+    The words are supposed to end in vowels; the consonants are usually in
+the second-last position.
+
+>> 2) Eliminate the Greek-Latin word pairs (in each instance, pick
+>>    one and discard the other).
+>
+>Choose one (the Latin one if there's no better reason) for standalone use.
+> But keep both for compound (scientific) word formation.
+*   A Greater Glosa dictionary - somewhere in the sky - has many more than
+6000 words, but we havent caught them all yet.  Yes, the most suitable
+Classical roots should be available for compound formation, but also for
+the selection of basic words.  We have agreed that a first dictionary with
+no, or only very rare, synonyms would be the best place for Glosa learners
+to begin.
+
+>> 3) Optimize the base vocabulary (and I do -not- consider Glosa 6000
+>>    to be the "base vocabulary").
+>
+>ASAP please.  A target date (eg 1st Jan 2000) should be set for completion
+> -- nobody really wants to learn roots that are going to change!
+>
+*   While I'll agree with Paul that there are some archaic and rare words
+in "6000", I found, in practice, that the "6000" was a lot more comfortable
+for me than being restricted to the "1000" list.
+
+>> 4) Enhance the "Mechanics of Glosa" with connected to text to
+>>    demonstrate that it is simply not necessary to mark everything
+>>    under the sun.
+>
+>Good mechanics is essential!!!  Can we have a *definitive* list of phrase
+>markers?  Never use the semicolon, it's invisible in speech.  Has anyone
+>considered the mechanics of AllNoun (another conlang, can't remember its
+URL)?
+>
+*   One of the many 'pipeline' items, this could be expedited through some
+attempts on the part of other Glosalist subscribers.
+
+>> 5) Promote the language better (however that is to be done).
+>>
+>Promote it within the conlang circle yes, but I fear it's too young to
+venture into the big bad world.  Prejudice would develop against it.
+>
+*   A tricky one.  The authors had hoped for a cash injection from
+somewhere, but this never came.
+    Paul suggests work in languages other than English.  I must ask about
+this: there are Glosa-pe in most European countries, and Glosa-X
+dictionaries do exist for most Euro-languages.
+    Yes, there is some prejudice, but the main opposition is apathy towards
+the concept of Language Reform.
+
+>May I suggest a central homepage -- "http://come.to/glosa"
+>
+>Regards,
+>Aaron.
+>
+*   Yes.  Good idea.  But there has been no other volunteer, yet.  The
+authors would set up such a website, IF they had funds for it.
+
+**   I have, at last, worked through the Bill Patterson list of words he
+noted as missing from the "6000" lists.  I will soon type up my efforts,
+but will then have to add the ones we agree on to the "6000" lists.
+
+***   After that, comes the reduction of the expanded lists to the
+preferred length for a Starter Dictionary.  This involves more work than
+discussion.
+
+Help with these tasks will be appreciated.
+
+Saluta,
+ Robin Gaskell
+
+
+From: William W Patterson
+Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Tue, 08 Dec 98 21:0
+
+Luna-di, 07 Dekembra 98 19:09:30 EST, Robin Gaskell skribe:
+
+> **   I have, at last, worked through the Bill Patterson list of words he
+> noted as missing from the "6000" lists.  I will soon type up my efforts,
+> but will then have to add the ones we agree on to the "6000" lists.
+
+Yep, I'm still around. But I've been awfully busy the last month or so
+and am currently getting over a nasty cold. Can't wait to add the missing
+words to the dictionary!
+
+> ***   After that, comes the reduction of the expanded lists to the
+> preferred length for a Starter Dictionary.  This involves more work than
+> discussion.
+
+If we could just get rid of all the synonyms we could cut the size down
+a great deal. I know there's still a bunch lurking in there that I missed.
+I'm certain that I found most of the ones that were defined using the same
+English word(s), but I know that some remain because they were defined by
+English synonyms that I didn't catch. That is, if glosa1 and glosa2 were
+defined as english1, I found them. More difficult to find are cases in
+which glosa1=english1 and glosa2=english2, and english1 and english2 are
+synonyms themselves!
+
+- Salata! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+You're in a small chamber lit by an eerie green light.
+
+
+From: Charles
+Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Tue, 08 Dec 98 22:4
+
+William W Patterson wrote:
+
+> If we could just get rid of all the synonyms we could cut the size down
+> a great deal. I know there's still a bunch lurking in there that I missed.
+> I'm certain that I found most of the ones that were defined using the same
+> English word(s), but I know that some remain because they were defined by
+> English synonyms that I didn't catch. That is, if glosa1 and glosa2 were
+> defined as english1, I found them. More difficult to find are cases in
+> which glosa1=english1 and glosa2=english2, and english1 and english2 are
+> synonyms themselves!
+
+I tried once to categorize the whole bunch,
+similar to the way Paul has them on his web page.
+Arranging them in classes would show more clearly
+the comparative overload of terms in certain areas.
+I know of a few efforts to arrange a hierarchy
+of terms (Rick Harrison, WordNet, some AI stuff)
+but nothing complete for this purpose. When making
+such a subdivision of semantic space, one is
+forced to confront one's metaphysical biases
+or else simply inherit them from someone else.
+
+
+From: Charles
+Subject: Re: Glosa** (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Wed, 09 Dec 98 00:2
+
+Robin Gaskell wrote:
+
+> >May I suggest a central homepage -- "http://come.to/glosa"
+> >
+> >Regards,
+> >Aaron.
+> >
+> *   Yes.  Good idea.  But there has been no other volunteer, yet.  The
+> authors would set up such a website, IF they had funds for it.
+
+It really doesn't take much money to do so.
+They just don't think the net is important enough.
+I mean, even my cats have their own domain!
+
+> **   I have, at last, worked through the Bill Patterson list of words he
+> noted as missing from the "6000" lists.  I will soon type up my efforts,
+> but will then have to add the ones we agree on to the "6000" lists.
+
+Yeoman work! as they supposedly used to say.
+
+> ***   After that, comes the reduction of the expanded lists to the
+> preferred length for a Starter Dictionary.  This involves more work than
+> discussion.
+> 
+> Help with these tasks will be appreciated.
+
+How?
+
+
+From: Robin Gaskell
+Subject: Re: Word Pairs and Terminal Vowels
+To: GLOSALIST
+Date: Tue, 15 Dec 98 04:0
+
+At 22:40 6/12/98 -0500, Paul Bartlett wrote:
+>    Quite some time ago I took the Glosa Basic Reference from my web
+>pages and "cut it down to size" by deleting the Glosa-English portion
+>and reformatting it somewhat for personal use.    [  .....  ]
+>   I advocate that in each instance, one term be accepted
+>and the other(s) dropped.  I append the list for information. 
+>Paul                                  
+> ---------------------------------------------------------
+*    There are some synonyms - one of which can be set aside - in other
+cases, there might be reasons for using both parts of a pair:-
+ Bartlett Pairs  ............  Gaskell Comments
+ -------------------------------------------------
+>a, ad  ..........  a [towards]; ad (before word with initial vowel)
+>a, topo  ........  a [ to, at]; topo [(located) at]; to [at (place)]
+>adeno, glandi ...  adeno  ~~~~~ [gland]
+>agri, kampo  ....  agri  ~~~~~ [field]
+>akusti, audi  ...  akusti [listen to]; audi [hear]
+>ala, ptero  .....  ptero  ~~~~~ [wing]
+>albi, leuko  ....  leuko  ~~~~~ [white]
+>aliena, xeno  ...  xeno  ~~~~~ [strange]
+>ambienta, peri-lo . peri-lo  ~~~~~ [surroundings]
+>animo, menta  ...  anima [soul]; menta [mind]
+>anto, flori  ....  flori  ~~~~~ [flower]
+>aqa, hidro  .....  hidro [water] ... aqa (reasonable synonym)  +++
+>arena, sili  ....  arena  ~~~~~ [sand]
+>artikula, artro .  artikula  ~~~~~ [joint; good enunciation]
+>ateli, posta-bileta . posta-bileta   ~~~~~ [postage stamp]
+>auri, oti  ......  oti  ~~~~~ [ear]
+>austra, sud  ....  sud  ~~~~~ [south] 
+>baka, koku  .....  kokus  ~~~~~ [berry]
+>banda, taeni  ...  taeni  ~~~~~ [worm]
+>bio, vita  ......  bio [life, living]; vita [life energy]
+>boni, eu  .......  boni  ~~~~~ [good]
+>boreo, nord  ....  boreo  ~~~~~ [north]
+>brio, muski  ....  musku  ~~~~~ [moss]
+>buno, kolina  ...  kolina  ~~~~~ [hill]
+>buro, ofici  ....  ofici  ~~~~~ [office, official]
+>destru, nekro  ..  destru [destroy]; nekro [death]
+>digi, digita  ...  digita  ~~~~~ [finger, toe]
+>enkefa, cerebra .  enkefa  ~~~~~ [brain]
+>eqilibri, libra .  libra  ~~~~~ [balance]
+>ergo, labori  ...  ergo  ~~~~~ [work]
+>excesi, tro  ....  tro  ~~~~~ [too, too much, excessive]
+>fago, vora  .....  vora  === [eat; meal] === insufficient distinction
+>fascina, faskina . fascina === spelling difference only
+>feki, kopro .....  feki  ~~~~~ [dung, faeces]
+>feli, felis  ....  feli  === I see it as the diminutive form
+>festa, libe-tem .  libe-tem  ~~~~~ [free time, holiday]
+>foli, fisa  .....  foli [scale]; fisa [bubble]
+>fono, soni  .....  soni  ~~~~~ [sound]
+>forma, morfo  ...  forma  ~~~~~ [form]
+>frea, putea  ....  frea  ~~~~~ [well]
+>frigi-tem, hiberna ... hiberna  ~~~~~ [winter]
+>frika, frikti  ..  frika  ~~~~~ [rub, friction]
+>fungu, miko, fungus ... fungu  ~~~~~ [fungus]
+>gania, vikto  ...  gania [gains, winnings]; vikto [beat, defeat]
+>gene, esce  ....  gene [gets, becomes]; esce [develops into, becomes]
+>gimno, nudi  ...  gimno  ~~~~~ [naked]
+>glacia, kristali .. glacia [crystaline ice]; kristali [other crystal]
+>glutea, piga  ..  piga  ~~~~~ [buttocks]
+>gra, gramini  ..  gramini [grass]; gra [X-grass] (diminutive)
+>grafo, skribe  .  grafo  ~~~~~ [write]
+>gumi, latex, latici ...  %%%
+   %%% There is a strong case for differentiating the various concepts
+within this vital area, of the 'life-blood' of plants, EG 
+   gumi [plant sap]; latex [rubber sap]; latici [processed rubber]
+>habitu, more  ..  habitu [habitually]; habita [lives in]
+>helio, sola  ...  helio [sun]  --- {sola [ground, ground level]}
+>hemi, semi  ....  hemi  ~~~~~ [half]
+>infra, hipo, sub ...  infra [under, below] ....  sub (synonym) +++
+>intestina, entero ... entero  ~~~~~ [internal organs]
+>iride, spektra .  spektra [ghost]; spektru [rainbow]
+>juga, zigo  ....  juga  ~~~~~ [join]
+>ka, kausa  .....  kausa [cause]; ka [because]
+>kako, mali  ....  kako [nasty; mali [bad]
+>kancera, kanceri, kancero ... kancera  --- free spelling
+>kanta, kanti  ..  kanta  -----------------  "    "
+>kapila, triko  .  kapila  ~~~~~ [hair]
+>kapsu, kapsa, paketa, teka ... %%%
+   %%% Another case of closely, related but differentiated concepts,
+     teka*, kapsu [box]; kapsa [parcel]; paketa [packet] (*-preferred)
+>kaverno, speleo . speleo  ~~~~~ [cave]
+>kerati, kornu  .. kerati  ~~~~~ [horn, finger-nail]
+>kine, ki  ....... kine [moving, movement]; ki [go] (auxiliary verb)
+>ko, kon, sin  ... ko [with]; kon (before word with initial vowel)
+>kolea, vagina  .. vagina  ~~~~~ [vagina]
+>kon alelo, simul . kon alelo  ~~~~~ [together, side by side]
+>konekti, nexi  .. nexi  ~~~~~ [connection]
+>kongru, gru  .... gru  ~~~~~ [suitable, congruent]
+>konka, ostraka .. konka [snail]; ostrako [shell] 
+>kosmo, universa . kosmo [entire universe]; universa [world-wide] +++
+>kotona, kotoni, gosipa ... kotona  ~~~~~ [cotton]
+>krepita, susura . kripita [croak]; susura [whisper]
+>kri, lisi  ...... lisi  ~~~~~ [separate]
+>kritici, kritika ... kritika === spelling (ease of pronunciation)
+>kron, instanta  . kron [when, moment]; instanta [point in time]
+>kune, kunea  .... kune  ~~~~~ [wedge]
+>laku, limni, limno ... laku  ~~~~~ [lake]
+>lase, lice, permite .. lase [let]; lice [allow]; permite [give perm.] 
+>laxa, laxi  ..... laxi ~~~~~ [loose,slack]  (spelling)
+>lepidoptera, papilio ... papilio  ~~~~~ [butterfly]
+>lexi, verba  ... verbi [word]; lexi [dictionary listing] (Linguistic)
+>lime, limo, limi  ... limo  ~~~~~ [mud, slime]  (spelling)
+>lingua, glosa  .. lingua [language]; glosa [tongue]
+>litora, margina . litora [water's edge]; margina [edge, boundary]
+>malus, pomi  .... malus [pear]; pomi [apple]
+>mana, matina  ... matina [morning]; -mana (as part of compounds)
+>mars, meno tri  . meno-tri  ~~~~~ [March]
+>mero, peci  .... mero [part]; mero de [some]; -mer [parts](compounds)
+>metodi, mode  ... metodi [method (of doing)]; mode [mode, way]
+>mode, senti  .... senti [feel(physical stim.)]; este [feel, feelings)
+>nervo, neuro  ... neuro  ~~~~~ [nerve]
+>nexu, reti  ..... nexu [connection]; reti [network, reticulation]
+>nima, nomina  ... nima  ~~~~~ [name]
+>nokti, noktu  ... noktu  === spelling
+>nuli, zero  ..... nuli [nothing, none, no];  zero [no (countables)]
+>ocide, uest  .... ocide  ~~~~~ [west]
+>odoro, olface  .. odoro  ~~~~~ [smell]
+>ok, okto  ...... okto [eight (8)]; -ok- [(digit) eight] (in compound)
+>ordinari, vulga . vulga  ~~~~~ [ordinary]
+>ori, surge  .... ori  ~~~~~ [rise, rising]
+>orienta, est  .. orienta  ~~~~~ [east]
+>os, stoma  ..... stoma  ~~~~~ [mouth]
+>osku, oskula  .. oskula [kiss]; {osku [peck]?}
+>pan, panto  .... panto [all]; pan (brief form)
+>pen, penta  .... penta [five (5)]; -pen- [(digit) five] (in compound)
+>penite, pardo .. penite [sorry]; pardo [pardon (me)]
+>pisu, pisum  ... pisu  ~~~~~ [pea]
+>pluvi, pluvia  . pluvi  ~~~~~ [rain]
+>po, post  ...... posto[in rear,afterwards];post[afterwards];po[after]
+>po-kron, tardi . po-kron [behind time]; tardi [late]
+>poli, multi  ... poli [many, lots of]; multi [many, much]
+>porta, janu  ... janua  ~~~~~ [door, doorway]
+>qe, veri?  ..... qe, [converts statement to question]; veri? [truly?]
+>qo numera?,qanto? qo numera[how many(countables)];qanto[h.m. uncount]
+>qo-horo?, qo-di? . qo-horo [when?, what's the time?]; qo-di [w. day?] 
+>qo-mode?, komo? . qo-mode  ~~~~~ [how, which way]
+>ra, pragma  .... ra  ~~~~~ [thing]
+>repli, responde . responde  ~~~~~ [answer, reply]
+>rota, ciklo  ... rota [wheel]; ciklo [circle]
+>rubi, eritro ... rubi  ~~~~~ [red]
+>rubi-xanto, orange . rubi-xanto  ~~~~~ [orange]
+>saluta, ave  ... saluta [greetings]; ave [salutations, respect] 
+>sedi, side  .... sedi  ~~~~~ [sit]
+>semani, signifi . semani[meaning]; signifi[indication,significance]
+>senti, este fobo . senti [feel (emotion)]; este fobo [feel fear]
+>septi, seti  ... septi  ~~~~~ [seven (7)]
+>seri, lista  ... lista  ~~~~~ [list]
+>seta, kaeto  ... seta  ~~~~~ [bristle]
+>sipa, disipa  .. disipa  ~~~~~ [waste]
+>smi, sub ridi  . sub ridi  ~~~~~ [smile]
+>solidi, stereo . solidi  ~~~~~ [solid]
+>somni, sopo  ... somni  ~~~~~ [sleep]
+>strata, via  ... via [way, path, road]; strata [paved street]
+>su, supra  ..... supra ....... su (diminutive & for compounds)
+>te, tende  ..... tende [tendency,intention]; te [in order to]
+>tele, dista  ... tele  ~~~~~ [far]
+>tem, duranto  .. tem [while, when, time]; durante [during, duration]
+>termo-tem, estiva . estiva  ~~~~~ [summer]
+>tet, tetra  .... tetra [four (4)]; -tet- [four (in compound)]
+>topika, tema  .. tema [theme]; topika [topic, topical]
+>trakto, tira  .. tira  ~~~~~ [pull]
+>unda, undu  .... undu  ........  spelling difference only
+>vaku, keno  .... vaku  ~~~~~ [empty]
+>vasa, vaso, vasu . vasu [servant]; vasa, -va [vessel (spelling only)]
+>vegeta, sito-fito . vegeta  ~~~~~ [vegetable]
+>ze, zero  ..... zero [nought (0)]; -ze [nought (as part of a number)]
+>zoa, animali .. zoa  ~~~~~ [animal]
+>
+ --------------------------------------
+
+And so, it must be stated that these selections follow no mechanical or
+statistical rationale: they follow the subjective sensation of mouth and
+ear (mine); for each synonym group, I chose the alternative that sounds
+best in use, and feels better in the mouth, when spoken.
+
+    With feed-back from the Glosalist group, alterations can be made, and
+the final selections will be used to adjust the existing word-lists, that
+are in electronic form.
+
+    Because this 'Bartlett List of Synonyms' is in e-mail format and is
+shorter than the 'Patterson List of Omissions', I completed it first;
+however, the Omissions List is ready to be typed up, and will be sent as an
+"Attachment".  Let me know if your system fails to get my "Attachments" and
+I will resend the List as a "Redirection."
+
+    After that, some juggling must be done to knock the final, optimised,
+standardised, and non-synonym list into a final _Glosa Net
+Dictionary_ that everyone is happy with.
+
+    We will have to work fast if we are to meet the 1/1/99 deadline for
+completion of what I nickname "Glosa 2.5K".
+
+Saluta,
+ Robin Gaskell
+   P.S. I am now on the Pentium 2, and did download the multiple MIME
+message - with the added grunt; and, am accessing the Net P2-wise, but
+still have to dial my ISP, manually.  Also, I did not lose any of the 98
+messages: they were still there on my ISP's server when the P2 clicked into
+Internet mode.
+
+
+From: Aaron Irvine
+Subject: Re: Word Pairs and Terminal Vowels
+To: GLOSALIST
+Date: Tue, 15 Dec 98 08:1
+
+Saluta,
+
+Robin Gaskell wrote:
+
+> At 22:40 6/12/98 -0500, Paul Bartlett wrote:
+> >a, ad  ..........  a [towards]; ad (before word with initial vowel)
+> >a, topo  ........  a [ to, at]; topo [(located) at]; to [at (place)]
+
+Confusing.  Maybe something like:
+a(d) ~~~~~ [at/towards, space/time]
+topo ~~~~~~ [at location]
+to ~~~~~~~~ [towards location]
+
+> >ala, ptero  .....  ptero  ~~~~~ [wing]
+
+Ptero is ugly to pronounce.  Ala is beautiful.
+ala  ~~~~~ [wing (of bird/plane/building)]
+Could this also be used to mean (helicopter's) rotor?
+
+
+> >aqa, hidro  .....  hidro [water] ... aqa (reasonable synonym)  +++
+
+hidro ~~~~~~ [water, generally]
+aqa ~~~~~~ [drinkable water]
+A very useful distinction that I imagine some cultures would find almost
+essential.
+
+> >artikula, artro .  artikula  ~~~~~ [joint; good enunciation]
+
+Maybe artro ~~~~~~ [knuckle] ???
+
+> >austra, sud  ....  sud  ~~~~~ [south]
+
+I like sud, but we could avoid a final consonant by chosing austra, and it
+would be more consistent with boreo.  I don't feel strongly on this.
+
+>
+> >baka, koku  .....  kokus  ~~~~~ [berry]
+
+Prefer baka, sounds more beautiful for some reason.  Don't like the final s on
+kokus.  I admit I'm being subjective here.
+
+> >bio, vita  ......  bio [life, living]; vita [life energy]
+
+Nice.
+
+> >fago, vora  .....  vora  === [eat; meal] === insufficient distinction
+
+No suggestions.
+
+> >feli, felis  ....  feli  === I see it as the diminutive form
+
+Yes, I prefer feli over felis
+
+> >festa, libe-tem .  libe-tem  ~~~~~ [free time, holiday]
+
+libe-tem could be like luchtime at work, whereas festa could be a holiday
+proper
+
+> >frigi-tem, hiberna ... hiberna  ~~~~~ [winter]
+
+Nice
+
+> >gimno, nudi  ...  gimno  ~~~~~ [naked]
+
+nudi for totally naked????
+
+> >gra, gramini  ..  gramini [grass]; gra [X-grass] (diminutive)
+
+I don't understand this.
+
+> >grafo, skribe  .  grafo  ~~~~~ [write]
+
+Do we need to distinguish handwriting from typing or even speech recogition?
+grafo ~~~~~~ [write by finger, pen, typewriter]
+skribe ~~~~~~ [write by any means, eg speech recognition]
+
+> >hemi, semi  ....  hemi  ~~~~~ [half]
+
+Any use in having half-ish vs mathemtically 0.5 ???
+
+> >infra, hipo, sub ...  infra [under, below] ....  sub (synonym) +++
+
+Hate sub with its final b.
+
+> >iride, spektra .  spektra [ghost]; spektru [rainbow]
+
+u shaped like a rainbow -- nice
+
+> >kine, ki  ....... kine [moving, movement]; ki [go] (auxiliary verb)
+
+I always felt the need to distinguish translational from nontranslational
+movemnet.
+
+> >malus, pomi  .... malus [pear]; pomi [apple]
+
+Don't like the -s at all.  Sorry.
+
+> >mana, matina  ... matina [morning]; -mana (as part of compounds)
+
+Is this complexity really needed?
+
+> >pan, panto  .... panto [all]; pan (brief form)
+
+One or the other please.
+
+> >po, post  ...... posto[in rear,afterwards];post[afterwards];po[after]
+
+Don't like post.  Sorry.
+
+> >porta, janu  ... janua  ~~~~~ [door, doorway]
+
+Check for typo here.
+
+> >qo numera?,qanto? qo numera[how many(countables)];qanto[h.m. uncount]
+> >qo-horo?, qo-di? . qo-horo [when?, what's the time?]; qo-di [w. day?]
+> >qo-mode?, komo? . qo-mode  ~~~~~ [how, which way]
+
+Either qo or qo-.  Is qanto really needed??
+
+> >rubi-xanto, orange . rubi-xanto  ~~~~~ [orange]
+
+I prefer orange.
+
+> >senti, este fobo . senti [feel (emotion)]; este fobo [feel fear]
+
+Earlier we had >mode, senti  .... senti [feel(physical stim.)]; este [feel,
+feelings)
+
+> >septi, seti  ... septi  ~~~~~ [seven (7)]
+
+Is there a combining form?
+
+> And so, it must be stated that these selections follow no mechanical or
+> statistical rationale: they follow the subjective sensation of mouth and
+> ear (mine); for each synonym group, I chose the alternative that sounds
+> best in use, and feels better in the mouth, when spoken.
+>
+
+This is good.  I like it when words feel beautiful.
+
+>     We will have to work fast if we are to meet the 1/1/99 deadline for
+> completion of what I nickname "Glosa 2.5K".
+
+I must try to put some thought into Glosa grammar, but I'm just so busy at the
+moment.  At least the two week Christmas holidays will soon be with me -- 14
+days with the inlaws and 14 days without a common language :-(
+
+
+Aaron
+
+--
+
+--- Aaron Irvine ------------------------------------
+Apion Ltd, Interpoint Building,
+20-24 York St., Belfast BT15 1AQ
+http://www.apion-tss.com
+mailto:a.irvine{at}apion-tss.com
+mailto:adi{at}esperanto{dot}nu
+-----------------------------------------------------
+UTF-7 +AQgBCQ +ARwBHQ +ASQBJQ +ATQBNQ +AVwBXQ +AWwBbQ
+UTF-8 Ĉĉ Ĝĝ Ĥĥ Ĵĵ Ŝŝ Ŭŭ
+
+
+
+From: Paul O Bartlett
+Subject: Re: Word Pairs and Terminal Vowels
+To: GLOSALIST
+Date: Tue, 15 Dec 98 23:2
+
+    I will not try to address Robin's post point by point, as I think
+that is unnecessary.  There are, to me, three major consideration:
+
+1)  As to the Greek/Latin pairs, I think it is enough just to pick one;
+I have no strong opinions as to which in most cases.
+
+2)  Some things Robin brought out may just be disambiguation, such as
+a(d)/topo, making clearer which is what.  (The Glosa documents do not
+always make such things clear.)
+
+    In these two matters it is more or less an issue of clarification
+and selection from among existing material.  I am presuming that
+Richmond should not have too much trouble with this.  (At least, if I
+were in their situation, I would not.)  Perhaps, if there is some
+agreement among (actual or potential) 'net users of Glosa, Robin would
+be a suitable person to convey the intentions of such usages to G.E.O.
+
+3)  In some instances, however, I think that Robin was trying to make
+unnecessary distinctions.  There needs to be some limit to making
+distinctions with nouns and verbs.  That's what adjectives and adverbs
+are for.  Otherwise, let us abolish all adjectives and adverbs and have
+a gazillion nouns and verbs, all of which make the most minute
+distinctions within their own instrinsic meanings!
+
+On Tue, 15 Dec 1998, Robin Gaskell wrote:
+
+> *    There are some synonyms - one of which can be set aside - in other
+> cases, there might be reasons for using both parts of a pair:-
+
+    In numerous instances, it is merely a matter of the infamous
+terminal-vowel confusion.
+
+> >a, ad  ..........  a [towards]; ad (before word with initial vowel)
+> >a, topo  ........  a [ to, at]; topo [(located) at]; to [at (place)]
+
+    This is primarily a clarification: 'a(d)' = "to, toward"; 'topo' =
+"at (a place)".
+
+> >akusti, audi  ...  akusti [listen to]; audi [hear]
+
+    This I think is an unnecessary distinction.  Even in English it is
+fairly subtle, and Glosa need not slavishly follow every subtle
+distinction of just one language.  If Glosa is to be a relatively simple
+language to learn and use, it should leave subtleties to qualifiers
+(adjectives and adverbs).
+
+> >aqa, hidro  .....  hidro [water] ... aqa (reasonable synonym)  +++
+
+    Pick one or the other.  And was it Brother Irvine who suggested a
+distinction between water in general and drinkable water?  Leave such a
+distinction to an adjective or adjectival phrase.
+
+> >artikula, artro .  artikula  ~~~~~ [joint; good enunciation]
+
+    In this instance I will go with Robin.  I do think that avoidance
+of consonant clusters, when the opportunity presents itself, is a
+legitimate design goal for the sake of those people whose native speech
+habits make consonant clusters difficult for them (unlike the habits of
+us Germano-Slavic speakers).
+
+> >bio, vita  ......  bio [life, living]; vita [life energy]
+
+    Nope.  Just use one.  "LIfe energy" sounds too much like the
+discredited old notion of "elan vital."  Why not just 'energi de bio'
+instead of a separate term?  Again, avoid unnecessary distinctions when
+a qualifying word or short phrase will do the trick.  Whenever possible,
+lessen the learning and memory burden.
+
+> >destru, nekro  ..  destru [destroy]; nekro [death]
+
+    A reasonable split.
+
+> >fascina, faskina . fascina === spelling difference only
+
+    Yes.  However, this does bring up another matter.  In at least one
+G.E.O. publication, there is the pronunciation rule of 'sc' = "sh"
+(English), and yet 'sc' is hardly used.  Why 'skience' and not
+'science'?
+
+> >feki, kopro .....  feki  ~~~~~ [dung, faeces]
+
+    I myself would recognize 'kopro' better, but that is a problem with
+the whole matter of Greek/Latin pairs.  Recognition will depend in part
+on a individual's background, and you can't please everybody.
+
+> >frigi-tem, hiberna ... hiberna  ~~~~~ [winter]
+
+    'Frigi-tem' saves an unnecessary word.  I am definitely in favor of
+saving a vocable to be learned when a simple compound or phrase will do.
+Why add to the learning burden?
+
+> >gene, esce  ....  gene [gets, becomes]; esce [develops into, becomes]
+
+    What is the difference between the two "becomes" in this instance?
+As for "gets," maybe things are different in Australian English, but in
+American English "get" is a very, very slippery word.  I vehemently
+propose that "get" be dropped from ALL discussion in Glosa.  It causes
+more trouble than anything else.  It is completely unnecessary and is
+so ambiguous as to be a major source of problems of understanding.
+
+> >gumi, latex, latici ...  %%%
+>    %%% There is a strong case for differentiating the various concepts
+> within this vital area, of the 'life-blood' of plants, EG
+>    gumi [plant sap]; latex [rubber sap]; latici [processed rubber]
+
+    Why not just have 'fito-hema' = "plant-blood" for "sap" and be done
+with it?  Again, it would save a word.  Here there are again unnecessary
+distinctions which just add to the memory burden.
+
+> >kapsu, kapsa, paketa, teka ... %%%
+>    %%% Another case of closely, related but differentiated concepts,
+>      teka*, kapsu [box]; kapsa [parcel]; paketa [packet] (*-preferred)
+
+    No.  Unnecessary distinctions.
+
+> >konka, ostraka .. konka [snail]; ostrako [shell]
+
+  The Greek 'ostrakon' meant primarily "postsherd" and only secondarily
+the shell of certain life-forms.
+
+> >lase, lice, permite .. lase [let]; lice [allow]; permite [give perm.]
+
+    Unnecessary distinctions again.
+
+> >lexi, verba  ... verbi [word]; lexi [dictionary listing] (Linguistic)
+
+    In the real-world of practical communications, what's the
+difference?
+
+> >metodi, mode  ... metodi [method (of doing)]; mode [mode, way]
+
+    Again, what's the difference?  This is unneeded hairsplitting.
+
+> >nuli, zero  ..... nuli [nothing, none, no];  zero [no (countables)]
+
+    Some languages get along with one term.  Why not Glosa and save
+effort?
+
+> >ok, okto  ...... okto [eight (8)]; -ok- [(digit) eight] (in compound)
+> >pan, panto  .... panto [all]; pan (brief form)
+> >pen, penta  .... penta [five (5)]; -pen- [(digit) five] (in compound)
+
+    I think we should keep abbreviated compounding forms to a minimum.
+Otherwise we risk winding up like Lojban with its sometimes baffling
+combining forms.  I do not see the saving of a single syllable to be
+worth the effort of wrestling with two words.  Make them 'okto',
+'panto', and 'penta' and have done with it.
+
+> >po, post  ...... posto[in rear,afterwards];post[afterwards];po[after]
+
+   Ambiguous.  Are you trying to differentiate between time and space?
+
+> >poli, multi  ... poli [many, lots of]; multi [many, much]
+
+    Unnecessary.
+
+> >qo numera?,qanto? qo numera[how many(countables)];qanto[h.m. uncount]
+
+    My understanding is that not all languages distinguish between count
+and mass.  Why should Glosa at the risk of added complication?
+
+> >qo-mode?, komo? . qo-mode  ~~~~~ [how, which way]
+
+    Abolish 'komo' as superfluous.
+
+> >saluta, ave  ... saluta [greetings]; ave [salutations, respect]
+
+    Is Glosa to be like some languages in which the words used depend on
+the relative social status of the individuals?  Simplify, simplify,
+simplify!
+
+> >semani, signifi . semani[meaning]; signifi[indication,significance]
+
+    Unnecessary.
+
+> >strata, via  ... via [way, path, road]; strata [paved street]
+
+    Abolish 'strata'.  Use 'solidi via' and save an unneeded term.
+
+> >su, supra  ..... supra ....... su (diminutive & for compounds)
+
+    One more unneeded and burdensome diminutive.
+
+> >termo-tem, estiva . estiva  ~~~~~ [summer]
+
+    'Termo-tem'.  Save four words for the four seasons.
+
+> >tet, tetra  .... tetra [four (4)]; -tet- [four (in compound)]
+
+    'Tetra' only.
+
+> >topika, tema  .. tema [theme]; topika [topic, topical]
+
+    What's the difference in a practical language?  Again, use modifiers
+or phrases for subtleties.
+
+> >ze, zero  ..... zero [nought (0)]; -ze [nought (as part of a number)]
+
+    'Zero' or 'nuli'.
+
+> And so, it must be stated that these selections follow no mechanical or
+> statistical rationale: they follow the subjective sensation of mouth and
+> ear (mine); for each synonym group, I chose the alternative that sounds
+> best in use, and feels better in the mouth, when spoken.
+
+    However, this can be a tricky method.  What sounds good to your ear
+and feels good to your mouth may not necessarily do so to mine.  Even a
+person's native language may influence this heavily.  Unfortunately, so
+far as I know, on this forum we do not have other-than-native-English
+speakers among us.
+
+>     After that, some juggling must be done to knock the final, optimised,
+> standardised, and non-synonym list into a final _Glosa Net
+> Dictionary_ that everyone is happy with.
+
+    This will be good.  (By the way, there need to be enough terms to
+allow discussing Glosa in Glosa.)
+
+>     We will have to work fast if we are to meet the 1/1/99 deadline for
+> completion of what I nickname "Glosa 2.5K".
+
+    I suggest that this deadline may be a mite to tight.  And I don't
+even recall reading of it.  (However, that may be due merely to a faulty
+memory.)
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Charles
+Subject: Re: Word Pairs and Terminal Vowels
+To: GLOSALIST
+Date: Wed, 16 Dec 98 01:3
+
+Robin Gaskell wrote:
+
+> >a, topo  ........  a [ to, at]; topo [(located) at]; to [at (place)]
+
+Cool. As are most of the choices. Good work, Robin.
+
+> >ala, ptero  .....  ptero  ~~~~~ [wing]
+
+Um, that's a terrible consonant cluster, "pt" ...
+
+> >austra, sud  ....  sud  ~~~~~ [south]
+
+The general drift of the phonology is vowel-final,
+so I would prefer all the consonant-final words changed.
+This isn't the greatest example of it, but 'twill serve.
+
+> >gene, esce  ....  gene [gets, becomes]; esce [develops into, becomes]
+
+Latinish "-esce" isn't even a real word ...
+"gene" is good, though.
+
+> >ka, kausa  .....  kausa [cause]; ka [because]
+
+Hmm. Glosa does have such pairs of full/abbreviated words,
+but I don't like that feature; "kausa" is much better.
+Same for "ki". There should be no such over-optimization
+for short words in an auxiliary language; over time
+some longer (5 letters is long??) might erode naturally,
+but initially "kausa"/"kine" is more mnemonic.
+
+> >kritici, kritika ... kritika === spelling (ease of pronunciation)
+
+That one is beautiful.
+
+> >ra, pragma  .... ra  ~~~~~ [thing]
+
+Another good one.
+
+> >tem, duranto  .. tem [while, when, time]; durante [during, duration]
+
+Good and necessary distinction.
+
+>     We will have to work fast if we are to meet the 1/1/99 deadline for
+> completion of what I nickname "Glosa 2.5K".
+
+Maybe March 1st is more realistic for adding the "missing" ones?
+
+
+From: Robin Gaskell
+Subject: Re: Word Pairs and Terminal Vowels
+To: GLOSALIST
+Date: Wed, 16 Dec 98 19:2
+
+Hi Friends: Aaron responded quickly to the work on the Bartlett synonym
+thread.  Personally, I am not becoming emotionally attached to my
+suggestions, here, and will encourage the formation of a concensus view:
+keep those opinions coming in so that you can contribute to the concensus!
+
+At 13:14 15/12/98 +0000, Aaron Irvine wrote:
+>Robin Gaskell wrote:
+>> At 22:40 6/12/98 -0500, Paul Bartlett wrote:
+>> >a, ad  ..........  a [towards]; ad (before word with initial vowel)
+>> >a, topo  ........  a [ to, at]; topo [(located) at]; to [at (place)]
+>
+>Confusing.  Maybe something like:
+>a(d) ~~~~~ [at/towards, space/time]  ******* Tem 10 Hora. [At 10 O'Clock.]
+>topo ~~~~~~ [at location]                    Tem 10 hora. [For ten hours.]
+>to ~~~~~~~~ [towards location]
+>
+*   The pairing is originally Pauls, but the various pairs do not represent
+equivalent groupings.  A and AD are the same word; TO is an abbr. of TOPO.
+In pictures it is:- 
+ A ---> [towards] or  --> x [to]
+
+ |
+ v  TOPO  [at this spot];  x< TO [at(location)]  EG. to an domi [at home]
+ x
+ 
+>> >ala, ptero  .....  ptero  >Ptero is ugly to pronounce.  Ala is beautiful.
+>ala  ~~~~~ [wing (of bird/plane/building)] ?? (helicopter's) rotor?
+*   One vote for ala!  Rotor possibly ~gladi~ [blade]
+
+>> >aqa, hidro  .....  hidro [water] ... aqa (reasonable synonym)  +++
+>hidro ~~~~~~ [water, generally]
+>aqa ~~~~~~ [drinkable water]
+>A  distinction  [ ...  ]  some cultures would find almost essential.
+*   Thus not a synonym, but an extension to the lexicon: this would be OK
+for 6000+, but is the distinction beyond the scope of the 2.5K Project?
+    And which "water" serves in the interim: aqa OR hidra?
+
+***
+>> >artikula, artro .  artikula  ~~~~~ [joint; good enunciation]
+>
+>Maybe artro ~~~~~~ [knuckle] ???
+>
+>> >austra, sud  ....  sud  ~~~~~ [south]
+>
+>I like sud, but we could avoid a final consonant by chosing austra, and it
+>would be more consistent with boreo.  I don't feel strongly on this.
+>
+>>
+>> >baka, koku  .....  kokus  ~~~~~ [berry]
+>
+>Prefer baka, sounds more beautiful for some reason.  Don't like the final
+s on
+>kokus.  I admit I'm being subjective here.
+>
+>> >bio, vita  ......  bio [life, living]; vita [life energy]
+>
+>Nice.
+>
+>> >fago, vora  .....  vora  === [eat; meal] === insufficient distinction
+>
+>No suggestions.
+>
+>> >feli, felis  ....  feli  === I see it as the diminutive form
+>
+>Yes, I prefer feli over felis
+>
+>> >festa, libe-tem .  libe-tem  ~~~~~ [free time, holiday]
+>
+>libe-tem could be like luchtime at work, whereas festa could be a holiday
+>proper
+>
+>> >frigi-tem, hiberna ... hiberna  ~~~~~ [winter]
+>
+>Nice
+>
+>> >gimno, nudi  ...  gimno  ~~~~~ [naked]
+>
+>nudi for totally naked????
+>
+>> >gra, gramini  ..  gramini [grass]; gra [X-grass] (diminutive)
+>
+>I don't understand this.
+>
+>> >grafo, skribe  .  grafo  ~~~~~ [write]
+>
+>Do we need to distinguish handwriting from typing or even speech recogition?
+>grafo ~~~~~~ [write by finger, pen, typewriter]
+>skribe ~~~~~~ [write by any means, eg speech recognition]
+>
+>> >hemi, semi  ....  hemi  ~~~~~ [half]
+>
+>Any use in having half-ish vs mathemtically 0.5 ???
+>
+>> >infra, hipo, sub ...  infra [under, below] ....  sub (synonym) +++
+>
+>Hate sub with its final b.
+>
+>> >iride, spektra .  spektra [ghost]; spektru [rainbow]
+>
+>u shaped like a rainbow -- nice
+>
+>> >kine, ki  ....... kine [moving, movement]; ki [go] (auxiliary verb)
+>
+>I always felt the need to distinguish translational from nontranslational
+>movemnet.
+>
+>> >malus, pomi  .... malus [pear]; pomi [apple]
+>
+>Don't like the -s at all.  Sorry.
+>
+>> >mana, matina  ... matina [morning]; -mana (as part of compounds)
+>
+>Is this complexity really needed?
+>
+>> >pan, panto  .... panto [all]; pan (brief form)
+>
+>One or the other please.
+>
+>> >po, post  ...... posto[in rear,afterwards];post[afterwards];po[after]
+>
+>Don't like post.  Sorry.
+>
+>> >porta, janu  ... janua  ~~~~~ [door, doorway]
+>
+>Check for typo here.
+>
+>> >qo numera?,qanto? qo numera[how many(countables)];qanto[h.m. uncount]
+>> >qo-horo?, qo-di? . qo-horo [when?, what's the time?]; qo-di [w. day?]
+>> >qo-mode?, komo? . qo-mode  ~~~~~ [how, which way]
+>
+>Either qo or qo-.  Is qanto really needed??
+>
+>> >rubi-xanto, orange . rubi-xanto  ~~~~~ [orange]
+>
+>I prefer orange.
+>
+>> >senti, este fobo . senti [feel (emotion)]; este fobo [feel fear]
+>
+>Earlier we had >mode, senti  .... senti [feel(physical stim.)]; este [feel,
+>feelings)
+>
+>> >septi, seti  ... septi  ~~~~~ [seven (7)]
+>
+>Is there a combining form?
+>
+>> And so, it must be stated that these selections follow no mechanical or
+>> statistical rationale: they follow the subjective sensation of mouth and
+>> ear (mine); for each synonym group, I chose the alternative that sounds
+>> best in use, and feels better in the mouth, when spoken.
+>>
+>
+>This is good.  I like it when words feel beautiful.
+>
+>>     We will have to work fast if we are to meet the 1/1/99 deadline for
+>> completion of what I nickname "Glosa 2.5K".
+>
+>I must try to put some thought into Glosa grammar, but I'm just so busy at
+the
+>moment.  At least the two week Christmas holidays will soon be with me -- 14
+>days with the inlaws and 14 days without a common language :-(
+>
+>
+>Aaron
+>
+>--
+>
+>--- Aaron Irvine ------------------------------------
+>Apion Ltd, Interpoint Building,
+>20-24 York St., Belfast BT15 1AQ
+>http://www.apion-tss.com
+>mailto:a.irvine{at}apion-tss.com
+>mailto:adi{at}esperanto{dot}nu
+>-----------------------------------------------------
+>UTF-7 +AQgBCQ +ARwBHQ +ASQBJQ +ATQBNQ +AVwBXQ +AWwBbQ
+>UTF-8 Ĉĉ Ĝĝ Ĥĥ Ĵĵ Ŝŝ Ŭŭ
+>
+>
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Paul O Bartlett
+Subject: Glosa 2.5K?
+To: glosalist
+Date: Sat, 19 Dec 98 16:5
+
+    I was off Glosalist for some time, so I have probably missed out on
+some things.  Robin has referred, at least informally, to a "Glosa
+2.5K," which is (or is to be) a list of about two and a half thousand
+words/concepts for which there will be Glosa counterparts.  How was
+this list constructed?  Apart from the cleanup selection of specific
+vocables (terminal vowels, Gree/Latin pairs, and the like), is it the
+intention that such a list be the (or a) basic vocabulary, for 'net use
+if nothing else?  Has anything been proffered on the issue of dealing
+with proper names and specialist vocabulary (e.g., science, law,
+medicine, engineering)?
+
+    Once there is some sort of agreed-upon basic vocabulary list, at
+least for 'net use, has any thought been given to expanding the
+"Mechanics of Glosa" with some samples of connected text?  (I might be
+willing to help on this, time and energy allowing.  The "Mechanics"
+would also need to be checked for standardized forms.)  Does G.E.O.
+know that all this activity is going on?  If so, what is their
+reaction?
+
+-- 
+Regards,
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Robin Gaskell
+Subject: Re: Word Pairs and Terminal Vowels (Aaron:Part 2)
+To: GLOSALIST
+Date: Sat, 19 Dec 98 07:4
+
+Sorry Friends,
+
+  I sent this post before completing it.  I continue here at the "***"
+mark -
+
+in replying to Aaron's comments.
+
+
+>***
+
+>>> >artikula, artro .  artikula  ~~~~~ [joint; good enunciation]
+
+>>
+
+>>Maybe artro ~~~~~~ [knuckle] ???
+
+>>
+
+*   After reading Paul's comments about possibly using an adjective for
+drinking water, rather than a specific word for "potable water", I think
+this principle is the one we should be persuing, for Glosa in general,
+and for the 
+
+2.5K list, in particular.  Perhaps using ~artikula~ for articulation,
+generally, is in line with the hard-to-define concept language idea.
+
+
+>>> >austra, sud  ....  sud  ~~~~~ [south]
+
+>>
+
+>>I like sud, but we could avoid a final consonant by chosing austra, and
+it
+
+>>would be more consistent with boreo.  I don't feel strongly on this.
+
+>>
+
+*   I would like a little more rigor in the discussion on ending words 
+
+with vowels.  Although it is a stated Glosa goal, I am not sure if it has
+to be an article of faith, or a principle followed in all 
+circumstances.
+
+
+>>> >baka, koku  .....  kokus  ~~~~~ [berry]
+
+>>
+
+>>Prefer baka, sounds more beautiful for some reason.  Don't like the
+final s on kokus.  I admit I'm being subjective here.
+
+>>
+
+*   Nothing wrong with subjectivity if it is backed up with some sort of
+reasoning.  Id say ~baka~ is in - for reasons of beauty.
+
+
+>>> >feli, felis  ....  feli  === I see it as the diminutive form
+
+>>Yes, I prefer feli over felis
+
+>>
+
+*   ~Feli~ in.
+
+
+>>> >festa, libe-tem .  libe-tem  ~~~~~ [free time, holiday]
+
+>>
+
+>>libe-tem could be like luchtime at work, whereas festa could be a
+holiday
+
+>>proper
+
+>>
+
+*   At present, I would prefer to concentrate on keeping the lexicon
+short, and would rather not make ad hok additions to the lexicon.
+
+
+>>> >gra, gramini  ..  gramini [grass]; gra [X-grass] (diminutive)
+
+>>I don't understand this.
+
+>>
+
+*   EG Ciano-gra [Blue grass], fago-gra [fodder grass]
+
+
+>>> >grafo, skribe  .  grafo  ~~~~~ [write]
+
+>>
+
+>>Do we need to distinguish handwriting from typing or even speech
+recogition?
+
+>>grafo ~~~~~~ [write by finger, pen, typewriter]
+
+>>skribe ~~~~~~ [write by any means, eg speech recognition]
+
+>>
+
+*   Very possibly, but I don't think now is the time for it.  My feeling
+is that the idea of getting information into a recorded, readable form is
+enough for 2.5K.  We can be specific, if necessary, with ~rekorda~ for
+sound and video.
+
+
+>>> >hemi, semi  ....  hemi  ~~~~~ [half]
+
+>>
+
+>>Any use in having half-ish vs mathemtically 0.5 ???
+
+>>
+
+*   Yes.  But, later, after the dust settles, with the 2.5K circling the
+globe, electronically, and the 6000+ happily stabilised.  There needs to
+be a scheme for the addition of new lexical items, but that would be in
+the next half-
+
+thousand.  The authors created an _Advanced 5000 Technical Terms_, but
+did not promote it when they found that most people were happy with the
+shorter 1000 and 6000 lists.  
+
+
+>>> >infra, hipo, sub ...  infra [under, below] ....  sub (synonym) +++
+
+>>Hate sub with its final b.
+
+>>
+
+*   Easy decision: ~infra~ wins.
+
+  
+
+>>> >kine, ki  ....... kine [moving, movement]; ki [go] (auxiliary 
+verb)
+
+>>I always felt the need to distinguish translational from
+nontranslational
+
+>>movemnet.
+
+>>
+
+*   Agreed.  Feedback from others needed.  My experience is from trying
+to use this (these) concept(s) while writing Glosa: my brain separated
+movement into two distinct groups;  it also helped when I found KI and
+KINE listed one under the other , with slightly different meanings in the
+'Glosa 1000 - English' section of the _Glosa 6000_ dictionary.  However,
+I felt that it did NOT actually help towards further concept definition,
+when I found, in the larger part of _Glosa 6000_
+
+Kinesi moving
+
+Kineti moving
+
+ 
+
+>>> >malus, pomi  .... malus [pear]; pomi [apple]
+
+>>Don't like the -s at all.  Sorry.
+
+>>
+
+*   We can all agree on ~pomi~ but might keep a waiting brief on the
+matter of all the rest of the world's eating pleasures .. at least until
+a scheme is decided upon for the derivation of the common names of fruits
+- possibly from their botanical Genus names.
+
+
+>>> >mana, matina  ... matina [morning]; -mana (as part of compounds)
+
+>>Is this complexity really needed?
+
+>>
+
+*   Possibly not; ~mana~ could be a quaintly formed dininutive for
+compound formation, EG seti-mana [week (seven-morn)].
+
+
+>>> >pan, panto  .... panto [all]; pan (brief form).
+
+>>One or the other please.
+
+>>
+
+*   ~pan~ it is then.  Maybe ~panto~ can be revived in the Glosa++
+edition to provide the emphatic, non-exclusive version of "all".
+
+
+>>> >po, post  ...... posto[in
+rear,afterwards];post[afterwards];po[after]
+
+>>Don't like post.  Sorry.
+
+>>
+
+*   Easy: ~post~ having a terminal consonant, and being one diminutive
+too many, is out!
+
+
+>>> >porta, janu  ... janua  ~~~~~ [door, doorway]
+
+>>Check for typo here.
+
+>>
+
+*   Well, in _6000_ it is JANUA [door, entrance], and in the
+Langenscheidt Shorter Latin Dictionary it is <bold>Door </bold>ianua.
+
+
+>>> >qo numera?,qanto? qo numera[how many(countables)];qanto[h.m.
+uncount]
+
+>>> >qo-horo?, qo-di? . qo-horo [when?, what's the time?]; qo-di [w.
+day?]
+
+>>> >qo-mode?, komo? . qo-mode  ~~~~~ [how, which way]
+
+>>
+
+>>Either qo or qo-.  Is qanto really needed??
+
+>>
+
+*   Probably right about the hyphen: it should follow a simple rule, and
+I feel that it is better included.  The COUNT/UNCOUNT idea is definitely
+in Functional 
+
+Grammar, and seems valid unless it is only the British who are so
+conscious of the difference between EG, flour (uncount) and bags of flour
+(count).
+
+  Qo-numera de spatula tu vo habe mi loka epi u tabla?
+
+ (how-many  of  spoons you wish to have me locate on the table)
+
+
+  Qanto sukra tu uti te face u mo kilo-gram plaka?
+
+ (how much sugar you use to make a one kilogram cake) 
+
+
+>>> >rubi-xanto, orange . rubi-xanto  ~~~~~ [orange]
+
+>>I prefer orange.
+
+>>
+
+*   Well, OK.  According to the rules of pronunciation of Glosa, it could
+be shown as: orange - (oran-gay), or, in Gaskell phonetics,
+OR-r-AH-n'g-AY.
+
+ 
+
+***
+
+>>> >senti, este fobo . senti [feel (emotion)]; este fobo [feel fear]
+
+>>
+
+>>Earlier we had >mode, senti  .... senti [feel(physical stim.)]; este
+[feel,
+
+>>feelings)
+
+>>
+
+>>> >septi, seti  ... septi  ~~~~~ [seven (7)]
+
+>>
+
+>>Is there a combining form?
+
+>>
+
+>>> And so, it must be stated that these selections follow no mechanical
+or
+
+>>> statistical rationale: they follow the subjective sensation of mouth
+and
+
+>>> ear (mine); for each synonym group, I chose the alternative that
+sounds
+
+>>> best in use, and feels better in the mouth, when spoken.
+
+>>>
+
+>>
+
+>>This is good.  I like it when words feel beautiful.
+
+>>
+
+>>>     We will have to work fast if we are to meet the 1/1/99 deadline
+for
+
+>>> completion of what I nickname "Glosa 2.5K".
+
+>>
+
+>>I must try to put some thought into Glosa grammar, but I'm just so busy
+at the
+
+>>moment.  At least the two week Christmas holidays will soon be with me
+-- 14
+
+>>days with the inlaws and 14 days without a common language :-(
+
+>>
+
+>>
+
+>>Aaron
+
+>>
+
+>>--
+
+>>
+
+>>--- Aaron Irvine ------------------------------------
+
+>>Apion Ltd, Interpoint Building,
+
+>>20-24 York St., Belfast BT15 1AQ
+
+>>http://www.apion-tss.com
+
+>>mailto:a.irvine{at}apion-tss.com
+
+>>mailto:adi{at}esperanto{dot}nu
+
+>>-----------------------------------------------------
+
+>>UTF-7 +AQgBCQ +ARwBHQ +ASQBJQ +ATQBNQ +AVwBXQ +AWwBbQ
+
+>>UTF-8 Ĉĉ Ĝĝ Ĥĥ Ĵĵ Ŝŝ Ŭŭ
+
+>>
+
+>>
+
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+
+      To: majordomo{at}zeta{dot}org{dot}au
+
+          subscribe glosalist
+
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Paul O Bartlett
+Subject: Working Wordlist Available?
+To: glosalist
+Date: Sun, 20 Dec 98 16:1
+
+    Among participants is there available an electronic working
+version of the "Glosa 2.5K" wordlist, even without the rough
+edges smoothed out and the various decisions made (word pairs,
+terminal vowels, and what not)?  If we were all playing from
+the same sheet of music, the orchestra might sound better.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Robin Gaskell
+Subject: Re: Word Pairs and Terminal Vowels (Aaron:Part 3) [Forwarded]
+To: GLOSALIST
+Date: Mon, 21 Dec 98 20:1
+
+<excerpt>>>>> Subject: Re: Word Pairs and Terminal Vowels (Aaron:Part 
+2)
+
+   CONTINUED AGAIN !!!!!
+
+Sorry Friends,
+
+  I sent this post before completing it.  I continue here at the "***"
+mark - in replying to Aaron's comments.
+
+  And, I've done it again.  My computer is set up to "Send" messages
+automatically after downloading, and my friend, Peter, who is staying
+with me for a few months, must have done a download recently - while my
+offline blip was still in the process of being composed.
+
+</excerpt>
+
+>>>>
+
+<excerpt>>***
+
+ ###########
+
+***
+
+>>> >senti, este fobo . senti [feel (emotion)]; este fobo [feel fear]
+
+</excerpt> >>Earlier we had >mode, senti  .... senti [feel(physical
+stim.)]; este  [feel, feelings)
+
+ *   I made a mistake on the final consonant (CVCCV):-
+
+    SENTI - feel, emotions
+
+    SENSI - feel, physical sensations
+
+
+     So there could be one or two more here:-
+
+    ESTE - feel (moods), subjective feeling
+
+    ESTE FOBO - fear, feel fear {use of ~este~ as an auxiliary verb in
+the       formation of compounds}
+
+
+<excerpt>
+
+>>> >septi, seti  ... septi  ~~~~~ [seven (7)]
+
+>>Is there a combining form?
+
+>>
+
+</excerpt> *   Yes, ~seti~ is the compounding form, EG seti-mana.
+
+
+>>>>
+
+<excerpt>
+
+>>>  [  ...  ] these selections follow no mechanical or
+
+>>> statistical rationale: [  .....  ]  I chose the alternative that
+sounds best in use, and feels better in the mouth, when spoken.
+
+>>
+
+>>This is good.  I like it when words feel beautiful.
+
+>
+
+</excerpt>   *   It should be a part of Linguistics, but I don't know if
+this subjective side is allowed in Real Linguistics.
+
+
+<excerpt>>>I must try to put some thought into Glosa grammar, 
+
+>>
+
+</excerpt>>>Aaron
+
+<excerpt>*   Nice if you do, but try to 'over-Christmas' as best you can;
+let '99
+
+</excerpt>   be Grammar Year.
+
+
+ Saluta,
+
+ Robin 
+
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+
+      To: majordomo{at}zeta{dot}org{dot}au
+
+          subscribe glosalist
+
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**% (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Thu, 24 Dec 98 09:2
+
+At 21:08 8/12/98 EST, Bill Patterson wrote:
+>Luna-di, 07 Dekembra 98 19:09:30 EST, Robin Gaskell skribe:
+>
+>> **   I have, at last, worked through the Bill Patterson list of words 
+>> he noted as missing from the "6000" lists.  [  .......  ]
+>  [  .......  ]  getting over a nasty cold. Can't wait to add the >missing
+words to the dictionary!
+>
+*   Hope you are now completely free of the cold; I will get onto the
+dictionary on my next free day.
+
+>> ***   After that, comes the reduction of the expanded lists to the
+>> preferred length for a Starter Dictionary. 
+>
+>If we could just get rid of all the synonyms we could cut the size down
+>a great deal.   [  ..............  ]
+*   No, it is a cull we need if we are to make a manageable and easily
+e-mailable list for Net introduction to Glosa.
+    Actual decisions will have to be made: is a word to be in, or out of, a
+dictionary for basic communication!?
+
+    It will be ^thinking-cap^ time.
+    Na nece decide te tena, alo apo, singu verbi de u ge-kresce 6000 lista.
+
+Saluta,
+ Robin
+
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Thu, 24 Dec 98 09:0
+
+At 05:20 9/12/98 +0000, Charles wrote:
+>Robin Gaskell wrote:
+>
+>> >May I suggest a central homepage -- "http://come.to/glosa"
+>> >Regards,
+>> >Aaron.
+>> >
+>> *   Yes.  Good idea.  But there has been no other volunteer, yet.  >>The
+authors would set up such a website, IF they had funds for it.
+>
+>It really doesn't take much money to do so. They just don't think the >net
+is important enough.  I mean, even my cats have their own domain!
+>
+*   Charles the 'culture-shock' you are experiencing about the economic
+depression of the U.K. is analogous to that I experienced when I sent a
+Glosa cassette to a chap in a large city in Brazil.  He did not have a
+cassette player, nor did any of his friends.
+    The Glosa authors know that the Net is hugely important, but they have
+not had the grunt^ to organise "Applets" nor the money to pay for
+significant connect-time.
+    And pragmatically, per Pound Sterling spent on Third World vs. Internet
+communication, they get more pages of Glosa written by Third Worlders: I
+can understand their putting their limited resources where their best
+results comes from.
+
+>> **    the Bill Patterson list of words he
+>> noted as missing from the "6000" lists.
+>
+>Yeoman work! as they supposedly used to say.
+>
+*   In my next day off, I will have to type it up .. it's a long list.
+
+>> ***   After that, comes the reduction of the expanded lists to the
+>> preferred length for a Starter Dictionary.  [   ....   ]
+>> Help with these tasks will be appreciated.
+>
+>How?
+>
+*   Good question!  Just imagine a large database, somewhere with
+candidates for the "2.5K" down one side, and 'votes' in favour of inclusion
+- in columns across.  (The number of columns will depend on the number of
+Glosalist participants.)
+
+    We ought to add 'missing' words to the 6000 list first; then, after
+we've decided on the 6000+ list, we can 'vote' on the words in it .. on the
+basis that every second word, at least, should go.
+
+    Paul Bartlett would much rather have us start from a reasonable Glosa
+1000 list and add to it.  While I agree this might even be the better way
+to go, I do feel it is worthwhile to see the larger list, so we know what
+we are excluding.
+
+    Because the whole 6000+ list will be a very large file, it might be
+necessary to split the list into a number of parts.  I suspect that having
+two computer screens side by side, and building up a composite list with
+preferences-for-inclusion marked, I could produce tables of preferences
+(assuming the list is split up) for posting to the Glosalist.
+
+Hedo Kristo-nati,
+ Robin
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**$ (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Thu, 24 Dec 98 09:4
+
+At 03:42 9/12/98 +0000, Charles wrote:
+>William W Patterson wrote:
+>> If we could just get rid of all the synonyms  [  ........  ]
+>
+>I tried once to categorize the whole bunch,
+>similar to the way Paul has them on his web page.
+>Arranging them in classes would show more clearly
+>the comparative overload of terms in certain areas.
+>I know of a few efforts to arrange a hierarchy
+>of terms (Rick Harrison, WordNet, some AI stuff)
+>but nothing complete for this purpose.
+*   The Glosa authors' use of the Roget categories - as a guide to the
+basic concepts to include in a first wordlist - did seem a reasonable idea.
+
+>    When making
+>such a subdivision of semantic space, one is
+>forced to confront one's metaphysical biases
+>or else simply inherit them from someone else.
+>
+*   I would say that we appear to be thrown back onto our metphysicals.
+    If you were Prime Minister of the United Nations OR grand poo-baa of
+some fuzzy democratic world body, and you found the world you were
+responsible for, in a mess, what vocabulary would you like to see used to
+discus solutions to the problems, globally?
+
+    I'd say we need to make our choices based on the percieved need to use
+the words .. in the coming struggle for human survival.
+
+Saluta,
+ Robin
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Thu, 24 Dec 98 17:1
+
+On Fri, 25 Dec 1998, Robin Gaskell wrote (here and there):
+
+>     The Glosa authors know that the Net is hugely important, but they have
+> not had the grunt^ to organise "Applets" nor the money to pay for
+> significant connect-time.
+>     And pragmatically, per Pound Sterling [etc.]                    I 
+> can understand their putting their limited resources where their best
+> results comes from.
+
+    IS THERE ANY REASON WHY RON CLARK & WENDY ASHBY HAVE TO DO
+EVERYTHING?  IS THERE ANY REASON WHY OTHER INTERESTED GLOSA-PE CANNOT
+TAKE OVER SOME OF THIS EFFORT, ESPECIALLY ON THE 'NET?  HAS ANYONE EVER
+ASCERTAINED WHAT IS THE ATTITUDE OF CLARK & ASHBY TO ANYONE ELSE'S
+EFFORTS, WHETHER THEY WOULD TRY TO HINDER EFFORTS THROUGH COPYRIGHT
+RESTRICTIONS OR WHATEVER?  DO THEY EVEN KNOW WHAT IS GOING ON?  (end 
+of shouting)
+
+>     We ought to add 'missing' words to the 6000 list first; then, after
+> we've decided on the 6000+ list, we can 'vote' on the words in it .. on the
+> basis that every second word, at least, should go.
+> 
+>     Paul Bartlett would much rather have us start from a reasonable Glosa
+> 1000 list and add to it.  While I agree this might even be the better way
+> to go, I do feel it is worthwhile to see the larger list, so we know what
+> we are excluding.
+
+    I disagree, which should be no surprise.  I have previously
+expressed my opinion that Glosa 6000 should be used for nothing more
+than a source-book to fill in any perceived gaps but otherwise whould
+be put on the shelf to gather dust.  And I am still wondering about
+the "Glosa 2.5K" Robin has referred to.  If every other word of "6000"
+were to go, we would still be substantially above my size estimate for
+a basic vocabulary.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Thu, 24 Dec 98 17:2
+
+On Thu, 24 Dec 1998, Paul O Bartlett wrote:
+
+>              IS THERE ANY REASON WHY OTHER INTERESTED GLOSA-PE CANNOT
+> TAKE OVER SOME OF THIS EFFORT, ESPECIALLY ON THE 'NET?
+
+    I will give a single example of what I mean.  Suppose some
+reasonable group of people came to some sort of more or less amicable
+agreement on the terminal-vowels problem and the Greek/Latin pairs
+issue.  Then optimize the vocabulary to whatever size it might turn out
+to be.  For the "Mechanics of Glosa" add some agreed-upon connected
+text to the existing paradigmatic phrases and sentences (themselves
+cleaned up, if necessary, for terminal vowels and Greek/Latin).
+
+    That much done, which does not really seem to be so great, then 
+on a time-available basis I would cheerfully update the Glosa Basic
+Reference I have on the web.  But because it contains originally
+copyrighted materials, would Clark&Ashby allow it?
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+...........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+
+From: charles
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Fri, 25 Dec 98 02:5
+
+Robin Gaskell wrote:
+
+> The Glosa authors know that the Net is hugely important, but they have
+> not had the grunt^ to organise "Applets" nor the money to pay for
+> significant connect-time.
+
+Friends have web hosting (no dialup) at he.net
+for approximately $20 per month. So, it is really
+just silly NOT to have an official "www.glosa.org".
+No need for fancy applets, just a *presence*
+and some informative text and points of contact.
+Many would contribute articles, sounds, etc.
+
+> Just imagine a large database, somewhere with
+> candidates for the "2.5K" down one side, and 'votes' in favour of inclusion
+> - in columns across.  (The number of columns will depend on the number of
+> Glosalist participants.)
+
+I don't have strong specific feelings about lexicon.
+So I'll designate as my proxy (pause while coin is
+tossed -- wow, it balanced on one edge) that fellow
+known as "Ailanto" to vote for me.
+
+
+From: charles
+Subject: Re: Glosa**$ (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Fri, 25 Dec 98 03:0
+
+Robin Gaskell wrote:
+
+> *   The Glosa authors' use of the Roget categories - as a guide to the
+> basic concepts to include in a first wordlist - did seem a reasonable idea.
+
+Well, it's a start. I've always liked Roget. Question:
+is there a list of correspondences between Roget numbers
+and the Glosa words?
+
+>     If you were Prime Minister of the United Nations OR grand poo-baa of
+> some fuzzy democratic world body, and you found the world you were
+> responsible for, in a mess, what vocabulary would you like to see used to
+> discus solutions to the problems, globally?
+
+I would take several well-known basic vocabularies and merge them.
+The most essential 10000 (or less) would be bi-syllabic.
+Then rely on "adjectives" or compounding to build most of the rest,
+as Esperanto does successfully from a small core vocabulary (2000?).
+Certain specialist multi-syllabic vocabularies could be defined
+by experts if needed.
+
+The basics should be compared with Roget (done!), Kanji,
+Esperanto/Ido (with extra special attention to their
+powerful word-building suffixes) and a few others.
+
+Look here, RH has done most of the work already:
+http://www.rick.harrison.net/langlab/lab3.html
+
+
+From: Robin Gaskell
+Subject: Re: Working Wordlist Available?###
+To: GLOSALIST
+Date: Sat, 26 Dec 98 02:2
+
+At 16:13 20/12/98 -0500, you wrote:
+>    Among participants is there available an electronic working
+>version of the "Glosa 2.5K" wordlist, even without the rough
+>edges smoothed out and the various decisions made (word pairs,
+>terminal vowels, and what not)?  If we were all playing from
+>the same sheet of music, the orchestra might sound better.
+>
+>-- 
+*   Sorry Paul,
+
+   I did not intend to mislead anyone, just to give the project a name.
+
+   If I ever stop answering Auxlang mail, I will get down to doing some
+real work.  No the 2.5K list does not, as yet, exist.
+
+Saluta,
+ Robin G.
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Word Pairs and Terminal Vowels&
+To: GLOSALIST
+Date: Fri, 25 Dec 98 20:5
+
+At 06:33 16/12/98 +0000, Charles wrote:
+>Robin Gaskell wrote:
+>
+>> >a, topo  ........  a [ to, at]; topo [(located) at]; to [at (place)]
+>
+>Cool. As are most of the choices. Good work, Robin.
+*   Thanks for the kind comments, Charles.
+Method used:-
+  . Decide approx. what I want to say,  
+  . Check out all possible Glosa words for expressing the idea,
+  . Consider the 'concept' meaning of each of the words, if poss.,
+  . Try the sentence with what seems the most suitable of the possible words;
+   & see what the sentence looks like,
+   & hear what it sounds like,
+   & observe what the sentence 'feels' like, kinesthetically, when it is
+being enunciated,
+   & assess the comfort rating of the tested sentence: accept if satisfactory,
+  . Try the sentence with the other poss. words until one word passes the
+test. 
+
+>> >ala, ptero  .....  ptero  ~~~~~ [wing]
+>Um, that's a terrible consonant cluster, "pt" ...
+>
+*   So wing should be ALA.
+
+>> >austra, sud  ....  sud  ~~~~~ [south]
+>
+>The general drift of the phonology is vowel-final,
+>so I would prefer all the consonant-final words changed.
+>This isn't the greatest example of it, but 'twill serve.
+>
+*   For a word that is frequently "compounded" a final consonant could be
+reasonable.  But AUSTRA follows the 'terminal vowel' rule, though it has
+both a vowel pair and a consonont triple - making it difficult for some:
+ VVCCCV not VCV .
+
+>> >gene, esce  ....  gene [gets, becomes]; esce [develops into, becomes]
+>
+>Latinish "-esce" isn't even a real word ...
+>"gene" is good, though.
+>
+*   ESCE must be Old Glosa, I have used it, but don't find it in the
+current dictionary; by these rules it is a "non-word"; however, as a built
+word it comprises ES [is] and CE [gives way to|cede] to give the feeling of
+"a change of being".  But my sentimentalism is out of place:
+although in the past, for me, GENE has not conveyed "natural development",
+henceforth it will.
+
+>> >ka, kausa  .....  kausa [cause]; ka [because]
+>
+>Hmm. Glosa does have such pairs of full/abbreviated words,
+>but I don't like that feature; "kausa" is much better.
+>Same for "ki". There should be no such over-optimization
+>for short words in an auxiliary language; over time
+>some longer (5 letters is long??) might erode naturally,
+>but initially "kausa"/"kine" is more mnemonic.
+>
+*   I did try a number of times to do with only one "cause/because" word, 
+but this failed to satisfy me.  This concept difference between an
+#activation# and an #explanation# I would leave open, for now.  Is this a
+case of over-conceptualising in a Starter Vocabulary?  Is one #causation#
+all we need for a 2.5K?
+
+>> >tem, duranto  .. tem [while, when, time]; durante [during, duration]
+>
+>Good and necessary distinction.
+>
+*   We agree on this.  What do other Glosalistas think?
+
+>> >   .....  to meet the 1.1.99 deadline for  ....  2.5K.
+>
+>Maybe March 1st is more realistic for adding the "missing" ones?
+>
+*   To get all the opinions in and tabulate them - probably.  At present, I
+am just keeping the word pair preferences in my head; I'll need to be more
+thorough with ammendments to the larger lists.
+
+Saluta,
+ Robin G.
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa 2.5K?
+To: GLOSALIST
+Date: Sat, 26 Dec 98 02:5
+
+At 16:56 19/12/98 -0500, Paul Bartlett wrote:
+>    I was off Glosalist for some time, so I have probably missed out on
+>some things.  Robin has referred, at least informally, to a "Glosa
+>2.5K," which is (or is to be) a list of about two and a half thousand
+>words/concepts for which there will be Glosa counterparts.  How was
+>this list constructed? 
+*   My original mental projection was of a cleaned up, slimmed down
+reduction to 30 - 40% of an ammended _Glosa 6000+_.
+    I feel that such an achievement will be very worthwhile, even if not
+ideal.
+    All of the recommendations and agreements will have to be collated in
+one place .. probably physically, not virtually.  My suggestion is that the
+final form be put into shape on my computer.
+    This 2.5K idea is little more than that, at present.  How might it be
+administered?
+ . Starting with the Greater 6000, I might send a copy of the ammended
+list, probably the Glosa->English version, to all on the Glosalist.  Then I
+might ask subscribers to go through, either selecting their finalists or
+eliminating their non-preferred words.  Posting these voting results back
+to the list - or directly to me - a final melt-down could be made.  I
+would, of course, democratically want to publish the results of subscribers
+selections.
+   From this result, a short list of 2000 - 2500 words could be selected,
+and republished on the list for a final concensus from subscribers.
+
+>   Apart from the cleanup selection of specific
+>vocables (terminal vowels, Gree/Latin pairs, and the like), is it the
+>intention that such a list be the (or a) basic vocabulary, for 'net use
+>if nothing else? 
+*   Is a word missing?
+    There is no Net dictionary for Glosa in the Public Domain, at present.
+This would represent the first Glosa dictionary that is freely available on
+the Net.
+    My understanding is that people wish to have a list that presents them
+with few, or no, choices.  Yet they would like to have enough words to make
+meaningful communication possible. 
+    If the selection makes the language attractive enough, new learners are
+likely to add to their vocabulary by getting the printed Glosa 6000
+dictionary.
+    
+>   Has anything been proffered on the issue of dealing
+>with proper names and specialist vocabulary (e.g., science, law,
+>medicine, engineering)?
+>
+*   On proper names, the authors advise that a minimal change in lettering
+be observed.  While "Africa" might become ~Afrika~ to conform with Glosa
+pronunciation rules, "Mississippi" would remain ~Mississippi~ because it
+cuts across no pronunciation rules, and looks more like the original than
+*Misisipi*.
+    With personal names, I have a little more trouble: There is NO Glosa
+equivalent to the standard "J" sound of English.  In Glosa ~J~ is sounded
+like the "Y" in "yond."  Probably we will have to say that "John" is either
+~Djon~ or ~Jon~ (maybe ~John~) with that funny English "J" that is like
+~dz~ - but not quite - plus a silent ~H~.
+    The Glosa ~G~ provides a similar problem in that there is NO 'soft G',
+so we get back to the mystery of the missing "J", again.  Will "George
+Washington" be introduced to unsuspecting millions as 
+gAY'ORrgAY wAHsEEn'tORn - with a silent G in the second word, but two hard
+G's in the first?
+   Are there any clues about handling this problem from other Planned
+Languages?  Maybe we will just have to tell people that ~George Washington~
+is pronounced "George Washington" because it comes from an ancient language
+with very irregular spelling, and the English talk funny.
+   Suggestions, anyone?
+
+   On the question of specialist vocabularies, no: there has been no
+activity.  BUT there should be some planning as to how to fit them in to
+the existing structure of the language.
+   We need to put effort into the basic use of the lenguage still, so have
+no resources for specialist dictionaries.  also,such things need the
+efforts of specialists!
+   I can imagine that, one day, we will 'load up' additional vocabularies
+to read specialist material using the terminology of one or more areas of
+interest.  If the writer of an article uses teminology from specialist
+lexicons, then he/she would indicate which vocabulary lists are needed if
+people are going to word-process, machine-handle, or just plain make
+dictionary reference.
+   The analogy is given by Java programming: at the top of an applet, the
+programmer calls up the subroutines he will need during the running of the
+applet, EG p218 "Java Programming for Dummies"
+ import java.awt.*;
+ import java.applet.*;
+ import java.lang.*;
+
+   In a similar way specialist Glosa lexicons can be called up into RAM so
+that they will be available for the word-processor, Machine-Translator or
+dictionary-reader.  This would provide a limit, saying that while writing
+the item, you were using words only from the stated list of lexicons.
+Needless to say, particular terms outside the stated lists could be given
+in an additional listing. 
+
+>    Once there is some sort of agreed-upon basic vocabulary list, at
+>least for 'net use, has any thought been given to expanding the
+>"Mechanics of Glosa" with some samples of connected text? 
+*   We all agree with the idea of a _Glosa by Example_ grammar book using
+fully formed sentences to demonstrate the rules.  This can be worked on
+concurrently with the creation of a Net Dictionary: there are scads of
+words that are not in contention; these could be used to make up sentences
+for a _Mechanics of Glosa_.
+    In my mind, I have a list of the principles of Glosa's Syntax-based
+Grammar, and I should outline them on this list so that other can comment,
+ammend, etc.  Once such a list of principles is finalised to everyone's
+satisfaction, then we could go to the next phase, of fleshing out the
+principles with examples.
+QUESTIONS:-
+ . Is there a set of principles of Glosa's grammar?
+ . If there is a set of Grammatical rules applying to Glosa can we produce
+a definitive list?
+ . Do people see a booklet (or webpage) with rules stated, then a series of
+examples following each rule?
+ . Or is there some thought of teaching by example only, without resort to
+didacticism?
+ . I have the idea that Paul imagines our creating a text narrative from
+which the "Mechanics" are illustrated.  This would be more imaginative, but
+harder to do.  Paul, please expand the meaning of "connected text." 
+
+>    (I might be
+>willing to help on this, time and energy allowing.  The "Mechanics"
+>would also need to be checked for standardized forms.) 
+*   Beaut idea.  And yes, we will need to be working to 'Standards.'
+
+>    Does G.E.O.
+>know that all this activity is going on?  If so, what is their
+>reaction?
+*   Not exactly.  I have outlined the foment of activity - Net dictionary &
+expansion of the "Mechanics" idea.  But I did not want to say too much
+until I knew we were able to deliver.  Thing are a bit quiet at Richmond,
+at present, mainly because Wendy Ashby is in Dorset arranging the sale of
+her mother's former home.  I ought to print out, on paper, the key ideas to
+send them, while their computer is still off the air.  The authors thought
+that a grammar book would put people off, so discouraged action on this
+some years ago.  Once we decide on the form of a "Mechanics" we should send
+a copy of either the 'rules', or examples of some of the text, for checking.
+>
+Saluta,
+ Robin G.
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa 2.5K?
+To: GLOSALIST
+Date: Sat, 26 Dec 98 11:2
+
+On Sat, 26 Dec 1998, Robin Gaskell wrote (small excerpt):
+
+>  . I have the idea that Paul imagines our creating a text narrative from
+> which the "Mechanics" are illustrated.  This would be more imaginative, but
+> harder to do.  Paul, please expand the meaning of "connected text." 
+
+    You have the idea.  Some sort of text narrative showing how it all
+fits together.  For one thing, a connected text would demonstrate that
+it is simply not necessary to mark everything under the sun all the
+time as western European languages do.  There may be people whose
+native languages do not mark tense all the time, and they may wonder
+why Glosa is inflected like Latin if tense and aspect are always being
+marked.  If they leave out the markers when they are not strictly
+necessary, those who have become over-accustomed to marking everything
+may have trouble understanding.  Also, a text narrative would give more
+of the feel of the language than just isolated phrases and sentences. 
+As for being "harder to do," if it is too hard, then that would mean
+that it would be too hard to use Glosa at all.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: charles
+Subject: Re: Glosa 2.5K?
+To: GLOSALIST
+Date: Sat, 26 Dec 98 14:2
+
+Robin Gaskell wrote:
+
+>  . Starting with the Greater 6000, I might send a copy of the ammended
+> list, probably the Glosa->English version, to all on the Glosalist.  Then I
+> might ask subscribers to go through, either selecting their finalists or
+> eliminating their non-preferred words.  Posting these voting results back
+> to the list - or directly to me - a final melt-down could be made.  I
+> would, of course, democratically want to publish the results of subscribers
+> selections.
+
+I was thinking about this a little, and *IF* everyone wanted
+to participate through the web using a browser, it would not be
+difficult to write a little Perl/CGI script to display the
+list with comments interspersed. Something like ...
+
+>: (Glosa word 455) ...
+>: (Glosa word 456) - (English translation)
+>:    comment 1 - this word is excellent!
+>:    comment 2 - this word is terrible!!
+>: (Glosa word 457) - ...
+...
+>: Add your comment here: .........
+
+If this is desired, I could make a mock-up page.
+It could be kept "secret" so only our cabal sees it.
+
+
+From: charles
+Subject: Re: Glosa 2.5K?
+To: GLOSALIST
+Date: Sat, 26 Dec 98 14:3
+
+Paul O Bartlett wrote:
+
+> it is simply not necessary to mark everything under the sun all the
+> time as western European languages do.  There may be people whose
+> native languages do not mark tense all the time, and they may wonder
+> why Glosa is inflected like Latin if tense and aspect are always being
+> marked.  If they leave out the markers when they are not strictly
+> necessary, those who have become over-accustomed to marking everything
+> may have trouble understanding.
+
+As I commented on AUXLANG, this problem really must
+get resolved, and soon. The grammar is dangerously
+under-specified. Is a given word to be a "verb" by
+default? Then its dictionary entry had better say so.
+Otherwise you must mark it. Mixed strategy is common,
+but in Glosa it isn't even decided what the rules are.
+
+> Also, a text narrative would give more
+> of the feel of the language than just isolated phrases and sentences.
+> As for being "harder to do," if it is too hard, then that would mean
+> that it would be too hard to use Glosa at all.
+
+Well, Peano did it in a famous address, changing Latin
+to Latino Sin Flexione on the fly ...
+
+Another way is to take the "GUM" and translate each idiom.
+http://www.darmstadt.gmd.de/publish/komet/gen-um/newUM.html
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa 2.5K?
+To: GLOSALIST
+Date: Sat, 26 Dec 98 19:1
+
+On Sat, 26 Dec 1998, charles wrote:
+
+> Robin Gaskell wrote:
+> 
+> >  . Starting with the Greater 6000, I might send a copy of the ammended
+> > list, probably the Glosa->English version, to all on the Glosalist.
+> > [...]
+
+> I was thinking about this a little, and *IF* everyone wanted
+> to participate through the web using a browser, it would not be
+> difficult to write a little Perl/CGI script to display the
+> list with comments interspersed. Something like ... [etc.]
+
+    For myself, it would be easier to have a flat ASCII file I
+could download to my PC and consider/manipulate at my leisure. 
+My web access is a little primitive, and last month my phone
+bill was higher than expected due to greater online time.  I
+could handle it several ways: a file sent out by email,
+something stashed in an ftp library somewhere, or a bare
+<pre>...</pre> web page I could print to a file and download.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+...........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa 2.5K?
+To: GLOSALIST
+Date: Sat, 26 Dec 98 19:2
+
+On Sat, 26 Dec 1998, charles wrote:
+
+> Paul O Bartlett wrote:
+> 
+> > it is simply not necessary to mark everything under the sun all the
+> > time as western European languages do.  [etc.]
+
+> As I commented on AUXLANG, this problem really must
+> get resolved, and soon. The grammar is dangerously
+> under-specified.
+
+    This is perhaps due to Clark&Ashby's individual predilection. 
+They seem to have an aversion to anything that smacks of formal
+grammar.  Witness their absurd claim (perhaps not made of late) that
+"Glosa has no grammar."  From a communication I once received from one
+of them, I got the idea that they -deliberately- do not participate
+in IAL exchanges such as AUXLANG and don't even try to satisfy the
+wants of "formal scholarship."  They seem to think that informality
+and non-specification will carry the world.  Sorry, but I don't buy
+it.  I have to some extent changed my thinking on something like the
+paedagogy of Glosa (or whatever), but I agree that the grammar is
+under-specified.  There seems to be the dangerous unritten, unspoken
+precept, "Otherwise do it as in English."
+
+>                  Is a given word to be a "verb" by
+> default? Then its dictionary entry had better say so.
+> Otherwise you must mark it.
+
+    I wonder if this is so in all cases.  Contemporary English swaps
+words around among parts of speech, and the marking is a little flimsy
+at times.
+
+>                             Mixed strategy is common,
+> but in Glosa it isn't even decided what the rules are.
+
+    To some extent I agree.  I do not think that the basic structure
+needs to be changed.  I just think that it needs some cleaning up and
+better specification.
+
+> [etc.]
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa 2.5K?
+To: glosalist
+Date: Sat, 26 Dec 98 19:3
+
+    I just remembered something.
+
+On Sat, 26 Dec 1998, charles wrote (snippet):
+
+> As I commented on AUXLANG, this problem really must
+> get resolved, and soon. The grammar is dangerously
+> under-specified.
+
+    Quite a long time ago, Robin sent me a grammar specification
+he had worked up.  I sent it back with comments, but as I recall
+I generally thought it was a good start.  Unfortunately, my copy
+has apparently fallen to long-ago disk housecleaning.  But if
+Robin still has it (especially with my comments, of course :-) ),
+it might be something of worth.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: charles
+Subject: Re: Glosa 2.5K?
+To: GLOSALIST
+Date: Sat, 26 Dec 98 19:5
+
+Paul O Bartlett wrote:
+
+>     This is perhaps due to Clark&Ashby's individual predilection.
+> They seem to have an aversion to anything that smacks of formal
+> grammar.  Witness their absurd claim (perhaps not made of late) that
+> "Glosa has no grammar."  From a communication I once received from one
+> of them, I got the idea that they -deliberately- do not participate
+> in IAL exchanges such as AUXLANG and don't even try to satisfy the
+> wants of "formal scholarship."  They seem to think that informality
+> and non-specification will carry the world.  Sorry, but I don't buy
+> it.  I have to some extent changed my thinking on something like the
+> paedagogy of Glosa (or whatever), but I agree that the grammar is
+> under-specified.  There seems to be the dangerous unritten, unspoken
+> precept, "Otherwise do it as in English."
+
+It isn't that I mind their flying in the face of linguistic
+scholarship that really bothers me; it's the practical issues
+that arise, such as your desire to minimize the pseudo-articles
+and such, and are not plainly answerable except by force of
+numbers ("let usage decide").
+
+I found what appears a very reasonable description of how
+lexical categories are marked (or not) in real languages:
+*** http://www.epas.utoronto.ca/~dbeck/lextheory.HTML ***
+and I would like to know which of the 4 possible language
+types Glosa wants to be.
+
+Any one of the basic types would be OK, but would have
+implications. Then we could be secure in our understanding
+of how "u/plu" should work, etc. This would be A Good Thing.
+
+> >                  Is a given word to be a "verb" by
+> > default? Then its dictionary entry had better say so.
+> > Otherwise you must mark it.
+> 
+>     I wonder if this is so in all cases.  Contemporary English swaps
+> words around among parts of speech, and the marking is a little flimsy
+> at times.
+
+It is accounted for neatly by the theory (URL)
+above. English is both "Head/dependent sensitive"
+and "Predicate/object sensitive", so it has distinct
+lexical classes of noun, adjective, or verb for all
+the open-class words. By default, a given word is, say,
+a verb, but can become an adjective by adding a suffix
+like "-ing". In contrast, Tagalog is negative on both;
+so function must always be marked. EXCEPT that when
+"obvious", elision is possible -- all langs do that.
+
+Or we could "let usage decide", which isn't going
+to work out well, since influence of the native lang
+will decide it differently in each case. And if we
+default to English, then every word must be default-
+marked as to part of speech in the dictionary;
+I think nobody here wants that. Or ... ??!?!!
+
+> I do not think that the basic structure
+> needs to be changed.  I just think that it needs some cleaning up and
+> better specification.
+
+Yes, I can agree with that statement, except that
+the word "just" is the nastiest word in English.
+In other words, it really has to be done, and
+might not be easy at all.
+
+
+From: Paul O Bartlett
+Subject: Marking
+To: glosalist
+Date: Sat, 26 Dec 98 20:5
+
+    My position has been that markers should be used only when
+necessary for disambiguation.  However, I am open to it being
+demonstrated that markers may be necessary more frequently than 
+I have hitherto thought.
+
+    One problem I have had is that without a more consistent,
+agreed-upon vocabulary (including one sufficient to discuss Glosa 
+in Glosa), I have been reluctant to put more effort into "original"
+composition and discussion thereof.  And for me, wordlists pretty 
+much need to be manipulable offline with an editor (not, e.g.,
+restricted to the web).
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: William W Patterson
+Subject: Re: Glosa 2.5K?
+To: GLOSALIST
+Date: Sat, 26 Dec 98 19:3
+
+Sat, 26 Dec 98 19:16:49 EST, Paul O Bartlett skribe:
+
+>     For myself, it would be easier to have a flat ASCII file I
+> could download to my PC and consider/manipulate at my leisure. 
+
+> ...a file sent out by email,
+> something stashed in an ftp library somewhere, or a bare
+> <pre>...</pre> web page I could print to a file and download.
+
+I'll second that! For maximum portability and manupilatability,
+you just can't beat a plain old ASCII flat file!
+
+- Salata - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Don't panic! Computers know when you're scared.
+
+
+From: William W Patterson
+Subject: Proxies, Markers and Synonyms
+To: GLOSALIST
+Date: Sat, 26 Dec 98 23:1
+
+Fri, 25 Dec 98 02:50:24 EST, charles skribe:
+
+> I don't have strong specific feelings about lexicon.
+> So I'll designate as my proxy (pause while coin is
+> tossed -- wow, it balanced on one edge) that fellow
+> known as "Ailanto" to vote for me.
+
+Thank you for that vote of confidence! And also thanks for all the
+URLs you've been passing on to us.
+
+Paul has remarked on the overuse of markers in English and the tendency
+of this overuse to migrate into Glosa. We agree that markers should not
+be used when the information is redundant. For example, above... since
+I'm replying on 26 Dec. to a message that charles sent on 25 Dec., it is
+sufficient to say "charles skribe" rather than "charles pa skribe".
+
+As I've said before, one of the things I like about Glosa but probably
+want to push further than the authors had in mind is this idea of concept
+words. But if a word can be a noun, verb, adjective, whatever, then the
+use of markers can be of even greater importance than they might be in
+other languages. Consider the sentence "A B C D E F G". Even knowing
+that it's in Glosa, headfinal and all that, if each of those words A
+through G could represent any part of speech, how could we possibly know
+where the subject ends and the verb begins? But we also know that even
+in Glosa there are words that will never be used as verbs (though I will
+certainly try!), so, as charles noted, knowledge of which words can and
+cannot be which parts of speech would certainly aid in the parsing, and
+I'm sure that much of this will come relatively simply and automatically.
+But if these words and their allowable parts of speech must be learned,
+would this not be a hindrance to learning and usage, and does it not
+tarnish the idea of concept words?
+
+My feeling is that while truly redundant markers should and will
+disappear, some others will pop up to resolve ambiguous situations,
+and in so doing may appear to introduce redundancy in other ways,
+though their true purpose is not redundancy.
+
+Just a quick comment on synonyms. Though it's been a while since I looked
+closely, I do recall that there were many words in the lexikon which were
+synonymous if their parts of speech were ignored. We should probably be
+paring down these synonyms too, though this process would be pushing us
+closer to my ideal of the concept-word language, and might thus actually
+cause more trouble with parsing.
+
+And I'll also point out one example that simultaneously intrigues and
+disturbs me...
+
+   U tri feli...   The three cats...
+
+   U feli tri...   The third cat...
+
+Intrigues, because it's so concept-wordy. Disturbs, because I don't think
+I would have come up with a "catty third" on my own. (And I'm still not
+sure that I like this form. It doesn't seem quite robust enough but I can't
+quite say why. Anyway...) Maybe with practice, and certainly with a hint -
+but no way would I have come up with that on my own! We *do* need a grammar!
+
+- Salata - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Don't panic! Computers know when you're scared.
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Sun, 27 Dec 98 06:0
+
+At 17:29 24/12/98 -0500, you wrote:
+>On Thu, 24 Dec 1998, Paul O Bartlett wrote:
+>
+>>              IS THERE ANY REASON WHY OTHER INTERESTED GLOSA-PE CANNOT
+>> TAKE OVER SOME OF THIS EFFORT, ESPECIALLY ON THE 'NET?
+>
+>    I will give a single example of what I mean.  Suppose some
+>reasonable group of people came to some sort of more or less amicable
+>agreement on the terminal-vowels problem and the Greek/Latin pairs
+>issue. 
+*   In a short answer: no there is no reason why an interested Glosa-pe
+cannot take over some of the Glosa work on the Net!
+    On this, I personally am guided by the existing range of words in
+existing, printed Glosa dictionaries.  If a word is there, but is part of a
+range of spellings, then, when a good case is given for preferring the one
+over the others, it becomes the chosen form.
+    Regarding synonyms, it is obvious that both words are usable, buti it
+just becomes a matter of selection, to choose the most suitable one for use
+in the Net dictionary.
+    I try to avoid inventing words that are not in the printed
+dictionaries, or have been printed at one time.  EG ~utor~ [employ] this
+word was derived by me from the Latin dictionary; and, considering that I
+wanted to use the concept "employ", which was not covered by the Glosa
+6000, I simply derived the word using the same process that the authors
+would have used.
+    A more difficult case is the logical function-word "that": I and others
+use this 'archaic' form in our thinking and speech, EG "It was so cold that
+he died."  In Glosa this used to be ~ke~ [that], but this Esperanto
+'loan-word' was dropped, and Wendy pointed out to me that I was using Old
+Glosa.
+  EG  U meteo habe ta frigo; ke un andra pa morta.
+ glos. the weather had so much cold, that the man did die
+
+   This usage was shortened from  ~ ; ke ~  to  ~ ; ~ .   I did not enjoy
+this death of a word, nor of the sounding of the concept.  I have seen in
+some Glosa the use of ~u-la~ to express the logical function, when it means
+"the there".
+   I miss this word and wish to see it re-instated in the Glosa dictionary.
+
+>  Then optimize the vocabulary to whatever size it might turn out
+>to be.  For the "Mechanics of Glosa" add some agreed-upon connected
+>text to the existing paradigmatic phrases and sentences (themselves
+>cleaned up, if necessary, for terminal vowels and Greek/Latin).
+>
+*   Nice idea.  Please discus your intention: I understand that you wish to
+avoid using sentences that a unrelated to others, and thus 'lifeless'.  In
+a few words, can you describe the final effect that you wish to achieve.
+    And yes, the Glosa authors are not rushing in to set up a whole
+narative demonstrating all of the points of Glosa's grammar, so, if you or
+I don't do it, it is likely not to get done.
+
+>    That much done, which does not really seem to be so great, then 
+>on a time-available basis I would cheerfully update the Glosa Basic
+>Reference I have on the web.  But because it contains originally
+>copyrighted materials, would Clark&Ashby allow it?
+>
+*   The question remains: what, in essence, have they copyrighted?
+    If Fred prints the "Xingalong Dictionary" and Harry photocopies it and
+reprints it, as it stands, then Harry has infringed Fred's copyright.
+Even if Harry retypes the Xingalong List exactly and sells it or gives it
+away, then Fred probably has a case in court against Harry.  But once Harry
+starts creatively playing with the Xingalong List extending it, or
+shortening it, then Fred's lawyer might warn him that he is likely to lose,
+if he takes Harry to court. The rule might be that you can copyright a
+dictionary, but you can't copyright a language.  
+    One last thought.  Fred needs to pay his lawyer: without the ^green
+folding^ there is no case!
+
+Saluta,
+ Robin G.
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Sun, 27 Dec 98 04:4
+
+At 17:18 24/12/98 -0500, Paul Bartlett wrote:
+>On Fri, 25 Dec 1998, Robin Gaskell wrote (here and there):
+>
+>> The Glosa authors know that the Net is hugely important, but they have
+>> not had the grunt^ to organise "Applets" nor the money to pay for
+>> significant connect-time.
+*   This was an answer to the Q. Why are they not using the Net?
+
+>>     And pragmatically, per Pound Sterling [etc.]                    I 
+>> can understand their putting their limited resources where their best
+>> results comes from.
+>
+*   This was a rationalisation to suggest that the authors use their
+resources to maximum effect.
+ & P.S. I, personally, am spending too much of my waking hours in writing
+and answering emails on Glosalist and Auxlang.  I must try to lurk only on
+Auxlang.
+
+>    IS THERE ANY REASON WHY RON CLARK & WENDY ASHBY HAVE TO DO
+>EVERYTHING?  IS THERE ANY REASON WHY OTHER INTERESTED GLOSA-PE CANNOT
+>TAKE OVER SOME OF THIS EFFORT, ESPECIALLY ON THE 'NET? 
+*   Q1: No.  But there aren't many others doing things.  I, for instance,
+asked to be Glosa agent for Australia, and they suggested "Glosa Agent for
+NSW".  
+     I suggested a Glosa Supergroup comprising the activists, wherever they
+were: the main response was that the authors couldn't work out how to
+administer such a group.  I was on Conlang and Auxlang for some years
+before I decided that I should try to establish a Glosa Mailing List.
+     "Delegation of authority" has been a theme in my letters with the
+authors, but they seem to have been a bit slow responding to this idea.  I
+have strongly recommended that they set up a clear Management Structure
+together with a solid Business Plan for Glosa, and there was some movement.
+ I have slowed down a bit because of health, but am picing up speed again.
+
+    But it is agreed, Clark and Ashby do not own Glosa, and anyone else can
+set up a Glosa publication, Webpage or Mailing List.  But, I have seen
+nothing of other administration in Glosa beyond mine and that of Banobi
+Herbert of the Mountain Gorilla Park in Uganda.  Originally an Oden Smith
+did run a good structure of Glosa groups in Uganda, but sadly
+he died, and no-one has taken up his mantle.
+    As far as I am concerned, Glosa can start breaking out like grass-fires
+all over.  There should, by now, be a network of Glosa Mailing Lists: I
+wish there were.
+    Ron Clark and Wendy Ashby might be a genii, but they still have things
+to learn about running a business.
+
+> HAS ANYONE EVER
+>ASCERTAINED WHAT IS THE ATTITUDE OF CLARK & ASHBY TO ANYONE ELSE'S
+>EFFORTS, WHETHER THEY WOULD TRY TO HINDER EFFORTS THROUGH COPYRIGHT
+>RESTRICTIONS OR WHATEVER? 
+*   When I originally registered "Glosa Communication" as a trading name,
+they were a bit surprised.  The Bahai, Paul Easton, released the Glosa
+Classified list (1000 words) because it seemed the sensible thing to do.  I
+agreed that his action was correct, but had been asked not to release Glosa
+6000 on the Net prior to this.
+    There are restrictions but they are based on pre-electronic publishing
+principles.  One reason for my starting the Glosalist was to gather a
+concensus for releasing a Glosa Internet Dictionary.  It is an idea whose
+time has come, even if the Glosa authors do not know it.  At 62, and with
+one stent, I have decided to do the right thing rather than the allowed
+thing: having spent twenty years with Glosa, it is no wonder that I
+sometimes lapse into Old Glosa.  Also, I could retire from active language
+promotion ... or could keep promoting Glosa: I might as well give it my
+best shot, considering I don't know how long I can continue doing so.
+
+ DO THEY EVEN KNOW WHAT IS GOING ON?  (end 
+>of shouting)
+>
+*   Maybe not.  I do write letters to the authors periodically, and try to
+keep them informed of my actions.  By 'snail mail' they are at 
+   PO Box 18 Richmond, Surry TW9 2AU, U.K.
+
+>>     We ought to add 'missing' words to the 6000 list first; then, 
+>> after we've decided on the 6000+ list, we can 'vote' on the words in >>
+it .. on the basis that every second word, at least, should go.
+>  [  .......  ]
+> If every other word of "6000"
+>were to go, we would still be substantially above my size estimate for
+>a basic vocabulary.
+>
+*   Please Paul, you do take me too literally: I was using "every second
+word" in ^round figures^.  I have no idea what size an optimal dictionary  
+would have until I start looking.
+    One thing that is, however, certain is that I was unhappy with Glosa
+when I was restricted to the shorter, Glosa 1000 dictionary.  It was only
+after the Glosa 6000 was published that I discovered the elegance of Glosa,
+and found that I could express myself as I wished.  So, for my own
+purposes, I do not know how much of the 6000 list I could comfortably do
+without.  If you add to Glosa 1000, and I cut from Glosa 6000, we will meet
+somewhere at the median point.
+    And here's the cruncher.  For economic reasons the authors prefer to
+disseminate Glosa via the Glosa 1000 list.  If others felt the same
+restriction that I got from this list, it might easily suggest that others
+failed to get satisfaction from this shorter list, too.  I dreamt of using
+DTP to create further copies of Glosa 6000, and now with the P2 and an
+Epson Stylus 440, I might be able to do this ... for free dispersal to Africa.
+
+>>>> So, I hope that others set up Glosa groups all around the world.
+     The Ownership of the 1000 and 6000 lists is with the Glosa Educational
+Organisation, which is a charity in U.K.
+     A Net dictionary will be also marked with the GEO copyright, but this
+will have little real effect, since no-one will be inclined to send a
+"Registration" to Richmond, UK, though an invitation to this effect will be
+extended. 
+
+Saluta,
+ Robin G.
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: William W Patterson
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Sun, 27 Dec 98 12:2
+
+Sun, 27 Dec 98 06:01:29 EST, Robin Gaskell skribe:
+
+>    This usage was shortened from  ~ ; ke ~  to  ~ ; ~ .   I did not enjoy
+> this death of a word...
+
+A wonderful way of putting it! I doubt there are very many people
+around who would think of it that way. Well, probably many more in
+this language community than elsewhere. Anyway, though I haven't
+done much with my AEP, see http://www.neosplice.com/~ailanto/aep.htm
+for similar sentiments regarding English.
+
+> *   The question remains: what, in essence, have they copyrighted?
+
+> The rule might be that you can copyright a
+> dictionary, but you can't copyright a language.  
+
+I think you're right about that legal distinction, dictionary vs.
+language. But the real question is, what's the right thing to do?
+Quite frankly, while I'd never hesitate to violate a Microsoft
+copyright (considering what they've done to my computing world)
+I wouldn't want to work against Ashby and Clark even if I had the
+legal right to do so.
+
+Maybe it's time to do a Loglan/Lojban type spinoff. We could almost
+claim a new language simply by defining the grammar!
+
+- Saluta! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Time flies like an arrow. Fruit flies like a banana.
+
+
+From: nosnag
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Sun, 27 Dec 98 13:5
+
+William W Patterson wrote:
+> 
+> Sun, 27 Dec 98 06:01:29 EST, Robin Gaskell skribe:
+> 
+> >    This usage was shortened from  ~ ; ke ~  to  ~ ; ~ .   I did not enjoy
+> > this death of a word...
+> 
+> A wonderful way of putting it! I doubt there are very many people
+> around who would think of it that way. Well, probably many more in
+> this language community than elsewhere. Anyway, though I haven't
+> done much with my AEP, see http://www.neosplice.com/~ailanto/aep.htm
+> for similar sentiments regarding English.
+
+So it's back in, because "ke/that" is indispensible for clear
+writing and speech. I would eliminate ";" instead.
+
+> > *   The question remains: what, in essence, have they copyrighted?
+> 
+> > The rule might be that you can copyright a
+> > dictionary, but you can't copyright a language.
+
+So a new dictionary is OK to produce and distribute,
+even if it disagrees with the A&C canon.
+
+> I think you're right about that legal distinction, dictionary vs.
+> language. But the real question is, what's the right thing to do?
+> Quite frankly, while I'd never hesitate to violate a Microsoft
+> copyright (considering what they've done to my computing world)
+> I wouldn't want to work against Ashby and Clark even if I had the
+> legal right to do so.
+
+Yes, exactly.
+
+> Maybe it's time to do a Loglan/Lojban type spinoff. We could almost
+> claim a new language simply by defining the grammar!
+
+Ack! you mean "dialect". Yes, the "internet dialect" of Glosa.
+More chance of growing rapidly on the net than in Uganda,
+no offense to Third World countries intended.
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Sun, 27 Dec 98 18:3
+
+On Sun, 27 Dec 1998, William W Patterson wrote:
+
+> [cut]
+
+> Maybe it's time to do a Loglan/Lojban type spinoff. We could almost
+> claim a new language simply by defining the grammar!
+
+Nope.  The IAL world does not need more fragmentation.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Sun, 27 Dec 98 18:4
+
+On Sun, 27 Dec 1998, nosnag wrote (excerpt):
+
+> So it's back in, because "ke/that" is indispensible for clear
+> writing and speech. I would eliminate ";" instead.
+
+    How do other languages handle this sort of subordination?  "It 
+was so cold that the old man died."  Here, "that" is a conjunctive
+expressing result or causation.  Elsewhere in English, "that" often
+merely introduces a noun clause.  English "that" is a slippery word,
+just like the abominable "get."  I do not think we should introduce
+these ambiguities into Glosa.
+
+Klima es ta frigi; seqe-co gero-an gene morta.
+
+Forget 'ke'/"that" in such a case.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Sun, 27 Dec 98 19:0
+
+On Sun, 27 Dec 1998, Robin Gaskell wrote (here and there):
+
+>      I suggested a Glosa Supergroup comprising the activists, wherever they
+> were: the main response was that the authors couldn't work out how to
+> administer such a group.
+
+    Why should they have to administer such a group at all?  My
+consideration is that the best think Zamenhof ever did for Esperanto
+was to take his hands off of it.  He remained the exemplar of good
+usage and answered a lot of questions, but he unequivocally put it 
+the public domain.  A very, very wise decision, in my estimation.  
+And he did not get rich off of Esperatno, either.
+
+>      "Delegation of authority" has been a theme in my letters with the
+> authors, but they seem to have been a bit slow responding to this idea.  I
+> have strongly recommended that they set up a clear Management Structure
+> together with a solid Business Plan for Glosa, and there was some movement.
+
+    Management Structure?  Business Plan?  Why not just let is spread
+without a lot of bureaucracy?  James Cooke Brown tried to keep a
+stranglehold on Loglan and succeeded only in running up large legal
+fees in a messy court battle he eventually lost.  Eiffel, I am told,
+was a relatively good computer programming language, but the author
+tried to keep a stranglehold on it, and now it is probably pretty much
+dead.  As harsh as it may sound, Ron Clark and Wendy Ashby are going 
+to have to realize that if they tie Glosa to their personal lives,
+including their personal finances, its future is bleak at best.
+
+>     But it is agreed, Clark and Ashby do not own Glosa, and anyone else can
+> set up a Glosa publication, Webpage or Mailing List.  But, I have seen
+> nothing of other administration in Glosa beyond mine and [...]
+
+    I guess a phantom set up the Glosa www pages.
+
+>     There are restrictions but they are based on pre-electronic publishing
+> principles.  One reason for my starting the Glosalist was to gather a
+> concensus for releasing a Glosa Internet Dictionary.  It is an idea whose
+> time has come, even if the Glosa authors do not know it.
+
+    I agree.
+
+>           If you add to Glosa 1000, and I cut from Glosa 6000, we will meet
+> somewhere at the median point.
+
+    Plausible notion.
+
+>     And here's the cruncher.  For economic reasons the authors prefer to
+> disseminate Glosa via the Glosa 1000 list.
+
+    Except that there is -NO- "Glosa 1000" list.  Their published lists
+of "Glosa 1000" are inconsistent, which has been a point of mine all
+along.
+
+>      The Ownership of the 1000 and 6000 lists is with the Glosa Educational
+> Organisation, which is a charity in U.K.
+
+    This sounds like a blurring between copyrighting a language and
+copyrighting a document.  If a language cannot be copyrighted but much
+of its content -- vocabulary lists -- can, then the practical effect
+of the language not being copyrighted is largely vitiated.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+...........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Sun, 27 Dec 98 19:0
+
+On Sun, 27 Dec 1998, Robin Gaskell wrote:
+
+> [cut]
+
+> *   Nice idea.  Please discus your intention: I understand that you wish to
+> avoid using sentences that a unrelated to others, and thus 'lifeless'.  In
+> a few words, can you describe the final effect that you wish to achieve.
+
+    Keep the existing paradigmatic phrases and sentences in the
+Mechanics of Glosa (perhaps conflated from its various forms, as I
+tried to do on the www pages).  They are fine as far as they go and
+usefully demonstrate a lot of usages.  But taken in isolation they do
+not give a subjective "feel" for the language nor demonstrate how it
+fits together on a larger scale.
+
+> [cut]
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Sun, 27 Dec 98 21:0
+
+At 07:50 25/12/98 +0000, Charles wrote:
+>Robin Gaskell wrote:
+>
+>> The Glosa authors know that the Net is hugely important,   [  ....  ]
+>
+>Friends have web hosting (no dialup) at he.net
+>for approximately $20 per month. So, it is really
+>just silly NOT to have an official "www.glosa.org".
+>No need for fancy applets, just a *presence*
+>and some informative text and points of contact.
+*   Charles I will "Redirect" your blip to the GLOSAUK e-mail address, but
+will have to post it pidgeon post, if it bounces, owing to computer failure
+at Ricmond, UK.
+    I suspect that the authors might find they have no time spare for the
+Net; and, at $20 p.m. I might have to pledge half of it.  What you say is,
+however all correct!
+
+>Many would contribute articles, sounds, etc.
+>
+*   I believe you are right about the potential response.  Is the  he.net
+connection only for Websites, or do they allow Mailing Lists as well?
+    If the authors did institute a search, they would find a range of "free
+sites", but I understand that they are worried about hidden costs in being
+on the Net. 
+
+>> Just imagine a large database, somewhere with
+>> candidates for the "2.5K" down one side, and 'votes' in favour of
+inclusion - in columns across.  (The number of columns will depend on the
+number o Glosalist participants.)
+>
+>I don't have strong specific feelings about lexicon.
+>So I'll designate as my proxy (pause while coin is
+>tossed -- wow, it balanced on one edge) that fellow
+>known as "Ailanto" to vote for me.
+>
+*   IE Bill Patterson.
+    Nice to hear that you are not anxious about the dictionary.  But to
+keep everyone happy, we may as well fix on a standard vocabulary with
+regular spelling.  After recovering from dictionaritis, we will be able to
+get on with the task of using the language creatively.
+
+Saluta,
+ Robin
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa 2.5K?!
+To: GLOSALIST
+Date: Mon, 28 Dec 98 03:3
+
+At 19:31 26/12/98 +0000, Charles wrote:
+>Paul O Bartlett wrote:
+>
+>> it is simply not necessary to mark everything under the sun all the
+>> time as western European languages do.  There may be people whose
+>> native languages do not mark tense all the time, and they may wonder
+>> why Glosa is inflected like Latin if tense and aspect are always being
+>> marked.  [  .......  ]
+*   I do not see Glosa inflected like Latin, at all.
+
+>As I commented on AUXLANG, this problem really must
+>get resolved, and soon. The grammar is dangerously
+>under-specified. 
+*   Basically the authors wanted to avoid bogging down in details of
+definition.  My guess is that we have gone as far as we can along that road.
+
+>Is a given word to be a "verb" by
+>default? Then its dictionary entry had better say so.
+>Otherwise you must mark it.
+*   No, words were never intended to BE parts of speech, but to function as
+different parts of speech, depending on their syntax, and it has always
+been so.  
+ EG An ki habe u kurso.  ........ kurso  [run] 'noun' = functions as noun
+    An kurso longi u via.  ...... kurso  [run] 'verb' = functions as verb
+
+   Some words by their very semantics find it hard to function as anything
+else but a verb, and others as a noun, but the rule is just as fresh today
+as it was twenty years ago:- 
+  "A word may, within reason, function as any part of speech, depending on
+its syntax.
+
+>    Mixed strategy is common,
+>but in Glosa it isn't even decided what the rules are.
+>
+*  A word is governed by its precedent.  This leads to HEAD FINAL phrase
+structure.  The ultimate substantive word in a Noun Phrase is a 'noun'. 
+The ultimate substantive word in a Verb Phrase is a 'verb'.
+   Clause structure is similar to that of English.
+   There are the function words which act as prepositions, interrogatives
+time particle, and there are the substantives which can function as nouns,
+verbs, adjectives and adverbs.
+
+>> Also, a text narrative would give more
+>> of the feel of the language than just isolated phrases and sentences.
+>> As for being "harder to do," if it is too hard, then that would mean
+>> that it would be too hard to use Glosa at all.
+>
+*   I was talking educationally: this has the elements of an exercise in
+Programmed Instruction, and could involve some work if it was to be done well.
+
+>Well, Peano did it in a famous address, changing Latin
+>to Latino Sin Flexione on the fly ...
+>
+*   Glosa is already there.
+
+>Another way is to take the "GUM" and translate each idiom.
+>http://www.darmstadt.gmd.de/publish/komet/gen-um/newUM.html
+>
+*   Such a move would seem counterproductive to me.  I think that as well
+as translating idioms, it is only fair to warn people that the strange
+reference is an imported idiom.  I guess you might be ^pulling my leg.^
+
+Saluta, 
+ Robin Gaskell
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: Glosa Central
+Cc: GLOSALIST
+Date: Sun, 27 Dec 98 22:0
+
+>Return-Path: <owner-glosalist{at}zeta{dot}org{dot}au>
+>Date: Fri, 25 Dec 1998 07:50:24 +0000
+>From: charles <catty{at}pacificnet{dot}net>
+>To: glosalist{at}zeta{dot}org{dot}au
+>Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+>Sender: owner-glosalist{at}zeta{dot}org{dot}au
+>Reply-To: glosalist{at}zeta{dot}org{dot}au
+>
+>Robin Gaskell wrote:
+>
+>> The Glosa authors know that the Net is hugely important, but they have
+>> not had the grunt^ to organise "Applets" nor the money to pay for
+>> significant connect-time.
+>
+>Friends have web hosting (no dialup) at he.net
+>for approximately $20 per month. So, it is really
+>just silly NOT to have an official "www.glosa.org".
+>No need for fancy applets, just a *presence*
+>and some informative text and points of contact.
+>Many would contribute articles, sounds, etc.
+>
+>> Just imagine a large database, somewhere with
+>> candidates for the "2.5K" down one side, and 'votes' in favour of 
+>> inclusions - in columns across.  (The number of columns will depend on 
+>> the number of Glosalist participants.)
+>
+>I don't have strong specific feelings about lexicon.
+>So I'll designate as my proxy (pause while coin is
+>tossed -- wow, it balanced on one edge) that fellow
+>known as "Ailanto" to vote for me.
+>
+*   Hello Ron and Wendy,
+     I won't know if you get this message, but Ido hope your computer is
+now operational again.
+     Charles mentions that there are a number of "free sites" around the
+Net, and that there are some minimal cost deals, as well.  I would pay
+half, if necessary, to ensure that you could put out a Webpage.
+
+    The "2.5K" idea is for the setting up of a Net dictionary that is put
+into the Public Domain, so that it is freely available to allcomers.  I do
+like the 6000 word-list, but Paul Bartlett and a few others prefer a
+shorter First Dictionary, so we will do a compilation of 2000 - 2500 words
+to get the Cyberions in.
+
+    It looks like it will be a bit tricky to work through a
+cyberspace-committee to reduce the Glosa 6000 to a third of its bulk.  But
+there were three things suggesting the need for a recast:-
+  . spelling irregularities throughout the 6000 and various 1000 lists,
+  . a surplus of synonyms - or simply the presence of synonyms,
+ &. the stated desire for a Starter Dictionary shorter than the 6000, but
+longer than the 1000.
+
+    These matters have prevented the Glosalist subscribers from actively
+writing in Glosa up to now.  Well, agreed, they didn't stop me, but I must
+be tough or thick skinned.  If the Glosalist subscribers are any measure of
+the affluents in cyberspace, then we must be doing something wrong, because
+very few of those connected to the Net have transcribed stories into Glosa:
+I have seen none from other computer-owners yet.
+     Considering the Internet is an open forum, and anyone anywhere with a
+Network connection can trawl the Net to find my Webpage, I would say that
+the members of Auxlang, and especially the members of the Glosalist, are at
+the leading edge of World Language Reform; so, we ought to be able to
+'catch' some of them, at least.  If these open-minded souls are acting shy,
+then we have little hope of drawing in the less-interested majority of
+humanity ... with the present offering.
+     "Standardisation" is the catch-word behind the "2.5K" idea.  I now am
+convinced that there is much less ''suspension of judgment'' around than we
+had hoped for.  It looks as if the educated intelligentsia using the
+Internet has effectively been taught to dot all it "I"s and cross all its
+"T"s, and to reject work that fails to measure up to this prescribed standard.
+     I am trying hard to distil a shorter Net Dictionary, with no spelling
+irregularities and virtually NO synonyms: hopefully such a dictionary will
+allow our potential Glosa-pe on the Net to discover their creativity, at
+last.  
+     For myself, I still recommend Glosa 6000 for creative purposes, and I
+enjoy the luxury of being able to call "water" variously ~aqa~ or ~hidra~;
+but, my values are not those of the majority of Glosalist subscribers, so,
+for the sake of results, I feel it necessary to bend my effort to the
+concensus view.
+
+Saluta, 
+ Robin Gaskell
+  P.S. Wendy, how has the house-selling gone?
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa**$ (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Sun, 27 Dec 98 22:2
+
+At 08:08 25/12/98 +0000, you wrote:
+>Robin Gaskell wrote:
+>
+>> *   The Glosa authors' use of the Roget categories - as a guide to the
+>> basic concepts to include in a first wordlist - did seem a reasonable >>
+idea.
+>Well, it's a start. I've always liked Roget. Question:
+>is there a list of correspondences between Roget numbers
+>and the Glosa words?
+>
+*  There were close to a thousand basic categories in Roget's original
+work: the thousand concepts were translated into Glosa words.
+
+>>     If you were Prime Minister of the United Nations  [  ....  ]  what
+>> vocabulary would you like to see used to discus solutions to the >>
+problems, globally?
+>
+>I would take several well-known basic vocabularies and merge them.
+>The most essential 10000 (or less) would be bi-syllabic.
+>Then rely on "adjectives" or compounding to build most of the rest,
+>as Esperanto does successfully from a small core vocabulary (2000?).
+>Certain specialist multi-syllabic vocabularies could be defined
+>by experts if needed.
+>
+*   Quite a re-mix.  But you would start with existing printed basic
+vocabularies ... and you would aim to find the bi-syllabic "conceptual
+elements" in words.  Does this mean you would expect to find the 10 000
+words with either  CVCV or CV-CV structure?  The latter technique was used
+to define the various consonant-vowel doubles that were the building blocks
+of the Huna language (CV-CV-CV-CV).
+
+>The basics should be compared with Roget (done!), Kanji,
+>Esperanto/Ido (with extra special attention to their
+>powerful word-building suffixes) and a few others.
+>
+>Look here, RH has done most of the work already:
+>http://www.rick.harrison.net/langlab/lab3.html
+>
+*   I am sorry to say that Rick left the Conlang group before he made this
+fact clear.  I ought to look at it, but then, I have stopped jotting down
+Websites I SHOULD visit.
+
+Saluta,
+ Robin G.
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa 2.5K???
+To: GLOSALIST
+Date: Sun, 27 Dec 98 23:5
+
+At 11:28 26/12/98 -0500, Paul Bartlett wrote:
+>On Sat, 26 Dec 1998, Robin Gaskell wrote (small excerpt):
+>
+>>  . I have the idea that Paul imagines our creating a text narrative 
+>> from which the "Mechanics" are illustrated.  This would be more >>
+imaginative, but harder to do.  Paul, please expand the meaning of >>
+"connected text." 
+>
+>    You have the idea.  Some sort of text narrative showing how it all
+>fits together.  For one thing, a connected text would demonstrate that
+>it is simply not necessary to mark everything under the sun all the
+>time as western European languages do.  
+*   Got it!
+    Thank you for this inspiration, Paul.
+
+    Quite frankly this is an ideal opportunity for Glosalistas who would be
+Glosa-pe to get started.
+ 
+    Now, there are a number of features of Glosa grammar that could be
+demonstrated in the body of a text | narative | description | etc.
+
+    It might be possible to introduce and repeat a grammatical principle in
+one installment, and then introduce and repeat another in a subsequent
+installment, and so on.  Is this idea of a serialised story what you had in
+mind, Paul?
+
+    The alternative device is to treat quite different situations in
+subsequent texts, choosing situations in which one grammatical principle
+can occur a number of times.  This is the more standard Grammar book trick.
+ And it would suit us on the Glosalist if different people chose to create
+various texts featuring this, or that, grammatical principle.
+
+    For reasons of group spirit, I would prefer it if we could work,
+co-operatively, on the various installments of a connected narative, using
+the same heros and heroines who keep cropping up in different (grammatical)
+situations.
+    Having happy memories of the other-ness of French culture from Franch
+lessons, at school, I imagine a Fifi and a Herbert (pronounced in Glosa, of
+course) being our major protagonists.  We'll need another couple of
+Cosmopolitans to flesh out the plot, and then we'll need a reason for
+telling the tale.  What action do we want in the story: a bank robbery, a
+traffic accident, a traumatic lottery win, etc, OR all of the above, and more?
+
+    Paul, did you imagine this as primarily a Mailing List sequence, or as
+something that would fit an episode onto a page for printing and mailing ..
+or both?  I still have to learn how to use the Word97/Epson440
+pair in DTP mode, and if I abbr. my blips I might get time to study the new
+equip.
+    I have imagined that the various grammatical principles can be noted in
+a margin left for such comments.  If this ran down the RHS of the page, it
+could even be marked off with a vertical line.  If used, would we wish to
+give the Grammar its Glosa name, or would we use English?  I favour Glosa
+on the page - with a key at the end of the book giving English equivalents,
+and leaving space for the pen additions of language-X equivalents.
+    
+   Right, gang: we need more names, and situations you might be happy to
+write grammatical sequences about.
+
+Hedo Nov-anua,
+ Robin Gaskell
+   P.S.  Hands up all those who would like a thumb-nail sketch of the
+points of Glosa grammar that ought to come up in our Demo-narative.
+       If we like doing the first one, we might do another, etc.
+
+
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: charles
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Mon, 28 Dec 98 12:0
+
+Robin Gaskell wrote:
+> At 07:50 25/12/98 +0000, Charles wrote:
+> >Robin Gaskell wrote:
+
+> I suspect that the authors might find they have no time spare for the
+> Net; and, at $20 p.m. I might have to pledge half of it.
+
+Time is the problem, indeed ... the only one worse than money.
+I could donate a share of the cost too.
+
+> Is the  he.net
+> connection only for Websites, or do they allow Mailing Lists as well?
+
+They allow you to install "Smartlist", which looks pretty good:
+ftp://ftp.informatik.rwth-aachen.de/pub/packages/procmail/SmartList.FEATURES
+But I have not tried it myself.
+
+I don't think fancy features are needed, but here they are:
+http://www.he.net/faq/
+
+> If the authors did institute a search, they would find a range of "free
+> sites", but I understand that they are worried about hidden costs in being
+> on the Net.
+
+With a hosting service, the costs are not hidden;
+and no ads, and high performance (unlike Geocities).
+
+> Nice to hear that you are not anxious about the dictionary.  But to
+> keep everyone happy, we may as well fix on a standard vocabulary with
+> regular spelling.  After recovering from dictionaritis, we will be able to
+> get on with the task of using the language creatively.
+
+I think it *is* very important, but I trust you guys to do it.
+I'm not strong on lexicon myself; I'd just pick Ido words.
+They did a very good job ... look at this:
+http://www.yi.com/home/ChandlerJames/idoang.html
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa 2.5K???
+To: GLOSALIST
+Date: Mon, 28 Dec 98 12:0
+
+On Mon, 28 Dec 1998, Robin Gaskell wrote (excerpts):
+
+>     It might be possible to introduce and repeat a grammatical principle in
+> one installment, and then introduce and repeat another in a subsequent
+> installment, and so on.  Is this idea of a serialised story what you had in
+> mind, Paul?
+
+    Uh, no, as a matter of fact.  I was thinking of just a long
+paragraph or two is all.  I generally like the overall purpose of 
+the existing booklets.  I only think that they need to be expanded
+somewhat: enhanced and regularized vocabulary, perhaps with the
+categorizations at the end (which might, of course, entail some
+repetition) together with the Mechanics expanded to include a connected
+paragraph or two.  Pretty much like the current Glosa Basic Reference
+on the www.  It could still be printed up as a booklet -- in various
+languages, of course -- only somwhat, but not greatly, larger than the
+existing booklets.  They would be relatively cheap to produce (compared, 
+say, to a book, even paperbound).
+
+>     Paul, did you imagine this as primarily a Mailing List sequence, or as
+> something that would fit an episode onto a page for printing and mailing ..
+> or both?
+
+    I am not quite sure what you mean here.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa**# (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Mon, 28 Dec 98 12:0
+
+On Mon, 28 Dec 1998, charles wrote (excerpt):
+
+> > Is the  he.net
+> > connection only for Websites, or do they allow Mailing Lists as well?
+> 
+> They allow you to install "Smartlist", which looks pretty good:
+
+    To the best of my knowledge, SmartList is one of the simplest
+mailing list servers to administer (compared, say, to Majordomo, 
+Listserv, or Listproc).
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: charles
+Subject: Re: Glosa**$ (was: Re: Re&: Esperanto what for? (fwd))
+To: GLOSALIST
+Date: Mon, 28 Dec 98 12:1
+
+Robin Gaskell wrote:
+
+> >I would take several well-known basic vocabularies and merge them.
+> >The most essential 10000 (or less) would be bi-syllabic.
+
+> *   Quite a re-mix.  But you would start with existing printed basic
+> vocabularies ... and you would aim to find the bi-syllabic "conceptual
+> elements" in words.  Does this mean you would expect to find the 10 000
+> words with either  CVCV or CV-CV structure?  The latter technique was used
+> to define the various consonant-vowel doubles that were the building blocks
+> of the Huna language (CV-CV-CV-CV).
+
+Glosa has 2 major advantages over other IALs;
+it has SVO analytic type (known to be the easiest)
+and it uses CV phonology (ditto). CV implies there
+will be approximately 100 distinct syllables,
+so there can be a maximum of 10000 bi-syllabic words.
+That should more than suffice for an easy-to-learn
+yet complete vocabulary, assuming that users can
+easily compound or "adjectivize" (use modifiers).
+
+> >Look here, RH has done most of the work already:
+> >http://www.rick.harrison.net/langlab/lab3.html
+> >
+> *   I am sorry to say that Rick left the Conlang group before he made this
+> fact clear.  I ought to look at it, but then, I have stopped jotting down
+> Websites I SHOULD visit.
+
+This is the one that collects essential word lists.
+It ought to save you a lot of time and energy ...
+
+
+From: charles
+Subject: Re: Glosa 2.5K?!
+To: GLOSALIST
+Date: Mon, 28 Dec 98 13:2
+
+Robin Gaskell wrote:
+> 
+> At 19:31 26/12/98 +0000, Charles wrote:
+
+> >Another way is to take the "GUM" and translate each idiom.
+> >http://www.darmstadt.gmd.de/publish/komet/gen-um/newUM.html
+
+> *   Such a move would seem counterproductive to me.  I think that as well
+> as translating idioms, it is only fair to warn people that the strange
+> reference is an imported idiom.  I guess you might be ^pulling my leg.^
+
+No, these are the basic phrases needed for real-life speech.
+They could serve as the basis for a useful phrase-book,
+a non-"grammatical" approach like (but more rigorous than)
+the paltry Glosa examples given currently ...
+
+xxx IS A yyy ............ a tomato is a plant
+THERE IS xxx ............ there's a bug on the tomato plants
+xxx'S yyy, yyy OF xxx ... the plant's fruit, fruit of the plant
+xxx IS CALLED yyy ....... this tomato is a Hogben's Folly
+
+And so on. These are the basic idioms of *any* language.
+Unless they are specified, it will be "as in English",
+which is not a serious option at all!
+
+Again, using previous research is not a tedious chore,
+it is a labor-saving device and ensures success.
+
+
+From: charles
+Subject: Re: Glosa 2.5K?!
+To: GLOSALIST
+Date: Mon, 28 Dec 98 13:4
+
+Robin Gaskell wrote:
+
+> words were never intended to BE parts of speech, but to function as
+> different parts of speech, depending on their syntax, and it has always
+> been so.
+
+Every language has the ability to use words of one class
+as another, by some mechanism. It is OK to avoid the terms
+"verb" and "noun" in teaching, but it would be silly to claim
+Glosa does not have them; there are NO languages without them.
+Some langs do not have true adjectives; I think it is clear
+that Glosa DOES, as in English but unlike Chinese.
+
+> "A word may, within reason, function as any part of speech, depending on
+> its syntax.
+
+Then, word-order determines class. This implies
+that particles must mark the phrase transitions,
+like the dashes in "subject-verb-object".
+
+> A word is governed by its precedent.  This leads to HEAD FINAL phrase
+> structure.  The ultimate substantive word in a Noun Phrase is a 'noun'.
+> The ultimate substantive word in a Verb Phrase is a 'verb'.
+
+Also, hyphenation is the way of modifying modifiers when there
+are more than one (otherwise word order is insufficient).
+
+> Clause structure is similar to that of English.
+
+I disagree ... And it is poor strategy,
+making Glosa lean on a natlang for support.
+
+> There are the function words which act as prepositions, interrogatives
+> time particle, and there are the substantives which can function as nouns,
+> verbs, adjectives and adverbs.
+
+So really, like Chinese, Glosa has 2 classes of words,
+the open class of verbs/nouns/modifiers or "full words",
+and the closed class of particles or "empty words".
+
+
+From: Robin Gaskell
+Subject: Re: Glosa/* 2.5K?
+To: GLOSALIST
+Date: Mon, 28 Dec 98 21:0
+
+At 19:29 26/12/98 -0500, Paul Bartlett wrote:
+>On Sat, 26 Dec 1998, charles wrote:
+>
+>> Paul O Bartlett wrote:
+>> The grammar is dangerously under-specified.
+>
+>    This is perhaps due to Clark&Ashby's individual predilection. 
+>They seem to have an aversion to anything that smacks of formal
+>grammar.  
+*   I'd say they are trying to prove that one does not need to study from a
+grammar-book to garner Glosa's system of grammar.
+    But then I would say that from all of the misconcelmm
+ Witness their absurd claim (perhaps not made of late) that
+>"Glosa has no grammar."  From a communication I once received from one
+>of them, I got the idea that they -deliberately- do not participate
+>in IAL exchanges such as AUXLANG and don't even try to satisfy the
+>wants of "formal scholarship."
+
+  They seem to think that informality
+>and non-specification will carry the world.  Sorry, but I don't buy
+>it.  I have to some extent changed my thinking on something like the
+>paedagogy of Glosa (or whatever), but I agree that the grammar is
+>under-specified.  There seems to be the dangerous unritten, unspoken
+>precept, "Otherwise do it as in English."
+>
+>>                  Is a given word to be a "verb" by
+>> default? Then its dictionary entry had better say so.
+>> Otherwise you must mark it.
+>
+>    I wonder if this is so in all cases.  Contemporary English swaps
+>words around among parts of speech, and the marking is a little flimsy
+>at times.
+>
+>>                             Mixed strategy is common,
+>> but in Glosa it isn't even decided what the rules are.
+>
+>    To some extent I agree.  I do not think that the basic structure
+>needs to be changed.  I just think that it needs some cleaning up and
+>better specification.
+>
+>> [etc.]
+>
+>-- 
+>Paul                                  <bartlett{at}smart{dot}net>
+>..........................................................
+>Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+>Keyserver (0xF383C8F9) or WWW for PGP public key
+>Home Page:  http://www.smart.net/~bartlett
+>
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa 2.5K?
+To: GLOSALIST
+Date: Mon, 28 Dec 98 20:2
+
+At 19:16 26/12/98 -0500, Paul Bartlett wrote:
+>On Sat, 26 Dec 1998, charles wrote:
+>> Robin Gaskell wrote:
+>> >  . Starting with the Greater 6000, I might send a copy of the 
+>> > ammended list, probably the Glosa->English version, to all on the >> >
+Glosalist.   [  ....  ]
+>>   [  ...............  ]  it would not be
+>> difficult to write a little Perl/CGI script to display the
+>> list with comments interspersed. Something like ... [etc.]
+>
+>    For myself, it would be easier to have a flat ASCII file I
+>could download to my PC and consider/manipulate at my leisure. 
+*   All Glosa dictionary files are in ASCII format at the moment.
+    Could there be an advantage in having the 6000 word-list in both Perl
+and ASCII?
+>My web access is a little primitive, and last month my phone
+>bill was higher than expected due to greater online time.  
+*   I, too, could not afford to work online, if that's what the Perl script
+implied.
+
+>I could handle it several ways: a file sent out by email,
+>something stashed in an ftp library somewhere, or a bare
+><pre>...</pre> web page I could print to a file and download.
+>
+*   I imagined that the Glosa 6000 (Glo -> Eng) list would pass directly
+through as e-mail.
+    But there is a real problem of how we collect and collate opinions.
+If it does run through the Mailing List - is not too big - then I can
+imagine using Galaxy macros to rule up a table ... 6000 rows long (?!?)
+
+_______________|WWP|_RG|POB|_C_|__|__|__|__|______________________
+word word      | x | / | x | x |  |  |  |  |
+word word      | / | / | x | / |  |  |  |  |
+word word      | x | x | x | x |  |  |  |  |
+ etc           |   |   |   |   |  |  |  |  |
+
+ x = leave out
+ / = keep in Net Dictionary
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Marking*
+To: GLOSALIST
+Date: Tue, 29 Dec 98 19:4
+
+At 20:51 26/12/98 -0500, Paul Bartlett wrote:
+>    My position has been that markers should be used only when
+>necessary for disambiguation.  However, I am open to it being
+>demonstrated that markers may be necessary more frequently than 
+>I have hitherto thought.
+>
+*   I would like to attempt some tricky cases.  As it is, I choose to elide
+a function-word, or not, depending on intuition.
+    So, if some Glosalistas sent in tricky sentences - in English or Glosa
+- where the need for "disambiguation" is arguable, I would have a go at
+maintaining their non-ambiguity with 'elegance', by rendering them into
+what seems passable Glosa to me ... with, or without, the "U" and "PA".
+
+>    One problem I have had is that without a more consistent,
+>agreed-upon vocabulary (including one sufficient to discuss Glosa 
+>in Glosa),
+*   I will have a couple of days off in the coming week: the Patterson
+"omissions" get my first attention in this period; so I should be blipping
+them to this list in about four days.
+
+>   I have been reluctant to put more effort into "original"
+>composition and discussion thereof.
+*   I understand that you wish to use ^les mots juste^, and will think of
+this need when I am working hard on the "standardisation."  I used the
+other appraoch when writing children's stories in Glosa: I knew the
+word-lists were inconsistent, but decided to get something out, so I could
+'test' the language
+beyond the dictionary level, anyway.  _Cinerala_ for example, might have
+some odd spellings, and could contain a bit of Old Glosa, but basically it
+can be understood well by the average educated person armed with a Glosa 6000.
+    You want to write from a position of subjective certainty about the
+medium you are using: I respect this.  Maybe others on this List are also
+hanging back for the same reason; I must expedite the 'standardisation'
+process!
+
+>  And for me, wordlists pretty much need to be manipulable offline with an
+> editor (not, e.g., restricted to the web).
+>
+*   I have been aiming at an ASCII list that is DOS handlable, because I am
+an 'offliner' too.
+
+Grafo Celero,
+ Robin
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa 2.5K? (Four Possible Language Types)
+To: GLOSALIST
+Date: Wed, 30 Dec 98 04:3
+
+At 00:59 27/12/98 +0000, Charles wrote:
+>Paul O Bartlett wrote:
+>
+>>     This is perhaps due to Clark&Ashby's individual predilection.
+>> They seem to have an aversion to anything that smacks of formal
+>> grammar.    [  .............  ]
+>> There seems to be the dangerous unritten, unspoken
+>> precept, "Otherwise do it as in English."
+>
+>It isn't that I mind their flying in the face of linguistic
+>scholarship that really bothers me; it's the practical issues
+>that arise, such as your desire to minimize the pseudo-articles
+>and such, 
+*   English does come into the Glosa specification, but it is not a DEFAULT.
+    It is the logical nature of English sentence construction that might be
+a criterion for Glosa. 
+   But it would now seem that the style of Glosa's grammar is ^loose, and
+flapping^, and needs to be tied down securely.
+   I guess that I saw this problem coming, back in 1994, when I attempted a
+description of the grammar.  And it looks as if it's time to revive such
+thoughts (V1.3 sent to Glosalist).  
+
+>    [  ...  ]  not plainly answerable except by force of
+>numbers ("let usage decide").  
+>
+*   As well as those making 'usage' of Glosa largely having English as
+their first language, there is also the problem of a small usage base.  One
+reason for my giving personal examples of usage is that there are fewother
+writers in Glosa to call upon.
+ 
+>I found what appears a very reasonable description of how
+>lexical categories are marked (or not) in real languages:
+>*** http://www.epas.utoronto.ca/~dbeck/lextheory.HTML ***
+>and I would like to know which of the 4 possible language
+>types Glosa wants to be.
+>
+*   Next stop is to look up this Website.  For my part, I feel I already
+know what sort of language type Glosa wants to be, and I coined the phrase,
+"Syntax-based Grammar," to give it a handle.  But, I will not say more
+before looking at D. Beck's lexical theory from Toronto.
+
+>Any one of the basic types would be OK, but would have
+>implications. Then we could be secure in our understanding
+>of how "u/plu" should work, etc. This would be A Good Thing.
+>
+*   I will be curious to see if Glosa fits neatly into Beck's scheme.
+
+>> >                  Is a given word to be a "verb" by
+>> > default? Then its dictionary entry had better say so.
+>> > Otherwise you must mark it.
+>> 
+>>     I wonder if this is so in all cases.  Contemporary English swaps
+>> words around among parts of speech, and the marking is a little flimsy
+>> at times.
+>
+*   No, in Glosa, words in the "open category" .. often called 'substantives,'
+.. can theoretically function as any part of speech, depending on the
+intention of the speaker.  He must, of course, obey the laws of syntax when
+he uses the word in a particular way.  
+
+>It is accounted for neatly by the theory (URL)
+>  [  ...........  ]
+>
+*   I am rushing to work now, but will return eager to see what Beck says.
+
+>Or we could "let usage decide", which isn't going
+>to work out well, since influence of the native lang
+>will decide it differently in each case.
+*   I would say not necessarily.  I have tried, as a good artist should, 
+to let the medium talk^ to me.  I do believe that there is, somewhere, a
+"native Glosa," IE a version of the language that is culturally neutral,
+and which relies upon the rules of syntax .. creating a distinct language,
+and not a relexified English.
+
+> And if we
+>default to English, then every word must be default-
+>marked as to part of speech in the dictionary;
+>I think nobody here wants that. Or ... ??!?!!
+>
+*   It is against the whole %raison d'etre% of Glosa.
+
+>> I do not think that the basic structure
+>> needs to be changed.  I just think that it needs some cleaning up and
+>> better specification.
+>
+>Yes, I can agree with that statement, except that [  ....  ]
+> [it] might not be easy at all.
+>
+*   Hopefully easier than you think.
+
+Saluta,
+ Robin G.
+
+
+ROBIN GASKELL:  rgaskell{at}zeta{dot}org{dot}au   Webpage: www.zeta.org.au/~rgaskell
+GLOSALIST MAILING LIST:  Majordomo reads your e-mail address automatically
+      To: majordomo{at}zeta{dot}org{dot}au
+          subscribe glosalist
+
+GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+BOOKS ON GLOSA: Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                Internet Bookshop   sales{at}bookdata{dot}co{dot}uk 
+
+
+From: Robin Gaskell
+Subject: Re: Glosa 2.5K? (SBG)
+To: GLOSALIST
+Date: Tue, 29 Dec 98 05:1
+
+At 19:38 26/12/98 -0500, Paul Bartlett wrote:
+>    I just remembered something.
+>On Sat, 26 Dec 1998, charles wrote (snippet):
+>> As I commented on AUXLANG, this problem really must
+>> get resolved, and soon. The grammar is dangerously
+>> under-specified.
+>
+>    Quite a long time ago, Robin sent me a grammar specification
+>he had worked up. 
+*   Yes, lurking in the SBG (Syntax-based Grammar) subdirectory in my 386
+was V1.2 of the outline I wrote.  With about three changes, I upgraded it
+to V1.3, and include it as an "in document attachment" here.  The changes
+were to mark two items as "[[Old Glosa]]" and to change my non-literal
+language marker from the asterisk to the carat (* -> ^).
+
+>    I sent it back with comments, but as I recall
+>I generally thought it was a good start.  Unfortunately, my copy
+>has apparently fallen to long-ago disk housecleaning.  But if
+>Robin still has it (especially with my comments, of course :-) ),
+>it might be something of worth.
+*   It still is of worth, but a "WHEREIS *.POB" search of the 386's
+memory-banks failed to turn it up, sorry.
+    If your system prevents the reception of "Attachments" but you want
+this file, I will find a way of getting it to you.
+
+   SBG V1.3 is simply a description of how Glosa is supposed to work,
+syntactically.  I have added a few items that are not official "Richmond"
+rulings.  However, because the Glosa authors have shied away from
+publishing a Grammar-Book, the SBG.GLS is something that I had to compile
+from distributed data in the Glosa publications and from personal experience.
+
+   Re Old Glosa: The authors introduced a number of features , which have
+since been discontinued.  Two, that I am loathe to see go, are the 'logical
+"that"' ~ke~, and the Past Perfect tense particle [= had] ~pra~.  On
+grounds of 'logic' I believe that both should be maintained.
+
+Saluta,
+ Robin G.
+From: Paul O Bartlett
+Subject: Re: Glosa 2.5K? (SBG)
+To: GLOSALIST
+Date: Wed, 30 Dec 98 22:3
+
+    I have download the "v1.3" grammar document to my own system and
+can hash it over on a time-available basis.  In the meantime, I will
+respond to one paragraph.
+
+On Tue, 29 Dec 1998, Robin Gaskell wrote:
+
+>    Re Old Glosa: The authors introduced a number of features , which have
+> since been discontinued.  Two, that I am loathe to see go, are the 'logical
+> "that"' ~ke~, and the Past Perfect tense particle [= had] ~pra~.  On
+> grounds of 'logic' I believe that both should be maintained.
+
+    I am not at all clear by what you mean by a "logical" 'that'.  In
+English, 'that' has a multitude of uses.  Which one or ones are you
+talking about?  Most frequently when I have seen you use it, you were
+using the equivalent of a 'that' which introduces an English noun
+clause.  However, in the example which came up the other day, 'that'
+was used very differently and in such a way that I think an entirely
+other construct should be used in Glosa.  'That' is about as slippery
+as 'get', and idiosyncratic English usages should -not- be ported over
+with all their confusions into an auxlang.
+
+    As for 'pra', why does Glosa have to ape the confusing English
+tense structure, which also tends to confuse tense and aspect.  Just
+listen to a lot of Russian adult learners of English and their
+dfifficulties with English tense structure.  Russian, to the best of my
+knowledge, differentiates much more clearly than does English between
+tense and aspect.  The English past perfect tense tends to blend a
+perfective aspect and a past tense.  I am -not- in favor of 'pra'.  Are
+you letting yourself be unduly influenced by English again?
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+
+From: Charles
+Subject: Re: Marking*
+To: GLOSALIST
+Date: Wed, 30 Dec 98 22:3
+
+Robin Gaskell wrote:
+
+> *   I would like to attempt some tricky cases.  As it is, I choose to elide
+> a function-word, or not, depending on intuition.
+
+This gets into ambiguous modifiers ...
+The infamous "pretty little girl".
+Then: "a pretty little girl school".
+It can get even worse in German.
+
+I suppose the answer is to use hyphenation plus
+genitive particles plus conjunctions. A definite
+article might help if there were any, but there
+aren't. That's OK with me, one should be able to
+use "some" "same" "any" and that sort of more
+specific quantifying modifier to much better effect.
+
+I think the result is going to be that any noun
+phrase over 3 words long will need a heavy pause
+at the end. If we had any French speakers, they
+might prefer to use a more theme-rheme style here:
+"The pretty little girl school, it is big." ...
+versus "The pretty little girl school is big."
+
+Then there is the multiple preposition phrase:
+"I saw the man chasing the cat with a broom
+in underwear".
+
+Then there's the direct/indirect transition:
+"I sent it to him but he gave her something else".
+
+Now one of my favorites, "He was red, she was a Red".
+Well, you said no part-of-speach marking allowed ...
+
+(These are just warm-up, practice problems.)
+
+
+From: Charles
+Subject: Re: Glosa 2.5K? (SBG)
+To: GLOSALIST
+Date: Wed, 30 Dec 98 22:5
+
+Paul O Bartlett wrote:
+
+>     I am not at all clear by what you mean by a "logical" 'that'.  In
+> English, 'that' has a multitude of uses.
+
+Relative clauses do need to be defined or proscribed;
+pidgins often don't have them. Rick Morneau says:
+ftp://ftp.eskimo.com/u/r/ram/conlang/Syntax
+(and actually, he says it all ...)
+
+>     As for 'pra', why does Glosa have to ape the confusing English
+> tense structure, which also tends to confuse tense and aspect.
+
+I think you are correct, but I don't have a good URL
+that describes the near-universal pidgin aspect system.
+Glosa's is already more complex than that. Certainly
+past and perfect should not be combined in one particle.
+Ido, after much resistance, did eventually add both a
+passive (like "gene"?) and perfective suffix/particle, IIRC.
+
+
+From: Charles
+Subject: Re: Glosa 2.5K?
+To: GLOSALIST
+Date: Thu, 31 Dec 98 02:2
+
+Robin Gaskell wrote:
+
+>> it would not be difficult to write a little Perl/CGI script
+>> to display the list with comments interspersed.
+
+> All Glosa dictionary files are in ASCII format at the moment.
+> Could there be an advantage in having the 6000 word-list in both Perl and ASCII?
+
+I was thinking of accumulating all the comments
+in a separate file, like this ...
+
+	BAZAR	CAG	cool
+	BDELA	CAG	no way
+	BAZAR	RG	keep
+	BASANO	RG	too abstruse
+
+But on the web page, the comments would be merged
+into the selected set of words, and formatted nicely;
+there would be a form at the bottom like so:
+
+	Glosa word(s): .............
+	Your comment: .....................
+	Your initials: ....
+
+But, too many people don't want to sit around on-line
+in the browser. I have unlimited cheap access so
+for me the browser is *the* interface of choice.
+
+Maybe the thing to do, then, is just have people
+mail Robin directly with their "kill/keep" lists.
+It would be nice to list one word per line so
+it is easily sortable by the "sort" utility
+(which I believe still exists in M$DOS in some form).
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa 2.5K? (SBG)
+To: GLOSALIST
+Date: Thu, 31 Dec 98 12:3
+
+On Thu, 31 Dec 1998, Charles wrote:
+
+> [cut]
+
+>                                            Certainly
+> past and perfect should not be combined in one particle.
+
+    Definitely.
+
+> Ido, after much resistance, did eventually add both a
+> passive (like "gene"?) and perfective suffix/particle, IIRC.
+
+    However, in Ido they are distinct suffixes, '-ab-' for 
+perfective and '-is' for past.  Glosa already has a sort-of 
+inmperfective particle, 'du'.  One could, I suppose, use the 
+opposition formant 'no-' to create '*no-du' as a perfective 
+particle, although I am not overly thrilled about that.  Some 
+conIALs use an adverb meaning roughly "already" as a sort of 
+quasi-perfective.  Glosa has 'pre-nu' for "already," but the 
+'-nu' conveys some meaning of currentness of time, so I wouldn't 
+think it would be all that suitable as a perfective.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa 2.5K?
+To: GLOSALIST
+Date: Thu, 31 Dec 98 12:3
+
+On Thu, 31 Dec 1998, Charles wrote:
+
+> [cut]
+
+> It would be nice to list one word per line so
+> it is easily sortable by the "sort" utility
+> (which I believe still exists in M$DOS in some form).
+
+    I occasionally use a freeware sort for DOS which is much 
+more powerful than the clunky sort that comes wiht DOS itself.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Charles
+Subject: Re: Glosa 2.5K? (SBG)
+To: GLOSALIST
+Date: Thu, 31 Dec 98 13:2
+
+Paul O Bartlett wrote:
+
+> Glosa already has a sort-of
+> inmperfective particle, 'du'.  One could, I suppose, use the
+> opposition formant 'no-' to create '*no-du' as a perfective
+> particle, although I am not overly thrilled about that.  Some
+> conIALs use an adverb meaning roughly "already" as a sort of
+> quasi-perfective.
+
+But "ja" is aleady taken and has the wrong sound.
+How about "za" ... ?
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa 2.5K? (SBG)
+To: GLOSALIST
+Date: Thu, 31 Dec 98 18:5
+
+On Thu, 31 Dec 1998, Charles wrote:
+
+> Paul O Bartlett wrote:
+> 
+> > [...]                                                    Some
+> > conIALs use an adverb meaning roughly "already" as a sort of
+> > quasi-perfective.
+> 
+> But "ja" is aleady taken and has the wrong sound.
+> How about "za" ... ?
+
+    Whenever possible I am in favor of trying to use already existing
+resources instead of making words up.  As for the aspect particles
+generally, I plan soon to post some comments about Robin's grammar
+statement.  I have to give fair warning that I am not gentle with the
+overall verb system -description-, not most of the verb system as such,
+which I think can be generally workable if concepts are sorted out.  In
+fact, I think that a perfective marker is the only major thing lacking
+in the Glosa verb system.
+
+-- 
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Paul O Bartlett
+Subject: Comments on Robin's v1.3 Grammar
+To: glosalist
+Date: Thu, 31 Dec 98 21:2
+
+{ I will include my comments left justified with    }
+{ curly brackets to identify them.  These comments  }
+{ are not necessarily exhaustive.                   }
+{ I recommend that this document be reformatted     }
+{ into a more standard outline form.  The current   }
+{ format is hard to follow, and I am not always     }
+{ certain of the structure of the sections.         }
+{ -- Paul Bartlett <bartlett{at}smart{dot}net>  1998/12/31 }
+
+Ver 1.3__________________________________________R. Gaskell 1998__________
+                                        (Uninflected, Isolating language
+    SYNTAX-BASED GRAMMAR  OF  GLOSA        with no Part-of-Speech markers)
+
+{ Strictly speaking, no part-of-speech markers as components of words
+{ themselves.  'U(n)/plu' mark substantives.
+ _________________________________________________________________________
+
+_____>>>  1. Basic Structure
+
+      A. The phrase is the unit of the language.
+
+{ I thought that words are the units of a language (except in so-called
+{ polysynthetic languages in which even the concept of "word" is a
+{ little blurry).
+
+         i. There are:- noun phrases
+                        verb phrases
+                        adverbial phrases &
+                        adjectival phrases
+
+        ii. Within a phrase, a word is modified by its precedent, and
+             there is a gradual increase in significance, i.e. the
+             first word is least significant, with words increasing in
+             significance to the last word, which is the most significant.
+
+{ What about the particles 'u(n)/plu'?  They may appear in a multi-word
+{ phrase but apply generally to the final word of the phrase, not to the
+{ immediately succeeding word.
+
+      B. Phrases combine to form a sentence (major clause) comprising:-
+
+{ In normal terminology, a sentence may consist solely of a major
+{ clause, but "sentence" and "major clause" are distinct.  Most
+{ importantly, does Glosa even NEED an elaborate clause structure?
+
+               a. one clause (the Major Clause) OR
+
+               b. clauses (Main & Subordinate Clause[s]) (= Major Clause)
+
+{ What is the equal sign referring to here?  Why does "(= Major Clause)"
+{ even appear under this item?
+
+         i. Subordinate clauses may be:- adverbial clauses &
+                                         adjectival clauses
+
+{ Why no noun clauses?
+
+        ii. Within a clause, the sequence is:- Subject, Verb, [Object].
+
+             A Major Clause comprises:-
+
+               a. Noun Phrase - Verb phrase - Noun Phrase
+                                                  - with a transitive verb
+
+{ In some languages, such as English, a noun phrase can follow a
+{ verb without being an object: the so-called predicate nominative,
+{ which complements the verb but refers to the subject without being
+{ an object of the verb.
+
+               b. Noun Phrase - Verb Phrase
+                   OR   Noun Phrase - Verb Phrase - Dependent Phrase
+                                            (usually an Adverbial Phr.)
+                                               - with an intransitive verb
+
+{ Could be an adjectival phrase as a predicate adjective:  "The house
+{ next door appears red to me."  "U para-domi feno es rubi per u vide."
+{ "Red"/'rubi' is a single-word predicate adjectival phrase as a
+{ predicate modifier of the subject.  (In these instances I will agree
+{ that 'u' is appropriate.)
+
+      C. Phrases and clauses can be combined to form a Major Clause.
+
+         i. An Adverbial Clause follows immediately after the verb or Verb
+             Phrase it modifies, with a colon (:) marking the start of the
+             clause, and a comma(,) indicating its completion.
+
+{ This is the first time I recall seeing use of a colon in this context.
+{ The whole issue of punctuation in Glosa may need to be revisited.
+{ The written form of a language is a crystallization, so to speak, of
+{ speech.  Lojban has "verbal punctuation," but I don't know how to
+{ speak some of this punctuation in Glosa.}
+
+        ii. An Adjectival Clause follows immediately after the noun or Noun
+             Phrase it qualifies, with a semi-colon (;) marking the start
+             of the clause, and a comma (,) indicating its completion.
+
+{ See above for predicate adjectival phrases.
+
+       iii. Clauses and phrases, if elided (with function words omitted),
+             are still treated as the full phrase or clause .. for purposes
+             of syntax analysis .. and the necessary punctuation is used.
+
+_____>>>  2. Precedence
+              RULE: A word or phrase is modified by its precedent.
+
+{ This is merely a duplication of 1.A.ii above.
+
+      D. i. In the Major Clause, there is a tendency for the first noun
+             phrase (subject) to modify the verb phrase, and then the verb
+             phrase modifies the second noun phrase (object).
+
+{ I have never heard of subjects "modifying" verbs, nor of verbs
+{ "modifying" objects.
+
+        ii. In a noun phrase, the sequence is:-
+             determinant - number - quantity - modifier(s) - noun
+              Note. the concept/word used as a noun is the only element of
+              a noun phrase that is essential.
+
+{ Incidentally, concept and word are NOT the same thing.  Using them
+{ interchangeably just contributes to the notion that the presentation
+{ of Glosa is sloppy.  And a sloppy presentation will cause a lot of
+{ people not to take the language seriously -- and not just professional
+{ linguists, either.
+
+       iii. In a verb phrase, the sequence is:-
+             tense particle - negative - modifier - auxiliary verb -
+                                              verb OR verboid + amplifier
+
+{ Why not negative before tense particle?  As for "verboid," I have
+{ never encountered this term outside of Interglossa and Glosa.  It
+{ seems not to be well definded.
+
+              Again. the concept/word used as a verb is the only element
+              of a verb phrase that is essential.
+
+_____>>>  3. Function Words
+              These introduce clauses, give logical relationships between
+               clauses; negatives, interrogatives and conjunctions.
+
+{ What about 'u(n)/plu', which in recent discussions have been referred
+{ to as function words?  The terminology needs to be tightened up some
+{ here.
+
+      E. Clauses that follow the words they qualify:-
+
+         i. An adverbial clause following a verb (: ke).  [[Old Glosa]]
+
+{ I have also seen, as best I recall, 'ke' introducing a noun clause
+{ in the Gaskell-Glosa dialect.  And again, I have never encountered
+{ this use of the colon before.
+
+        ii. A relative pronoun after a noun introduces an adjectival
+             clauses (; qi).
+
+      F. Adverbial clauses can start with a range of function words:-
+
+         i. Logical comparatives e.g. anti-co.
+
+        ii. Time words e.g. kron.
+
+       iii. Location words e.g. topo.
+
+        iv. Conjunctions e.g. te.
+
+         v. Spatial relationship words e.g. dia.
+
+      G. Interrogatives
+
+         i. Simple question: "qe" followed by positive statement (Qe, -.)
+
+        ii. `What' questions use "qod" (Qod es .. ).
+
+       iii. Specific questions e.g. Qo-lo habe u .. .
+
+      H. Negation
+
+         i. Negating a verb place "ne" before it.
+
+        ii. No thing or none of a substantive (nuli).
+
+       iii. Negative statement (No!)
+
+        iv. Opposition (anti)
+
+{ Normally 'no-' forms opposites: 'ne-frigi' "not cold (but not
+{ necessarily hot"; 'no-frigi' "hot".
+
+         v. Neither .. nor (ni .. ni)
+
+{ You might want to include "either .. or" for completeness.
+
+        vi. An empty value (zero)
+
+      I. Conjunctions combine equivalent elements of sentences
+
+         i. Phrases e.g. e .
+
+        ii. Clauses e.g. , sed .
+
+{ What about subordinating conjunctions, if they are used at all?
+{ They do not combine "equivalent" elements.  Note that I say "if they
+{ are used at all."  There might be some rethinking about the whole
+{ matter of using clauses in Glosa.  Pidgins could provide some insight
+{ here.
+
+      J. Prepositions introduce phrases
+
+{ Some phrases are introduced by prepositions, but some are not.  This
+{ statement might erroneously imply that prepositions introduce all
+{ phrases.
+
+         i. Noun phrases e.g. de u .. .
+
+        ii. Verb phrases e.g. vice akti .. .
+
+{ In such a case, the verb would probably be functionally equivalent
+{ to a gerund or substantival infinitive, in which case we are still
+{ talking about a substantive phrase.
+
+      K. Generic terms affixed with a hyphen alter lexical categories
+
+         i. Single term affixed e.g. ergo-ka  (=work room)
+
+        ii. Two or more terms affixed e.g. vora-ru-lo (cutlery drawer)
+
+_____>>>  4. Concept clusters
+              For the expression of complex concepts, two or more
+               concept/words with equivalent function can be grouped -
+               analogous to the forming of complex characters in
+               Chinese through the combining of radicals.
+
+{ Combining radicals is an aspect of -written- Chinese, not necessarily
+{ the spoken language.  I suggest finding a different analogy.
+
+      L. Equivalent concept/words functioning as substantives
+
+         i. Separated words follow a determinant, with modifiers in an
+             accompanying clause e.g. un elektro magneto dina; akti a latu, ..
+
+        ii. Forming a super concept using slashes (/) to join words.
+
+{ How, pray tell, do you speak a slash?  More attention needs to be
+{ given to the spoken language and NOT to rely too much on written forms
+{ which cannot be spoken (unless you want to adopt Lojbanesque spoken
+{ punctuation).
+
+       iii. Three or more grouped words can be bracketted, showing they
+             are part of one compex entity, using `pipes' (|.... ....|
+
+{ No.  This is only getting worse.
+
+      M. Words of mixed function forming a single concept
+
+         i. Concept/words and function words hyphenated e.g. mero-de-voka
+
+        ii. Generic terms combined with concept/words e.g. plu akusti-pe
+
+_____>>>  5. Verbs used to convey the equivalent of TO BE
+               Many different relationships are conveyed
+                using different concept/words and function
+                words where they would all be conveyed
+                using a form of 'to be'in English.
+
+{ An example of each usage would be helpful.
+
+      N. Being as nature
+
+         i. Is in essence, has the same nature ( es )
+
+        ii. Is equal to, measures ( eqa )
+
+       iii. Has the property of, impersonal quality ( habe )
+
+      O. Becomes - being as process
+
+         i. Is becoming ( gene )
+
+_____>>>  6. Verb Types   [i.e. concept/words functioning as verbs]
+               Verbs have different functions depending on whether they
+                can stand alone with noun phrases before and after them,
+                whether they might take clauses rather than noun phrases,
+                or if they are always intransitive.  Also there are verbs
+                that qualify other verbs, and those that usually take
+                complements to form compund verbs.
+
+      P. Primary verbs that usually take take noun phrases before and after
+
+         i. Verbs of action or affect that sometimes take a clause
+             instead of one noun phrase e.g. bate
+
+        ii. Verbs of abstraction and feeling that often take clauses
+             before and after them e.g. kogita
+
+      Q. Auxiliary verbs are verbs that usually modify primary verbs
+
+         i. Those that always modify a primary verb, preceding it, but
+             following adverbial modifiers e.g. an posi kursi ci
+
+        ii. Those which can stand alone as a verb, but which are
+             intransitive when they do so e.g.  Fe pote.  Fe pote akti id.
+
+       iii. Those which when standing alone can take a direct object
+              e.g.  Fe hedo id.  Fe hedo fago u vora.
+
+{ In which case they are no longer auxiliaries.
+
+      R. Verboids are words that usually take a complementary word after
+          them to create a compound verb
+
+{ Again, the whole notion is "verboid" is amorphous and ill-defined.  I
+{ do not find a whole lot of clarification here.  Is the very notion of
+{ "verboid" even necessary just because Hogben used the term?  What is
+{ the difference between a "verboid" and an auxiliary?  I suggest
+{ dropping the term "verboid" altogether.
+
+         i. Verboids that usually take a function word as their complement,
+             and are intransitive when used alone   e.g.   An pa ki.
+                An pa ki ad an domi.  Fe fu ki ana u monta.
+
+{ If a verboid can be used alone as sole verb, then why is it a verboid
+{ rather than a verb?
+
+        ii. Verboids that take noun complements, and are transitive
+             when used alone  e.g. An dice u verba.  An pa dice qestio fe.
+
+{ Again.
+
+       iii. Verboids that take a modifier as their complement,and are
+             transitive when used alone  e.g.  Geo akti gira id axi.
+                Fe pa akti id.
+
+_____>>>  7. Particles
+               These are the function words placed at the start of
+                Noun Phrases.  [These can be ommitted when the meaning
+                is clear from context, but their inclusion is at the
+                discretion of the speaker.]
+
+{ "Particle" is used more generally in grammatical discussions than
+{ as just markers at the head of noun phrases.
+
+      S. Singular coultables
+
+{ Countables
+
+         i. A, the ( u ) [ u(n) before vowel ]     e.g. u bibli
+
+{ NO!!!  It is a VERY BAD MISTAKE for Clark&Ashby to have rendered
+{ 'u(n)' (and 'plu') as "a" and "the."  It is logical nonsense for
+{ the same word to represent both indefinite and definite articles.
+{ Describe it however you will, but scrap "a/the" as grossly misleading.
+{ Glosa does not have articles.
+
+        ii. One, one of ( uno )  e.g. uno-pe
+
+      T. Measurables
+
+         i. Some, a little of ( u pusi de )  e.g. Bibe u pusi de lakti.
+
+        ii. Some of, a piece of  ( u mero de ) e.g.. Habe u mero de pomo.
+
+      U. Plural countables
+
+         i. The (plural), more than one  ( plu )  e.g. plu bibli
+
+{ See above.
+
+        ii. A number of, several  ( plura )      e.g. plura andra
+
+_____>>>  8. Tense of verbs
+               Nine short function words, used singly or in
+                combination produce all necessary tenses.
+                [Absence of a tense particle implies the simple
+                present tense.]    A tense table is included in
+                the examples.
+
+{ THIS IS A TERRIBLE HASH!!!  It confuses tense, aspect, mood, and
+{ voice in a hopeless hodge-podge mistakenly called "tense."  A lot of
+{ the difficulty may arise from confusion with that mess called the
+{ English verb system.  The English system is -such- a mess that Glosa
+{ should -deliberately- avoid trying to mimic it.  The whole description
+{ needs to be reworked and not called "tense" willy-nilly.  (Sorry for
+{ the strong language, but I honestly do think that both the verb system
+{ and its description really do need attention.)
+
+      V. Tense particles
+
+         i. Past events ( pa )
+
+        ii. Future events ( fu )
+
+       iii. Perfect past events ( pra )   [[Old Glosa]]
+
+{ Junk it.  It is a confusion of past tense and perfective aspect.
+{ There is no reason in the world why Glosa verbs have to mimic
+{ the messiness of the English verb system.  Keep it clean and
+{ simple.
+
+        iv. Continuing events ( du )
+
+{ Imperfective aspect, not a tense.  Glosa also needs a perfective
+{ aspect particle.  'No-du' might work, although I am not too thrilled
+{ by it.  Some auxlangs use an adverb roughly meaning "already" as a
+{ quasi-imperfective particle.  Glosa has 'pre-nu' for "already," but
+{ to me that seems to convey a bit too much of present time rather than
+{ aspect.  However, I am not in favor of inventing a particle if that
+{ can be avoided.
+
+         v. Presently-occurring event ( nu )
+
+        vi. Conditional event, would occur .. if ( sio )
+
+{ Mood, not tense.
+
+       vii. Desired event, ought to, or should occur ( debi )
+
+{ Mood, not tense.
+
+      viii. Execution of an event: passive voice ( gene )
+
+{ As I read the documentation, passive voice is rendered 'es ge-X'.
+{ This has been discussed before but not, as I recall, resolved.
+{ I am not in favor of the redundant 'gene ge-X' as a standard passive
+{ form.  And leave "got" out of the picture!  It is not even standard
+{ throughout the English-speaking world, apparently.  Do not import
+{ yet another mess into Glosa.
+
+        ix. Verb as adjective: participle ( ge- ) e.g. u ge-akuto seka-ru
+
+{ Actually a passive participle.
+
+         x. Verb as noun: gerund [No particle; syntax indicates function.]
+
+{ Here is one instance in which I think 'u(n)/plu' IS suitable.  In
+{ my example in 1.B.ii.b (? the outline format is very difficult to
+{ follow), I deliberately used 'per U vide' as "by sight," forming a
+{ gerund or substantival infinitive by use of the substantive marker
+{ 'u' with a word otherwise used as a verb.  (Some languages, such
+{ as Interlingua, do not have a gerund form as such.)
+
+      W. Reflexive forms, action affects the subject of the sentence
+
+{ Example?  'Auto' and 'se' have never been well distinguished for me.
+{ In some languages, reflexivity is a matter of voice, not tense.  I
+{ heartily recommend scrapping the term "tense table" and replacing it
+{ with something more like "verb forms."
+
+_____>>>  9. Punctuation
+               This indicates the clausal and phrasal structure
+                in the written form.  [In uninflected language,
+                this is a significant part of the grammar.]
+
+{ Again, the whole issue of punctuation needs to be revisited.
+
+      X. Internationally used forms
+
+{ What is "international" about these usages?.  Some of them seem rather
+{ idiosyncratic to Glosa to me.
+
+         i. Separating phrases, if necessary, separating clauses joined
+             with a conjunction, and at the conclusion of clauses ( , )
+
+{ Unless, of course, a clause is at the end of a sentence.
+
+        ii. Introducing adjectival clauses, placed before `qi' ( ; )
+
+       iii. Introducing adverbial clauses, placed before `ke' ( : )
+
+        iv. Listing clauses after a major clause ( Xx: xxxx; xxxx; xxxx. )
+
+         v. Questions are terminated with a question mark ( ? )
+
+        vi. Emphatic statements are terminated with an exclamation mark (!)
+
+       vii. Direct speech is surrounded with quotation marks ( "Xxxxxx." )
+
+      viii. Literary references marked with single quotes ( `xx xxx xx' )
+
+        ix. Titles of books and documents marked with underlines ( _xxx_ )
+
+{ Usually with italics in printed works.
+
+         x. Statements in parenthesis either marked with commas or
+             brackets ( , xxx,  OR  (xxx) )
+
+{ Parenthetical statement are enclosed in parentheses; appositives
+{ are set off by commas in English usage.
+
+        xi. At the completion of a sentence (major clause) or to show
+             an abbreviation that finishes on a letter other than the
+             terminal one, a point is used ( .  OR  X. )
+
+      Y. Further marking off of phrases, additional information,
+          or asides in syntax-based grammar - to assist in the
+          understanding of structure
+
+         i. Additional information within a clause is separated off using
+             dashes ( xxx - xxx xxxx - xx )
+
+        ii. Additional information at the end of a sentence separated
+             using a single dash ( xxx - xxxx xxx. )
+
+{ For these two, some typographical conventions use a double hyphen or,
+{ in printed matter, the em dash.
+
+       iii. For emphasis, or to add contrasting information, within a
+             sentence, three points are used for separation ( xxx ...
+             xx xx ... xxxx )
+
+{ Not good.  Three points usually indicate an ellipsis.
+
+        iv. An alternative means of separating information, that is not
+             part of the normal syntactic sentence, is the use of double
+             points ( xx xxx .. xx xxx .. xxxx )
+
+      Z. Non-literal language is marked using either one or two
+          carats (^), which indicate the word used stylistically, or
+          phrase that has been imported from a national language
+          [This is especially relevant when the syntax-based
+          language is being used as a `pivot' language for
+          translation between national languages.]
+
+{ Special written marking of figurative language seems to be a
+{ Robingaskellism I have never encountered anywhere else.  Besides,
+{ how do you speak a caret?  (A carat is a jeweler's unit weight of
+{ 200 milligrams. :-) )  Skip any special marking.
+
+         i. For simple word replacement, such as metaphor, a single
+             carat is placed after the word used non-literally
+             ( xxx xxxx^ xxxx )
+
+{ Great care should be exercised when using metaphor and simile at all.
+
+        ii. For idiom, carats before and after the usage - that is
+             brought in from a national language - separate it, and mark
+             it for special treatment ( xx xxx ^xxxx xx xxx^ xxx )
+
+{ ABSOLUTELY NOT!!!  IDIOMS SHOULD BE AVOIDED ALTOGETHER, in which case
+{ there is absolutely no need to mark them with punctuation.  I am not
+{ the first to remark that idioms should be avoided in an auxlang like
+{ the plague.
+
+   ______________________________________________________________________
+   Description of Syntax-based Grammar for Glosa           ....     End
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

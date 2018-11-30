@@ -1,0 +1,1275 @@
+
+From: Robin Gaskell
+Subject: Re: Word Formation in Glosa
+To: Robin Gaskell
+Cc: 
+Date: Thu, 02 Oct 97 18:41:22 EDT  
+
+  Paul Bartlett made the following points: I intended to follow up
+immediately, but do so now.
+>{Posted to Glosa Discussion Group}
+>{Cc: to Glosa Education Organization}
+>
+*       Yes, I would like to get the authors aware that some of us wonder
+about the "generics" and ask if Glosa could be a more useful language with
+some extra ones.
+
+>    In my post of earlier today, I should have added a couple of points.
+>The existing Generics in Glosa are derived from existing words and serve
+>as a kind of shorthand for them.  I think this is an excellent idea, as
+>it minimizes the learning burden and allows for more concise expression.
+>Also, there are the five prefixes:
+>
+>        no-  reversal of meaning
+>        ne-  negation of meaning (not necessarily reversal)
+>        ge-  coming into being or being acted upon
+>        fe-  explicitly female
+>        an-  explicitly male
+>
+>More excellent ideas/constructs in the existing language.
+>
+*       Agreed, these are already in place, and should be taught as prefixes. 
+They cover only negation (two types), grammar (past participle) and gender.  
+Possibly there are some more that could be added.  To me the "feel" is very
+important: when we say the prefix, does the sound embody the concept that is
+assigned to the letters used?
+
+>    A few ideas for additional generics do come into mind.  (These
+>are not hard and fast.)
+>
+>        -ri  (abstRaktI)   abstraction
+>        -li  (abiLI)       able to be; possibility
+>        -ti  (akTI)        action or expression
+>        -le  (skLEro)      concrete expression (in general)
+>        -ce  (faCE)        causative; make, render
+>        -pa  (sePAra)      separation, dispersal
+>        -ga  (greGA)       aggregation, drawing together
+>        -ro  (mikRO)       diminution
+>        -gi  (GrandI)      augmentation
+>        -re  (itera, RE-)  repetition
+>
+>    Again, I want to emphasize that I am not trying to expand things
+>all out of proportion.  The language should be adequately expressive
+>but still as reasonably concise as possible.  A scheme something like
+>this would have five prefixes and twenty-seven generic suffixes, which
+>I think would be brushing an upper limit, but it might allow for word
+>formation without having to expand the base vocabulary a great deal and
+>without having to use a lot of periphrasis to express basic notions.
+>
+*       They look reasonable, and worth trying.  I would like to see these used 
+in sentences to guage the "feel" they give.  Others on the Forwarder might
+like to suggest suffixes (consonant, vowel type), for categories not
+otherwise covered.  I would like a prefix, for example, to cover the idea of
+"some of."
+For some time, now, I've imagined DES, from the French, doing the job, but
+it might be more consistent to use DE- before a measurable concept-word to
+convey this, EG  U familia pa fago de-pani.  vs.  Pro prima-vora mu pa habe
+des pani.
+
+        Bill Patterson mentioned the possible use of -LI for either 
+"of rock"  - from LITO,
+"of wood"  - from LIGNI
+ 
+Hogben used -LI = "of stone, rock", and so does the Glosa list of generics.
+        Glosa could use -RO from ROKA for "of rock"
+        and -LI for "of wood", but this would cause confusion.
+
+        My guess is that since -LI has been set ~in stone~ to make a bad pun,
+we should find something else for "woody."  From this, it looks like -XI from 
+XILO should be used for "of wood."
+
+        Another generic, hand-written in my dictionary, is -KO from KOMPANI,
+and the example, also hand-written, is PUBLIKA-KO = publisher.
+
+For those who do not have "Glosa 6000" I retype the 18 Generics in that
+book, and use minimal page-width plus "dot" formatting:-
+
+        18 Generic Terms
+GENERIC.........MEANING........EXAMPLE........ENGLISH
+-BO, BOteka.....shop...........pani-bo........baker's shop
+-BO-PE..........shop-keeper....pani-bo-pe.....baker
+-DO, DOmi.......house,building.agri-do........farm-house
+-FA, FAski......set,bundle.....flori-fa.......bouquet
+-FI, FIlament...thread.........kupra-fi.......copper wire
+-KA, KAmera.....room...........kuko-ka........kitchen
+-KO, KOmpani....business.......publika-ko.....publisher *[Added]
+-LI, LItho......stone..........lamina-li......slate #[Old spelling]
+-LO, LOka.......place..........panto-lo.......everywhere
+-MA, MAteria....stuff,material.geo-ma.........mineral
+-ME, MEkani.....device.........grafo-me.......typewriter
+-MO, MObili.....furniture......grafo-mo.......desk
+-PE, PErsona....person.........navi-pe........mariner
+-RA, ReAl.......thing..........bio-ra.........organism
+-RU, instRUment.tool...........fora-ru........drill
+-TE, TExtili....cloth..........nasi-te........handkerchief
+-VA, VAsa.......container......soma-va........bath
+-VE, VEsti......garment........pedi-ve........shoe,boot
+-ZO, ZOna.......ring...........meso-zo........belt,girdle
+
+        I will also send Paul photocopies of the "Interglossa" pages on
+generics: Hogben had sixteen generics, one of which, -RE, is not included in
+Glosa.  Perhaps  -RE = concerning  is too fuzzy for Glosa.
+ --------------------------------------
+        For another day: there could be a good case for having a separate
+category of suffixes, four-letter ones, like -ISMO, to make
+lexical items into various types of abstractions.
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Un Lupus -Para 3
+To: Robin Gaskell
+Date: Thu, 02 Oct 97 18:4
+
+At 07:32 PM 9/16/97 -0400, you wrote:
+>
+>*** Robin, Fo-Hedo Nati-Di! ***
+* Thanks. It should have been, but things have gone a bit wrong for me this
+year.  Maybe if my finances get put right again, I can talk about it.
+>========
+>
+>Un Lupus
+>
+>The Wolf - 1907 - Hermann Hesse
+>
+>Third paragraph, more to follow...
+>
+>========
+>
+>The cold went on and on.
+>
+>Pa du frigi.
+>
+* U frigi meteo pa kontinu.
+>========
+>
+>Often the wolves huddled together for warmth and lay still and
+>brooding, listening woefully to the dead countryside around them,
+>until one of them, tortured by hunger, suddenly jumped up with a
+>blood-curdling roar. 
+>
+>Freqe plu lupus pa para jace kon alelo te tena termo e no-ki jace 
+>e [brood], du tristi audi ad plu morta kampo peri mu, pre pe, pa
+>[tortured] de famina, subito ana salta sin hema-[curdling] [roar].
+>
+* Freque plu lupus pa presa-se kon alelo te tena termo, e jace no-moti e
+ge-agita, tem du tristi akusti u morta kampo peri mu, a-tem: mo de mu, 
+ge-tortura ko famina, subito salta ana sin u hema-koagula rugi.
+
+>========
+>
+>Then all the others turned their muzzles toward him and trembled;
+>and all together burst into a terrible, menacing, dismal howl.
+>
+>Tem-co pan lupus pa tropi mu nasa ad an e seiso; e grega pa subito
+>deino trista ulula.
+>
+* Po-co, pan plu lupus pa tropi mu nasa ad an, e pa seiso; e kocerto, subito 
+komence u deino , du-menace, tristi ulula.
+>========
+>
+>   - Bill
+>
+* Ailanto would be spelt the same in Glosa; the pronunciation might end up a
+little different, though.
+
+Am sending you, Bill, the "Experimental Glosa Dictionaries" disk, but so far, 
+have not found time to print the G-E double-sided, three-column dictionary.  I
+hope you have time to print it yourself from the disk.  HINT for the
+even-numbered pages, move the paper about half an inch to the right in the
+printer.  Of course, the idea is that you print seventeen odd pages first,
+then take the paper out of the printer, turn it over and print the
+even-numbered pages on the reverse, making sure that Page 2 prints on the
+reverse of page 1.
+If you cannot get this done, I will print one, here, and send it.
+
+The offer of an "Experimental Glosa dictionaries" disk is open to all, on
+the Mail Forwarder, who wish to try their hand at writing Glosa.  As well as
+the Glosa 6000 dictionary, I now use the G-E.ALL and E-G.ALL elecronic files
+plus,
+for further help, I use the Langenscheidt Shorter Latin Dictionary, the
+Collins Gem Greek-English dictionary and the Reader's Digest "Word Finder."
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: William W Patterson
+Subject: Re: Un Lupus -Para 3
+To: William
+Date: Fri, 03 Oct 97 06:4
+
+Thu, 02 Oct 97 18:41:07 EDT, Robin Gaskell pa skribe:
+
+> Am sending you, Bill, the "Experimental Glosa Dictionaries" disk,
+
+Thanks Robin!
+
+> If you cannot get this done, I will print one, here, and send it.
+
+No trouble - I can print it.
+
+- Saluta! - Bill
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+
+From: Robin Gaskell
+Subject: Re: Plu Regulari Mesage Komence
+To: William W Patterson
+Date: Mon, 06 Oct 97 18:1
+
+At 07:55 PM 9/22/97 EDT, you wrote:
+>Sun, 21 Sep 97 21:56:37 EDT, Robin Gaskell pa skribe:
+>
+>> On the technical (Internet) side,I would like to ask about your
+>> line-length:
+>> does the word "line-length" appear on the right hand or left hand
+>> side of
+>> your screen.    [....]
+>
+>It appeared on the right hand side. But as you see above, it
+>gets wrapped in my reply. Usually I reformat quoted text in a
+>reply  [.....]
+*       Got it. What you see is OK with my permanent half inch in (RHS).
+But your ISP's system seems to apply shortening to your reply postings.  You
+could ask him about this: it may be his fault.
+
+>When I send messages that are likely to get quoted I make my
+>lines shorter on purpose   [.....]
+>
+*       A nice thought; I have done similar, on occasions.
+
+>> If I place the three-column dictionary on the Net, it will take you
+>> and Paul
+>> Bartlett a month just to re-adjust the formatting; 
+>
+*       Soon, in the mail, you will be getting the "Experimental Glosa
+Dictionaries" disk.  I have sent it to Ron&Wendy and to Paul.  This is the
+easiest way for me to know you get the info.  I will send a page of the G-E
+dictionary as an ATTACHMENT just to see how your system takes it.  But, for
+a couple of years I regularly used attachments, only to find, recently, that
+for many people they were not getting through.  I have to use the UNIX
+connection, after loading the file for attacment into my Telix subdir. if I
+want to be sure, now.  My Eudora just doesn't send them every time.  Your
+one-Attacment rule seems like a good idea.
+
+>Don't worry about me - no problem! And be sure to let me know if
+>there's anything I can help you with. Like the reformatting you
+>speak of below.
+>
+On the help side, you will see the extensive \SYNONYMS  subdir. on the disk:
+this needs altering before I print and send to Africa!  There are four
+options that have been suggested:-
+
+        A. Send the E-G file as it is, suitably compacted (3 col.,
+dbl-sided), but this would be confusing to learners.  You and Paul would
+probably object to this.
+        B. Extensively revise the synonyms using a range of entries having
+modifiers ... word(mildly) GLOSAWORD(S)1; word(in extreme) GLOSAWORD(S)2; etc.
+This would take a lot of effort and involve serious dictionary research plus
+a concensus between those doing it.  I would call this the "GLOSA 6000
+Literary Dictionary" and it is not what we need at the moment.  This could
+be produced in the future.
+        C. The reduction of the entries to have only one synonym,
+eliminating the rest of the possible synonyms.  How would you suggest
+indicating the major word and the synonym, to be certain everyone knew which
+was the preferred usage?
+Paul B. has already said one synonym was one too many.  I prefer the
+stylistic option of having the synonym, but must bow to the pragmatis of the
+best presentation of the language for best results, EG water HIDRA,G._AQA.
+        Originally it was AQA, but then Richmond preferred HIDRA, now I
+treat this Greek word as my preferred usage.  How many people would write
+off Glosa if water was always HIDRA without the option of using the
+widely-known AQA?
+        D. Use only one Glosa word for each English word listed: Paul says
+this is the only way to reduce confusion (EG Someone uses AQA, and I use
+HIDRA, and we think we are talking about different things.).  Ths
+one_lexical_item_ per_ entry dictionary is what Paul prefers.  I would go
+along with this ... leaving room in a small number of cases for one synonym
+... It might be the "Kindergarten Glosa 6000" dictionary.  This would need
+some agreement on which ONE was selected.  Please think about how you, Paul
+and I could rapidly reach concensus on the single lexical item per entry.
+
+>I've used Eudora before and like it a lot. Right now I'm using
+> [.....]
+>it! Send me a chunk, full width, and let's see!
+>
+*       Agreed.
+>> I have only I Mb of RAM, so the lists will be in bits that you
+>> can join up if the whole dictionary will fit into your RAM...
+>
+>I'm using DOS with a lot of UNIX-like utilities, and VIM for
+>most of my editing. I'd love to see GALAXY and L6 - I'm a
+>sucker for textprocessing tools.
+>
+*       They are both on the disk: Galaxy has a window facility letting you
+pass bits between files, and its Macro function is crudely programmable
+(sequencing key-strokes); L6 lets you make files of parts of larger ones,
+and has a lightning FIND function.
+
+>> Sadly, I didn't try sort until after I had compiled the
+>> three-column G-E version.  This will have to be redone before
+>> I go commercial - offering hard-copy versions for sale to the
+>> public.
+>
+>If you'd like some help, let me know!
+>
+*       If possible.  The G-E dictionary needs redoing to avoid have entries
+out of alphabetic order .. before printing and sending out, widely.  how
+easy would this be for you:-
+        a. SORT alphabetically.
+        b. Divide up into 180 entry chunks.
+        c. Cut up to place two of the 60-entry bits to the right of the first
+        (noting a twenty four, or twentyfive, character limit per entry) IE
+x ->    x y z
+x       x y z
+x       x y z
+y /
+y
+y
+z /
+z
+z      
+        I hope this attempt, to show you what I did, is clear, and comes
+over as I formatted it.
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Setimana, Compounds & Synonyms
+To: Robin Gaskell
+Date: Mon, 06 Oct 97 18:1
+
+At 07:58 PM 9/26/97 -0400, Bill Patterson pa skribe:
+>
+>Today I discovered something important about "setimana" (week) which
+>I probably should have noticed before. I think that the significance
+>escaped me because the Glosa word has those same s-m-n sounds as
+>Esperanto "semajno" and Ido "semano", so I just thought of it as a
+>discrete unit. And perhaps those words have the same parentage but
+>it was never so clear to me.
+>
+*       Yes SETIMANA is a derivative; it could have had a hyphen, but
+because the concept is such a commonly used one, the hyphen has been `elided.'
+
+>Anyway, it occurred to me that "setimana" begins with "seti" (seven)
+>and there are seven days in a week. Could "mana" have meaning of its
+>own? Sure enough, "mana" is "morning" - "seven mornings" - I like
+>that! Plus, we get three words for the price of two.
+>
+*       There is a neat logic to it.  The authors use the word "elegant" a
+lot, to describe the language: I believe they have achieved elegance in a
+number of places .. with Glosa's design.
+
+>Now, based upon this, I suspect the existence of a collection of
+>words, actually compounds but so common and useful that they appear
+>in the dictionary as standalone words in their own right. And this
+>suggests another criterion to be used in our selection of the primary
+>word in any group of synonyms. Glosa "seven" is either "seti" or
+>"septi" and "morning" is either "mana" or "matina". For some twisted
+>reason I seem to prefer "septi" and "matina", probably resonance with
+>other languages I've studied, but I'd argue that the preferred words
+>should be "seti" and "mana" for consistency with "setimana".
+>
+*       Which feels `happiest' in your mouth, SETIMANA or SEPTIMATINA?
+Which feels like "Next week": FU SETIMANA or FU SEPTIMATINA?  I believe that
+we can search back through our primative associations, and sense 
+which of the constructs is closer to the primitives of language.  The trap
+is in getting caught up in the intellectualisms of later language evolution.
+In general, the shorter the word, the more easily it rolls off the tongue
+... and, usually, the closer it is to the ancestral word-stock.
+
+>Of course, we could choose "septi" and "matina" and coin a new,
+>preferred word for week, "septimatina" - the important point being
+>that we retain consistency among the involved words, including other
+>compound words that might use one or the other of the smaller words.
+>
+>Conflicts will undoubtedly arise, but I think it would be beneficial
+>if we considered these compound words when choosing our preferences.
+>
+*       Thank-you for this connection re the synonym conundrum, Bill! I
+think you have found a very valid point: consistency within the lexicon.
+
+Saluta,
+Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: WWW Link to gonk.doit
+To: Robin Gaskell
+Date: Mon, 06 Oct 97 18:1
+
+At 08:31 PM 9/17/97 -0400, you wrote:
+>Wed, 17 Sep 97 09:37:00 EDT, Paul O Bartlett pa skribe:
+>
+>>     In your WWW page on Glosa, you have a link to gonk.doit.wisc.edu.
+>> As I recall, that address for Glosa has been dead for a long time.  
+>> I was not able to reach it just a few minutes ago.  Have you actually
+>> found something there?  (As I recall, it had nothing that is not
+>> already on the "official" pages.)
+>
+>Hmmm. Bummer. You're right. I don't remember when I last
+>connected to that site. I don't get any error message -
+>just, nothing happens. When nothing happens I just give
+>up and try again some other time. But I guess this one
+>is down for good, eh?
+>
+>So I just removed that link from my page. And realized that
+>I neglected to put your name in the link to your page! I
+>apologize for the omission! And have fixed it. (I just
+>pasted those links in from my bookmark file and forgot
+>to pretty them up sufficiently.)
+>
+>- Bill
+>
+*       I have been economically stretched, of late, and have not wanted to
+stress my Internet connection by doing things on the Web, so am restricting
+myself to email only, at present.  Paul Moorhead at Wisconsin U. was a
+lecturer of Paul Easton, a Baha'i who was active Glosa-wise for some time.
+I will renovate my Website next time I feel affluent enough to do so.
+
+>That, and another piece of coffee cake, should do the trick.
+>
+*       I'll need the coffee cake to calm my nerves when I start looking at
+the Majordomo Manual, so that I can activate the Glosalist through my site.
+I will try to get it all under the belt, before attempting another
+change-over.  So, Paul, it looks as if everything is in place for me to 
+operate a Glosalist Mailing List, at last.  It just needs my understanding
+of the system - I'm not relishing the thought of playing with the system:
+I'm more of a user than a techie.
+
+        Bill, is this really the line-length needed to avoid wrap-around on
+your system?  Thank you for including my name in your link to my Webpage.
+
+        Paul, do you have any advice on the best way of swapping from the
+Forwarder to a Majordomo Mailing List at my _zeta_ site?
+
+Saluta, 
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Word Formation in Glosa
+To: Robin Gaskell
+Date: Mon, 06 Oct 97 18:1
+
+At 09:57 AM 9/18/97 -0400, you wrote:
+>On Wed, 17 Sep 1997, William W Patterson wrote (excerpt):
+>
+>>               E Qestio: Does anybody know the reasoning behind
+>> these choices of Generics?
+>
+>    The Generics are presicely the same as in Hogben's original
+>Interglossa.  I do not have a copy of that book, and the only 
+>copy I have ever perused I found a little hard to read because of 
+>the style.  (It was in a library from which I could not check it 
+>out, and I was a little cramped for time.)  I do not recall whether 
+>Hogben justified his specific choices.
+>
+>Paul                             <pobart{at}access{dot}digex{dot}net>
+
+*       As I see it, the Glosa authors a decade, or so, ago, adopted
+Hogben's Generics with one deletion and three additions, and have left it
+that way ever since.  All of their energies over the past ten years have
+been in promotion of the language, with none put into extending or reviewing
+the design of the language.  Personally, I believe that the language can be
+extended and 'enriched' through a review of the design elements.  The
+problem with this is that most of the learners have only "Glosa 1000", and
+the rest have "Glosa 6000".
+        The Glosa Central reasoning is probably geared to getting on with
+the language, as published in 1992, and to avoid confusion with changes to
+this '92
+pattern.
+        However, the Glosa Tense Table was developed after the publication
+of Glosa 6000, and has circulated well enough.  An extended Generics list
+can be circulated in a similar way.
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Re: Setimana, Compounds & Synonyms
+To: Paul Bartlett
+Date: Mon, 06 Oct 97 20:2
+
+On Mon, 6 Oct 1997, Robin Gaskell wrote (extracted):
+
+> At 07:58 PM 9/26/97 -0400, Bill Patterson pa skribe:
+              ^^^^^^^                       ^^
+    We know that this date is in the past, so 'pa' is completely
+unnecessary here.  Many people have accused Glosa of being nothing more
+than a direct replacement code for (relexification of) English.  This
+sort of usage just confirms that accusation.  We have to avoid letting
+native language habits dominate our usage.  Otherwise, we may have
+trouble communicating with people who have other native language
+habits.  I think tense and plurality markers tend to be overused.
+
+> *       Yes SETIMANA is a derivative; it could have had a hyphen, but
+> because the concept is such a commonly used one, the hyphen has been `elided.'
+
+    How do you speak a hyphen?  Many of us in western countries are so
+used to dealing with written texts that we forget that language is
+first and foremost a spoken/heard phenomenon, and not marks on a paper 
+or computer screen.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: ailanto
+Subject: wrap-around
+To: glosa
+Date: Tue, 07 Oct 97 00:0
+
+Mon, 06 Oct 97 18:17:40 EDT, Robin Gaskell pa qestio:
+
+>         Bill, is this really the line-length needed to avoid wrap-around on
+> your system?  Thank you for including my name in your link to my Webpage.
+
+Yes, looks good. And you're welcome!
+
+- Bill
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+From: ailanto
+Subject: Re: Setimana, Compounds & Synonyms
+To: glosa
+Date: Tue, 07 Oct 97 00:5
+
+Mon, 06 Oct 97 20:25:37 EDT, Paul O Bartlett skribe:
+
+>     We know that this date is in the past, so 'pa' is completely
+> unnecessary here.
+
+Good point, Paul! I've fixed my reply-header.
+
+> I think tense and plurality markers tend to be overused.
+
+Yes. As in "Yesterday we went" - well, we *know* it happened in the
+past before we even get to the second word in that sentence, so why
+worry about conjugation? Once we've established the time or the
+subject(s), there's no reason to repeat that information.
+
+>     How do you speak a hyphen?  Many of us in western countries are so
+> used to dealing with written texts that we forget that language is
+> first and foremost a spoken/heard phenomenon, and not marks on a paper 
+> or computer screen.
+
+As with "setimana" I feel that the hyphens will disappear from common
+compounds. I dislike hyphens inside words. In English I rarely use them
+except when I feel that they are absolutely necessary. And that necessity
+is determined to a large extent by the familiarity of the word to both me
+and the reader. And by our familiarity with the words which make up that
+word. As I learn Glosa I find myself using hyphens much more frequently
+than I normally do, and in fact *relying* upon them to help me parse
+compound words. As I learn more, they won't be as helpful because then
+I'll more quickly recognize the words that make up the compounds.
+
+And this probably applies to Generics also. On Robin's pages I saw "redice"
+and "re-dice". I prefer the look of "redice" and will undoubtedly spell it
+that way. However, "re-dice" was immediately recognizable to me but "redice"
+was not. So when I feel more comfortable with Glosa I'm sure that I'll soon
+be applying that same writer/reader word familiarity rule.
+
+It's late and I'm tired so I'm not going to look now but I must check my
+notes to see if there is a standard rule covering these Glosa hyphens...
+
+In the spoken language as in the written language, common compounds wouldn't
+need a hyphen, but with compounds that are less common I bet the hyphen is
+represented by a bit of a pause, and then a trailing "Know what I mean?"
+kind of a look is appended to the word...
+
+- Bill
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+You never really learn to swear until you learn to drive.
+
+
+From: William W Patterson
+Subject: Synonyms
+To: William
+Date: Tue, 07 Oct 97 19:3
+
+Synonyms
+
+Suggested criteria for the selection of the "preferred" words:
+
+1. The synonym which is used most often in common compounds should be
+   the preferred word. Setimana argues for seti and mana rather than
+   septi and matina.
+
+2. For groups of logically related words, the preferred words should all
+   come from the same language, for predictability.
+
+3. Shorter words are probably better.   
+
+4. The preferred word should not look or sound too much like some other
+   totally unrelated word. This will probably be the trickiest criterion
+   to apply!
+
+5. For groups of logically related words, consider how the words might
+   be used. For example, directions are often abbreviated, so Nord, Est,
+   Sud, Uest are preferable to Boreo, Orienta, Austra, Ocide (which,
+   however, make for wonderful literary synonyms!)
+
+I can't wait to see that \SYNONYM directory! The first thing I plan to
+do is write a little search program to implement that first criterion,
+searching the lexicon for compounds...
+
+- Bill
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+Unix is the answer, but only if you phrase the question very carefully.
+
+
+From: William W Patterson
+Subject: Re: Word Formation in Glosa
+To: William
+Date: Tue, 07 Oct 97 19:4
+
+Thu, 02 Oct 97 18:41:22 EDT, Robin Gaskell skribe:
+
+> My guess is that since -LI has been set ~in stone~ to make a bad pun...
+
+Aw, I liked it...
+
+- Saluta! - Bill
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+Unix is the answer, but only if you phrase the question very carefully.
+
+
+From: Paul O Bartlett
+Subject: Re: polysynthesis (and agglutination)
+To: Paul Bartlett
+Date: Wed, 08 Oct 97 14:2
+
+{cross-posted to Glosa Discussion Group, Robin 
+{Gaskell, and Glosa Education Organization}
+
+On Wed, 8 Oct 1997, John Cowan wrote on CONLANG:
+
+> Mark P. Line wrote:
+> 
+> > The distinction revolves around the way in which closed-class morphemes
+> > and phonological words interact. To the extent that one morpheme is
+> > always one phonological words and vice versa, the language is isolating
+> > and there _is_ no morphology.
+> 
+> Well, not so fast.  In Gaskell-Glosa (the Robin Gaskell dialect
+> of the auxlang Glosa), the tense morphemes are independent
+> phonological words (probably), but they are mandatory: every
+> sentence contains one, including the sentences explaining that
+> tense morphemes are optional!
+> 
+> There is at least a case to be made that Gaskell-Glosa tense morphemes
+> are inflectional prefixes on the verb.
+
+   I tend to agree with you about Gaskell-Glosa and even, to some
+extent, Aashby&Clark-Glosa (Ashby&Clark being the principals of Glosa). 
+Even the latter, in some of their writings, tend to mark tense and
+number either when it is already marked in some other or when it is
+irrelevant.  There is a very small (and not overly active) discussion
+group for Glosa (email me if you want to join), and twice recently I
+have tried to point out overuse of markers.  Unsually I get either no
+response at all or "Of course, but......."  Glosa does not *have* to
+be just recoded English, but some users make it that way.  I sometimes
+wonder if the Glosa-pe are their own worse enemies.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Robin Gaskell
+Subject: Re: Setimana, Compounds & Synonyms
+To: Robin Gaskell
+Date: Sat, 11 Oct 97 09:2
+
+At 08:25 PM 10/6/97 -0400, Paul Bartlett scribe: (I see it as ~P.B. writes~)
+>On Mon, 6 Oct 1997, Robin Gaskell wrote (extracted):
+>
+>> At 07:58 PM 9/26/97 -0400, Bill Patterson pa skribe:
+>              ^^^^^^^                       ^^
+>    We know that this date is in the past, so 'pa' is completely
+>unnecessary here.  Many people have accused Glosa of being nothing more
+>than a direct replacement code for (relexification of) English.  This
+>sort of usage just confirms that accusation.  We have to avoid letting
+>native language habits dominate our usage.  Otherwise, we may have
+>trouble communicating with people who have other native language
+>habits.  I think tense and plurality markers tend to be overused.
+>
+*       Point taken.  I will go along with the collective unconscious on this:
+if 95% of the population cannot stand "overused" markers, then these
+markers, when overused, are wrong.  Perhaps I am being pedantic or a
+stickler for accuracy: either way, I am probably wrong.  There must be some
+clear rules of thumb for deciding when a marker is necessary, when it is
+redundant, and when it is optional.
+
+>> *       Yes SETIMANA is a derivative; it could have had a hyphen, but
+>> because the concept is such a commonly used one, the hyphen has been
+`elided.'
+>
+>    How do you speak a hyphen?  Many of us in western countries are so
+>used to dealing with written texts that we forget that language is
+>first and foremost a spoken/heard phenomenon, and not marks on a paper 
+>or computer screen.
+>
+*       No hyphens are not for sounding, just for the reader (and the
+computer program).  Had seti-mana been hyphenated, Bill would have seen it
+to be a compound, straight away.  Hyphens could be left out altogether, but
+word derivation hints would be lost, and for those who are etymologicallyminded,
+some of the interest in language would be lost.  Also, I am being pedantic,
+again, in wishing to observe the "words-do-not-change-for-reasons-of-grammar"
+rule.  As I see it, a compound with a hyphen in it is two words (neither
+changing for grammar), while an unhyphenated compound is a new word.  This
+is a different argument from the one for punctuation, which I consider to be
+the indication of vocal change due to sentence structure.
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Re: Setimana, Compounds & Synonyms
+To: Paul Bartlett
+Date: Sat, 11 Oct 97 11:1
+
+On Sat, 11 Oct 1997, Robin Gaskell wrote (short extract):
+
+> *       Point taken.  I will go along with the collective unconscious on this:
+> if 95% of the population cannot stand "overused" markers, then these
+> markers, when overused, are wrong.  [...]                There must be some
+> clear rules of thumb for deciding when a marker is necessary, when it is
+> redundant, and when it is optional.
+
+    It seems clear enough to me.  If some other construct in a sentence
+indicates something like time, plurality, or sex, then a marker is not
+necessary.  Redundant grammatical markers do not do much harm, but they
+are just that: redundant.  The problem is that if they are overused,
+some people may come to regard them as necessary, which can lead to
+confusion and misunderstanding of the spirit of the language.  It gives
+rise to the accustion that Glosa really is an inflected language, which
+it is not.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+
+From: ailanto
+Subject: Experimental Dictionaries
+To: Robin Gaskell
+Date: Tue, 14 Oct 97 20:1
+
+Hi Robin!
+
+I received the Experimental Dictionaries disk today.
+
+I've printed out the G-E dictionary. Tried printing from DOS first but
+(due to printer setup probably) some bottom lines were getting shoved
+to the following pages. So I jumped into Windows and used the Works word
+processor, with size 10 Courier New font and .75 inch top and bottom
+margins.
+
+But I noticed that each formfeed in the PRT*.* files was followed by
+two blank lines, so the first page of the file prints ok but subsequent
+pages are too long. Maybe that was the problem. And GALAXY appears to
+append two CTRL-Z characters to the end of the file, sort of in the old
+CPM or DOS fashion. I wonder if it *requires* them? If so, I'll have
+to remember to append them to files I send to you!
+
+I skimmed over the pages as they printed and noticed some synonym problems.
+I see you've already got LISO in the synonyms directory. TITO is another
+one: "kind of owl" or "small, young". Well, those aren't really synonyms -
+I forget the word for what they are - words that are the same but have
+different meanings!
+
+And "vanish" appears as EVANESCE, VANESKE, and VANESCE.
+
+And "bigamy" appears as BI-GAMI. A typo, perhaps? Since elsewhere GAME
+is the marriage word. (That was in the E-G.ALL).
+
+I was tickled by the fact that "big breasts" have their own word: BUMASTA.
+But is that singular or plural? Should be singular? I would like to assume
+that all Glosa things are singular unless plued, so to say.
+
+E-G.ALL & G-E.ALL will be very handy. L6 turns out to be version 6.2a of
+Buerg's LIST program. I use that all the time! I've got version 7.6a. It's
+a bit larger than L6. One nice feature is that if you just enter LIST, it
+brings up a directory listing, and you can navigate the directories and
+select the file to read. There's also a newer version out there in the
+universe somewhere - I tried it, but preferred this version, though I don't
+remember why. I think because it had too many fancy features than I didn't
+want in a lister program.
+
+I hope to get back to "Un Lupus" soon. I've just been too busy. And now
+I'm anxious to dig into these synonyms. Well, this is how I learn best!
+
+- Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+From: William W Patterson
+Subject: Synonyms & Relexifications
+To: William
+Date: Thu, 16 Oct 97 22:4
+
+
+Just a few thoughts off the top of my (aching!) head.
+(I've had a nasty headcold these past few days.)
+
+I haven't examined the synonym files yet, but I did print the Glosa-
+English dictionary and begin reading through it. There seem to be
+many synonyms in there, which is probably proper for a Glosa-natlang
+dictionary, though in a natlang-Glosa dictionary we should have one
+preferred word, marked as such (or the assumption that the first
+synonym is the preferred word (and for clarity one should stick to
+it!). Even then, though, is it necessary to have seven words for
+"food"? And four words for "five"? Perhaps in Literary Glosa?
+
+As a slightly tangential comment, I want to repeat that I *like*
+synonyms and antonyms. This is one thing that I like about Ido in
+comparison to Esperanto, though I have much more experience with
+Esperanto. Few synonyms and no antonyms makes for easier learning,
+but also gets boring after a while. And sometimes ugly. So I was
+amused and pleased to find that many of my favorite "literary"
+Esperanto words achieved perfect respectability in Ido, even as Ido
+retains the ability to construct antonyms by use of a prefix, useful
+when one knows only one member of an antonymic pair, and isn't able
+for whatever reason to look up the other; though I'm not sure it's
+considered good form, it would certainly be understandable.
+
+Anyway, back to Glosa. I've found what appear to be relexifications
+(don't get me wrong! I also feel that a little relex isn't always
+bad!) of English forms of Latin phrases. "Ad lib" from English "ad
+lib" from Latin "ad libitum", for example. It's not the relex which
+bothers me; it's the fact that there appears to be no Glosa word
+"lib". Now, since "ad libitum" means "at pleasure", I'd suggest that
+we use "ad hedo" for this concept; or perhaps just remove the space
+and coin a new word "adlib" - I prefer "ad hedo". Or perhaps
+"ad-hedo" or "adhedo". Or does that make it a relex of Latin?
+
+Another is "ad hok", when Glosa has no "hok". And "ad rem" when there
+is no Glosa word "rem"? Though I'm not familiar with the phrase "ab
+ovo" (from the start), there appears to be no Glosa word "ovo"; but
+there is "ova" (egg) and I rather like the translation of "ab ova",
+which would be "from the egg". Or is one of those ov- words a typo?
+Or is this one of those terminal inconsistencies that Paul mentioned?
+
+And now, the goats. I can accept two words for goat: "aegi" and
+"kapri". But first I question the -i in "aegi", since the Greek word
+is "aego". Second, "aegialo" (shore) follows "aegi" in the dictionary
+and since both "aegi" and "alo" (or, alternative) *are* Glosa words,
+one might assume (if not knowing better) that "aegi" and "aegialo"
+are somehow related. Goat alternatives, anybody?
+
+And thirdly, why isn't a "kaprimulgus" (goat - kid) a "kapri-fili"?
+
+Sadisti: hunter, sadist. This may be a problem for some people!
+
+And my setimana! This dictionary contains no "seti" but it does add
+"hepta". And my "mana" has been replaced by "di", giving "septi-di"!
+Seven-days - just doesn't seem as lyrical to me as seven-mornings.
+
+Are we creating Fili, the Glosa equivalent of Esperanto's Ido?
+Or is Glosa already the Fili, being the child of Interglossa?
+How does one say "grandchild" in Glosa?
+
+Another tangent: when the computer language C++ was named there was
+some argument as to whether it should be called D or P. You see, BCPL
+begat B, and B begat C. The question was, should the name of the next
+language be determined alphabetically, or once again by the BCPL
+sequence? I guess they decided to avoid the problem completely.
+
+Oh, well, enough babbling for one night.
+I'm tired.
+But I *am* having fun!
+
+- Saluta! - Bill
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+
+From: William W Patterson
+Subject: Mr. D's First Flight
+To: William
+Date: Thu, 16 Oct 97 22:4
+
+
+My first thought, after laughing at this joke, was:
+This is something which would *not* translate well into most IALs.
+
+========
+
+Once Mr. D gets an oppurtunity to fly to a near by country. Mr. D
+never has been on an airplane anywhere and has got so excited and
+tensed.
+
+As soon as he boarded the plane, a BOEING 747, he started jumping in
+excitement, running over seat to seat and starts shouting 'BOEING!
+BOEING!! BOEING!!! BO....'.
+
+He forgets what's around, even the pilot in the cock-pit hears the
+noise. Annoyed by the sound, the Pilot comes out and shouts 'BE
+SILENT!'. There was pin-drop silence every where and everybody is
+looking at the Mr. D and the angry Pilot. Mr. D stared at the Pilot
+in silence for a moment and all of a sudden started shouting, 'OEING!
+OEING!! OEING!!! OE...'.
+
+========
+
+- Bill
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+
+From: Robin Gaskell
+Subject: John Schilke has been ill (BOUNCE glosalist)
+To: Robin Gaskell
+Date: Sun, 19 Oct 97 17:0
+
+>Date: Sat, 11 Oct 1997 11:05:52 +1000
+>From: owner-glosalist{at}zeta{dot}org{dot}au
+>X-Authentication-Warning: godzilla.zeta.org.au: majordom set sender to
+owner-glosalist{at}zeta{dot}org{dot}au using -f
+>To: owner-glosalist{at}zeta{dot}org{dot}au
+>Subject: BOUNCE glosalist{at}zeta{dot}org{dot}au: Header field too long (>1024)
+>
+>> [.....]
+>From: John Schilke <schilkej{at}ohsu{dot}EDU>
+>Subject: Back in world
+>
+>Greeting to all!
+>       My apologies to you for writing with a long list, but I do not 
+>yet have the strength to do much, and even this note is a chore.  I am 
+>back on the net after a forced absence.  For the last fortnight I have 
+>been in hospital for treatment and care.  I was paralyzed by what is 
+>known as Guillain-Barre Syndrome, and function is now returning.
+>       Kind words (any words, in fact!), prayers, and good wishes are 
+>most welcome, but please do not worry about me.
+>       Now, on to reading all the e-mail that has accumulated.
+>               John
+>
+Hello to all on the Glosa Mail Forwarder,
+        This message from John Schilke clears up the mystery of his sudden
+disappearance from our discussions.  John will definitely appreciate hearing
+from as many of us as possible!
+
+        John, I hope you get this message, I missed getting your cheery
+mail.  I hope you will be fully up and running very soon.
+
+Organisational: It looks as if the original Glosalist address has been
+replaced by the Majordomo one, by my ISP.  I must do some hard study soon to
+find out what I have to do to get the Glosalist working through Majordomo.
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: E-G.ALL
+To: William W Patterson
+Date: Mon, 27 Oct 97 08:0
+
+At 10:37 PM 10/16/97 EDT, you wrote:
+>Ave Robin!
+>
+>Upon receipt of the dictionary disk, I tried to do a diskcopy so that
+>I could keep the original as a backup. During the diskcopy I got an
+>error message "Unrecoverable read error on drive A: Side 1 track 47".
+>So I just xcopied the files to my hard disk and then copied from
+>there to another floppy. That seemed to work ok, and since there was
+>much unused space on the original disk, I just assumed that the bad
+>spot was on an unused sector.
+>
+*       Must have been a bad disk, sorry.  I checked the three other copies
+I made, still here, and they loaded correctly, with all of the `general  -
+green'
+section intact.
+
+>But today I found that there is a bad spot in the E-G.ALL file.
+>There's a patch of garbage and then a piece of three-column page 28
+>instead of what should be between "general" and "green".
+>
+>Would you please email me that portion of E-G.ALL between "general"
+>and "green", so that I can cut out the bad stuff and paste in the
+>good stuff?
+>
+>- Saluta! - Bill
+>
+*       Here is the missing bit as an Attachment.  Have not had good luck
+with attachments, of late, so have not used this method for a while.
+Possibly the MISSING.E-G file will turn up in your e-mail reader
+subdirectory.  If you find no trace of the attachment, then I will have to
+try to insinuate it into Eudora's Mailbox, and treat it as a mailbox item,
+and so, redirect it to you.
+
+        Re the two CTRL-Zs at the end of a file, I have not noticed them;
+when I checked the end of E-G.ALL, I only found one arrow symbol ( -> )
+representing the CTRL-Z .  This was using L6.  Glad you have a later
+version.  My Galaxy is a very old version, and might have out-dated usages.
+
+        Re my life, I am, for financial reasons, applying to change my job
+status: I work as a Suburban Rail Guard, and will apply to do Inter-urban work.
+This involves some memory work in learning about the train lines out of Sydney, 
+and as a result, I am not concentrating as much as I would like to on Net
+activities.  Hope things even out, soon.  To make the money, I will have to
+do night work, sleeping in the day, so some adjustments in my routine will
+be needed.
+
+        Re synonyms, I think a decision must be made for the learner's First
+Glosa dictionary.  I, too, like synonyms - though am not necessarily so keen
+on antonyms - and found the Glosa 1000 too stifling, altogether.  I would
+say that one major Glosa word, with only one synonym, where it seemed
+`popular', might be 
+a rule of thumb for whittling down the E-G.ALL to an acceptable form.
+
+        A "Middle 6000" with two or, at most, three, synonyms could follow.
+However, I feel that some explanatory adjective or adverb would probably help -
+as suggested by Paul Bartlett.  The "Literary 6000", with all possible synonyms,
+is outside my range of language knowlege, and of very limited projected use.
+Again, I think that clarification of the synonyms would be necessary .. to
+differentiate between their nuances of meaning.
+
+Saluta, 
+ Robin
+PS Glad you are enjoying the Glosa Vocab conundrum.  I looked briefly at the
+Auxlang strand on reaching agreement on featurea of a Global IAL, and it
+does not look good.  Paul B. suggests that, taking the non-European conlangs
+into account, there is not really any concensus reachable.  I lack the
+mental capacity to study all of the possible languages, but can look into
+one quite deeply, hence my working with Glosa, which I still think is the
+"elegant" model. R.
+
+From: ailanto
+Subject: Re: E-G.ALL
+To: Robin Gaskell
+Date: Mon, 27 Oct 97 20:3
+
+Mon, 27 Oct 97 08:09:52 EST, Robin Gaskell skribe:
+
+> Must have been a bad disk, sorry.
+
+Quite all right, Robin! It is the Way of disks.
+
+> Here is the missing bit as an Attachment.
+
+Got it - thanks!
+
+> Re the two CTRL-Zs at the end of a file, I have not noticed them;
+> when I checked the end of E-G.ALL, I only found one arrow symbol ( -> )
+> representing the CTRL-Z .  This was using L6.  Glad you have a later
+> version. My Galaxy is a very old version, and might have out-dated usages.
+
+This *is* interesting. E-G.ALL and G-E.ALL have only one trailing CTRL-Z,
+but INFO.TXT and LET_TO.WWP have two! Anyway, that's the old CP/M and
+early DOS style, using CTRL-Z to mark the end-of-file. Newer programs
+don't care whether it's there or not. Though some programs, both old and
+new, will stop reading when they hit a CTRL-Z, even if it's in the middle
+of a file.
+
+GALAXY doesn't seem to mind if the input file has no trailing CTRL-Z. I
+created a file without CTRL-Z and opened it in GALAXY. Worked OK. And
+when I saved it, GALAXY appended two CTRL-Zs. But it does stop reading if
+I stuff a CTRL-Z into the middle of a file. No big deal, because that's
+something one has to do on purpose - it won't happen under normal
+circumstances.
+
+>         Re my life, I am, for financial reasons, applying to change my job
+> status: I work as a Suburban Rail Guard, and will apply to do Inter-urban work.
+> This involves some memory work in learning about the train lines out of Sydney, 
+> and as a result, I am not concentrating as much as I would like to on Net
+> activities.  Hope things even out, soon.  To make the money, I will have to
+> do night work, sleeping in the day, so some adjustments in my routine will
+> be needed.
+
+Wow! Keep me posted. I'm a railfan and I've been interested in Australia
+since I was a child. How is the rail transportation system there?
+
+My oldest daughter has also expressed an interest in Australia and said
+she wants to live there for a while after she graduates.
+
+- Saluta - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+From: William W Patterson
+Subject: Dictionaries
+To: William
+Date: Thu, 30 Oct 97 21:4
+
+Beginning with G-E.ALL, I wrote an awk script to create GE0.TXT,
+which consists of lines of the form "glosaword = englishword", one
+word from each language per line. Then I re-sorted, and then used vim
+and uniq to pull out the lines that begin with the same Glosa words.
+The purpose was to locate (as much as possible!) all those Glosa
+words which appear to have multiple meanings; not just similar
+meanings (synonyms), but completely different meanings. For example,
+I found that "amo" means "like", "love" and "sand", and "hipo" means
+"below", "under" and "horse". Some of these result from a Greek word
+clashing with a Latin word. Some may be typos. But I'd like to clean
+them up before I continue.
+
+I'm currently looking at 274 such words. Here's an example of a
+fairly simple situation:
+   KANCERA = cancer - crab
+   KARCINO = cancer - crab
+   KARCINOMA = cancerous ulcer
+For internal consistency of the dictionary, here are my choices:
+   KANCERA = crab
+   KARCINO = cancer
+   KARCINOMA = cancerous ulcer
+
+And another:
+   TIRO = beginner - cheese (!)
+   TYRO = beginner
+   KASEA = cheese
+Here are my choices:
+   KASEA = cheese
+   TIRO = beginner
+I chose TIRO rather than TYRO because the Glosa Basic Reference says
+that the "y" in Greek words should be replaced by "i".
+
+Qestio: Should TIRO instead be considered literary? A synonym? Maybe
+we should instead construct "beginner" using the "-pe" Generic. We'd
+have to choose our rootword carefully. Would a beginning-person be a
+novice or a baby? Another example, we find:
+   MANTI = divination - soothsayer
+and I'm wondering if we should have MANTI = "divination" and MANTI-PE
+for soothsayer.
+
+Which brings to mind another criterion for synonym selection: a
+synonym which spawns a Generic should be the Primary! Of course, only
+a few words could possibly be affected by this. Maybe none. But it's
+pretty important, I think.
+
+Plus questio: GOMFO represents bolt, nail and peg, but sometimes I
+think we'd need to be more specific as to which one we really should
+be using. Any suggestions? The Glosa dictionary contains several
+words for nail, but they all seem to be the biological kind, except
+maybe for one that I don't recognize: what sort of nail is an AKU?
+
+Once we've got these multiple-meaning words nailed down, I plan to
+invert the file and consolidate the synonym lines to form a literary
+English-Glosa dictionary. Then we can select a primary synonym for
+each English word, resulting in the basic English-Glosa dictionary.
+
+So I envision three dictionaries:
+   a glosa-natlang dictionary containing all the words
+   a literary natlang-glosa dictionary containing all the words
+   a basic natlang-glosa dictionary containing only primary synonyms
+Of course, the literary dictionary could also function as a basic
+dictionary if we assume that the first synonym is the primary.   
+
+Has anybody else noticed that the creators of Glosa seemed to be
+awfully fond of bogs and marshes and mud and and pipes and other such
+watery things, and suet and fat and grease, too?
+
+- Bill
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+
+From: John Schilke
+Subject: digging out
+To: Robin Gaskell
+Date: Fri, 31 Oct 97 08:1
+
+Hello, Robin!
+        Thank you again for your kind messages of support, which were 
+most earnestly appreciated.  I am getting better (can now move about the 
+house pretty much with a cane, though wheelchair or walker for trips in 
+the car) and regaining strength.  The problem is stamina, of which I 
+still have but little.
+        Glosa is moving up on my agenda.  One of these days....
+        Anyway, all the best to you, and to the folks on Glosalist, 
+should you like to forward this.
+                Plu kardia saluta ex
+                John
+
+

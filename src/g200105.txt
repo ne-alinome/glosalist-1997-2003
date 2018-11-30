@@ -1,0 +1,853 @@
+========
+To: :glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] glosa, english, russian etc grammar
+From: Sydpidd{at}aol{dot}com
+Date: Tue, 1 May 2001 14:24:40 EDT
+
+--part1_23.b084694.28205968_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+it seems to me that most if not all of the major languages have the 4 parts, 
+subject NP, verb P, object P and indirect O.  some of these may not be used 
+i.e. subject NP, VP " they went" the NP I've called the O/IO may be 
+substituted by something else such as an adjectP "they sang beautifully". Is 
+this true?  answers from the most erudite of you will be welcome.
+Where things get difficult is how the parts are marked, suffixes word order 
+etc, are there any variations?
+syd
+
+--part1_23.b084694.28205968_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2 FAMILY="SERIF" FACE="Times New Roman" LANG="0">it seems to me that most if not all of the major languages have the 4 parts, 
+<BR>subject NP, verb P, object P and indirect O. &nbsp;some of these may not be used 
+<BR>i.e. subject NP, VP " they went" the NP I've called the O/IO may be 
+<BR>substituted by something else such as an adjectP "they sang beautifully". Is 
+<BR>this true? &nbsp;answers from the most erudite of you will be welcome.
+<BR>Where things get difficult is how the parts are marked, suffixes word order 
+<BR>etc, are there any variations?
+<BR>syd</FONT></HTML>
+
+
+--part1_23.b084694.28205968_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_23.b084694.28205968_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] glosa, english, russian etc grammar
+From: Charles <charles{at}catty{dot}com>
+Date: Tue, 01 May 2001 12:13:29 -0700
+
+Sydpidd{at}aol{dot}com wrote:
+> 
+>    Part 1.1    Type: Plain Text (text/plain)
+>            Encoding: 7bit
+
+Syd, PLEASE don't post any more using that horrible
+broken email reader ... It is difficult to read
+and difficulter to reply to your posts!!!!
+Use anything else. Ask somebody to go through
+the config params -- life is too short to decrypt
+these every time, even though they are interesting:
+
+> it seems to me that most if not all of the major languages have the 4 parts, 
+> subject NP, verb P, object P and indirect O.  some of these may not be used 
+> i.e. subject NP, VP " they went" the NP I've called the O/IO may be 
+> substituted by something else such as an adjectP "they sang beautifully". Is 
+> this true?  answers from the most erudite of you will be welcome.
+> Where things get difficult is how the parts are marked, suffixes word order 
+> etc, are there any variations?
+> syd
+
+All the eurolangs were once heavily suffixing ("synthetic"
+and "inflectional"), but gradually they replaced the suffixes
+with prepositions to become more "analytic" and "isolating".
+Germanic languages have evolved furthest in that direction.
+
+Glosa was intended as a purely analytic/isolating language,
+more so than all the other auxlangs. So there are *no* more
+case suffixes, just prepositions like "de, ad, ...".
+
+As you mentioned, there is no suffix defined for accusative case
+(nominative = "per") but something like "em" could work; otherwise
+there is nothing but word order defining those "core cases";
+and most of the time, word order is perfectly sufficient.
+
+nominative, ablative      ... first noun phrase, or "per"
+accusative, direct object ... second NP, or maybe "em"
+dative, indirect object   ... "ad"
+genitive, possessive      ... "de"
+
+Those are the core cases; other important cases are "oblique".
+
+Then there are a bunch of other prepositions, too many!
+In a truly simple global auxlang, these would be reduced
+by composing them out of in/ex/ad/de and just a few more,
+e.g. "intra xxx = in middle of xxx".
+
+All languages are similar after all, they just vary in a
+relatively few "parameters" such as whether to use mostly
+suffixes or prepositions. To make 2nd language learning easy,
+an auxlang must be highly regular with few exceptions,
+and express many different shades of meaning with the fewest
+"pieces", whether words or grammar rules. Ido and Glosa use
+nearly opposite approaches, Occidental combines both ...
+
+For a true global interlanguage, no currently existing project
+really works, IMO. The ideal would have a much more productive
+but smaller vocabulary than Glosa, and an even easier syntax.
+I see Glosa as unfinished, and use Occ effectively with Europeans.
+The ideal interlanguage would be highly analytical/isolating,
+abandoning all suffixes, a further development of Glosa perhaps.
+But it would look more like Indonesian or Tahitian. IMHO!
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: [glosalist] Newspaper PGN 84 ready
+From: "Marcel Springer" <m.springer{at}nikocity{dot}de>
+Date: Wed, 9 May 2001 22:51:04 +0200
+
+Wendy's new issue of her newspaper "Plu Glosa Nota" is ready and
+available now.  Its number is 84.  It has two articles about
+L. Hogben and R. Clark, their lifes and the history of Glosa
+development.  Interesting.  Wendy's address:  Glosa, P. O. Box 18,
+Richmond, Surrey, TW9 2GE, England.  Price for 6 issues:
+6-50 £ (England), 7-80 £ (Euro), 8-00 (non-Euro).
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: [glosalist] Short story "Norwegian Bible"
+From: "Marcel Springer" <m.springer{at}nikocity{dot}de>
+Date: Wed, 9 May 2001 22:51:33 +0200
+
+U neo interese nexu mi pa gene ex Wendy pro plu Glosa-pe e plu
+lingua-ami:
+
+   http://www.mek.iif.hu/porta/szint/human/szepirod/modern/martinov .
+
+"U Norge Kristi-Bibli", u brevi stori ex Magyar ex Martinovitsné Kutas
+Ilona (alo: Ilona Kutas, Ilona Kutas Martinov, ... Plu Magyar nima
+habe difere ordina, sed mi ne ski; qo-mode.).  Id pa gene translati ad
+in Glosa e poli hetero lingua.  Id es u reali bibli, uti PDF-forma.
+Mali-fortuna id habe 5.3 MB.  So mi pa nece ma de bi-ze minuta pro
+gene id ex internet.  Sed mi puta; id pa dona sati valu pro u-ci
+eforti.
+
+ [A new interesting link I got from Wendy for Glosa-people and
+ language fans: ...
+ "The Norwegian Bible", a short story from Hungary by Martinovitsné
+ Kutas Ilona (or: Ilona Kutas, Ilona Kutas Martinov, ... Hungarian
+ names are in different order, but I do not know, how.), that is
+ translated into Glosa and many  other languages.  It is a real book
+ in PDF-format, unfortunately 5.3 MB.  So I needed more than
+ 20 minutes for the download.  But I think, it was worth it.]
+
+Saluta - Marcel
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] .ngg alfabete .ita
+From: Sydpidd{at}aol{dot}com
+Date: Sun, 13 May 2001 14:55:35 EDT
+
+--part1_99.14af2b57.283032a7_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+u .nng du no utu plu mege litere in u-id alfa-bete e, de u-la, du omiti 
+"q,w,x,y". so, na du haba soli plu bi-bi litere:- abcde fghij klmno prstu vz.
+u sono de singi litere du es home u .ipa ( internatio fonetiki alfabete) . mo 
+litere, mo sono.
+si vi du es u pusu ne-hede de ne-detekte de plu mege litere kausu mu poso es 
+kala, vi nece meme kue u butu de .nng du es u es ka simpli e uniformo ka poso 
+pro ali plu neo pe. 
+u litere-glifi home "MDMCVIII" du feno granda sed u numere es fo ne-facili de 
+lekte.
+
+NNG doesn't use capital letters and , of those it omits "q,w,x,y,. So, we 
+have only 22 letters:- abcdefghijklmnoprstuvz"
+The sound of each letter es the same as IPA (International Phonetic 
+Alphabet). one l;etter - one sound.
+If you rather dislike not findimg the capitals because they are possibly 
+beautiful, we must remember that NNG is as simple and regular as possible for 
+other new people.
+The inscription "MDMCVIII" seems dignified but the number is very difficult 
+to read. 
+
+syd
+
+--part1_99.14af2b57.283032a7_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2>u .nng du no utu plu mege litere in u-id alfa-bete e, de u-la, du omiti 
+<BR>"q,w,x,y". so, na du haba soli plu bi-bi litere:- abcde fghij klmno prstu vz.
+<BR>u sono de singi litere du es home u .ipa ( internatio fonetiki alfabete) . mo 
+<BR>litere, mo sono.
+<BR>si vi du es u pusu ne-hede de ne-detekte de plu mege litere kausu mu poso es 
+<BR>kala, vi nece meme kue u butu de .nng du es u es ka simpli e uniformo ka poso 
+<BR>pro ali plu neo pe. 
+<BR>u litere-glifi home "MDMCVIII" du feno granda sed u numere es fo ne-facili de 
+<BR>lekte.
+<BR>
+<BR>NNG doesn't use capital letters and , of those it omits "q,w,x,y,. So, we 
+<BR>have only 22 letters:- abcdefghijklmnoprstuvz"
+<BR>The sound of each letter es the same as IPA (International Phonetic 
+<BR>Alphabet). one l;etter - one sound.
+<BR>If you rather dislike not findimg the capitals because they are possibly 
+<BR>beautiful, we must remember that NNG is as simple and regular as possible for 
+<BR>other new people.
+<BR>The inscription "MDMCVIII" seems dignified but the number is very difficult 
+<BR>to read. 
+<BR>
+<BR>syd</FONT></HTML>
+
+
+--part1_99.14af2b57.283032a7_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_99.14af2b57.283032a7_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] .ngg alfabete .ita
+From: Charles <charles{at}catty{dot}com>
+Date: Sun, 13 May 2001 12:52:12 -0700
+
+Sydpidd{at}aol{dot}com wrote:
+> 
+>    Part 1.1    Type: Plain Text (text/plain)
+>            Encoding: 7bit
+
+[mailer problems again ...]
+
+> u .nng du no utu plu mege litere in u-id alfa-bete e, de u-la, du omiti 
+> "q,w,x,y". so, na du haba soli plu bi-bi litere:- abcde fghij klmno prstu vz.
+> u sono de singi litere du es home u .ipa ( internatio fonetiki alfabete) . mo 
+> litere, mo sono.
+> si vi du es u pusu ne-hede de ne-detekte de plu mege litere kausu mu poso es 
+> kala, vi nece meme kue u butu de .nng du es u es ka simpli e uniformo ka poso 
+> pro ali plu neo pe. 
+> u litere-glifi home "MDMCVIII" du feno granda sed u numere es fo ne-facili de 
+> lekte.
+> 
+> NNG doesn't use capital letters and , of those it omits "q,w,x,y,. So, we 
+> have only 22 letters:- abcdefghijklmnoprstuvz"
+> The sound of each letter es the same as IPA (International Phonetic 
+> Alphabet). one l;etter - one sound.
+> If you rather dislike not findimg the capitals because they are possibly 
+> beautiful, we must remember that NNG is as simple and regular as possible for 
+> other new people.
+> The inscription "MDMCVIII" seems dignified but the number is very difficult 
+> to read. 
+> 
+> syd
+
+Stating that capitals are purely cosmetic might be OK.
+There are some important discourse functions to consider though:
+Proper names like Henry, China; acronyms like NATO, UN.
+Emphasis like I can't *believe* they *eat* that.
+The miniscules are generally more readable but you could
+use small caps instead, to minimize learning effort.
+
+Reducing the unneeded letters is also a very good idea.
+Q W X Y should disappear. Also, H J Z are candidates.
+Any reform of Glosa should carefully consider Frater:
+http://www.smart.net/~bartlett/frater2.html
+
+>      B : bilabial stop, voiced
+>      D : dental or alveolar stop, voiced
+>      F : labio-dental or bilabial fricative, unvoiced
+>      G : velar stop, voiced
+>      J : linguo-alveolar fricative, voiced (sibilant)
+>      K : velar stop, unvoiced
+>      L : linguo-alveolar lateral
+>      M : bilabial nasal, voiced
+>      N : dental or alveolar nasal, voiced
+>      P : bilabial stop, unvoiced
+>      R : linguo-palatal retroflex glide or trill
+>      S : linguo-alveolar fricative, unvoiced (sibilant)
+>      T : dental or alveolar stop, unvoiced
+
+For a global IAL, *much* thought should be given to
+ease of pronunciation. The easiest of all is Tunu:
+http://members.aol.com/manishtusu/tunu.html
+
+Consider that French/Spanish/Portuguese/etc never
+will pronounce an H. Orientals will mix L with R.
+Right now without thinking, say "Rosa says so" ...
+you said 2 Z's and 2 S's. The choice is to make just
+another european greco-latin mix, or a global IAL.
+
+A reasonable phonology *can* please the vast majority.
+To see just how common the various consonants are:
+http://www.srv.net/~ram/phonology.html
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] gobbledigook hunt 4a
+From: Sydpidd{at}aol{dot}com
+Date: Tue, 15 May 2001 13:43:07 EDT
+
+--part1_64.e136874.2832c4ab_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+is there any curious formatting info mixed up in this mail?
+thanks for any reply
+syd
+
+--part1_64.e136874.2832c4ab_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2>is there any curious formatting info mixed up in this mail?
+<BR>thanks for any reply
+<BR>syd</FONT></HTML>
+
+
+--part1_64.e136874.2832c4ab_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_64.e136874.2832c4ab_boundary--
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] gobbledigook hunt 4a
+From: Jay Bowks <jjbowks{at}adam{dot}cheshire{dot}net>
+Date: Tue, 15 May 2001 17:29:50 -0400
+
+Curiosity is also in the eye of the beholder.
+If your email reader can't do HTML it would
+likely show up as it does below...
+since,
+Jay B.
+
+Sydpidd{at}aol{dot}com ad Sydpidd{at}aol{dot}com ha scripte in 2001/05/15 1:43 PM:
+...
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+is there any curious formatting info mixed up in this mail?
+thanks for any reply
+syd
+
+part1_64.e136874.2832c4ab_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2>is there any curious
+formatting info mixed up in this mail?
+<BR>thanks for any reply
+<BR>syd</FONT></HTML>
+
+
+part1_64.e136874.2832c4ab_boundary
+Content-Type: text/plain; charset=
+
+-
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_64.e136874.2832c4ab_boundary--
+
+
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] gobbledigook hunt 4a
+From: Sydpidd{at}aol{dot}com
+Date: Wed, 16 May 2001 14:54:20 EDT
+
+--part1_6c.ab08750.283426dc_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+thanks jay - the odd bits of gubbins seem ok
+syd
+I suspect that the gobble........ happens when I do a reply like this
+
+--part1_6c.ab08750.283426dc_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2>thanks jay - the odd bits of gubbins seem ok
+<BR>syd
+<BR>I suspect that the gobble........ happens when I do a reply like this</FONT></HTML>
+
+
+--part1_6c.ab08750.283426dc_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_6c.ab08750.283426dc_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] The English syntax and the Glosa one
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Sun, 20 May 2001 00:16:27 +1000
+
+At 15:59 30/04/2001 +0400, Alexander grafo:
+
+>Saluta, karo plu Glosa-pe
+
+>Mi nufu grafo in u English-Glosa mixa; ka mi ne pote grafo "linguistical
+
+>terms" in na lingua.
+
+>Mi pa lekto u boni libro de English gramatika, e mi pa trovi u skema de
+
+>"English syntax".
+
+>Mi pa kompara id kon u Glosa "word order" de "18 steps".
+
+>English    Glosa
+
+>SUBJECT    SUBJECT
+
+>VERB    VERB
+
+>INDIRECT OBJECT   DIRECT OBJECT
+
+>DIRECT OBJECT    INDIRECT OBJEKT
+
+>PREPOSITIONAL OBJECT
+
+>
+
+>So, vi pote vide; in Glosa "indirect object" sempre habe"preposition", e
+
+>"indirect object" de Glosa es u "prepositional object" de English-lingua.
+
+>
+
+>Saluta,
+
+>Alexander.
+
+>
+
+*Plu Amika,
+
+   Ci Alexander ski u semani de an plu verbi, sed mi nece vide plu exempla de plu-ci abstrakti termi, pre mi pa logi u situa.
+
+
+   Per skope plu pagina de u _Collins Cobuild English Grammar_ mi nu logi qod Alexander dice.
+
+
+EG
+
+  Tom pa don a Jon tri dolari te merca an sito.
+
+ (Tom did give to Jon three dollar in order to buy his food]
+
+  Tom   gave     Jon  three dollars     to buy     his food.
+
+           
+
+          no-direkti  direkti objekti   pre-positi minor verbi grega   
+
+            objekti  
+
+
+   So, per elipsi, u pre-positi de u England-lingua No-direkti Objekti gene ge-lose.
+
+
+   E koncerne u relatio positi de plu bi objekti, mi skope un alterno seqe es pluso posi in plu bi lingua.
+
+
+EG
+
+  Tom pa don tri dolari a Jon so an pote merca an sito.
+
+ (Tom did give three dollar to Jon so he can buy his food]
+
+  Tom   gave  three dollars to Jon (with which) to buy his food.
+
+
+U-ci sekunda forma dona ma dificili tem uti bi intra Glosa e England linga.  Pluso, pro boni expresi, mi pa este u nece de uti plu alterna verbi intra bi un England-lingua e u Glosa versio.
+
+
+  Posi, il es u generali regula, iso Alexander sugere, sed mi vo vide ma exempla pre forma u decide.
+
+
+Saluta,
+
+
+Robin Gaskell
+
+
+
+<underline>MAILING LIST:  ( EZMLM )  Send blank e-mails to:-
+
+         To: glosalist-subscribe{at}lists{dot}zeta{dot}org{dot}au  
+
+      -OR-   glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+
+ -For INFO-  glosalist-info{at}lists{dot}zeta{dot}org{dot}au
+
+WEBPAGE:  www.zeta.org.au/~rgaskell  [in English and Spanish]
+
+          www.tu-harburg.de/~smms1406/glosa.htm  [in German]
+
+ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
+
+BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
+
+CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au  
+
+       (A$10 each, incl post; to Glosalist Subscribers - free)
+
+AUTHOR: Wendy Ashby  P.O. Box 18, Richmond Surry TW9 1WD, U.K. 
+
+</underline><underline>   "Plu Glosa Nota", Dictionaries, "18 Steps to Fluency in
+Euro-Glosa" (</underline>All payments to the charity, Glosa Education
+Organisation)
+
+<underline>                </underline>
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: [glosalist] dictionary update
+From: "Marcel Springer" <m.springer{at}nikocity{dot}de>
+Date: Sat, 19 May 2001 21:45:04 +0200
+
+The dictionary files on my website have been uploaded again, after I 
+finished comparing the data with the book "Glosa 6000".  I made about 
+500 additions, corrections or small changes.  The files are now in a 
+new directory www.glosa.org/gid . 
+
+"grandina  hall" is corrected to "hail" now, 
+"kontende  smuggle" to "struggle", 
+"larix  latch" to "larch", 
+"pauperi  peer" to "poor", 
+"tentakuli  testicle" to "tentacle". 
+
+Saluta - Marcel 
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] dictionary update
+From: Charles <charles{at}catty{dot}com>
+Date: Sat, 19 May 2001 14:04:40 -0700
+
+Marcel Springer wrote:
+
+> The dictionary files on my website have been uploaded again
+
+Cool! Now I'm looking through this page:
+http://www.glosa.org/gid/gwds.htm
+
+: All you have to do to form your own MegaGlosa
+: is to be able to recognize a Latin and Greek root.
+: Most of the common ones will be listed in Glosa 1000,
+: the others will be in Glosa 6000.
+
+:        Prefix - root - suffix.
+:   Eg.  SUPER     FLU     OUS
+:
+: Remember Glosa has no parts of speech;
+: and any Glosa word can act as any part of speech.
+: Because the suffix is usually concerned with
+: this kind of information, whether the word is verb,
+: noun, adjective or adverb it is usually superfluous
+: for Glosa and can be removed. 
+
+OK, so all the Latin super-productives are *in*,
+officially: RE-FLU-x, Ef-FLU-ent, IN-FLU-ence, etc.
+
+Moreover, all "classical" roots are included. Wow!
+The authors were more liberal than I ever dreamed.
+
+: If the Prefix is one with a distinct meaning
+: i. e. one of the 35 listed in PGN 36
+: this must be retained as it contributes to meaning,
+: to information. So generalizing; 
+:
+:    Word minus suffix = Prefix + root.
+:
+: the word you want. In the above example the root is FLU,
+: to flow, SUPER over; therefore SUPERFLU, overflow. In a way
+: forming a Mega Glosa Vocabulary involves 'tail-chopping'. 
+
+So all my arguing way-back-when was "superflu" because
+Glosa already accepted these things. We are still left
+with the minor but annoying problem of final vowels:
+
+: Many verbs of Latin origin end in -ate. All you have to do
+: here is knock off the -te. confiscate becomes KONFISKA. 
+
+: Some words ending -age are of French origin.
+: These can be kept giving MESAGE, FOLIAGE. 
+
+What I learn from this is that the authors don't care
+much about the final vowels, they just aren't important;
+any d**ned thing is good enough.
+
+There are collisions between e.g. Latin BAL=dance and
+Greek BAL=throw, but life is too short to worry about it;
+natural languages all have homonyms but don't fail to work.
+
+On that basis, half the reforms I thought necessary
+for Glosa to work as an IAL, are already done.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] glosa, english, russian etc grammar
+From: "Alexander E. Kirpichev" <brickswall{at}mtu-net.ru>
+Date: Sun, 20 May 2001 11:55:04 +0400
+
+Saluta!
+
+>it seems to me that most if not all of the major languages have the 4
+parts,
+>subject NP, verb P, object P and indirect O.  some of these may not be used
+>i.e. subject NP, VP " they went" the NP I've called the O/IO may be
+>substituted by something else such as an adjectP "they sang beautifully".
+Is
+>this true?  answers from the most erudite of you will be welcome.
+This is really difficult question, and I'm not the most erudite:)
+But I think we cannot use in Glosa postverb adjective in order to make
+pseudo-adverb.
+We must use preverb adjective for this reason: I cannot say in Glosa: Mi ski
+id boni. for "I know it goodly" (It seems to be not-correct in English too),
+but Mi boni ski id is much better variant. They sang beautifully = mu pa
+beli soni, isn't it?
+> Where things get difficult is how the parts are marked, suffixes word
+order
+>etc, are there any variations?
+In Russian the parts marked by suffixes and endings, in English by the place
+in sentence and by suffixes and endings, in Glosa by the place in sentence.
+
+Alex.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] dictionary update
+From: Sydpidd{at}aol{dot}com
+Date: Sun, 20 May 2001 15:01:00 EDT
+
+--part1_8c.6d97058.28396e6c_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+charles said:-
+<We are still left
+<with the minor but annoying problem of final vowels
+I have put together a dictionary from Marcel's, my copy of G1000 and G6000, 
+it has then been pruned down to  about 5500. I have gone through it and 
+sorted out the final vowels by making them echo the one before the final 
+consonant except where the same pre-final-vowel is duplicated where I have 
+left the vowel as is. Q and X have been replaced by ku and ks. Other odds and 
+ends have happened too......
+I shall be unavailable for a couple of weeks, part of it in Scotland to mull 
+things over (pun was not intentional but I like it)., Shall have a good look 
+at the grammar in the latest PGN.
+Shall try to put it all  with the no caps bit and IPA etc when I get back. I 
+shall also update my PC and hopefully the gobbledigook might disappear
+syd
+
+--part1_8c.6d97058.28396e6c_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2>charles said:-
+<BR>&lt;We are still left
+<BR>&lt;with the minor but annoying problem of final vowels
+<BR>I have put together a dictionary from Marcel's, my copy of G1000 and G6000, 
+<BR>it has then been pruned down to &nbsp;about 5500. I have gone through it and 
+<BR>sorted out the final vowels by making them echo the one before the final 
+<BR>consonant except where the same pre-final-vowel is duplicated where I have 
+<BR>left the vowel as is. Q and X have been replaced by ku and ks. Other odds and 
+<BR>ends have happened too......
+<BR>I shall be unavailable for a couple of weeks, part of it in Scotland to mull 
+<BR>things over (pun was not intentional but I like it)., Shall have a good look 
+<BR>at the grammar in the latest PGN.
+<BR>Shall try to put it all &nbsp;with the no caps bit and IPA etc when I get back. I 
+<BR>shall also update my PC and hopefully the gobbledigook might disappear
+<BR>syd</FONT></HTML>
+
+
+--part1_8c.6d97058.28396e6c_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_8c.6d97058.28396e6c_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] glosa, english, russian etc grammar
+From: Charles <charles{at}catty{dot}com>
+Date: Sun, 20 May 2001 16:02:36 -0700
+
+
+Syd wrote:
+
+> > i.e. subject NP, VP " they went" the NP I've called the O/IO may be
+> > substituted by something else such as an adjectP "they sang beautifully".
+
+Alexander E. Kirpichev wrote:
+
+> But I think we cannot use in Glosa postverb adjective in order to make pseudo-adverb.
+> We must use preverb adjective for this reason: I cannot say in Glosa: Mi ski
+> id boni. for "I know it goodly" (It seems to be not-correct in English too),
+> but Mi boni ski id is much better variant. They sang beautifully = mu pa
+> beli soni, isn't it?
+
+> In Russian the parts marked by suffixes and endings, in English by the place
+> in sentence and by suffixes and endings, in Glosa by the place in sentence.
+
+The obsolete English grammars use the term "adverb" for some
+very different purposes. I think we must distinguish at least 2:
+
+1st "adverb", as an adjective modifier: "a VERY big mistake".
+2nd "adverb", as a sentence modifier: "she walked SLOWLY".
+
+>From the glosaref I only found one example, showing that
+the authors followed the English pattern as usual:
+
+:: They spoke at the same moment = My pa dice iso-kron.
+
+But "auxiliaries" (fu, pa, etc) precede the verb.
+This us the usual pattern in most languages, i.e.
+aux on one side of the verb, manner-adverbs on the other.
+
+To disambiguate manner adverbs from objects, add prepositions:
+"slowly = in a slow way = at slow speed = with slowness".
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] Vocabulary builder
+From: William W Patterson <ailanto{at}neosplice{dot}com>
+Date: Wed, 23 May 2001 21:23:51 -0400
+
+
+Saluta, glosalista!
+
+I wrote a simple multiple-choice vocabulary builder in JavaScript. I've
+tested it with with Opera 3.62 and 5.10, IE 5.0, and Netscape 4.75... It
+was "fun" getting it to work in all the browsers at hand, even though it
+doesn't do anything out of the (what I'd consider) ordinary!
+
+It's at these locations...
+   http://www.neosplice.com/~ailanto/exercise/index.htm
+   http://www.comtime.com/~ailanto/exercise/index.htm
+
+It is based on files from Marcel's GID and has both English and German
+versions. If it works okay in your browser, go ahead and download
+the zipfile, and then you can run it offline if you wish. I bundled
+everything together, sources and all... you can delete everything but
+the *.htm files and it will still work, that's all you need. (The
+rest of the files are the sources used by the makefile to rebuild the
+webpages when I make corrections.)
+
+- Salata, Bill
+
+
+
+
+-- 
+William W. Patterson                   http://www.comtime.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com           http://www.neosplice.com/~ailanto
+
+Celebrating Life With Shonen Knife!
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: [glosalist] Hungarian information
+From: "Marcel Springer" <m.springer{at}nikocity{dot}de>
+Date: Mon, 28 May 2001 23:21:06 +0200
+
+Perhaps you remember my mail of 01-05-01 about Ilona Kutas 
+Martinovits, a Hungarian woman, who wrote a short story and 
+tries to collect translations of it in all possible languages 
+( www.mek.iif.hu/porta/szint/human/szepirod/modern/martinov , 
+5.3 MB in PDF-format). 
+
+I sent some corrections to her concerning her German version and got 
+in exchange for it a translation of an information text about Glosa. 
+I am very happy about it.  Perhaps you feel like having a look at it. 
+I find it interesting, because Hungarian is very different to the 
+other European languages.  
+
+  www.glosa.org 
+  www.glosa.org/brevi/index.html 
+  www.glosa.org/brevi/magyar.htm 
+
+Needless to say, that she would be happy about any help for her 
+book, corrections or new translations.  Her address is 
+tenger{at}eszeg{dot}sulinet{dot}hu . 
+
+Saluta - Marcel 
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+

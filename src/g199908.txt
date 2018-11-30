@@ -1,0 +1,788 @@
+
+
+From: Robin Gaskell
+Subject: Re: iGLOS
+To: GLOSALIST
+Cc:
+Date: Sun, 01 Aug 99 04:34:26 EDT
+
+At 01:45 28/06/98 -0400, Jay Bowks wrote:
+>http://adam.cheshire.net/~jjbowks/iglos/iglos.html
+>
+>IGLOS - The International Glossary
+>
+>This "International Glossary" is a project in construction. It is offered as
+>is and with the hope that any users might volunteer corrections to its
+>entries. Yes, there may quite a few needed corrections and this is where
+>making the file available may benefit all using it through constant
+>revisions and updates. The latest revision is dated 1999.07.26 - This
+>revision includes added English / Interlingua terms and meanings, plus
+>incorporates simple translations into French, German, Italian, Portuguese
+>and Spanish.
+>The file is almost 700k in zipped up form. When uncompressed it is over 2
+>megabytes.
+>Any help or suggestions are gladly received.
+>
+*   Jay, I fear that its very size is one of its major drawbaks: some will
+have ISPs that do not allow the passage of such large files, and others
+will not have sufficient space inside their computers to accommodate it.
+    Were I to suggest adding Glosa to the repertoire, this would only tend
+to compound the size problem.
+    However, If I have time I would like to see how your selection for the
+IGLOS has worked out.
+
+Saluta,
+  Robin G.
+P.S. Have you an extract showing only English and IGLOS?
+
+
+From: Paul O Bartlett
+Subject: Seeking New Host for Glosa WWW Pages
+To: GLOSALIST
+Date: Sun, 01 Aug 99 06:2
+
+Robin,
+
+    I moved the Glosa world wide web pages off of GeoCities because of
+their new policy after having been taken over by Yahoo! and the issues
+of copyright.  As an interim measure I moved them to my own service
+provider.  However, I have only a finite amount of disk space before I
+have to pay a surcharge.  Also, as you are aware, I am no longer an
+active supporter of Glosa.  If you know of someone who would be willing
+to take the pages over intact, I would prefer to relinquish them and
+reclaim the disk space for personal use.
+
+--
+Regards,
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Mi Plu Amika,
+  Paul has been very helpful in the past with Glosa, but now he is moving
+on.
+  He set up an excellent site for Glosa webpages, and these are well known.
+  Now he wishes to off-load this info from his system, so I am seeking
+another, who would take these pages on.
+  If you might be interested, please visit Paul's site to see what yoou
+could be gaining.  Knowing Paul's attiitudes, I imagine that he feels the
+complete site should be transferred, IN ITS ENTIRITY, to another location.
+Of course, it can be upgraded and personalised to suit the temperament of a
+new owner.
+
+  Paul's reference to copyright laws is not a real worry.  There is nothing
+that the Glosa authors would object to.  The only item they have banned
+from the Internet is the Glosa 6000 dictionary, and I send this per
+computer disk to Glosalist subscribers, on request.
+
+  If yoou are interested, please send me a message abouut it.  I have told
+Paul I will treat the request as uurgent.
+
+Saluta,
+   Robin
+
+
+From: JJB
+Subject: Re: iGLOS
+To: GLOSALIST
+Date: Sun, 01 Aug 99 06:5
+
+Saluta Robin,
+The file is 700k in zipped form.
+2Mb. in extracted form
+will give you English, Interlingua,
+French, German, Spanish,
+Italian and Portuguese...
+
+it is by no means a finished product
+by which I mean some terms
+need to be added... the full project
+also includes the Esperanto
+terms up till letter F, the Volapuk
+terms up to M and Latino sine
+Flexione pretty much completed...
+I'm also including Ekspreso
+terms and considering Novial and
+or Interlingue/Occidental.
+Glosa would be a great addition!
+The longer the file gets the
+more unwieldly (sp?) it becomes,
+though. What are the copyright
+restrictions on making lists
+available for Glosa words???
+
+I can appreciate how the size
+may hinder some from using
+the iGLOS. I can always truncate
+a special request list...
+it is very easy to extract...
+an English / Interlingua section
+could become its own glossary
+easily. This will cut down on
+the size considerably. If you wish...
+I can make one available.
+at the site... just give me a couple
+of days. :-)
+
+Also a possibility is cutting the
+glossary into alphabetical sections
+thus the pieces would be smaller
+and more manageable. But a
+great advantage of having it all
+as a big file is being able to
+surf around in it hunting from
+term to term and at your whim
+jumping from one letter section to
+another noticing the similarities
+and derivations in vocabulary.
+It's research value is what I'm
+really interested in. However
+there is some housekeeping
+still needed and the file will keep
+improving with use.
+
+So, give me a couple of days and
+I'll try to post a smaller version... or
+even versions... if there is interest
+like one natural language and an
+IAL selections. etc...
+
+Since,
+Jay B.
+http://adam.cheshire.net/~jjbowks/iglos/
+
+
+-----Original Message-----
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+To: glosalist{at}zeta{dot}org{dot}au <glosalist{at}zeta{dot}org{dot}au>
+Date: Sunday, 01 August, 1999 6:03 AM
+Subject: Re: iGLOS
+
+
+>At 01:45 28/06/98 -0400, Jay Bowks wrote:
+>>http://adam.cheshire.net/~jjbowks/iglos/iglos.html
+>>
+>>IGLOS - The International Glossary
+>>
+>>This "International Glossary" is a project in construction. It is offered
+as
+>>is and with the hope that any users might volunteer corrections to its
+>>entries. Yes, there may quite a few needed corrections and this is where
+>>making the file available may benefit all using it through constant
+>>revisions and updates. The latest revision is dated 1999.07.26 - This
+>>revision includes added English / Interlingua terms and meanings, plus
+>>incorporates simple translations into French, German, Italian, Portuguese
+>>and Spanish.
+>>The file is almost 700k in zipped up form. When uncompressed it is over 2
+>>megabytes.
+>>Any help or suggestions are gladly received.
+>>
+>*   Jay, I fear that its very size is one of its major drawbaks: some will
+>have ISPs that do not allow the passage of such large files, and others
+>will not have sufficient space inside their computers to accommodate it.
+>    Were I to suggest adding Glosa to the repertoire, this would only tend
+>to compound the size problem.
+>    However, If I have time I would like to see how your selection for the
+>IGLOS has worked out.
+>
+>Saluta,
+>  Robin G.
+>P.S. Have you an extract showing only English and IGLOS?
+>
+>
+>
+
+
+From: JJB
+Subject: Re: Seeking New Host for Glosa WWW Pages
+To: GLOSALIST
+Date: Sun, 01 Aug 99 07:0
+
+Saluta,
+I have found two providers of free space to
+be very accomodating... one is Intercosmos.com
+and the other is Webjump.com . I like the set up
+with Intercosmos better because you can easily
+view pages as you've sent them without annoying
+blinking banners... the only ads are a pop up window
+a la Geocities. With Webjump you have to have the
+ability of seeing frames... which of course show ad
+banners.
+
+Try out intercosmos.com... If you wish I could arrange
+an account there... and give access to change to
+whoever will be maintaining the pages.
+
+Since,
+Jay B
+
+-----Original Message-----
+From: Paul O Bartlett (by way of Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>)
+<bartlett{at}smart{dot}net>
+To: glosalist{at}zeta{dot}org{dot}au <glosalist{at}zeta{dot}org{dot}au>
+Date: Sunday, 01 August, 1999 6:03 AM
+Subject: Seeking New Host for Glosa WWW Pages
+
+
+>Robin,
+>
+>    I moved the Glosa world wide web pages off of GeoCities because of
+>their new policy after having been taken over by Yahoo! and the issues
+>of copyright.  As an interim measure I moved them to my own service
+>provider.  However, I have only a finite amount of disk space before I
+>have to pay a surcharge.  Also, as you are aware, I am no longer an
+>active supporter of Glosa.  If you know of someone who would be willing
+>to take the pages over intact, I would prefer to relinquish them and
+>reclaim the disk space for personal use.
+>
+>--
+>Regards,
+>Paul                                  <bartlett{at}smart{dot}net>
+>..........................................................
+>Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+>Keyserver (0xF383C8F9) or WWW for PGP public key
+>Home Page:  http://www.smart.net/~bartlett
+>
+> %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+>Mi Plu Amika,
+>  Paul has been very helpful in the past with Glosa, but now he is moving
+>on.
+>  He set up an excellent site for Glosa webpages, and these are well known.
+>  Now he wishes to off-load this info from his system, so I am seeking
+>another, who would take these pages on.
+>  If you might be interested, please visit Paul's site to see what yoou
+>could be gaining.  Knowing Paul's attiitudes, I imagine that he feels the
+>complete site should be transferred, IN ITS ENTIRITY, to another location.
+>Of course, it can be upgraded and personalised to suit the temperament of a
+>new owner.
+>
+>  Paul's reference to copyright laws is not a real worry.  There is nothing
+>that the Glosa authors would object to.  The only item they have banned
+>from the Internet is the Glosa 6000 dictionary, and I send this per
+>computer disk to Glosalist subscribers, on request.
+>
+>  If yoou are interested, please send me a message abouut it.  I have told
+>Paul I will treat the request as uurgent.
+>
+>Saluta,
+>   Robin
+>
+
+
+From: John Schilke
+Subject: Re: Seeking New Host for Glosa WWW Pages
+To: JJB
+Cc: GLOSALIST
+Date: Mon, 02 Aug 99 12:1
+
+On Sun, 1 Aug 1999, JJB wrote:
+> I have found two providers of free space to
+> be very accomodating... one is Intercosmos.com
+> and the other is Webjump.com . I like the set up
+> with Intercosmos better because you can easily
+> view pages as you've sent them without annoying
+> blinking banners... the only ads are a pop up window
+> a la Geocities. With Webjump you have to have the
+> ability of seeing frames... which of course show ad
+> banners.
+
+   I for one am unable to see frames (though that MAY change in
+future), so I'd encourgage you to go with Intercosmos.  Thank you very
+much for undertaking this.
+   John
+
+
+From: JJB
+Subject: New Sites (Re: Seeking New Host for Glosa WWW Pages
+To: GLOSALIST
+Date: Thu, 02 Jul 98 20:4
+
+There are now two URL's to access Paul O. Bartlett's
+Glosa pages as a backup of his site...
+http://glosa.intercosmos.com/
+and
+http://glosa2000.intercosmos.com/
+There are also two email addresses
+where you may send mail regarding
+these sites...
+glosa{at}intercosmos{dot}com
+and
+glosa2000{at}email{dot}com
+Take a look at the pages, please,
+and if you have material you wish
+to add just send me a note personally
+or to the glosa list...
+my home email address is :
+jjbowks{at}cheshire{dot}net
+
+Since,
+Jay B.
+
+-----Original Message-----
+To: glosalist{at}zeta{dot}org{dot}au <glosalist{at}zeta{dot}org{dot}au>
+Subject: Re: Seeking New Host for Glosa WWW Pages
+
+
+>On Sun, 1 Aug 1999, JJB wrote:
+>> I have found two providers of free space to
+>> be very accomodating... one is Intercosmos.com
+>> and the other is Webjump.com . I like the set up
+>> with Intercosmos better because you can easily
+>> view pages as you've sent them without annoying
+>> blinking banners... the only ads are a pop up window
+>> a la Geocities. With Webjump you have to have the
+>> ability of seeing frames... which of course show ad
+>> banners.
+
+
+
+From: Robin Gaskell
+Subject: Gresi Intra u Parka
+To: GLOSALIST
+Date: Wed, 04 Aug 99 02:4
+
+Boni Di, Plu Amika,
+   Ci mi dice de u familia; qi pa ki a mu lokali parka.  Qod es plu faktu
+de mu visita, durante u-la partikulari di?
+
+               GRESI INTRA U PARKA
+   Mo di de u previo blasto-tem, u Donner familia de Sydney, Australia, pa
+ki in u fresko matina aero de u matina, te gresi intra mu lokali parka; qi
+habe loka tri-su-tet kilometra ex mu domi.
+
+   Nece, Wagger, u familia animala, pa kursi ko mu.  Holo tri de plu Donner
+infanti pa vesti-auto te ki in u via; qi habe frigo ko un aero de u
+meno-nona noktu.  Harry Donner ergo iso un auto-utor   publiko-pe, e habe
+an proprio tipo-boteka, lo an tipo plu bibli.
+Durante u tali di-tri matina, an sio usuali ki ad an tipo-lo, sed u-la di
+pa es u publika libe-tem; so, sine an penta ge-utor-pe, Harry pa decide de
+klude an boteka, e de akti plu-ra ko an familia.
+
+   Mme Donner, Karen, pa gresi in plu via peri fe domi, singu matina de un
+anua; so fe volu don u beneficia de fe, fo sani-dona, aktivi a hol de fe
+familia.  Mu pa fago u pre-kron prima-vora, e pa vesti-auto anti u krista
+sola: tosto, seqe komence mu gresi, holo mu, excepta Mme Donner, pa habe
+plu rubi buka.  Lena habe mo-six anua; e plu gemini-an, Bill e Bob, pa habe
+mo-bi anua.  Plu juve-pe pa fero tri bola te bali ad aleli, tem mu es to u
+parka.
+
+ Plu Qestio:-
+  1. Qe, durante qod saison, e qod anua, plu Donner pa ki ad u parka?
+  2. Si M. Donner habe plu regulari grada ko mo metra inter an pedi; qe, ex
+domi a parka, an pa gresi proxi qod numera de grada?
+  3. Wagger pa habe six apendici ad an soma; mo to singu extremi, e tetra
+infra an.  Qe, dona plu nima de holo plu-ci apendici?
+  4. Deskribe un aero e u gra, tem mu pa komence mu gresi; e, pluso,
+deskribe un efekti de plu-ci epi plu facia de u familia.
+  5. Qe, de plu penta familia membra, qod es mu nima, e positi in u
+familia.  Qe, plu ju-an habe solo mo nati-anua: qo-ka?
+  6. Deskribe u mode de M. Donner gresi.
+
+  7. Qe, tu posi habe tu-auto qestio de u-ci histori; e posi alo de u mode
+de id gene ge-dice alo de u dona de plu qestio?
+
+Mi spe audi ex vi.
+
+Saluta,
+  Robin
+
+
+From: Robin Gaskell
+Subject: Re: New Sites (Re: Seeking New Host for Glosa WWW Pages
+To: GLOSALIST
+Date: Thu, 05 Aug 99 12:1
+
+At 20:42 2/07/98 -0400, Jay Bowks wrote:
+>There are now two URL's to access Paul O. Bartlett's
+>Glosa pages as a backup of his site...
+>http://glosa.intercosmos.com/ and http://glosa2000.intercosmos.com/
+>There are also two email addresses where you may send mail regarding
+>these sites... glosa{at}intercosmos{dot}com and glosa2000{at}email{dot}com
+>Take a look at the pages, please, and if you have material you wish
+>to add just send me a note personally or to the glosa list...
+>my home email address is : jjbowks{at}cheshire{dot}net
+>
+>Since,
+>Jay B.
+>
+*   Thank you, Jay, for this.  Yes I will check them out to-morrow morning,
+6th Aug.
+    Two questions on your e-post:
+  . was your message on a half-width column for a reason?
+  . though your e-address is  jjbowks{at}cheshire{dot}net  when do you use the
+@adam.cheshhire.net  form in your "Return Address"?
+
+    I take it that it is now safe to tell Paul Bartlett that he can clear
+his Website of the Glosa pages; perhaps you have already done this.
+Saluta,
+  Robin
+P.S. I will add one, or both,  intercosmos  URLs to my signature after I
+check them out.   R.
+
+
+>-----Original Message-----
+>To: glosalist{at}zeta{dot}org{dot}au <glosalist{at}zeta{dot}org{dot}au>
+>Subject: Re: Seeking New Host for Glosa WWW Pages
+>
+>
+>>On Sun, 1 Aug 1999, JJB wrote:
+>>> I have found two providers of free space to
+>>> be very accomodating... one is Intercosmos.com
+>>> and the other is Webjump.com . I like the set up
+>>> with Intercosmos better because you can easily
+>>> view pages as you've sent them without annoying
+>>> blinking banners... the only ads are a pop up window
+>>> a la Geocities. With Webjump you have to have the
+>>> ability of seeing frames... which of course show ad
+>>> banners.
+>
+>
+ ------------------------------------------------------------
+MAILING LIST:  To: majordomo{at}zeta{dot}org{dot}au
+               subscribe glosalist   -OR-   unsubscribe glosalist
+WEBPAGE:  www.zeta.org.au/~rgaskell
+ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
+BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
+CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au
+       (A$10 each, incl post; to Glosalist Subscribers - free)
+
+
+From: Luis Alberto Alegrett Ruiz
+Subject: From Daniel Alegrett: Disk received
+To: GLOSALIST
+Cc: Robin Gaskell
+Date: Fri, 06 Aug 99 13:3
+
+Ave!
+
+Robin, I received the disk today.
+
+I have not been able to take part in Glosalist because: 1) the
+hostilities with the Esperantists got pretty ugly and that has consumed
+much of my time and energy (I am somewhat exhausted), and 2) I am
+currently without phone service (My mum owes an awful lot of money to
+the company) since three weeks ago. I have been barely able to follow
+what has been happening in the list using my dad's laptop (that's why
+the sender appears as "Luis Alberto Alegrett") from other phones. The
+first reason is the one I most hate, since the time the Esperantists
+make me waste I could have used to study Glosa.
+
+I can't see the disk's content today. My PC's monitor burnt and it's
+being fixed. The laptop's diskette unit doesn't work and its keyboard is
+malfuctioning (I had to connect an external keyboard). Well, it seems
+that the Esperantists gave me the evil eye, and I'm jinxed. (I am sort
+of afraid of seeing the diskette since with my current luck I could see
+the last of the virus that struck you...); but as for the leaflet, I'll
+translate into Spanish almost inmediatly, and I'll try to pick some
+strenght to translate it into Glosa as an exercise, as you said.
+
+In the warning about not translating "Glosa has no grammar", you also
+mean the whole paragraph about G. Bernard Shaw? You're quite right about
+the "Glosa has no..." statement, it has to be handled with care. Not as
+much as maybe discouraging, but as it could be used ditorted by the
+fanatic Esperantists of the UEA as something against Glosa. They take
+ridiculous pride in their "16 rules", although most of them have nothing
+to do with grammar. But since their propaganda is so strong...
+
+But I suppose that "Glosa has no grammar in the popular understandig of
+the term..., etc." is actually good, and is to be translated?
+
+This is the leaflet I suppose I will include in a Spanish Glosa website.
+I have been using Tripod for my pages (formerly the Venezuelan
+Esperantist website), and it gives me 11 Mb. But if you know of
+something better and with bigger capacity (just hoping for a better
+future!), please tell me.
+
+As for a question about Glosa... in the "Glosa Basic Reference" I found
+in Robin's website, in the Glosa terms for "with" appear "sin" and "ko",
+and I don't understand it well. Could anybody show me with examples
+their use and how Glosa handles the different uses of "with" in English?
+Also "homo" and "iso"confuse me a little. A willing (although currently
+a little depressed) beginner shall thank you.
+
+Plu amiko saluta,
+
+Daniel.
+
+P. S.: My dad will travel to England (Liverpool mostly, but maybe also
+London) in a few days. Does anyone know what he can get me there that is
+Glosa-related? In the leaflet the "18 steps to fluency in Euro-Glosa" is
+mentioned and I am interested. Does anyone knows how he (my father) can
+get it, and if there's something else?
+
+
+
+From: Robin Gaskell
+Subject: Re: From Daniel Alegrett: Disk received*
+To: GLOSALIST
+Date: Thu, 12 Aug 99 02:3
+
+At 13:35 6/08/99 -0400, Daniel Alegrett wrote:
+>Ave!
+>Robin, I received the disk today.
+>I have not been able to take part in Glosalist because:   .....
+Daniel,
+   Ne turba tu-auto.  Vita es brevi: na ne pote akti holo-ra; na vo akti.
+   Akorda: tu finali konklude habe veri; akti qod tu-auto vo akti, ne qod
+plu hetero-pe demanda tu te akti.
+
+>    1) the
+>hostilities with the Esperantists got pretty ugly and that has consumed
+>much of my time and energy (I am somewhat exhausted),
+*   U kripto de uti plu Posta Lista es de lekto solo plu mesage; qi dona
+profit a tu.   Plu Esperanto-pe habe mu-auto problema: mu este ke mu nece
+dona logika pro u sistema; qi habe plura dificili.
+    Mi ski ke mu sistema veri funktio, anti-co, mi habe un este id es u
+'xeno lingua' [foreign l.].  Plu disputa koncerne Esperanto habe nuli
+importa pro tu .. si tu skope u situa ex un evolutio aspekto.  Vide:
+Esperanto 1883; Inter-glossa 1943; Glosa 1981.
+
+>   and 2) I am
+>currently without phone service
+*   Uti u tem pro mani-grafo de Glosa.  Grafo ko u stilo habe ma natura
+este, e, posi, sio dona ma flu a tu stilo [N.B. U sekunda uti de ~stilo~ es
+u meta-fero uti.]
+
+>  ....  I have been barely able to follow
+>what has been happening in the list using my dad's laptop  .....
+*   Simpli lekto solo plu fo gravi mesage.
+
+
+>   the time the Esperantists
+>make me waste I could have used to study Glosa.
+>
+*   Nuli so.  Tu sipa tu-auto tem, per ^kade in u trapa^ de argu ko plu
+Esperanto-pe.  Tu ne es u viktimi de u diskursi: tu debi sio responde a plu
+e-posta, solo tem id habe gru pro tu.  [~debi sio~ = should, ought]
+
+>I can't see the disk's content today.   .....
+>My PC's monitor burnt and it's being fixed.
+>The laptop's diskette unit doesn't work
+>and its keyboard is malfuctioning.
+*   Fo turba, sed solo u fali de teknologi!  U persona nece habe ma signifi
+de an plu makina.  Plu-ci makina es la te don a na ma eficie: sed, kron na
+teknologi fali, na nece uti na plu homi abili, sine auxi.
+
+>it seems that the Esperantists gave me the evil eye, and I'm jinxed.
+*   Place kogita de plu-ci persona iso habe boni tende, sed iso falsi
+ge-direkto.  Posi, mi habe ero, e Esperanto fu es un IAL.  Sed na habe nuli
+gaino, ex duce holo mu aserti koncerne mu lingua.
+    Si Glosa habe ali fortuna de gene ge-selekti iso un IAL, u pusi grega
+de Glosa-pe nece uti mu energi pro u developo de u-ci recento ge-krea lingua.
+    Plu ma paleo ge-plana lingua habe poli persona pro mu disemina.  Sed,
+ka na pusi numera, plu persona; qi promoti Glosa ne debi sio gene ge-duce
+ex mu ergo ko Glosa.
+
+>   (I am sort
+>of afraid of seeing the diskette since with my current luck I could see
+>the last of the virus that struck you...)
+*   Mi memo skope u-ci diska anti plu virus.  Tu plu fortuna fu muta - te
+gene ma boni - kron tu habe un abili de vide plu kontenta de u-ci diska.
+
+>  ..... as for the leaflet, I'll
+>translate into Spanish almost inmediatly, and I'll try to pick some
+>strength to translate it into Glosa as an exercise, as you said.
+>
+*   Bi aktivi es de mega valu.  Tu fu gene mega sko de u lingua per traduce
+plu-ci pagina in Glosa.  Alterno-co, u produce de un Espana-lingua versio
+de u-ci papira sio dona ma profito ad u lingua.
+
+>In the warning about not translating "Glosa has no grammar", you also
+>mean the whole paragraph about G. Bernard Shaw? You're quite right about
+>the "Glosa has no..." statement, it has to be handled with care.
+*   So, uti tu plu abili te grafo ke Glosa habe nuli morfo gramatika
+[morphological .. word changes], sed gene id gramatika ex un ordina de id
+plu verbi.  Dice de G.B.S., sed adi mo verbi in u deskribe: "... complete
+elimination of MORPHOLOGICAL grammar and inflections" alo muta u frasa, iso
+" ... elimination of any word changes needed to achieve grammar."
+
+>  ......   it could be used distorted by the
+>fanatic Esperantists of the UEA as something against Glosa.
+*   Pluso, ali Lingua-stude-pe fo voka objekti anti plu-ci verbi, e anti
+u lingua; qi mu deskribe.
+
+>   They take
+>ridiculous pride in their "16 rules", although most of them have nothing
+>to do with grammar. But since their propaganda is so strong...
+>
+*   Sed uno-pe ne debi sio kogita, de plu lingua, uti plu negativi idea.
+U mega ma boni mode de kogita es de vide holo na 'Lingua Re-forma-pe'
+iso ergo epi mo problema, sed veni ad id ex plu difere gono.
+
+>But I suppose that "Glosa has no grammar in the popular understandig of
+>the term..., etc." is actually good, and is to be translated?
+>
+*   Place akti so.  Pluso, tu pote uti u verbi-grega; qi mi pa krea,
+~sintaxi ge-basi gramatika~ [Syntax-based Grammar].
+
+>This is the leaflet I suppose I will include in a Spanish Glosa website.
+>I have been using Tripod for my pages (formerly the Venezuelan
+>Esperantist website), and it gives me 11 Mb. But if you know of
+>something better and with bigger capacity (just hoping for a better
+>future!), please tell me.
+>
+*   Si _Tripod_ fu don, a tu, permite te uti mu loka, place akti so.  11 Mb
+de spacia fu dona sufici pro tu komence.  Mi ski de nuli internatio Reti
+loka, so sugesti ke tu uti qod es a mani, tem u presenta.
+    Kron na vide 10 Mb gene ple, na fu nece detekti u hetero Reti-loka pro
+un Espana-lingua sektio de Glosa Reti promoti.
+
+>As for a question about Glosa... in the "Glosa Basic Reference" I found
+>in Robin's website, in the Glosa terms for "with" appear "sin" and "ko",
+>and I don't understand it well. Could anybody show me with examples
+>their use and how Glosa handles the different uses of "with" in English?
+*   ~ko~ es u ge-prefere forma, e ~sin~ es u simi-nima [synonym].  ~sin~ nu
+es Paleo Glosa, e pote es ge-uti in poeta; sed, pro holo hetero uti,  ~ko~
+es u verbi de uti. EG  Fe fu ki ko mi, ad u koreo.
+
+>Also "homo" and "iso"confuse me a little. A willing (although currently
+>a little depressed) beginner shall thank you.
+>
+*   Brevi: plu-ci verbi es ~homo~ = "like", e ~iso~ = "as".
+EG Nu-di meteo es homo aestiva.       An pa kurso iso u ge-trauma feli.
+ [to-day's weather is like summer]     [he ran like a frightened cat]
+
+   Mi vo habe uno sito homo u-la.     An fu habe sito iso fe.
+ [I want to have some food like that]   [he will have food like hers]
+
+   An braki habe kapila homo u kani velo.  Id peti iso un avi.
+ [his arm has hair like a dog's fur]       [it flew like a bird]
+                                    |
+        pro simi itema      <------ | ------>  pro tanto eqa itema
+
+>P. S.: My dad will travel to England (Liverpool mostly, but maybe also
+>London) in a few days. Does anyone know what he can get me there that is
+>Glosa-related? In the leaflet the "18 steps to fluency in Euro-Glosa" is
+>mentioned and I am interested. Does anyone knows how he (my father) can
+>get it, and if there's something else?
+*   Plu autori-pe habita Richmond; qi habe loka to u sud de London.
+    !!! Sed mu pa plana moti eko. !!!  < Mi nece grafo a mu, nu-di.>
+
+    Alterno, ki ad u Reti-loka intra mi signi.
+
+Saluta,
+  Robin
+ ------------------------------------------------------------
+MAILING LIST:  To: majordomo{at}zeta{dot}org{dot}au
+               subscribe glosalist   -OR-   unsubscribe glosalist
+WEBPAGE:  www.zeta.org.au/~rgaskell
+ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
+BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
+CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au
+       (A$10 each, incl post; to Glosalist Subscribers - free)
+
+
+From: Paul O Bartlett
+Subject: Saluta
+To: Glosalist
+Date: Mon, 16 Aug 99 20:5
+
+Qe u-ci posta pe-fa residua vive?  Posi mi kolekti posta pusi tem.
+
+--
+Paul                                  <bartlett{at}smart{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Keyserver (0xF383C8F9) or WWW for PGP public key
+Home Page:  http://www.smart.net/~bartlett
+
+
+From: Robin Gaskell
+Subject: Re: Saluta
+To: GLOSALIST
+Date: Sun, 22 Aug 99 20:4
+
+At 20:53 16/08/99 -0400, Paul Bartlett wrote:
+>Qe u-ci posta pe-fa residua vive?  Posi mi kolekti posta pusi tem.
+>
+>--
+>Paul                                  <bartlett{at}smart{dot}net>
+>
+*   Ja Paul: id a-nu habe vita.  E mi valu tu re-veni ad u-ci Lista.
+
+    Mo kausa de mi no-akti es u virus; qi pa tena mi plu fila koncerne u
+Glosa 2.5K verbi lista.
+    Uno di, tosto - mi spe - mi fu re-komence u-ci ergo.
+
+    Sed pro nu, ci es mo de mi brevi kontribu ad u Lista:
+
+    Tem mi sed intra u treno - ergo iso u treno alexi-pe - mi pote grafo
+plu tali exercisa.  Place traduce in England-lingua:-
+
+  1. Juli habe u fo interese ergo: fe kolekti plu produce-ra ex plu
+arti-pe, e vendo mu inra fe boteka.
+
+  2. Id pa es u termo, pulvi-venti di epi an agri-lo; sed Brett pa ski plu
+ovis sio tosto dona mu lana a plu sekti-pe; qi sio apo id to u lana-do.
+
+  3. Plu vagona pa okupi holo u via, e il es pusi moti .. vice u bati de
+plu digita epi mu duce-rota, ex plu age-pe.  Ron pa qestio auto:
+qu-ka, holo plu vagona epi u via?
+
+  4. Mara pa loka plu disko, pro u plaka, epi u tabla; e, fe pluso loka plu
+bibe-vasa e u bibe-ma epi u tabla: fe plu juve-pe fuu tosto ki-retro ex mu
+sko-do, e Mara vo es parato pro mu.
+
+  5. Pre mu ariva to mu meso-termo domi, u tri juve-pe; qi pra es ge-lose
+in plu dendra, anti mu pa detekti u via, pa habe plus bi horo de gresi.
+Ko-co, mu habe ta fago-vo, e u venti habe ta frige, mu pa habe turba de
+gene la.
+
+ ***Place, poste ergo dia plu-ci exercisa, grafo mo alo ma de tu auto frasa
+pro plu hetero membra de u Lista.
+
+Saluta,
+
+  Robin Gaskell
+
+
+
+ ------------------------------------------------------------
+MAILING LIST:  To: majordomo{at}zeta{dot}org{dot}au
+               subscribe glosalist   -OR-   unsubscribe glosalist
+WEBPAGE:  www.zeta.org.au/~rgaskell
+ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
+BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
+CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au
+       (A$10 each, incl post; to Glosalist Subscribers - free)
+
+
+From: Daniel Alberto Alegrett Salazar
+Subject: Plu exercise, e traduce a u Hispano-lingua
+To: 'Glosa List'
+Cc: 'Vagancia, La'; 'Venezuelo en la reto'
+Date: Thu, 26 Aug 99 11:4
+
+   Ave!
+
+   Mi mite a u Glosa-fa ko u-ci grama, plu traduce exercise, qi Robin pa dice a mi.
+
+   Mi nece aprende boni Glosa. Vi fu dice a mi, si mi pa boni traduce in Glosa.
+
+   Mi pluso mite a vi, u traduce-ra in Hispano-lingua. Robin alo vi pote inklude id in se reti-lo, in ali reti-lo si vi volu akti so, alo in neo reti-lo.
+
+   Plu amiko saluta,
+
+   Daniel.
+   Caracas.
+
+U solutio
+
+   Id es tem pro komplementa plu pan-munda elektroni exploita, pluso ko lingua kompli. U Munda Lingua es lingua, qi panto-pe, u skience-pe alo u Munda Tri artisana, pote uti e logi pro pan-speci de inter-natio komunika.
+
+   Id nece es facili, ampli e pluso flexuoso, qo pote adapta se e es abili, pro responde omni petitio de u Moderni Munda in Skience, Teknologi, Sporta, Religio, e Komercia.
+
+Plu Latino e Greko lingua radika
+
+   U amonta de plu Latino e Greko lingua radika in plu vokabulari de plu omni principali Euro lingua (klu Ruso lingua), es grosi, e id rapidi du ge auge. [How is it "Professor"?] (?)Eduka-pe Hogben pa dice: "U pan-munda skience vokabulari es u maxi proxi ra ad u vokabulari de u vera Globi Lingua, qi Homi ankora pa gene kompli. Id deriva se plu verbi ex bi morta lingua: Latino e Greko."
+
+   Simeon Potter, Eduka-pe de England-lingua, akorda: "Na nu pote vide, en u-ci du kresce skience vokabulari, u vaticina de u krase inter-natio lingua."
+
+   So, plu-ci Greko e Latino radika habe u potentia pro kompli, qo ne-dubita ankora fu es se maxi gravi participa: supli u vokabulari pro u Munda Lingua.
+
+   U-ci es traduce de "Euro-Glosa" in Hispano-lingua.
+[[ GLOSA~1.HTM : 3878 in WINMAIL.DAT ]][Dice a mi, si vi ne pote lekto id boni.]
+

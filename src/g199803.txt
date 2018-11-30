@@ -1,0 +1,2229 @@
+
+
+From: Robin Gaskell
+Subject: Sentence Construction
+To: GLOSALIST
+Cc: 
+Date: Sun, 02 Nov 97 18:02:49 EST  
+
+Hi friends,
+	I hope to see more attempts at using Glosa, but wish to get this list
+running because it serves its subscribers.
+
+	Hence, I write this message in English, to encourage English language
+responses.  Please send in questions about Glosa ... writing in English.  I
+will of course give English language translations of any Glosa that I use
+on this list.
+
+To Recap.
+
+Glosa uses the unadorned Roman script.
+Its vocab. is from Greek and Latin roots.
+The pronunciation is with Italian vowels and generalised European
+consonants (one letter has one sounding).
+The sentence construction uses the logical pattern of English (phrases
+are "head final" with the main concept word after the modifiers).
+
+Why did the dog cross the road?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+U kanis transiti u via.		[The dog crosses the road.]
+
+U bruno kanis pa transiti u lati via. [The brown dog crossed the wide 
+  .........................................  street.]
+U mega bruno kanis pa transiti u fo lati via.  [The very large brown
+...................................  dog crossed the very wide road.]
+
+Tem u mega bruno kanis pa-du transiti u fo lati via, u celero rubi vagona
+pa pasa id.
+  	[While the large brown dog was crossing the very wide road, a fast red
+car passed it.]
+
+Qe, u celero rubi vagona pa pasa u mega bruno kanis tem id pa du transiti u
+via?
+	[Did the fast red car pass the large brown dog while it was crossing the
+road?]
+
+Tri mega bruno kanis, ko mu pusi ju-fe proprio-pe, pa du transiti u lati
+via tem mu tanto pa gene ge morta ex u celero-moti rubi sporta vagona.
+
+	[Three large brown dogs, with their small girl owner, were crossing the
+wide street when they almost got killed by a fast-moving
+red sports car.]
+
+Exercise: Why did the man sail his boat?
+......... ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Un andra ago u navi.	[The man sails the boat.]
+
+Make up sentences to fill out the story; you might use some of the following:-
+
+pisci : fish .... plu undu : the waves .....venti : wind .. tele : far
+
+hidra : water ..... kapti : capture ..... mari : sea ..... nekto : swim
+
+kosta : coast ... arena : sand .... gina : wife (woman) ... 
+
+verdi : green ... vora : eat ... tempestu : storm ... nebula : cloud
+
+Did she enjoy the fish, or .......... ?
+
+Happy writing.
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  [You can add your email
+address after the 'subscribe' message, but this is optional; Majordomo
+reads your email address automatically.]
+	To: majordomo{at}zeta{dot}org{dot}au
+	subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Re: Sentence Construction
+To: GLOSALIST
+Date: Sun, 15 Mar 98 21:5
+
+On Sun, 2 Nov 1997, Robin Gaskell wrote:
+
+> Hi friends,
+> 	I hope to see more attempts at using Glosa, but wish to get this list
+> running because it serves its subscribers.
+> 
+> 	Hence, I write this message in English, to encourage English language
+> responses.
+> [remainder omitted]
+
+    One remark one sometimes (often?) reads about Glosa is that it is
+just relexified English -- merely English with funny words substituted
+almost one-for-one.  In which case, why learn Glosa?  Why not just
+learn English?  Although the charge of relexification may not be
+strictly true in absolutely every instance, many of the samples of
+Glosa that I have seen seem to give some credence to the charge.
+
+    One example of this is overuse of tense and mood markers in Glosa
+to ape English usage.  If tense or mood is clear, then why mark it?  If
+a clause indicates past time, why redundantly mark it in every clause
+if the time reference does not change?  If Glosa is merely English
+with other words substituted, then what value does it have when with a
+little more effort, somebody could have the "real thing"?  Are there
+any users of Glosa who do *NOT* know English (not necessarily on this
+list)?  If so, how do they use markers?
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: William W Patterson
+Subject: Dictionaries
+To: GLOSALIST
+Date: Thu, 19 Mar 98 02:2
+
+Ick. I need some sleep. But before I do that, I just wanted to
+point you all to my Glosa page. I've added some dictionaries.
+
+Let me know if you have any trouble with the ftp links. I linked
+just as I've always done, but my browser doesn't seem to want to
+download them. But then, I've upgraded (ha!) since the last time
+I tried downloading something I uploaded.
+
+The password is [not here anymore because this file is now public].
+
+- Salata! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+vi vi vi - The Editor Of The Beast
+
+
+From: ailanto
+Subject: Re: Dictionaries
+To: GLOSALIST
+Date: Sat, 21 Mar 98 02:3
+
+Thu, 19 Mar 98 02:23:16 EST, William W Patterson skribe:
+
+> Ick. I need some sleep. But before I do that, I just wanted to
+> point you all to my Glosa page. I've added some dictionaries.
+
+plus an pa skribe:
+
+> The password is [not here anymore because this file is now public].
+
+And I added another dictionary tonight. But the two English-Glosa
+dictionaries won't be complete until all the preferred synonyms
+are selected.
+
+   http://www.neosplice.com/~ailanto/glosa.htm
+   http://www.neosplice.com/~ailanto/synonyms.htm
+
+Help! Take a look at the remaining synonyms and share your preferences!
+
+Actually, there will still be some work to do on the dictionaries.
+But anyway we'll have the preferred words nailed down. I've written
+some procedures to automagically generate the three dictionaries from
+a single sourcefile, and all ready for doublesided printing too! So it
+will be a simple matter for me to update them as we go along.
+
+- Salata! - Ciano
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+May your caffeine sources always be fresh.
+
+From: William W Patterson
+Subject: Re: Dictionaries
+To: GLOSALIST
+Date: Sat, 21 Mar 98 02:3
+
+Thu, 19 Mar 98 02:23:16 EST, William W Patterson skribe:
+
+> Ick. I need some sleep. But before I do that, I just wanted to
+> point you all to my Glosa page. I've added some dictionaries.
+
+plus an pa skribe:
+
+> The password is [not here anymore because this file is now public].
+
+And I added another dictionary tonight. But the two English-Glosa
+dictionaries won't be complete until all the preferred synonyms
+are selected.
+
+   http://www.neosplice.com/~ailanto/glosa.htm
+   http://www.neosplice.com/~ailanto/synonyms.htm
+
+Help! Take a look at the remaining synonyms and share your preferences!
+
+Actually, there will still be some work to do on the dictionaries.
+But anyway we'll have the preferred words nailed down. I've written
+some procedures to automagically generate the three dictionaries from
+a single sourcefile, and all ready for doublesided printing too! So it
+will be a simple matter for me to update them as we go along.
+
+- Salata! - Ciano
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+May your caffeine sources always be fresh.
+
+
+From: Robin Gaskell
+Subject: What is Good Syntax?
+To: GLOSALIST
+Date: Fri, 07 Nov 97 18:5
+
+Saluta a vi de u Glosalist.
+
+	In English again, sorry.
+
+	What is good syntax?  Is this question important in English and/or Glosa?
+
+	Do speakers of English automatically know what is good syntax - by virtue
+of having learnt English?  Or is the use of syntax something that is
+hard-wired into our brains anyway, and, if so, does this mean that the
+syntax we use is, by definition, automatically good?
+
+	It has been stated that Glosa has no morphological grammar (no
+part-of-speech markers, verb inflections or noun mood markers), and this
+has been oversimplified by the Glosa authors to saying Glosa has "no
+grammar," which, to the linguistically educated, is like waving a red rag
+to a bull.
+	It has been stated, by me, that Glosa has "syntax-based" grammar. But is
+there truth in this?  To the literate speaker of a national language, Glosa
+could really appear to have no grammar; and, for those who wish to begin
+writing Glosa, there is sometimes trouble in knowing where to start. 
+
+	So, the question remains: if Glosa is a real language, and there fore has
+a grammar, where does this grammar reside?
+	If, as the authors say, it is in the ordering of the words, then is it
+possible for people to use Glosa with either good or bad grammar?
+Is Glosa with bad grammar Glosa that has bad syntax; and, obversely,is
+Glosa with good grammar Glosa that has good syntax?
+
+	The question is circular.  But, please ponder the concept of syntax.
+Because, if syntax cannot be pondered upon, Glosa is lost.
+
+	The Chinese learn a language with no morphological grammar (characters,
+like words in Glosa, do not change for reasons of grammar).
+They pick up the tricks of the trade by learning classical Chinese poetry
+by rote, and in their brains, the whole syntactical system kicks into gear.
+
+	Perhaps Glosa could be taught similarly, but I feel that adults can't just
+soak up the Glosa word order system simply by reading "Plu Glosa Nota."
+	Children can learn Glosa by reading Children's stories in Glosa, but
+adults are past that stage in their neural development, and most adults
+need to approach language-learning from a rule-based direction.
+
+	And, to get back to the original question: is there such a thing as good
+syntax; and, if there is such a thing, can it be defined in relation to
+Glosa; and, if so, can it be identified and taught to adult learners?
+
+	Please let us hear your ideas on this.  It is certainly no use for me to
+go on, and on, about the syntax of Glosa if this is seen as a hollow
+concept by those who might learn and use the language.
+
+	What does the panel think!?  Are there any questions?
+
+Saluta,
+ Robin
+	P.S. Of course I have opinions on the matter, but will add the next
+chapter after reading your responses to this one.
+
+
+From: Robin Gaskell
+Subject: Re: Sentence Construction
+To: GLOSALIST
+Date: Sun, 09 Nov 97 08:4
+
+Saluta a mi plu amika de u Glosalist.
+
+	Writing quickly in English, I wish to answer some of Paul Bartlett's
+criticisms, and ask for suggestions.
+
+At 09:51 PM 3/15/98 -0500, Paul O. Bartlett grafo:
+>On Sun, 2 Nov 1997, Robin Gaskell wrote:
+>
+>> Hi friends,
+>> 	I hope to see more attempts at using Glosa,  [remainder omitted]
+>
+>    One remark one sometimes (often?) reads about Glosa is that it is
+>just relexified English -- merely English with funny words substituted
+>almost one-for-one.  In which case, why learn Glosa?  Why not just
+>learn English?  Although the charge of relexification may not be
+>strictly true in absolutely every instance, many of the samples of
+>Glosa that I have seen seem to give some credence to the charge.
+>
+ . Good syntax in English is good syntax ... why not use it in Glosa?
+ . There is a lot of bad English about: Glosa does not ape these errors.
+ As I have tried to say, before: well-written Glosa translates, almost
+word for word, into English, but we can't say the reverse of this is     true.
+ . There is legal, correct English with all the "I's" dotted and "T's"
+crossed.  Then there is the highly "elided" back-fence variety (with many
+function words missing). 
+	x The Glosa authors have, on occasion, pointed to a more 'vernacular' form
+of Glosa - describing it as "telegramatic."
+	x Paul feels that punctilious use of tense particles, for instance, makes
+the language stodgey and unnecessarily wordy, so that omitting them, when
+the time implied is fully understood, would give a more rational form.
+	x I have erred on the school-book side of the balance ... knowing that it
+is very much easier for learners to drop (elide) assumable function words,
+than it is to learn to use them later, when their presence becomes
+necessary.  I feel that having learners start with the abbreviated form of
+Glosa puts them at a disadvantage, later.
+
+	This theory about learning the full or abbreviated form of a language can
+be bourne out through psychological and educational reasoning, but this
+does not prove it is true.  The pattern I see as working best involves the
+teaching of full grammar first, then having students gradually drop the
+redundant words as they gain a feel for the language.
+
+	Paul corrected none of the examples I gave, so I will attempt an
+abbreviation, myself:-
+
+   I gave the sentence:
+Qe, u celero rubi vagona pa pasa u mega bruno kanis tem id pa du transiti u
+via?
+
+   It could have been:
+Qe, u celero rubi vagona pa pasa u mega bruno kanis tem id du transiti u via?
+
+   Does the second sentence still mean:
+	[Did the fast red car pass the large brown dog while it was crossing the
+road?]
+
+	Please comment.  Which would you feel more comfortable learning? Which
+feels more "natural" (with all the psychological loadings that that word
+carries)? 
+	Paul's answer is fairly clear:-
+>    One example of this is overuse of tense and mood markers in Glosa
+>to ape English usage.  If tense or mood is clear, then why mark it?  If
+>a clause indicates past time, why redundantly mark it in every clause
+>if the time reference does not change? 
+	____________________________________
+
+	Paul's other criticism is possibly more crucial.  
+
+>	[  ......  ]   If Glosa is merely English
+>with other words substituted, then what value does it have when with a
+>little more effort, somebody could have the "real thing"? 
+
+... and especially ... > Are there
+>any users of Glosa who do *NOT* know English (not necessarily on this
+>list)?  If so, how do they use markers?
+
+	How do the Glosa authors get feedback, about Glosa, from people who are
+not English-speakers?  Clark, Ashby and I all have English as our first
+Language (L1); I am not fluent in other national languages, but Clark and
+Ashby are.
+
+	Glosa dictionaries exist in German, French, Spanish, Swahili and Chinese,
+so there should be non-speakers -of-English with whom I can communicate in
+Glosa.
+
+	Paul also feels that Glosa info should be written out in other languages -
+to introduce the concept to people outside of the English-speaking
+community.  I agree, and if I knew how to publish them to their intended
+audience, would ask the Glosa authors to prepare such translations.
+
+	Please make your suggestions on how we might overcome the English-language
+barrier.
+
+Saluta,
+ Robin
+
+
+From: Robert J. Petry
+Subject: Re: Sentence Construction
+To: GLOSALIST
+Date: Sun, 22 Mar 98 01:3
+
+
+
+Robin Gaskell wrote:
+
+> Saluta a mi plu amika de u Glosalist.
+>
+>         [kut]
+> >    One remark one sometimes (often?) reads about Glosa is that it is
+> >just relexified English -- merely English with funny words substituted
+> >almost one-for-one.  In which case, why learn Glosa?  Why not just
+> >learn English?  Although the charge of relexification may not be
+> >strictly true in absolutely every instance, many of the samples of
+> >Glosa that I have seen seem to give some credence to the charge.
+> >
+
+I heard this constantly when I first began to put Speedwords on the web. It is only
+relexified English. My response was, a Spaniard, or a German would say the same thing.
+It is relexified Spanish, etc. And, in fact, it seems to me, from one perspective,
+Spanish is nothing but relexified English, that is, just substituting one word of
+Spanish for one word of English and or vice versa. So is German, French, Dutch,
+Japanese, Russian, etc. Although I may be looking at this too simplistically, I do not
+see this as an argument against Glosa or Speedwords. If we use Spanish as an example
+with a simple sentence, then what is the difference?
+
+Mi amigo es Miguel.
+My friend is Miguel.
+
+Looks like the same argument to me.
+
+However, what if we do this?
+Mi amigo es Miguel.
+Ji ar e Miguel.
+
+Well, based on Paul's argument, and others, why, Speedwords is nothing more than
+relexified Spanish, to the Spaniard, and relexified English to the English speaker.
+
+How about this?
+
+Miguel tiene el libro de mi.
+Miguel ha l bu d j.
+Miguel ha ji bu.
+Miguel has the book of me.
+Miguel has my book.
+Either version of Speedwords, or English, is understandable to the reader who knows
+them, and either way, the correct meaning is transferred, which is what an auxiliary
+language should do, or the learning of another natlang should do.One translation
+follows the Spanish "de mi" and the other follows the English equivalent "my book".
+
+All language, to me, seems to be one form or another of "relexification". And, right
+or wrong, I look at such an argument as a strawdog. It is a tool to help each
+individual bolster their reason not to learn a specific language. In reality, they
+prefer another one more than likely, and this is a way to add weight to the decision.
+In Paul's case this may not be true, but then again, I often make a final decision
+based on what someone else considers a non-argument.
+
+A friend of mine said one could not use Speedwords in this context. A Japanese could
+not write Speedwords as a shorthand system for Japanese and have a Russian who knew
+Speedwords understand it. So, I put together some sentences and asked the friend to
+translate them. He did, and so did some others. Their response was, it appeared
+different than what they expected Speedwords to do, but they did translate correctly
+and understood the translation. After the fact I told them I had used Speedwords to
+translate in Japanese word order, word for word. Point, it worked, Speedwords worked
+when it was not supposed to work. Although I did not have a Russian to work with, I
+did have an English speaker and a Portuguese speaker and a Chinese speaker, one of my
+T'ai Chi students.
+
+My point is this. From what I have seen of Glossa, although I am not fluent in it, or
+even a real beginner yet, I believe it will and does work just as well. Hogben wrote
+in his Interglosa book that linguists often did not know what actually worked for the
+rank and file, [my paraphrase from memory] but only what should work for the
+"educated" linguist not dealing with the real world of language speakers, i.e. the
+ordinary average barely educated person to the educated. So, it appears to me that
+these questions are interesting to speculate upon, but in reality have nothing to do
+with real world usage.
+I have studied Russian, Spanish, Koine Greek, Speedwords, some French, Japanese when
+living in Japan, a touch of Hebrew, and beginning, along with my daughter, to look
+into Chinese more indepth. Seems like they all could be a "strange" form of
+"relexified" English to me. Depends on how I would want to argue the case. Yet, the
+Russian, etc. would say I don't know what I'm talking about. Their language is not
+English.
+
+I would suspect it is more important to actually use the language Glosa, or whatever,
+versus argue why it won't work or is not needed because it is "relexified" whatever.
+Bumble bees can't fly according to the scientist, yet the Bumblebee doesn't seem to
+pay atterntion to what they say it can't do. So it is with Speedwords, and Glosa, from
+what I see at my level of experience and usage. All the things I heard Speedwords
+can't do, it does do, and I suspect the same is true of Glosa. The way to find out is
+to use it.
+
+Hope all is well with everyone on the list.
+
+Al l sue,
+Bob
+
+[kut]
+
+
+From: Paul O Bartlett
+Subject: Re: several messages
+To: GLOSALIST
+Date: Sun, 22 Mar 98 16:5
+
+    I will respond here to just a few excerpts from both of Robin's
+recent posts on Glosalist.  I do not take issue with everything.
+
+On Fri, 7 Nov 1997, Robin Gaskell wrote:
+
+> 	What is good syntax?  Is this question important in English and/or Glosa?
+
+    Can we even meaningfully speak of "good syntax" apart from any
+particular language?  I honestly do not know.  There may be Chomskyan
+types who believe in some sort of deep grammar which includes syntax. 
+However, I think it would be more practical to skip such high-blown
+talk and merely deal with Glosa on an immediate, practical level.
+
+>                            Or is the use of syntax something that is
+> hard-wired into our brains anyway, and, if so, does this mean that the
+> syntax we use is, by definition, automatically good?
+
+    See above.  I think we need to get practical.  I think Robin's
+one-time grammar statement was very useful, although I differed on a
+couple of details, as I recall.  I think something like this should be
+pursued, as long as Ashby&Clark don't try to pull a Schleyer on people.
+
+> has been oversimplified by the Glosa authors to saying Glosa has "no
+> grammar," which, to the linguistically educated, is like waving a red rag
+> to a bull.
+
+    Definitely.  Personally I think this was a blunder on the part of
+the principals.  Even to some of us who are not professional linguists
+or polyglots (or polymaths :-) ), it was/is a ridiculous statement.
+
+> 	So, the question remains: if Glosa is a real language, and there fore has
+> a grammar, where does this grammar reside?
+
+    If we come up with an effective propaedeutic, do we even need to
+answer this question?
+
+> 	The Chinese ...
+>      pick up the tricks of the trade by learning classical Chinese poetry
+> by rote, and in their brains, the whole syntactical system kicks into gear.
+
+    And here I had always assumed that Chinese children learned their
+native language from their elders, the way other children do. :-)  I did
+not learn English from the cradle by reciting Shakespeare and Milton.
+
+> 	Perhaps Glosa could be taught similarly, but I feel that adults can't just
+> soak up the Glosa word order system simply by reading "Plu Glosa Nota."
+
+    I haven't even seen a copy of "Plu Glosa Nota" in a couple of
+years.  However, this is precisely my objection to the "Mechanics of
+Glosa" approach.  It consists of paradigmatic sentences divorced from
+context.  Children do not learn their mother tongues from a grammar
+book.  But neither do they learn outside of an environment.  They learn
+with all sorts of verbal feedback and non-verbal cues from their
+elders.  This feedback is missing from the "Mechanics of Glosa."  That
+is why I disagree with the principals and think that a language
+description is crucial.
+
+> 	And, to get back to the original question: is there such a thing as good
+> syntax[?]
+
+   Personally I don't even think the question needs to be answered.
+ 
+
+On Sun, 9 Nov 1997, Robin Gaskell wrote:
+
+>  . Good syntax in English is good syntax ... why not use it in Glosa?
+
+    Fair enough.  But why English?  Why not the syntax of some other
+language?  I am not saying Glosa should _not_ use English syntax (more
+or less, because English does retain a few residual inflections which
+Glosa does not have).  I just think we need to make our assumptions
+clear.
+
+> 	x The Glosa authors have, on occasion, pointed to a more 'vernacular' form
+> of Glosa - describing it as "telegramatic."
+
+    Yes, but I think this is unwise on the whole.  It seems to mimic
+elliptical, colloquial English.  A Glosa-speaker who does not know
+English could be thrown off by this style.  As I understand it, the
+purpose of Glosa is to facilitate communication, not to baffle.
+
+> 	x Paul feels that punctilious use of tense particles, for instance, makes
+> the language stodgey and unnecessarily wordy, so that omitting them, when
+> the time implied is fully understood, would give a more rational form.
+
+    I am primarily saying that we should take into consideration various
+speech habits of non-Indo-European languages.  Do they have anything to
+teach us?
+
+> 	Paul corrected none of the examples I gave, so I will attempt an
+> abbreviation, myself:-
+
+    I was making a general observation without trying to bog down in
+specific examples.
+
+>    It could have been:
+> Qe, u celero rubi vagona pa pasa u mega bruno kanis tem id du transiti u via?
+
+    Actually, I think the sentence would be just as clear even without
+the 'du' in the second clause.
+
+> 	Please comment.  Which would you feel more comfortable learning? Which
+> feels more "natural" (with all the psychological loadings that that word
+> carries)? 
+
+    What "feels more 'natural'" may be so conditioned by our native
+speech habits that I think the concept is more or less meaningless.
+
+> 	Paul's answer is fairly clear:-
+> >[...]
+> >if the time reference does not change? 
+
+    This last clause is crucial.  It the time reference _does_ change,
+or if the aspect (which English marks confusingly) is critical, then by
+all means mark them.  In the example sentence, the time reference does
+not change and the aspect in the subordinate clause is not critical.
+
+> 	Please make your suggestions on how we might overcome the English-language
+> barrier.
+
+    This one I really don't know.  When Volapük and Esperanto were
+published, "modern" communications consisted of surface mail and the
+electric telegraph.  I don't even recall whether undersea cables had
+been laid yet (1887 for Esperanto).  And yet they went further, faster,
+than most recent auxiliary language projects.  I really don't know why.
+
+    What do I think Glosa really needs?
+
+1)  A language description intelligible to average people regarding
+usage.  It does not have to be in a format that would thrill a
+professional linguist: just make it practical and unambiguous.  (Robin,
+do you still have your proposed grammar statement you sent me a year or
+two ago?  I can't seem to find a copy.)
+
+2)  A SETTLED core vocabulary.  "Glosa 1000" does not exist in a
+settled form, as I have remarked many times before.  At the same time,
+I think that Glosa 6000 is overkill.  Lists such as Essential World
+English, the Longman Definig Dictionary (I think it's called), and the
+Universal Language Dictionary would seem to indicate that a base
+vocabulary of 1500 - 2000 *judiciously* selected words (apart from
+proper names and specialist terminology) would be adequate.  I honestly
+don't know how the current Glosa wordlists were selected.  But if we
+use too large a vocabulary, we partially cut the ground from under the
+attempt to make the language more or less easily learnable by adult
+users.
+
+3)  Dispersion.  And I admit that this one stumps me.  There is also
+the issue of not "dialectizing" Glosa between Internet and non-Internet
+users.  (A&C are not even part of this discussion, but they do hold
+copyrights.  I just hope they would not try to pull a Schleyer.)
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Artificial Languages Base Vocabulary
+To: Auxlang List; Eurolang List; glosalist
+Date: Sun, 22 Mar 98 18:2
+
+{cross posted}
+
+    For use by artificial language authors, I have combined the
+vocabularies of Basic English, Essential World English, and the Longman
+Defining Vocabulary into a single, alphabetized file.  The combined
+vocabulary consists (in English) of 9 prefixes, 41 suffixes, and 2717
+words (including a few phrases).  It is available by ftp at
+
+ftp://ftp.access.digex.net/pub/access/pobart/base.vocabulary
+
+I did the combining by use of computer utilities, so there may be a 
+few inconsistencies.  As always, you use at your own risk.  Because of
+format differences, it was not convenient to include Richard Harrison's
+Universal Language Dictionary.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: About the Combined Vocabulary
+To: glosalist
+Date: Sun, 22 Mar 98 19:1
+
+    A short time ago I cross posted to the Glosalist a reference to
+a combined vocabulary list drawn from several resources.  I was not
+implying that a basic Glosa vocabulary need to have all 2700+ words 
+of this combined list.  It just needs to be able to express things.  
+The combined list is just intended to be a starting resource.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Robin Gaskell
+Subject: Re: Dictionaries
+To: GLOSALIST
+Date: Sun, 09 Nov 97 11:3
+
+At 02:33 AM 3/21/98 EST, Bil Patterson pa adi:-
+>Thu, 19 Mar 98 02:23:16 EST, William W Patterson skribe:
+>
+>> Ick. I need some sleep. But before I do that, I just wanted to
+>> point you all to my Glosa page. I've added some dictionaries.
+>
+>plus an pa skribe:
+>
+>> The password is [not here anymore because this file is now public].
+>
+>And I added another dictionary tonight. But the two English-Glosa
+>dictionaries won't be complete until all the preferred synonyms
+>are selected.
+>
+>   http://www.neosplice.com/~ailanto/glosa.htm
+>   http://www.neosplice.com/~ailanto/synonyms.htm
+>
+>Help! Take a look at the remaining synonyms and share your preferences!
+>
+>Actually, there will still be some work to do on the dictionaries.
+>But anyway we'll have the preferred words nailed down. I've written
+>some procedures to automagically generate the three dictionaries from
+>a single sourcefile, and all ready for doublesided printing too! So it
+>will be a simple matter for me to update them as we go along.
+>
+>- Salata! - Ciano
+
+Boni ergo Bill,
+	Mi fu skope tu plu pagina po mi pago mi ISP ma valuta.  Mi konta es basi.
+	Ya, mi fu hedo dona mi opinio de plu residua; pro qi tu vo habe auxi.
+
+Maxi spera pro u-ci ergo,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  [You can add your email
+address after the 'subscribe' message, but this is optional; Majordomo
+reads your email address automatically.]
+	To: majordomo{at}zeta{dot}org{dot}au
+	subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: ailanto
+Subject: Re: Glosa Cassettes
+To: GLOSALIST
+Date: Tue, 24 Mar 98 19:4
+
+Wed, 12 Nov 97 18:10:53 EST, Robin Gaskell skribe:
+
+> [I write to you concerning the production of sound cassettes of spoken Glosa.
+> So far, this is only an idea.  But I wish to ask you about the types of
+> cassettes, which you would possibly listen to.]
+
+* Basic phrases, perhaps some conversations
+
+* Winnie the Pooh
+
+* Jack Kerouac, something from Desolation Angels or Lonesome Traveler
+
+* Tao Te Ching
+
+- Saluta - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+Eeeeuw!  You mean you actually TALK on the phone?
+
+From: William W Patterson
+Subject: Re: Glosa Cassettes
+To: GLOSALIST
+Date: Tue, 24 Mar 98 19:4
+
+Wed, 12 Nov 97 18:10:53 EST, Robin Gaskell skribe:
+
+> [I write to you concerning the production of sound cassettes of spoken Glosa.
+> So far, this is only an idea.  But I wish to ask you about the types of
+> cassettes, which you would possibly listen to.]
+
+* Basic phrases, perhaps some conversations
+
+* Winnie the Pooh
+
+* Jack Kerouac, something from Desolation Angels or Lonesome Traveler
+
+* Tao Te Ching
+
+- Saluta - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+Eeeeuw!  You mean you actually TALK on the phone?
+
+
+From: ailanto
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Thu, 26 Mar 98 01:0
+
+Sun, 22 Mar 98 18:29:56 EST, Paul O Bartlett skribe:
+
+>     For use by artificial language authors, I have combined the
+> vocabularies of Basic English, Essential World English, and the Longman
+> Defining Vocabulary into a single, alphabetized file.  The combined
+> vocabulary consists (in English) of 9 prefixes, 41 suffixes, and 2717
+> words (including a few phrases).
+
+Nicely done, Paul! I'm already using it in two ways:
+
+   To find out what words are missing in Glosa 6000.
+
+   To construct a Glosa Core Vocabulary, as you once suggested,
+   by removing words from the Basic Dictionary that aren't also
+   found in the Artificial Languages Base Vocabulary.
+
+I'm still calling the dictionaries the 6000 Series and the 1000 Series,
+though it looks like they're going to be closer to 7500 and 2500 words.
+Perhaps I'll just leave the names alone, have it be one of those "For
+Historical Reasons" kind of things. On the other hand, calling them
+Glosa 7000 and Glosa 2500 would distinguish them from the others. But
+first I'll wait until I can make a better estimate.
+
+A new page, also accessible from my main Glosa page, shows the words
+which are in the Artificial Languages Base Vocabulary but not in
+Glosa 6000...
+
+http://www.neosplice.com/~ailanto/omission.htm
+
+Also, the other two pages and the dictionary files have been updated.
+
+Has anybody had trouble downloading those selfextracting dictionary
+files? My browser doesn't seem to want to download executables via
+ftp. It downloads other binary files - just plain zipfiles for example.
+
+- Salata! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+With fronds like that, who need anemones?
+
+From: William W Patterson
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Thu, 26 Mar 98 01:0
+
+Sun, 22 Mar 98 18:29:56 EST, Paul O Bartlett skribe:
+
+>     For use by artificial language authors, I have combined the
+> vocabularies of Basic English, Essential World English, and the Longman
+> Defining Vocabulary into a single, alphabetized file.  The combined
+> vocabulary consists (in English) of 9 prefixes, 41 suffixes, and 2717
+> words (including a few phrases).
+
+Nicely done, Paul! I'm already using it in two ways:
+
+   To find out what words are missing in Glosa 6000.
+
+   To construct a Glosa Core Vocabulary, as you once suggested,
+   by removing words from the Basic Dictionary that aren't also
+   found in the Artificial Languages Base Vocabulary.
+
+I'm still calling the dictionaries the 6000 Series and the 1000 Series,
+though it looks like they're going to be closer to 7500 and 2500 words.
+Perhaps I'll just leave the names alone, have it be one of those "For
+Historical Reasons" kind of things. On the other hand, calling them
+Glosa 7000 and Glosa 2500 would distinguish them from the others. But
+first I'll wait until I can make a better estimate.
+
+A new page, also accessible from my main Glosa page, shows the words
+which are in the Artificial Languages Base Vocabulary but not in
+Glosa 6000...
+
+http://www.neosplice.com/~ailanto/omission.htm
+
+Also, the other two pages and the dictionary files have been updated.
+
+Has anybody had trouble downloading those selfextracting dictionary
+files? My browser doesn't seem to want to download executables via
+ftp. It downloads other binary files - just plain zipfiles for example.
+
+- Salata! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+With fronds like that, who need anemones?
+
+
+From: Robin Gaskell
+Subject: Re: Artificial Languages Base Vocabulary
+To: GLOSALIST
+Cc: AUXLANG
+Date: Mon, 03 Nov 97 13:4
+
+At 06:29 PM 3/22/98 -0500, Paul Bartlett wrote:
+>{cross posted}
+*	Me too.
+
+>    For use by artificial language authors, I have combined the
+>vocabularies of Basic English, Essential World English, and the Longman
+>Defining Vocabulary into a single, alphabetized file.  The combined
+>vocabulary consists (in English) of 9 prefixes, 41 suffixes, and 2717
+>words (including a few phrases).  It is available by ftp at
+>
+>ftp://ftp.access.digex.net/pub/access/pobart/base.vocabulary
+>
+*	Thank you Paul.  I must check this out to see if all of the 2000 odd
+words are in the 'Glosa 6000' list.
+
+	Possibly there could be a "Glosa 2000", ... or maybe " .. 3000" to come
+out of this.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  [You can add your email
+address after the 'subscribe' message, but this is optional; Majordomo
+reads your email address automatically.]
+	To: majordomo{at}zeta{dot}org{dot}au
+	subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Thu, 26 Mar 98 09:4
+
+On Thu, 26 Mar 1998, William W Patterson wrote:
+
+> Sun, 22 Mar 98 18:29:56 EST, Paul O Bartlett skribe:
+> 
+> >     For use by artificial language authors, I have combined the
+> > vocabularies [etc.]
+
+> Nicely done, Paul! I'm already using it in two ways: [etc.]
+
+    As Bill pointed out in a private email, there are a handful of
+errors.  When I posted the notice, I *did* say use as your own risk.
+:-)
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Re: Artificial Languages Base Vocabulary
+To: GLOSALIST
+Cc: AUXLANG
+Date: Thu, 26 Mar 98 09:5
+
+On Mon, 3 Nov 1997, Robin Gaskell wrote:
+
+> At 06:29 PM 3/22/98 -0500, Paul Bartlett wrote:
+> >{cross posted}
+> *	Me too.
+> 
+> >    For use by artificial language authors, I have combined the
+> >vocabularies of [etc.]
+
+> *	Thank you Paul.  I must check this out to see if all of the 2000 odd
+> words are in the 'Glosa 6000' list.
+> 
+> 	Possibly there could be a "Glosa 2000", ... or maybe " .. 3000" to come
+> out of this.
+
+    As I have mentioned in Glosa circles, I think that Glosa 6000 is
+overkill for Glosa's purposes but that "Glosa 1000" does not exist in 
+a consistent manner in Glosa Education Organization publications and
+may be inadequate.  I suspect that a roughly 2000-word vocabulary would
+be better.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Re: Artificial Languages Base Vocabulary
+To: Auxlang List; Eurolang List; glosalist
+Date: Thu, 26 Mar 98 10:1
+
+On Sun, 22 Mar 1998, Paul O Bartlett wrote:
+
+> {cross posted}
+> 
+>     For use by artificial language authors, I have combined the
+> vocabularies of Basic English, Essential World English, and the Longman
+> Defining Vocabulary into a single, alphabetized file.  The combined
+> vocabulary consists (in English) of 9 prefixes, 41 suffixes, and 2717
+> words (including a few phrases).  It is available by ftp at
+> 
+> ftp://ftp.access.digex.net/pub/access/pobart/base.vocabulary
+> [...]
+
+    Four days ago I posted the above notice.  Since then it has been
+pointed out to me that there appear to be a few errors in the file.  
+I have corrected some of the manifest errors.  However, the following
+words occur as such in one of the source files, and it is not
+immediately obvious in context what the intended words are, although
+some guessing may be in order:
+
+bup
+getween
+sib
+slef
+
+As before, you use this information "at your own risk."
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Robert J. Petry
+Subject: Re: Artificial Languages Base Vocabulary
+To: GLOSALIST
+Cc: Auxlang List; Eurolang List
+Date: Thu, 26 Mar 98 14:3
+
+
+
+Paul O Bartlett wrote:
+
+> On Sun, 22 Mar 1998, Paul O Bartlett wrote:
+>
+> > {cross posted}
+> >
+> >     For use by artificial language authors, I have combined the
+> > vocabularies of Basic English, Essential World English, and the Longman
+> > Defining Vocabulary into a single, alphabetized file.  The combined
+> > vocabulary consists (in English) of 9 prefixes, 41 suffixes, and 2717
+> > words (including a few phrases). [kut]
+
+Paul,Another thanks for the list. I have the EWE book, and Basic, but not the
+Longman Defining Vocab. What is the story with the Longman vocabulary?
+
+You have saved me some time as I was working on a similar project. However, I
+was also going to "adjust" the list you have done by comparing it with the
+Pitman 700, the Gregg 500, the Silverberg 422, and other "most frequently
+used word" studies.
+
+Speaking of Basic's vocabulary. There was a "minimised" list of the 850 words
+to a 600 word list. Finally found the list. Originally it was mentioned in a
+book on Basic's vocabulary but someone had torn the page out with the 600
+list. Turns out it was in another book by Ogden that I had just bought.
+"Opposition."
+
+I think it is a valid and important point to build IAL vocabularies on
+studies like the above. IMO vocabularies should be based on frequency of
+daily use, universally accepted words, words of similar spelling sound and
+meaning in multiple languages, etc. And, a small highly functional vocabulary
+that would expand through experience and actual usage.
+
+Anyway, thanks again for the list and effort to do it.
+
+Al l sue,
+Bob
+
+
+From: John Schilke
+Subject: Re: Glosa Cassettes
+To: William W Patterson
+Cc: GLOSALIST
+Date: Thu, 26 Mar 98 15:4
+
+Dear Bill,
+
+	I'd listen to all of these, but especially to the basic phrases.  
+BTW, are you aware of the rather good cassette that Ashby & Clark have 
+put out??  
+
+	Best wishes -- saluta ex
+		John
+
+
+On Tue, 24 Mar 1998, William W Patterson wrote:
+
+> Wed, 12 Nov 97 18:10:53 EST, Robin Gaskell skribe:
+> 
+> > [I write to you concerning the production of sound cassettes of spoken Glosa.
+> > So far, this is only an idea.  But I wish to ask you about the types of
+> > cassettes, which you would possibly listen to.]
+> 
+> * Basic phrases, perhaps some conversations
+> 
+> * Winnie the Pooh
+> 
+> * Jack Kerouac, something from Desolation Angels or Lonesome Traveler
+> 
+> * Tao Te Ching
+> 
+> - Saluta - Bill
+> 
+> --
+> William W. Patterson <ailanto{at}neosplice{dot}com>
+> http://www.neosplice.com/~ailanto
+> 
+> Eeeeuw!  You mean you actually TALK on the phone?
+> 
+> 
+
+
+From: John Schilke
+Subject: Re: Glosa Cassettes
+To: William W Patterson
+Cc: GLOSALIST
+Date: Thu, 26 Mar 98 15:4
+
+Dear Bill,
+
+	I'd listen to all of these, but especially to the basic phrases.  
+BTW, are you aware of the rather good cassette that Ashby & Clark have 
+put out??  
+
+	Best wishes -- saluta ex
+		John
+
+
+On Tue, 24 Mar 1998, William W Patterson wrote:
+
+> Wed, 12 Nov 97 18:10:53 EST, Robin Gaskell skribe:
+> 
+> > [I write to you concerning the production of sound cassettes of spoken Glosa.
+> > So far, this is only an idea.  But I wish to ask you about the types of
+> > cassettes, which you would possibly listen to.]
+> 
+> * Basic phrases, perhaps some conversations
+> 
+> * Winnie the Pooh
+> 
+> * Jack Kerouac, something from Desolation Angels or Lonesome Traveler
+> 
+> * Tao Te Ching
+> 
+> - Saluta - Bill
+> 
+> --
+> William W. Patterson <ailanto{at}neosplice{dot}com>
+> http://www.neosplice.com/~ailanto
+> 
+> Eeeeuw!  You mean you actually TALK on the phone?
+> 
+> 
+
+
+From: ailanto
+Subject: Re: Glosa Cassettes
+To: John Schilke
+Cc: GLOSALIST
+Date: Sat, 28 Mar 98 15:5
+
+Thu, 26 Mar 98 15:48:39 EST, John Schilke skribe:
+
+> Dear Bill,
+> 
+> 	I'd listen to all of these, but especially to the basic phrases.  
+> BTW, are you aware of the rather good cassette that Ashby & Clark have 
+> put out??  
+
+I know of its existence but somehow I've still not quite got
+around to ordering it, along with some of the other materials
+that I'd like to have. You mention one cassette; are there more?
+One thing I'd like to see, and which Robin may be providing, is
+a large number of cassettes, so that I can immerse myself in the
+sounds. 
+
+- Later - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+You can make the passages look less alike by dropping things.
+
+From: ailanto
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Sat, 28 Mar 98 19:3
+
+Thu, 26 Mar 98 01:03:58 EST, William W Patterson skribe:
+
+> I'm still calling the dictionaries the 6000 Series and the 1000 Series,
+> though it looks like they're going to be closer to 7500 and 2500 words.
+> Perhaps I'll just leave the names alone, have it be one of those "For
+> Historical Reasons" kind of things. On the other hand, calling them
+> Glosa 7000 and Glosa 2500 would distinguish them from the others. But
+> first I'll wait until I can make a better estimate.
+
+Hmmmm. I did a wordcount tonight, and was surprised to find that my
+current Glosa-English 6000 source file contains 5989 Glosa entries.
+Not bad! Some of those are compounds (lowering the count), and I'll
+be adding a few new ones (raising the count), so it will probably end
+up not too far from 6000 unique words.
+
+- Saluta! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+You can make the passages look less alike by dropping things.
+
+From: William W Patterson
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Sat, 28 Mar 98 19:3
+
+Thu, 26 Mar 98 01:03:58 EST, William W Patterson skribe:
+
+> I'm still calling the dictionaries the 6000 Series and the 1000 Series,
+> though it looks like they're going to be closer to 7500 and 2500 words.
+> Perhaps I'll just leave the names alone, have it be one of those "For
+> Historical Reasons" kind of things. On the other hand, calling them
+> Glosa 7000 and Glosa 2500 would distinguish them from the others. But
+> first I'll wait until I can make a better estimate.
+
+Hmmmm. I did a wordcount tonight, and was surprised to find that my
+current Glosa-English 6000 source file contains 5989 Glosa entries.
+Not bad! Some of those are compounds (lowering the count), and I'll
+be adding a few new ones (raising the count), so it will probably end
+up not too far from 6000 unique words.
+
+- Saluta! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+You can make the passages look less alike by dropping things.
+
+
+From: Robin Gaskell
+Subject: Re: glosa disk received
+To: Jay Bowks
+Cc: GLOSALIST
+Date: Wed, 05 Nov 97 15:3
+
+At 08:52 PM 3/26/98 -0500, you wrote:
+>Hi, Robin,
+>I received today the disk you sent with the 
+>Glosa6000 and text sample files... 
+>Neat stuff... I'm very thankful to be
+>able to read through them... and 
+>I might even be interested in joining
+>the Glosa list to read it in practice
+>if it is active... Would you send info
+>on how to join it? I'd very much 
+>appreciate it.
+>
+* To join the Glosalist:-
+	To: majordomo{at}zeta{dot}org{dot}au
+
+send the message
+	subscribe glosalist
+
+That is all you have to do.
+
+	But, since I am the list-owner, I can subscribe you directly, which I have
+done.  To get off the List, use the formula, above, but simply replace
+"subscribe" with "unsubscribe."
+
+	The hardest part of your post is the answer to the question, " ..... if
+it is active... "  Now, all I can say is that there is a critical mass that
+must be reached before a List starts moving with its own momentum.  The
+Glosalist has not reached this mass, yet, and will die, If I do not keep up
+a regular stream of contentious questions, examples of Glosa prose, and
+exercises.  Most of the subscribers are just shy, overloaded with other
+commitments, or simply passive members: with your e-mail address added, the
+list now comprises eleven people.
+
+>And I really appreciate your sending
+>me the disk with Glosa vocab. I'm
+>enjoying it a lot... like a kid with a new
+>toy!
+>
+>Thanks,
+>w/regards,
+>Jay B.
+>
+*	Since sending this, Bill Patterson has placed the list in his Webpages
+- ready for printing.  Also he has listed the 'synonyms' that he has not
+been able to decide upon, asking for a group-think on the matter. 
+
+	Bill has located the work in the two following locations:-
+   http://www.neosplice.com/~ailanto/glosa.htm
+   http://www.neosplice.com/~ailanto/synonyms.htm
+
+He has also used a password to get into  /glosa.htm  and this is 
+   [not here anymore because this file is now public]
+
+	Actually, the plot thickens: I had the "Glosa 1000" list and the "Glosa
+6000" list in two parts of the _Glosa 6000_ dictionary.  So, laboriously, I
+compiled a single, all-encompassing list by collapsing both lists together.
+
+	After that, I decided that it would be best if we had the related
+English-to-Glosa list equivalent to this newly compiled "Glosa 6000+" list.
+
+	So, I used Galaxy, my trusty ASCII word processor, and DOS's LIST.EXE to
+''reverse'' the list, so that
+	A(D) at,towards
+
+produced the obverse listings
+	at A(D)  and
+	towards A(D)
+
+So, as you can guess, with alternative English words and phrases the list
+grew.
+
+But what was not expected was the plethora of Classical synonyms that
+turned up for many English words.  I was led to believe that there might
+legitemately be 
+a Latin and a Greek word for one English word, EG
+	water AQA, HIDRA
+
+but some English words yielded five, six or seven 'synonyms.'  This created
+a  real problem for me in something that I had expected to be straightforward.
+
+	Our thinking was that there might be (at least) three levels of the _Glosa
+6000_ dictionary:-
+	. A _Learner's Dictionary_ in which only one Glosa word is given for each
+English Language word - no synonyms;
+	. A _Standard Dictionary_ in which a suitable single synonym would be
+given for commonly-used words, e.g. aqa and hidra for water.
+	. A _Literary Dictionary_ in which all possible alternative are listed,
+with probably one preferred usage and a likely synonym indicated, followed
+by the alternative possible forms.  Note: if there was a synonym in both
+Latin and Ancient Greek, that means an English-language word generates at
+least four Classical equivalents!
+
+	This might explain why it is a 'work in progress.'  Bill Patterson has
+been silent for a few months, while he worked on sorting out the good
+synonyms from the bad ones.  He has now asked for help with refiining the
+difficult cases.
+
+	I would like to see a _First Glosa Dictionary_ that did give one
+Classical word as the preferred Glosa usage, but which might, for some
+words, indicate a second Classical word as the synonym.  This would allow
+some literary freedom from the start, and avoid the need for making
+possibly unnecessary choices between two likely words ... allowing the
+second choice to be listed in the synonym position.  
+	Paul Bartlett, prefers, however, to avoid any possible confusion by
+keeping, in the first instance, to a single Glosa word for each English
+lexeme.
+	I have just started writing again to the Glosa-pe in Uganda.  This matter
+of the dictionary preferences of beginners is one question I must ask.
+
+	Very soon I will download Bill Patterson's work on this, and am keen to
+see what he has decided to be the best constitution for a Beginner's
+Dictionary.
+
+	Jay, please try Glosa by translating something yourself, or telling a
+story in your own (Glosa) words.  This was what Bill Patterson did to test
+the language: he chose to attempt translation of "The Wolf" into Glosa, and
+did, I feel, discover that Glosa was up to the job.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  [You can add your email
+address after the 'subscribe' message, but this is optional; Majordomo
+reads your email address automatically.]
+	To: majordomo{at}zeta{dot}org{dot}au
+	subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Thu, 06 Nov 97 14:4
+
+At 07:34 PM 3/28/98 EST, you wrote:
+>Thu, 26 Mar 98 01:03:58 EST, William W Patterson skribe:
+>
+>> I'm still calling the dictionaries the 6000 Series and the 1000 Series,
+>> though it looks like they're going to be closer to 7500 and 2500 words.
+>> Perhaps I'll just leave the names alone, have it be one of those "For
+>> Historical Reasons" kind of things. On the other hand, calling them
+>> Glosa 7000 and Glosa 2500 would distinguish them from the others. But
+>> first I'll wait until I can make a better estimate.
+>
+>Hmmmm. I did a wordcount tonight, and was surprised to find that my
+>current Glosa-English 6000 source file contains 5989 Glosa entries.
+>Not bad! Some of those are compounds (lowering the count), and I'll
+>be adding a few new ones (raising the count), so it will probably end
+>up not too far from 6000 unique words.
+>
+>- Saluta! - Bill
+>
+I really do want to see what you have done, Bill.
+	So, by adding and subtracting, you have come back to the first number the
+Glosa authors thought of: 6000.
+
+	We still have the basic wordlist from Paul Bartlett, who is firmly
+convinced that 2500 words would be adequate and a reasonable learning load,
+while claiming that 6000 words represents some form of linguistic over-kill.
+
+	How might we, in Glosa, deduce the right number, and selection, of words
+for a First Dictionary that would be suitable for use in all cultures?
+
+	Perhaps there is no alternative to actual field trials with test
+populations.  This is where I came in.  I was writing letters to Africans
+and other Third Worlders ... and I wondered how I could release more
+dictionaries, in the field, without actually going broke.  The question
+still remains: the thinner the starter dictionary the lower the costs in
+paper and postage.  So there is a pragmatic reason for finding the minimum
+starter dictionary, as well as a linguistic one!
+
+	My first thought was to ship the S/H luggable computer, I bought for A$80,
+to my friends in Uganda, following this with a simple printer, then feeding
+them with paper and printer ribbons.  This was a brilliant idea for cutting
+down on air postage costs, but was knocked out by import duties into
+Uganda.  The computer and a A$50 S/H printer would have clocked up an
+import bill of around US$1000.  And I was advised not to travel personally
+to Uganda with the items in my luggage, because this would end in my being
+gaoled as a smuggler.
+
+	So, unless anyone can get to a Ugandan embassy to collect the papers for
+application as a Non-Governmental Organisation, exempt from import duty, it
+looks like thinner dictionaries is the way to go.
+
+	Back to the drawing board?  Any ideas?
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  [You can add your email
+address after the 'subscribe' message, but this is optional; Majordomo
+reads your email address automatically.]
+	To: majordomo{at}zeta{dot}org{dot}au
+	subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: ailanto
+Subject: Re: glosa disk received, & dictionary updates
+To: GLOSALIST
+Date: Sun, 29 Mar 98 16:0
+
+
+Welcome, Jay!
+
+Wed, 05 Nov 97 15:30:46 EST, Robin Gaskell skribe:
+
+> *	Since sending this, Bill Patterson has placed the list in his Webpages
+> - ready for printing.  Also he has listed the 'synonyms' that he has not
+> been able to decide upon, asking for a group-think on the matter. 
+
+I've been hitting the synonyms pretty hard this weekend (and some of
+the omissions) because I really want to wrap those up before I print
+out another copy of the dictionaries. Then I'll hit the Omissions List.
+That's where we can be really creative; invent your own Glosa word!
+After, of course, making sure that the English word is rightfully on
+the Omissions List, and searching the dictionary for similar words,
+etc.
+
+> He has also used a password to get into  /glosa.htm  and this is
+      [not here anymore because this file is now public]
+
+Just to clarify: the password is on the downloadable dictionary files.
+And I've been updating those daily, and will be for the next few days
+until I finish the synonyms.
+
+main glosa page:  http://www.neosplice.com/~ailanto/glosa.htm
+synonyms page:    http://www.neosplice.com/~ailanto/synonyms.htm
+omissions page:   http://www.neosplice.com/~ailanto/omission.htm
+
+> 	This might explain why it is a 'work in progress.'  Bill Patterson has
+> been silent for a few months, while he worked on sorting out the good
+> synonyms from the bad ones.  He has now asked for help with refiining the
+> difficult cases.
+
+It wasn't so much the synonyms that bothered me. The *homonyms* were
+what bogged me down for a while! That was very slow going and after
+an evening of dehomonymizing, I usually lacked either the time or
+the motivation to hit it again. But now I'm making some rapid progress.
+I ended up with a single Glosa-English source file (GE6000S.TXT), with
+each record being of the form GLOSAWORD = ENGLISHWORD (or phrase, as
+the case may be). Preferred synonyms are marked with a leading *. Then
+I wrote procedures that read this source file and arrange the synonyms
+according to the splats (stars (*)) and remove the splats (stars (*))
+and swap and sort and create all of the dictionaries and zipfiles and
+synonyms and omissions files. So after making changes to the source
+file, all I need to do is enter 'make all' and sit back for a few
+minutes and then upload the results.
+
+I hope to be getting back to "U Lupus" by next week. Unfortunately a
+business trip within the next few weeks is a definite possibility. So
+I may be delayed. Oh, well.
+
+> 	Very soon I will download Bill Patterson's work on this, and am keen to
+> see what he has decided to be the best constitution for a Beginner's
+> Dictionary.
+
+Well, nothing too fancy. That one's just a singleword-to-singleword
+mapping, the Literary Dictionary with the extra synonyms removed.
+
+- Salata! - Bill
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+MOUNT TAPE U1439 ON B3, NO RING
+
+From: Paul O Bartlett
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Sun, 29 Mar 98 16:0
+
+On Thu, 6 Nov 1997, Robin Gaskell wrote (excerpted):
+   ^^^^^^^^^^^^^^^
+
+Robin, I think your computer's clock needs resetting. :-)
+
+> 	We still have the basic wordlist from Paul Bartlett, who is firmly
+> convinced that 2500 words would be adequate and a reasonable learning load,
+> while claiming that 6000 words represents some form of linguistic over-kill.
+
+    I hope I made it clear in my follow-up that I do *not* think that
+there needs to be a one-for-one correspondence between the list I
+posted and a basic Glosa vocabulary.  Therefore, if the list has
+approximately X number of words, that does not mean that the basic
+vocabulary also must have X number of words.  The question becomes, 
+Can the basic vocabulary express what the list expresses, however 
+many words the basic vocabulary needs to do that?
+
+    The Longman Defining Vocabulary contains about 2250 English words,
+Supposedly, in terms of these words any other English word can be
+(eventually) defined.  Now it could be that some Glosa basic words may
+not correspond precisely to any single Longman word.  After all,
+nothing says that Glosa (or any other IAL) *has* to be nothing more
+than a relexification of English (or any other natlang).
+
+    Those times that I have tried to write Glosa using the list of
+roughly 1600 words I collated from different supposedly "Glosa 1000"
+lists, I sometimes found myself jumping through mental hoops trying to
+express what I wanted to say.  That is why my estimate for a basic
+vocabulary is in the 2000 - 2500 range.  However, it is true that
+greater familiarity and use may make expression easier with a given
+base vocabulary.  I confess that I have not actually used Glosa all
+that much.  Since I did collate the basic reference from actual G.E.O.
+"Glosa 1000" publications, that is what I tried to use.
+
+    On the other hand, if actual use shows need for a few more words
+than the collated list, then if they are available from Glosa 6000, all
+the better.  But I still maintain that Glosa 6000 is overkill.
+
+    In my mind it comes down in part to the intended use for the
+language.  Zamenhof originally published Esperanto with basic
+communication in mind, so far as I know, and the original set of roots
+was in the 800 - 900 range, together with the lexical affixes to extend
+their use.  Subsequently, a number of users tried to use Esperanto
+considerably for belles lettres, and they started using a lot more
+words, and using more words in different ways that are not always
+apparent to new learners.  I am not saying that they were wrong.  But
+it seems to me that some Esperantists have gotten away from the
+language's original intent to easing international, intercultural
+communications.
+
+    Some have argued that belletristic use of Esperanto has helped keep
+it going.  That may be.  But that argument immediately brings up the
+question in my mind whether the language (or any IAL) would have
+survived for its original intent.  I once exchanged two letters in
+Glosa with a man in China.  We needed a basic vocabulary to
+communicate, not one to produce literature to win the Nobel Prize.
+
+> 	How might we, in Glosa, deduce the right number, and selection, of words
+> for a First Dictionary that would be suitable for use in all cultures?
+> 
+> 	Perhaps there is no alternative to actual field trials with test
+> populations.
+
+    The proof of the pudding is in the eating, and the proof of an
+auxiliary language is in the using.  By the way, does anyone know if
+Ashby&Clark are even aware of this Internet activity and whether they
+might try to cause problems with copyright?  (Before I put up the Glosa
+web pages, I went to the trouble to get their explicit permission and
+to attach their copyright.)
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+
+From: Robert J. Petry
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Sun, 29 Mar 98 16:3
+
+
+
+Paul O Bartlett wrote:
+
+> [kut]
+>
+>     The Longman Defining Vocabulary contains about 2250 English words,
+> Supposedly, in terms of these words any other English word can be
+> (eventually) defined.  Now it could be that some Glosa basic words may
+> not correspond precisely to any single Longman word.  After all,
+> nothing says that Glosa (or any other IAL) *has* to be nothing more
+> than a relexification of English (or any other natlang).
+>
+>     Those times that I have tried to write Glosa using the list of
+> roughly 1600 words I collated from different supposedly "Glosa 1000"
+> lists, I sometimes found myself jumping through mental hoops trying to
+> express what I wanted to say.  That is why my estimate for a basic
+> vocabulary is in the 2000 - 2500 range.  However, it is true that
+> greater familiarity and use may make expression easier with a given
+> base vocabulary.  I confess that I have not actually used Glosa all
+> that much.  Since I did collate the basic reference from actual G.E.O.
+> "Glosa 1000" publications, that is what I tried to use.
+
+[kut]
+
+j found u book o 11/7/97 k j mentioned before. b t may e interesting here a quote d
+t.
+l title e: Beginner's Dictionary of Americah English Usage, A Basic Dictionary with
+Examples Accompanying Each Definition". o l back cover e c statement which j find
+very interesting.
+"The Beginner's Dictionary of American Engllish Usage has been specially designed to
+meet the needs of all English-language learners. The words featured in this
+dictionary are the 4,000 most commonly used words in English, and were selected from
+a wide variety of beginning and intermediate English-language textbooks. Definitions
+have been written as briefly and as simply as possible, using only the words
+contained in this dictionary. In addition, each entry offers at least one example
+sentence (shown clearly in bold type), making this reference a uniquely practical
+guide to contemporary American English usage.
+Special features include:
+The 4,000 most commonly used words in English.
+Sample sentences for each entry.
+Clear, easy-to-follow guides to pronunciation.
+Parts of speech identified for all entries.
+Simplified definitions.
+Multiple meanings listed separately.
+Special language notes -- highlighted in gray boxes.
+Fully labeled illustrations of everday vocabulary."
+
+J find c bumot [dictionary, bu = book, mot = word(s)]very helpful, even more so z u
+ordinary bumot. &, l format seems u ideal way a present u auxiliary lin versus l
+basic "word for word" kind d bumot. & l vocabulary e about l right size f u
+auxiliary. Perhaps, c e l kind d bumot Longman's y supposed e. Perhaps, since Ray
+mentioned l use d l word "k" (that) i RLR j could quote c bumot' explanation
+sometime x there e* any interest. [*i RLR l mot "e" p also e used a mean "there is,
+there are"]
+
+C dictionary e u paperback published by National Textbook Company, c. 1986.
+
+Al l sue,
+Bob
+
+
+From: Paul O Bartlett
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Sun, 29 Mar 98 17:3
+
+On Sun, 29 Mar 1998, Robert J. Petry wrote:
+
+> [omitted]
+
+    I do not pretend to speak for other members of the Glosa list. 
+However, my understanding is that the Glosa list is not AUXLANG.  It 
+is for discussion of Glosa, and the discussion languages, so far as I
+know, are Glosa itself, English, and possibly other natlangs, not other
+auxlangs (although discussion reference may be made to them). 
+Therefore, it seems to me that use of other auxlangs is not entirely
+appropriate here.  Admittedly, this is my private opinion, and if other
+list members disagree, I will not try to impose my view on others. 
+(Obviously, I can just delete articles.)
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Robert J. Petry
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Sun, 29 Mar 98 18:3
+
+
+
+Paul O Bartlett wrote:
+
+> On Sun, 29 Mar 1998, Robert J. Petry wrote:
+>
+> > [omitted]
+>
+>     I do not pretend to speak for other members of the Glosa list.
+> However, my understanding is that the Glosa list is not AUXLANG.  It
+> is for discussion of Glosa, and the discussion languages, so far as I
+> know, are Glosa itself, English, and possibly other natlangs, not other
+> auxlangs (although discussion reference may be made to them).
+> Therefore, it seems to me that use of other auxlangs is not entirely
+> appropriate here.  Admittedly, this is my private opinion, and if other
+> list members disagree, I will not try to impose my view on others.
+> (Obviously, I can just delete articles.)
+
+Excussssse me???? RLR IS ALSO A  SHORTHAND SYSTEM that can be used for
+shortening email, or any printed matter. It is only an AUXLANG when the
+international language principles are used. I was, as I said in a previous
+post, going to begin writing ALL my email with the 26 RLR words and the &.
+This is the flexibility of Speedwords. Even on the auxlang I am not using
+RLR as an auxlang. Just read Ray's last question about why I used the word
+"that" the way I did. I already have a discussion list where I use RLR
+fully as an auxlang and only those wanting to do so with me must sign up
+for the list. If this is such an offense to you I will be glad to
+discontinue using it as a shorthand system for Paul's sake, on this list.
+Is there not a topic on any of these lists about languages where someone is
+not offended over every little thing?
+
+Al l sue,
+Bob
+
+P.S. In most cases I always close with Al l sue, no matter what the list
+is. Hope that doesn't offend anyone. Sometimes I use Mil gra.
+
+
+From: Robert J. Petry
+Subject: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Sun, 29 Mar 98 19:0
+
+j joined this list because j am interested i learning about Glosa & slowly
+building u reading vocabulary. &, when j can devote l time, wish a begin
+writing more i Glosa. I l meantime j have u question or 2.
+
+About 2-3 months ago j obtained u copy of Interglossa. & j was impressed m l
+"overwhelming" material, both l bulk & l quality d Hogben's work. So:
+
+Why did Interglossa never progress much? & why e Glosa seemingly so different d
+Interglossa? Is this what Hogben had i mind when s approved developing
+Interglossa? Was Interglossa so faulted k t was not u workable language? Or,
+was Glosa developed without actually using Interglossa enough to develop it as
+it was with minor?? improvements as experience was gained with it? &, what
+principles of Interglossa does Glosa use, or is it an entire "rewrite"? Hope
+these are appropriate questions.
+
+Al l sue,
+Bob
+
+
+From: John Schilke
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: Robert J. Petry
+Cc: GLOSALIST
+Date: Sun, 29 Mar 98 20:3
+
+But, also, Bob, I mean no offense to you either.  Probably many cannot 
+read RLR so easily.
+John
+
+
+From: John Schilke
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: Paul O Bartlett
+Cc: GLOSALIST
+Date: Sun, 29 Mar 98 20:3
+
+Dear Paul (e plu Glosa-pe)!
+	I couldn't agree more.  Perhaps that's why I have withdrawn from 
+the Auxlang list.  Let's keep this Glosa and English, as much as possible.
+	John
+
+
+From: John Schilke
+Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: Robert J. Petry
+Cc: GLOSALIST
+Date: Sun, 29 Mar 98 20:5
+
+Dear Bob--
+	Suffer my writing back in English alone, please.  I have been a 
+devotee of Glosa, and also (for many years) of Interglossa.  I've met 
+Ashby and Clark, and found them to be delightful and straightforward.  A 
+couple of comments:
+
+On Sun, 29 Mar 1998, Robert J. Petry wrote:
+> 
+> About 2-3 months ago j obtained u copy of Interglossa. & j was impressed m l
+> "overwhelming" material, both l bulk & l quality d Hogben's work. So:
+		I congratulate you on finding a copy of Interglossa.  I 
+found mine many years ago and have never seen another since.  It is in 
+tatters, and I'd be happier to have the whole thing on the Net, so that 
+it could be saved from dissolution!
+> 
+> Why did Interglossa never progress much? & why e Glosa seemingly so different d
+> Interglossa? 
+		I'm really not at all sure.  From A&C I learned that he gave them the 
+go-ahead to make what changes they wanted, but I thought that much got 
+lost in the process.  For example, the ingenious verb system, though 
+difficult at first, is really simple and can work after a while spent 
+learning it.  It is central to Ig, and Glosa is very much different 
+because of the changes.  They are more than a simplification, though.
+
+> Is this what Hogben had i mind when s approved developing
+> Interglossa? Was Interglossa so faulted k t was not u workable language? Or,
+> was Glosa developed without actually using Interglossa enough to develop it as
+> it was with minor?? improvements as experience was gained with it? 
+		I can't say.  It's my impression that he dropped it 
+(during the war), even though it apparently did arouse some interest in 
+Britain, at least.  Perhaps he tired of it or thought better of it.  To 
+many it might seem very complex (a false impression).  I have seen 
+criticisms of it that claim he is not a linguist (but then, Zamenhof, 
+A&C, and Petry never claimed to be, either. :) )
+
+>what
+> principles of Interglossa does Glosa use, or is it an entire "rewrite"? 
+		Many principles are the same:  no accidence (which is 
+really what A&C mean when they say "no grammar" (i.e., no changes in 
+words for grammatical meaning); use of Graeco-Latin word bases (though G 
+changes spellings); word-order and small particles to mark syntax.  The 
+most significant change is the loss of Ig's verb system (which I think is 
+a loss of some magnitude).  It is thus only a partial, but 
+author-endorsed "rewrite."
+
+> Hope these are appropriate questions.
+		They are, indeed, and I am interested in your impression of 
+these attempts at answers and your reaction to both Ig and G.
+
+Al l sue,
+John
+
+
+From: Robert J. Petry
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Cc: Paul O Bartlett
+Date: Sun, 29 Mar 98 21:0
+
+
+
+John Schilke wrote:
+
+> Dear Paul (e plu Glosa-pe)!
+>         I couldn't agree more.  Perhaps that's why I have withdrawn from
+> the Auxlang list.  Let's keep this Glosa and English, as much as possible.
+>         John
+
+Oops.  I see that it is time for me to withdraw totally from this list. Don't
+want to be an offense to so many.Goodbye and all take care.
+Bob
+
+
+
+From: Robert J. Petry
+Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Sun, 29 Mar 98 21:0
+
+
+
+John Schilke wrote:
+
+> But, also, Bob, I mean no offense to you either.  Probably many cannot
+> read RLR so easily.
+> John
+
+None taken. Funny though, I though we were students of language. And, I
+have not had one such comment like these from people I send email to who
+are not on any language list at all, just exchanging messages with me on
+business or personal matters. The only place I have received any comments
+like these are on language related lists???
+
+I do not wish to have this reply be misconstrued. This is not trying to
+justify anything, it is not to create an argument, nor is it to continue a
+thread. That would not be appropriate for the Glosa list. Therefore, I
+will only respond to this thread further if it comes in private email to
+me.
+
+I would appreciate more use of the Glosa by Robin, Paul and others who may
+know it more, so I can begin to absorb more of it. And, I won't post again
+to this list until I can begin writing something in Glosa myself. Nor will
+I use RLR here for the shorthand or the aux part of it.
+
+Mil gra,
+Bob
+
+
+
+
+From: William W Patterson
+Subject: Re: glosa disk received, & dictionary updates
+To: GLOSALIST
+Date: Sun, 29 Mar 98 16:0
+
+
+Welcome, Jay!
+
+Wed, 05 Nov 97 15:30:46 EST, Robin Gaskell skribe:
+
+> *	Since sending this, Bill Patterson has placed the list in his Webpages
+> - ready for printing.  Also he has listed the 'synonyms' that he has not
+> been able to decide upon, asking for a group-think on the matter. 
+
+I've been hitting the synonyms pretty hard this weekend (and some of
+the omissions) because I really want to wrap those up before I print
+out another copy of the dictionaries. Then I'll hit the Omissions List.
+That's where we can be really creative; invent your own Glosa word!
+After, of course, making sure that the English word is rightfully on
+the Omissions List, and searching the dictionary for similar words,
+etc.
+
+> He has also used a password to get into  /glosa.htm  and this is
+      [not here anymore because this file is now public]
+
+Just to clarify: the password is on the downloadable dictionary files.
+And I've been updating those daily, and will be for the next few days
+until I finish the synonyms.
+
+main glosa page:  http://www.neosplice.com/~ailanto/glosa.htm
+synonyms page:    http://www.neosplice.com/~ailanto/synonyms.htm
+omissions page:   http://www.neosplice.com/~ailanto/omission.htm
+
+> 	This might explain why it is a 'work in progress.'  Bill Patterson has
+> been silent for a few months, while he worked on sorting out the good
+> synonyms from the bad ones.  He has now asked for help with refiining the
+> difficult cases.
+
+It wasn't so much the synonyms that bothered me. The *homonyms* were
+what bogged me down for a while! That was very slow going and after
+an evening of dehomonymizing, I usually lacked either the time or
+the motivation to hit it again. But now I'm making some rapid progress.
+I ended up with a single Glosa-English source file (GE6000S.TXT), with
+each record being of the form GLOSAWORD = ENGLISHWORD (or phrase, as
+the case may be). Preferred synonyms are marked with a leading *. Then
+I wrote procedures that read this source file and arrange the synonyms
+according to the splats (stars (*)) and remove the splats (stars (*))
+and swap and sort and create all of the dictionaries and zipfiles and
+synonyms and omissions files. So after making changes to the source
+file, all I need to do is enter 'make all' and sit back for a few
+minutes and then upload the results.
+
+I hope to be getting back to "U Lupus" by next week. Unfortunately a
+business trip within the next few weeks is a definite possibility. So
+I may be delayed. Oh, well.
+
+> 	Very soon I will download Bill Patterson's work on this, and am keen to
+> see what he has decided to be the best constitution for a Beginner's
+> Dictionary.
+
+Well, nothing too fancy. That one's just a singleword-to-singleword
+mapping, the Literary Dictionary with the extra synonyms removed.
+
+- Salata! - Bill
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+MOUNT TAPE U1439 ON B3, NO RING
+
+
+From: ailanto
+Subject: Dictionaries
+To: GLOSALIST
+Date: Mon, 30 Mar 98 20:1
+
+I've completed the Synonym Analysis. The files are now ready to print.
+Future changes will be 1) bugfixes and 2) core words added as necessary.
+But the 6000 series files should be pretty stable and complete now.
+The core dictionaries will evolve slowly.
+
+I've renamed the files. Since we're not sure how many words we'll end up
+with, I removed the 6000s and 1000s from the names. See my Glosa page for
+details.
+
+   http://www.neosplice.com/~ailanto/glosa.htm
+
+On to U Lupus! Assuming that Real Life doesn't interfere too much...
+
+- Saluta! - Bill
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+I have a mind like a steel... uh... thingy.
+
+From: Paul O Bartlett
+Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Mon, 30 Mar 98 10:3
+
+On Sun, 29 Mar 1998, Robert J. Petry wrote (excerpted):
+
+> Why did Interglossa never progress much?
+
+    Probably we can only speculate.  Interglossa came out _during_ the
+Second World War when, shall we say, people had other things on their
+minds.  Then, after the war, Britain had a lot of rebuilding to do.  I
+don't know if it was ever published as such in other English speaking
+countries or whether copies were merely exported to them.  Also, I
+myself have found the style of the book a little hard to follow.  (Of
+course, others may not.)
+
+>                                          & why e Glosa seemingly so different d
+> Interglossa?
+
+    Certainly, the changes fromn Interglossa were due to Ashby and
+Clark.  As to *why* they made the changes they did, I don't know, never
+having met them or inquired by mail.  But it seems to me as if they
+kept some -- not all -- the language but sort of missed its spirit. 
+That's why I think that both languages had a lot of possibility but
+that Glosa was not entirely well done.  However, I think it is still
+salvageable.
+
+>              Is this what Hogben had i mind when s approved developing
+> Interglossa?
+
+    I suppose you meant "Glosa" here.  I really don't know, as Hogben
+died over twenty(?) years ago.
+
+>              Was Interglossa so faulted k t was not u workable language? Or,
+> was Glosa developed without actually using Interglossa enough to develop it as
+
+    I wonder how much Clark and Asbhy actually tried using Interglossa
+themselves.  As John Schilke pointed out, the Interglossa verb system
+might take a little getting used to, but I think it was a fascinating
+idea.  In fact, when I was playing around with a project I called
+frater2, I more or less imported Hogben's verb system wholesale with
+the addition of one verb (relating to mental/spiritual activity).  I
+speculate that Interglossa never really got a good field trial.
+
+> it was with minor?? improvements as experience was gained with it? &, what
+> principles of Interglossa does Glosa use, or is it an entire "rewrite"?
+
+    I wouldn't call Glosa a complete rewrite, but I do consider them
+separate languages in the sense that Esperanto and Ido are separate
+languages.
+
+>                                                                         Hope
+> these are appropriate questions.
+
+    Entirely appropriate, I would say.  I have wondered some of these
+same things myself, as probably have others.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: William W Patterson
+Subject: Dictionaries
+To: GLOSALIST
+Date: Mon, 30 Mar 98 20:1
+
+I've completed the Synonym Analysis. The files are now ready to print.
+Future changes will be 1) bugfixes and 2) core words added as necessary.
+But the 6000 series files should be pretty stable and complete now.
+The core dictionaries will evolve slowly.
+
+I've renamed the files. Since we're not sure how many words we'll end up
+with, I removed the 6000s and 1000s from the names. See my Glosa page for
+details.
+
+   http://www.neosplice.com/~ailanto/glosa.htm
+
+On to U Lupus! Assuming that Real Life doesn't interfere too much...
+
+- Saluta! - Bill
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+I have a mind like a steel... uh... thingy.
+
+
+From: ailanto
+Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Tue, 31 Mar 98 00:0
+
+Sun, 29 Mar 98 20:54:56 EST, John Schilke skribe:
+
+> lost in the process.  For example, the ingenious verb system, though 
+> difficult at first, is really simple and can work after a while spent 
+> learning it.  It is central to Ig, and Glosa is very much different 
+> because of the changes.  They are more than a simplification, though.
+
+Please tell us some more about the verb system!
+
+- Thanks - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+I have a mind like a steel... uh... thingy.
+
+From: William W Patterson
+Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: GLOSALIST
+Date: Tue, 31 Mar 98 00:0
+
+Sun, 29 Mar 98 20:54:56 EST, John Schilke skribe:
+
+> lost in the process.  For example, the ingenious verb system, though 
+> difficult at first, is really simple and can work after a while spent 
+> learning it.  It is central to Ig, and Glosa is very much different 
+> because of the changes.  They are more than a simplification, though.
+
+Please tell us some more about the verb system!
+
+- Thanks - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+I have a mind like a steel... uh... thingy.
+
+
+From: John Schilke
+Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
+To: William W Patterson
+Cc: GLOSALIST
+Date: Tue, 31 Mar 98 15:0
+
+On Tue, 31 Mar 1998, William W Patterson wrote:
+> Please tell us some more about the verb system!
+
+OK.  Thanks for the enquiry.
+	I am browsing through my (now somewhat tattered) copy of 
+_Interglossa_ and will try to summarize the verb ("operator") system as 
+best I can.  Actually, if anyone has the ability to scan and copy the 
+book to the net, I'd be interested in such a project -- I think it 
+worthwhile.
+	Anyway....
+
+	Like Glosa, there is no accidence:  the words do not change for 
+grammatical function.  The operators end in 'e,' which is a help.  'No' 
+is preposited (as a separate word) for 'not,' 'nun' for the present (if 
+it is desired to state the tense, 'pre' for the past, and 'post' for the 
+future.  These 3 latter are not essential.  Then,
+
+X acte A Y 		X performs the action A on Y
+X date A Y		X confers the attribute A on Y
+X detecte A Y		X discovers the property A of Y
+X dicte A Y		X conveys the communication A to Y
+X esthe A Y		X experiences the sentiment A towards Y
+X gene A ex Y		X acquires the attribute A from Y
+X habe A de Y		X has the attribute A in relation to Y
+X perde A causo Y	X loses the attribute A because of Y
+X reacte A Y		X responds to the stimulus A applied by Y
+X stimule A Y		X evokes the response A from Y
+X tene A Y		X conserves the attribute A on behalf of Y
+X tracte A apo Y	X withdraws the attribute A from Y
+
+It is immediately clear that Hogben took most of this from the Greek (as 
+he explains) and doesn't change spelling very much.
+
+There is also the particle 'ge,' which equals 'pre gene' or provides a 
+passive participle  
+	u ge dicte verba = the spoken word
+
+For example,
+	X date eco Y = X puts up Y (gives shelter to)
+	X gene bio = X comes to life
+	X tracte claustro apo Y = X opens Y
+	X perde chromo = X fades (in color)
+	X acte debito = X does his duty
+	X dicte no Y = X denies (or refuses) Y
+	X stimule volo Y = X tempts Y
+	X esthe questio Y = I is curious about Y
+		and so on.
+
+The system is really quite ingenious, as I said, but I think that it 
+would take a bit of practice to use it well.  Of course, no all possible 
+combinations work out to have an English translation, but one need not 
+expect them to.
+
+I hope that this gives a bit of the flavor of the system.  There are 
+other operators, such as 'mote' 'to move,' but this is fairly complete.
+
+Any questions?
+Saluta,
+	John     (dicte saluto)
+
+

@@ -1,0 +1,3653 @@
+
+From: William W Patterson
+Subject: Re: Dictionary Files
+To: GLOSALIST
+Cc: 
+Date: Tue, 02 Jun 98 21:07:21 EDT  
+
+Tue, 02 Jun 98 11:12:53 EDT, Aaron Irvine skribe:
+
+> http:.zip worked fine, even with the freeware BKZIP that's used here (which I had
+> to fumble around because the English interface failed to install and I'm stuck
+> with German!!).
+
+Hurrah! 
+
+Both Aaron and Paul had trouble downloading my dictionary files. And then,
+coincidentally, the same weekend, I got an email from somebody who had been
+unable to download my Doom files.
+
+I had the links defined like this...
+
+   href="ftp:filename.exe"
+
+
+...which should have worked. It did before! And it is the proper
+format, and I have some much older pages which use it. But sure
+enough, it didn't work for me anymore either! I've "upgraded" (yeah,
+right, "upgraded", teeheehee) my browser since then. Well, the ftp:
+is *supposed* to tell the browser to download the file. But nowadays
+broswers are also likely to check the file extension and try to decide
+for themselves what to do, no matter what you tell them.
+
+Actually, the ftp: form does work for .zip files. In fact, just about
+any combination worked for zips. The exe files were the problem. At home
+I use Internet Explorer 3, and at work Netscape Navigator. Also at work
+we have Internet Explorer 2. And I could not find a combination of things
+that would work for all three! I kept thinking that it must be an improper
+configuration.
+
+But the fault may actually be with my ISP. Today I found an exe file, a
+self-extracting file, at the garbo site in Finland, and the link was defined
+exactly like my original version. And it worked just fine! So I moved the
+files over to my site on xoom.com along with a test page using the original
+links, and it worked!
+
+So I left the files on xoom and linked to them there. If anybody wants
+to try the new version, let me know how it goes.
+
+BKZIP? Tell me more! Are you familiar with INFOZIP? It's a freeware
+project that's compatible with pkzip (although the commandline switches
+are a little bit different, and it saves/restores directory structures
+by default (opposite of pkzip) ), but what's really cool is that it runs
+under many different operating systems. Handy for me, because I use
+DOS/WINDOWS/NT and Unix.
+
+- Salata! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+vi vi vi - The Editor Of The Beast
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa Reference in the Christian Science Monitor, 1998.05.19
+To: GLOSALIST
+Date: Tue, 02 Jun 98 21:1
+
+On Tue, 2 Jun 1998, William W Patterson wrote:
+
+> A very brief and slightly inaccurate mention of Glosa
+> in the Christian Science Monitor...
+> 
+>   http://www.csmonitor.com/durable/1998/05/19/fp58s1-csm.htm
+
+    Thanks for the reference.  Although, as you mentioned, the
+Glosa reference was not precisely on target, it was at least
+not too bad.  I noticed that there was a reference to
+Jeffrey(sp?) Henning's Model Languages page.  I had not looked
+at it in a long time, and I see that he has a link to frater2,
+a project I was once working on but have done nothing with in a
+long time.  It was a modification of FRATER, a somewhat
+Glosa-like language by a Vietnamese, published in 1957:
+
+http://www.geocities.com/Athens/Acropolis/6223/frater2.html
+
+(I never got around to finishing the vocabulary.  I did quite a
+bit in the language description, however.)
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Robin Gaskell
+Subject: Re: Glosa pronunciation
+To: GLOSALIST
+Date: Thu, 04 Jun 98 15:4
+
+At 05:07 PM 5/27/98 -0400, Paul Bartlett wrote:
+
+>	[  ...much deleted...  ]
+>> > Undoubtedly there are some people who are already using Glosa to some
+>> > extent who do not use the Internet.
+>> True, the internet has not reached everyone yet.  I especially wish that
+ >>Chinese speaking Glosaists were present here because their insights into
+>>grammar could be especially valuable in avoiding any subconscious English
+>>language thinking / idioms.
+>
+>    Again, I heartily agree.  I once, quite some time ago, exchanged two
+>regular mail letters in Glosa with a man in China who said he did not
+>really know English (and I have no Chinese), and the communication
+>seemed to go well enough.  The feedback from non-Indo-European speakers
+>would be very useful.  There may be something of a division of labor
+>between those on the 'net and those not.  Such a state of affairs might
+>or might not bode well, depending on one's approach to things.
+>
+>    Robin Gaskell, you seem to have the most contact with Richmond.  Do
+>you have any way of sounding out their attitude toward what goes on
+>here?
+>
+*	Yes, the direct request was for me to maintain regular handwritten
+correspondence with these Third World Glosa-pe, to ensure that we did get
+frequent feedback from these non-English-based users of the language.
+
+>   [ .............much deleted...............  ]
+>    A few final comments.   [  .............  ]  Although my remarks
+>about Glosa are sincere, I have never sat down really to learn it and
+>use it.  Perhaps others have the attitude, as I do, that it is just not
+>yet in a sufficiently stable state in order to induce me to put much
+>effort into it. 
+*	I guess this is why the authors are concentrating on building up a
+community of Glosa-pe, who use the language as it now exists!  
+
+>    (And I note that nearly all the posts on Glosalist are
+>in English.  I would have a hard time putting all this into Glosa myself.)
+>Paul 
+*	My suggestion to all potential Glosa aficionados, is to think in Glosa.
+While you are ^juggling^ the Glosa words in your head, re-arrange them so
+that ^when they fall^, they produce well-formed Glosa sentences.  The
+situation becomes rather unworkable when you think in English, compose
+satisfatory sentences in English, and then procede to translate these
+English-language originals into Glosa.
+	The Glosa authors welcome items for the periodical "Plu Glosa Nota"  from
+beginners, and they will happily edit such articles into good Glosa.
+Netters should send items to  glosauk{at}cix{dot}compulink{dot}co{dot}uk  .
+	To recieve a sample copy of P.G.N. send your pidgeon post details to the
+authors, and they will forward you one: unfortunately, they wish normal
+commercial conditions to apply, and they need to get a subscription to the
+periodical to be able to send out further copies.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Glosa pronunciation
+To: GLOSALIST
+Date: Thu, 04 Jun 98 14:4
+
+At 02:11 PM 5/26/98 +0100, Aaron Irvine wrote:
+>Saluta,
+>
+>Regarding for example http://www.zeta.org.au/~rgaskell/speaking.htm,
+>
+*	Hi Aaron,
+I will agree that written Glosa gets more attention than the spoken form,
+but the way the Glosa pronunciation was arrived at, possibly needs some
+explanation.
+	In a word, the authors went Italian.  At least as far as the vowels go,
+they said the five vowels of Glosa had the same five pronunciations as the
+vowels of Italian.  And for "C", they carried the trend, in Italian, for
+"-ci-" and "-ce-" to have the English "ch" sound, on to the othe vowels.  I
+hope you can follow their logic on this: all "cVOWEL" forms in Glosa have
+the "c" pronounced as "ch" in English.  
+	I went to my local library to borrow a "teach yourself Italian" cassette
+to check out my Glosa pronunciation against that on the cassette. This
+would be the most practical way of getting the Glosa vowels.  When Ron
+Clark was teaching me the A, E, I, O, U of Italian, I was struck by the
+fact that the last two vowels were formed differently from their normal
+soundings in English: for both "O" and "U", he projected his lips forward
+in a rather non-English sort of way.
+
+>is "o" a pure short o, or does it really have an r!  any hint of a "w"
+>sound?
+*	When you say, "Pass me some more bread," you do not actually sound the
+"R" in the "-ore", but it is 'felt.'  This is the "o" of Italian and Glosa.
+ There is no "w" hinted.
+
+>is "e" a pure e (like Esperanto) or is it diphthongised (like English)?
+*	Neither.  The "e" of Italian and Glosa sound like the long "A" of
+English, which is a diphthongised "a": hence my rendition of it as "AY".
+
+>is "j" always like 'you' never like 'jet'?
+*	True.  I wonder if something significant has been lost with the absence
+of the 'hard "J"' which I see also as the 'soft"G"'.
+
+>is "y" really used in modern Glosa, or does "i" always replace it?
+*	It was originally there, but now has been completely replaced by "I";
+this represents a standardisation.
+
+>is "x" always ks, for example is xilo always like ksilo never like zilo?
+*	The semi-phoneticisation in Glosa has each letter with only one
+pronunciation: Glosa "x" and "z" being different letters have different
+pronunciations .. one each!  Yes, the Glosa "x" is pronounced as "ks'.
+
+>is "z" a voiced "s" (the international value) or is it "ts" or is it
+>"dz"?
+*	I'd go for the 'international' voiced "s"'.  But it is so rare in Glosa
+that I use it very infrequently.  
+
+>are diphthongs really avoided in practice (for example is auxi always
+>a-oo-ksi or does aubreve-ksi creep in)?
+>another example, is baia always ba-ee-a or does ba-ya occur?
+*	Very tricky question.  Having adjacent vowels is purposely avoided in
+Glosa, where possible.  Each vowel is supposed to be sounded separately,
+according to the rule of Glosa's semi-phoneticisation.  But people are
+people, and will take short cuts: what is the shortest distance between two
+vowels?
+	In the two examples you gave, classical Glosa gives each vowel its own
+pronunciation.  Using Gaskell symbols, they are: AH-OO'ksEE and bAH-EE-AH.
+
+	I understand that the authors sell a demonstration cassette of spoken
+Glosa: I have threatened to create a set of conversation cassettes, but am
+moving very slowly on the plan.
+
+>Thanks in advance for your assistance,
+>Aaron.
+*	I will try to answer my mail more proptly in future.
+
+Saluta,
+ Robin
+>
+>PS.  Has the antiinternational "vi" (the plural of "tu") been officially
+>(whatever that means) replaced yet?
+*	No.  We are still working on defining a mechanism for the revision of the
+language including inputs from the broader community of Glosa-pe.
+
+>PPS.  Has a sex neutral fe/an been coined yet (like there is in Chinese)
+>(similar to Esperantic ri)?
+*	No, Glosa follows the English pattern here.  In an earlier Net
+discussion, I suggested, only half seriously, taking one letter from "fe"
+and the other from "an".  But, to prevent possible confusions, something
+quite different, like Esperanto's "ri", would be a better bet.  However, in
+English we have muddled through for centuries without this pronoun; it is
+only now, with Political Correctness, that "he/she" or "heesh" has been
+foist upon us, but still there is no "him/her" or "hir".  Obviously Glosa
+could have a third person singular pronoun, but this is more likely to be
+added at the time of IAL adoption, or afterwards, than as a priority for
+the author's promotion of the language.  R.G.
+>
+>--
+>
+>--- Aaron Irvine ------------------------------------------------
+>Apion Ltd, Interpoint Bldg, 20-24 York St., Belfast BT15 1AQ
+>http://www.apion-tss.com
+>mailto:a.irvine{at}apion-tss.com        mailto:adi{at}esperanto{dot}nu
+>-----------------------------------------------------------------
+>
+>
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Archives
+To: GLOSALIST
+Date: Thu, 04 Jun 98 16:1
+
+At 08:13 PM 5/27/98 EDT, Bill Patterson wrote:
+>I asked Majordomo for an index and found that there are no files
+>available for GLOSALIST.
+*	There are switches that I could use, but I have not really studied how
+Majordomo works properly: I would rather a paper handbook, than endless
+files that scroll rapidly before my eyes.  But Majordomo is supposed to be
+so simple that little help is needed; also, it is set up by some sort of
+volunteer group. This is hardly an excuse for not offering a printed manual
+for sale, in my opinion.
+	I would like to set up some FAQ information and also a set of introductory
+notes for new subscribers.  I can't remember seeing allowance for the
+compilation of archive files, but if this is possible, I should start
+switching switches.  There is a provision for FTP files to be made
+available through Majordomo, I just haven't spent time working it out.
+
+>   I'm not sure how that works; is it a
+>manual operation of some sort?
+*	Clunkily might be a description of the way it works.  I have to get in
+there and communicate with the program ... and I am still having trouble
+coming to terms with cyberthink.
+
+>    Anyway, I've kept all the messages
+>since the early days last year, so if anybody's interested, I can
+>forward this information. And/or start an archive site. Each month
+>is a single file, about 60K/month uncompressed.
+>
+>- Bill
+>
+*	Thank you, Bill for filing the procedings away.  It would be good to give
+newcomers a retrospective on the List, and it is obviously 'easier' for you
+to set up archive files than it is for me.  I would appreciate this, and
+would add such an "Archive" site to my signature and to my webpage.  
+
+Saluta,
+ Robin
+
+--
+>William W. Patterson
+http://www.neosplice.com/~ailanto
+>mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
+>
+>Old houses have lived many lives.
+>
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa pronunciation
+To: GLOSALIST
+Date: Fri, 05 Jun 98 10:4
+
+On Thu, 4 Jun 1998, Robin Gaskell wrote (small excerpt):
+
+> >PPS.  Has a sex neutral fe/an been coined yet (like there is in Chinese)
+> >(similar to Esperantic ri)?
+> *	No, Glosa follows the English pattern here.  In an earlier Net
+> discussion, I suggested, only half seriously, taking one letter from "fe"
+> and the other from "an".
+
+    Correct me if I am wrong, but it has been my understanding from
+the very beginning that 'pe' is usable as a sex-neutral pronoun.
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Re: Glosa pronunciation
+To: GLOSALIST
+Date: Fri, 05 Jun 98 10:5
+
+On Thu, 4 Jun 1998, Robin Gaskell wrote (excerpted):
+
+> >    A few final comments.   [  .............  ]  Although my remarks
+> >about Glosa are sincere, I have never sat down really to learn it and
+> >use it.  Perhaps others have the attitude, as I do, that it is just not
+> >yet in a sufficiently stable state in order to induce me to put much
+> >effort into it. 
+> *	I guess this is why the authors are concentrating on building up a
+> community of Glosa-pe, who use the language as it now exists!  
+
+    But my complaint, if you will, is that the language is not
+consistent enough to induce me to put much effort into it "as it now
+exists."  To be sure, we must avoid the trap of "tinkering" and ever
+striving for a "perfection" which does not exist.  At the same time,
+nearly every constructed auxlang goes through a developmental period. 
+
+    Zamenhof experimented with various schemes before he published
+Esperanto in 1887.  Different schemes were worked over before
+Interlingua was published in 1951.  Lojban went through development
+before it was baselined not too long ago.  There were at least three
+editions of Russell's Suma.  And so on.  My position is that if Glosa
+has been baselined, then it was so too soon and left with too many
+inconsistencies.
+
+    To be sure, there needs to be discerning judgment to decide that a
+language is in good enough condition that further adjustment my not be
+suitable.  I suppose I may differ in that judgment on the current state
+of Glosa.
+
+> 	The Glosa authors welcome items for the periodical "Plu Glosa Nota"  from
+> beginners, and they will happily edit such articles into good Glosa.
+> Netters should send items to  glosauk{at}cix{dot}compulink{dot}co{dot}uk  .
+
+    As a practical matter, are they even paying attention to their
+email?
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: William W Patterson
+Subject: Re: Archives
+To: GLOSALIST
+Date: Sat, 06 Jun 98 00:1
+
+Thu, 04 Jun 98 16:10:47 EDT, Robin Gaskell skribe:
+
+> *	Thank you, Bill for filing the procedings away.  It would be good to give
+> newcomers a retrospective on the List, and it is obviously 'easier' for you
+> to set up archive files than it is for me.  I would appreciate this, and
+> would add such an "Archive" site to my signature and to my webpage.  
+
+It has begun! Files uploaded for July through October 1997. See...
+
+   http://members.xoom.com/ailanto/glosa/index.htm
+
+which is also accessible from my Glosa page...
+
+   http://www.neosplice.com/~ailanto/glosa.htm
+
+- Saluta! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+I searched for form and land, for years and years I roamed
+
+
+From: William W Patterson
+Subject: Re: frater and frater2
+To: GLOSALIST
+Date: Sat, 06 Jun 98 10:5
+
+Tue, 02 Jun 98 21:10:33 EDT, Paul O Bartlett skribe:
+
+> ...frater2, a project I was once working on but have done nothing with
+> in a long time.  It was a modification of FRATER, a somewhat Glosa-like
+> language by a Vietnamese, published in 1957:
+> 
+> http://www.geocities.com/Athens/Acropolis/6223/frater2.html
+> 
+> (I never got around to finishing the vocabulary.  I did quite a
+> bit in the language description, however.)
+
+I came across frater2 some time ago, before I got involved with Glosa,
+so the connection with Interglossa/Glosa didn't sink in. I see that you
+integrated elements of Interglossa with frater2, and say that frater
+is glosalike; was frater itself influenced by Interglossa or was the
+similarity coincidental, since the authors of both languages were
+approaching the task with similar ideas in mind?
+
+Are there elements of frater and frater2 which could be used to
+enhance Glosa?
+
+- Saluta! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+He who laughs last probably didn't get the joke.
+
+
+From: Paul O Bartlett
+Subject: Re: frater and frater2
+To: GLOSALIST
+Date: Sat, 06 Jun 98 14:5
+
+On Sat, 6 Jun 1998, William W Patterson wrote:
+
+> Tue, 02 Jun 98 21:10:33 EDT, Paul O Bartlett skribe:
+> 
+> > [etc.]
+> 
+> [...]         was frater itself influenced by Interglossa or was the
+> similarity coincidental, since the authors of both languages were
+> approaching the task with similar ideas in mind?
+
+    The author of FRATER merely said that he was influenced by Bodmer's
+"The Loom of Language."  However, Hogben was the "editor" of "The
+Loom," and I really don't know how much was Bodmer's and how much
+Hogben's.  There was not mention of _direct_ influence from Hogben as
+such.
+
+> Are there elements of frater and frater2 which could be used to
+> enhance Glosa?
+
+    I would tend to doubt it.  I developed the grammar description of
+frater2 way beyond that of FRATER, although the latter was the base for
+the former.  Also, the grammar of frater2 seems to be much more
+elaborate than the implicit grammar of Glosa.  (I did not want to leave
+things ambiguous.)  Because both languages have a much more restricted
+phonology that Glosa, there is even more deformation of roots than with
+Glosa.  At this point I am not really in favor of "changing" Glosa; I
+would just like to see more consistency, more optimal word selection,
+and better presentation.
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: William W Patterson
+Subject: Re: Archives
+To: GLOSALIST
+Date: Sat, 06 Jun 98 17:4
+
+All files have been uploaded. Nothing fancy, just a big textfile
+for every month. Downloadable as ascii text or as zipfiles.
+
+   http://members.xoom.com/ailanto/glosa/index.htm
+
+- Salata! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+He who laughs last probably didn't get the joke.
+
+
+From: Robin Gaskell
+Subject: Re* ge-vide or gene ge-vide
+To: GLOSALIST
+Date: Mon, 08 Jun 98 07:1
+
+At 03:49 PM 5/29/98 +0100, you wrote:
+>Saluta a plu Glosa-pe-la,
+>
+>> Id gene vide per un andra. It is seen by the man.
+>
+**	True, I did slip up here.  The correct version is "Id gene ge-vide ex un
+andra.".  The English "seen" is a participle: I should have used the
+participle form ( ge-vide ) not the infinitive form ( vide ).
+*	This is annoyingly the only bit of Glosa that can be described as
+"morphological" grammar.  The authors claim that Glosa should be in the
+active voice ... but, because some people really need to invoke the
+participle, and use the passive voice, then they created the
+clumsy-appearing form: " ... gene ge-X .." where "X" is a substantive word
+functioning as a verb.
+
+	The glos is something like:-
+  ... gene ge-X
+     gets got-X-ed  ...... this 'got-X-ed' bit is the (past) participle, IE
+functionally an adjectival form modifying the subject of the sentence.
+Participles, being what they are, can, in English, have some of the
+qualities of an adverb .. modifying "get" in this case (or the "gene" in
+Glosa).  However, because I do enjoy using the passive voice - in both
+English and Glosa - I decided to go along with this 'exception' to the "in
+Glosa, no word is changed for reason of grammar" rule.   [NB The "ge-" of
+Glosa is almost equivalent to an "-ed" in English - for participles.]
+
+EG  Un andra vide u kani.  ........  U kani gene ge-vide ex un andra.
+..  the man  sees the dog   ......  the dog gets (got)seen by the man 
+
+..  Un andra bate u kani.  ........  U kani gene ge-bate ex un andra.      
+..  the man hits the dog  ........  the dog gets (got)hit by the man
+
+..  Fe klude u fenestra.  .........  U fenestra gene ge-klude ex fe.
+.. she closes the window  .........  the window gets (got)closed by her
+
+I wish to stress that in Glosa the form is always the same, but in English
+we have inherited numerous ways of forming the participle, and it may even
+stay the same as the infinitive.  There is always a verb before the
+participle: "gene" in Glosa; and "is", "gets", etc in English.
+
+The matter of tense becomes delightfully confused, in English, when we try
+to tease out just whose "-ed" it is: sometimes the "-ed" tells us we have a
+participle, sometimes it tells us about past tense, and at other time it
+covers both.  Obviously, in Glosa, the authors attempted to standardise the
+patterns for the formation of both tense and voice. 
+    NB We really have tried to avoid translating Glosa word for word from
+English, and have sought regularisation within the language.  Having said
+all that, it is possible to use the 'glos' form to replace Glosa words with
+English ones, and still come up with a fairly meaningful sequence of words.
+     
+>vide means seeing (adj), to see (verb), the see-er (noun), and? the act of
+>seeing (noun),
+*	Not so fast.  I think you have the ^tail by the dog^.
+Back to basics: in Glosa, WITHIN REASON, the substantive can function as
+any part of speech; we could perhaps have "vide andra" [seeing man], "ki
+vide id" [goes to see it], "fe vide an" [she sees him], u vide [a/the
+see(ing)].  But, perhaps the verb "to see" is one in which it is not
+reasonable to force all of the possible functions; maybe there are better
+lexemes for these functions, EG "vista" [view], "skope" [look at].
+	However, it is rational to think of some concepts as more related to
+actions (natural verbs) and others more related to things (natural nouns),
+and the same has to be true of Glosa, also.  In English we use "see" more
+as a verb than a noun.  The same is true of Glosa: it is natural to think
+of "vide" as having more of the qualities of a verb than a noun.  
+	So, it is best to start with the infinitive as the 'pure' form of the
+verb: "Vide!" (imperative), "An pa ki vide id." [He went to see it.]; but
+we can add tense "Fe pa vide id" [She saw it.], "Tosto, un avi fu vide id."
+[Soon, the bird will see it.], or "John nu vide id" [John is now seeing
+it.], and even "Po vide id, an pa kurso." [After seeing it, he ran.]; but
+we can get onto sticky ground when we try for the gerund "Mi amo mi plu
+okula, ka mi hedo vide." [I like my eyes because I enjoy seeing.].  As you
+can imagine, there is no difference in Glosa between " .. mi hedo vide." [
+.. I enjoy seeing.] and " .. mi hedo vide." [ .. I like to see.].
+
+	But, of course, we have *seeing* things in Glosa, too: "An es u vide-pe."
+[He is a see-er.] is pushing it a bit, when we would do better to say, "An
+es u skope-pe." [He is a watcher.], and "An habe vide" [He is sighted.] or
+"An habe un abili de vide." [He has the ability of seeing],
+alternatively [He has the ability to see.].  On the other hand we use the
+participle form as descriptions of things: "An es u ge-vide persona." and
+"An es u ge-vide-pe." both mean either [He is seen.] or [He is the seen
+person.] 
+
+>ge- reverses the direction of the act,
+*	You are right, but I stress that the reversal is ONLY in relation to the
+participants in the sentence, and that the " ge-" specifically denotes that
+the following substantive functions as a participle.	
+	The action of the substantive 'verb' is still a positive one!
+EG  Un andra bate u ju-an epi u buta.  
+..  the man hits the boy on the bottom  
+
+.. Epi u buta, u ju-an gene ge-bate ex un andra.
+.. on the bottom the boy gets  hit  by the man
+
+	The "ge-bate" is still a positive "hit", even in the passive: the boy
+feels the arrival of the hand on his bottom, not the removal of it.
+	But, in terms of the actor and recipient, we can say the " ge-" 
+indicates a reversal: this is what passive voice is about.
+
+>ge-vide means seen (adj), be seen (verb), the thing seen (noun), and? the
+>act of being seen (noun)
+*	Honestly, I believe we have a ^cart before the horse^ situation here.  IF
+the Glosa construction " ge-" denotes the participle, then the normal
+qualities of that 'part of speech' do apply: it acts as a noun modifier
+that embodies some active principle, which , usually, has acted in the past.
+	"Gene" is a 'form verb' giving us little information about the action
+other than its 'direction' IE who does it to whom.  Sometimes "getting" an
+object is all the action we need to know about, so, "gene", like "get", can
+function as the only verb in a sentence, and would, thus, have the quality
+of a substantive.
+	"Ge-" is a sort of abbreviation for "gene" [get/got], but makes more sense
+as a PARTICIPLE PARTICLE, akin to the "-ed/-en" moiety in English.
+	Glosa, being a SV(O) language, needs a full verb in every sentence:
+sometimes, as in English, it has only a 'form verb' to occupy the "V" slot;
+these are "es", "gene", "habe" and "eqa".  The " ge-" particle does not
+function as a 'form verb.'
+So, I attemt to answer your question(s) about the meaning of GE-VIDE :-
+#>ge-vide means seen (adj),# YES, participles are fundamentally adjectives.
+#be seen (verb),# NO, not as an infinitive; but YES to "being seen" as an
+adjectival group. 
+#the thing seen (noun),# NO, not an elided noun phrase:  .. U GE-VIDE RA is
+the full noun phrase; "ra" [thing] is a 'form noun'.
+#and? the >act of being seen (noun)# NO, this is asking too much of
+language, in general: in Glosa, the participle would need to be part of a
+descriptive phrase EG  UN AKTI DE GENE GE-VIDE .
+
+	N.B. If we take the abbreviation process too far, meaning is lost.
+Because Glosa works without verb inflections or Part-of-Speech markers, it 
+relies, for its semantics, on both syntax and description.  How else, in
+English, which has few inflections and only some P-o-S markers, do we say
+"the act of being seen" without using  the same number of words that we do
+in Glosa: five? 
+
+>so would I be correct in believing that "It is seen by the man." could be
+>neatly translated by
+>Id ge-vide ex un andra.
+>
+*	No: too neat.  What you have written translates into English as, "It seen
+by the man." which is a non-sentence because it lacks a "V".
+	Count the number of words in the compared English and Glosa sentences, and
+you will find that there is one less in the Glosa sentence: there is one
+word MISSING.  The missing word is the centre part of the SV(O)
+prescription: the Glosa 'form verb' "es" [=] is usually reserved to
+indicate equivalence; so the 'form verb' "gene" [gets] ^takes the crown^
+that you would have "is" ^abdicate^.
+	Certainly, in following the English syntax, Glosa has logical phrases and
+clauses: " .., ge-vide ex un andra, " is a perfectly legitemate adjectival
+phrase, as is its glos in English.
+EG
+"id, ge-vide ex un andra; qi pa komence voka, pluso skope an, e peti apo."
+ it seen by the man flew who started to shout  also saw him   and flew away
+
+>And I suppose,
+>An habe pote ge-vide == An pote ge-vide => He can be seen
+>
+*	Well no.  The types of 'verbs' at work do need more clarification in
+Glosa.  "Habe" is more directly involve with the direct act of HAVING, than
+is the English equivalent, which get itself caught up in some pretty
+complicated usages, which would have had to have had a very interesting
+linguistic history.
+	In trying to start with a fairly clean slate, we are starting off, in
+Glosa, with as few complex linguistic structures as possible.
+	"pote" is a member of the 'auxiliary verb' class - in its major function -
+as a verb.  These auxiliary verbs precede a substantive verb, and are
+(usually) not used alone: "pote", "posi", "sio", "debi", etc.
+	Again, your Glosa sentence lacks an effective verb:
+"An pote ge-vide." => He can seen.
+	In English, "can" {pote} and "seen" {ge-vide} are both 'verbal 
+elements', but there is still something missing from the 'verb phrase', and
+that is the 'form verb' "be" {gene}.
+
+	So, "An pote gene ge-vide."  =>  He can be seen.  The two sentences have
+the same number of words, and both need an effective verb in them.  In
+Glosa, we are not slavishly following English, but we are using the
+syntactic structures of English ... purely for the reasons that English
+syntax is logical, and it is as simplified as it can be, while still
+retaining meaning. 
+
+
+
+From: Paul O Bartlett
+Subject: Re: Re* ge-vide or gene ge-vide
+To: GLOSALIST
+Date: Mon, 08 Jun 98 10:4
+
+    This whole discussion by Robin puzzles me mightily in the matter of
+'gene ge-X'.  I will quote only a few excerpts.
+
+On Mon, 08 Jun 1998, Robin Gaskell wrote:
+
+> At 03:49 PM 5/29/98 +0100, you wrote:
+
+    By the way who is "you"?
+
+> >Saluta a plu Glosa-pe-la,
+> >
+> >> Id gene vide per un andra. It is seen by the man.
+> >
+> **      True, I did slip up here.  The correct version is "Id gene ge-vide ex un
+> andra.".
+> participle form ( ge-vide ) not the infinitive form ( vide ).
+
+> I wish to stress that in Glosa the form is always the same, but in English
+> we have inherited numerous ways of forming the participle, and it may even
+> stay the same as the infinitive.
+
+    Definitely.  Please see below.
+
+>                                   There is always a verb before the
+> participle: "gene" in Glosa; and "is", "gets", etc in English.
+
+>         "Ge-" is a sort of abbreviation for "gene" [get/got], but makes more sense
+> as a PARTICIPLE PARTICLE, akin to the "-ed/-en" moiety in English.
+
+    Why, pray tell, do we need this clumsy construction 'gene ge-X' at
+all except to convey a nuance discussed below?  As Robin points out,
+'ge-X' functions as a sort of pseudo-inflection or pseudo-agglutination,
+the only one in the language.  It forms the rough equivalent of the past
+participle, which in bare form in English is really a passive.
+
+    And in English and various other languages, the full passive
+construction consists of a passive participle and a copula.  The copula
+merely links the "passiveness" of the participle to the subject.  In
+short, the copula is all we really need:
+
+        Id es ge-vide ex andra.
+          It is seen by a/the man.  ('Un' is unnecessary here, because
+          the preposition 'ex' must necessarily be followed by a
+          substantive and therefore need not be explicitly marked.)
+
+    The Glosa authors have made this clear:
+
+        ge-lose feli
+          lost cat
+        Id frakti.
+          It beaks/is breaking.
+        Id pa frakti.
+          It broke.
+        ID PA GENE FRAKTI.  (sic! -- NOT ge-frakti!)
+          It got broken.
+        ID ES GE-FRAKTI.
+          It is broken.
+
+Hence, for non-idiomatic pseudo-passives, use 'es ge-X' in place of the
+clumsy 'gene ge-X' unless one needs especially to express a nuance.
+Even so, the form is NOT 'gene ge-X'.
+
+    I think that here the authors have again allowed themselves to be
+mislead by the notorious habits of their native English.  "Get" is one
+of those portmanteau words that carries a multitude of meanings, which
+they have allowed to sneak into Glosa with a slavish imitation, where
+many languages might use separate words for the various meanings.
+
+    Despite its many uses, several of the meanings of "get" can roughly
+be summarized under the headings of "become" and "acquire" (although
+this is not exhaustive), which many languages may not subsume in a
+single word.  Unfortunately, in my opinion, the authors have allowed
+these meanings to collapse into 'gene' as a counterpart of "get."  Thus,
+both "become" and "obtain/acquire" can be rendered by 'gene'.
+(Although, to de sure, another rendering of "become" is 'esce'.)  I
+think this is unwise and leads to confusion.
+
+    One might say that if the window is broken, it acquires brokenness.
+However, there is a subtle nuance of meaning here in English.  If the
+window is broken, it is patient.  If it acquires brokenness, it is
+agent.  The two situations are not precisely equivalent.  Nevertheless,
+in most circustances I would say that most users of English employ a
+passive construction to emphasize that the subject is patient rather
+than agent.  Consequently, in Glosa we might SEEM to have:
+
+        Id es ge-frakti.
+          subject is patient
+        Id gene ge-frakti.
+          subject is agent
+
+However, the authors have indicated the latter to be simply:
+
+        Id pa gene frakti.  (Depending on the nuance, 'pa' might be
+          unnecessary.)
+
+"It gets break." will do for subject-as-agent and "It is broken." for
+subject-as-patient.  In this case, I supprt the A&C usage.
+
+    Remember, if we always try to smuggle English usage into Glosa. we
+may be doing a disservice to all non-English-speaking potential users.
+Why should English be the sole determinant of Glosa usage?  This is
+another example of instances in which feedback from non-English-
+speaking Glosa-pe would be invaluable.  Unfortunately, as we know, they
+are not on the net.
+
+-- 
+Regards,
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Aaron Irvine
+Subject: Re: Re* ge-vide or gene ge-vide
+To: GLOSALIST
+Date: Tue, 09 Jun 98 08:3
+
+Let me think out loud...
+
+I will use the following notation: (preinterface)notion(postinterface).  Every word in
+Glosa (as defined by the dictionary rather than by the ending) is either a notion or a
+preposition.  A preposition (without a comma before it) overrides the postinterface of
+the preceding notion.  Every notion has a default preinterface as defined by the
+dictionary.  The default postinterface is (whole).  The preinterface for the first word
+in a sentence is always (context).  The final postinterface in a sentence is always
+ignored. A preposition (with a comma before it) ... that's more complex!
+
+Vide and Ge-vide are two different words.  They have the same meaning, but different
+interfaces.
+(agent)vide(patient)            -> think of the notion of seeing
+(patient)ge-vide(whole)      -> think of the notion of seeing
+
+
+Id vide = Id es vide
+-> (context)It(whole) (agent)seeing()
+-> It sees (G'i vidas)
+
+Id ge-vide = Id es ge-vide
+-> (context)It(whole) (patient)seeing()
+-> It is seen (G'i vidig'as)
+
+Id gene ge-vide = Id es gene ge-vide
+-> (context)It(whole) gets (patient)seeing()
+-> Something starts to look at it, it acquires see-ed-ness (G'i ekvidig'as)
+
+Vide id
+-> (context eg: they default:something)Seeing(patient) (whole)it()
+-> Something is looking at it / It is seen  (Vidig'as g'i)
+
+
+Aaron
+
+PS
+"Id habe ge-vide" would, I suppose, mean "It has something that is seen"
+
+
+
+From: Robin Gaskell
+Subject: Re: Re** Glosa pronunciation
+To: GLOSALIST
+Date: Sat, 13 Jun 98 07:0
+
+At 01:11 PM 5/31/98 -0400, Paul Bartlett grafo:
+>    I will respond to a few points here and there of Robin's post.   
+>	[  ..............  much taken as read  ......  ]
+*	I am in agreement with just about everything Paul said, and will mention
+the points +/or "Cc:" copies of discussion in correspondence with the
+authors, who are @  glosauk{at}cix{dot}compulink{dot}co{dot}uk  .
+ 	 
+Then Paul continued, quoting me:-  
+>> >>     At present, all I think Glosa really needs is a better selection
+>> >> of base vocabulary from already existing material ...
+>> >
+>> *	Nice to hear.  I guess that subscribers to this List should do a >>
+revised Introductory Dictionary for presentation to the authors.
+>
+>    Bill Patterson is doing good work in this regard.
+>
+>>                                      a short starter vocabulary
+>
+>    Why need there be anything beyond a "starter" vocabulary?
+>
+*	This question does not compute!  A Starter Dictionary" is one used by
+someone to LEARN a language - get the right 'feel' for the vocabulary,
+understand how words and phrases articulate, get the 'lilt' of the
+language, and generally gain confidence in using it.  But the language they
+learn to use still remains a 'baby language' at this level.
+	Even when writing the Glosa version of the Three Bears, I had to go
+outside the 1000 word list for a few of the words.  But, some people will
+want to discus politics, others philosophy, and others, again, computers,
+etc.  I feel strongly that Glosa needs to have a very clear-cut mechanism
+for the development and interleaving of technical vocabularies.  
+	But the vocablary that first delivers Glosa to learners (1.5 - 2K) needs
+to be friendly and fairly comprehensive to allow light conversation on most
+topics.  Paul, do you base your question on any historical precedent - of a
+2K language that permits full discussion?
+	
+>>                                So, any upwards revision of the starter
+>> dictionary must be, rationally, within the G.E.O. budget.
+>
+>    Is no one else willing to put any money into Glosa?  I admit that
+>I cannot at present, but if no one else is willing to, Glosa is in
+>something of a dangerous condition.  It MUST not remain tied to the
+>personal situations of Ron Clark and Wendy Ashby.
+>
+*	Free money or 'venture capital' is not likely to be made available for
+anything as 'airy fairy' as another language.  No, we are left with the
+human energy of the Ugandans.  I am afraid that the cash economy will do
+nothing for Glosa: I am putting my hopes into the world bank of "chi" that
+comes from the human will.  I would like to see a 'better' world, and do
+use some of my coins to help make it so; but, it is through the projection
+of my nervous energy into realising written Glosa on the page, and spoken
+Glosa on the cassette tape, that the real "wealth" of Glosa increases.
+	I challenge you to name one multinational that would bank-roll Glosa.  Can
+you even name any philanthropic trust that might donate to the G.E.O.?
+
+> 	[  .............  ]
+>>                       However, all Internet savvy people understand the
+>> concept of "Shareware", which incorporates the copyright idea, so
+>> provision of a "Glosa 2000" as Shareware would .. theoretically .. 
+>> protect the authors' copyright.
+>
+>    Bad idea, in my opinion.  Greater dissemination of Glosa requires
+>widest possible dissemination of materials, regardless of whether that
+>dissemination hits somebody in the pocketbook.  I am not aware thae
+>Zamenhof got particularly rich off Esperanto.
+>
+>    I have spoken my piece.  I will try not to belabor the points more.
+>
+>Paul
+*	Are we at cross purposes?  I am trying to say that through releasing a 2K
+"Shareware" Glosa dictionary on the Net, the authors will not necessarily
+be ahead financially - balancing a small number of registered users against
+a larger number of unregistered ones - but that the language will win on
+dissemination, and the authors will not have 'lost face' or lost revenue,
+by giving Glosa away as "Freeware".
+
+	What do others think of this "Shareware" proposal?  If the Glosa Net
+community is against it, then I ought to be thinking something else: but
+what?   Positive criticisms, in the form of suggestions, wanted please!
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Glosa/English Lists
+To: Glosalist Mailing List
+Date: Sat, 13 Jun 98 10:0
+
+At 06:36 PM 5/31/98 -0400, Paul Bartlett grafo:
+>    I was looking over the two lists, English-Glosa and Glosa-English,
+>you sent me.  I did not do a formal comparison, but I suppose they are
+>just transformations of each other.
+>
+*	Originally,that was what they were: I made no serious attempt to think
+about what I was doing: cleaning up the scanned Glosa 6000 to English list,
+and mechanically 'reversing' the list, to make up a corresponding English
+to Glosa 6000 equivalent list, took up all of my brain power.
+
+>    What is the original source of these lists?  Glosa 6000 which Robin
+>Gaskell scanned, or something else?  The reason I ask is that once
+>again there are discrepancies with the publications of Glosa Education
+>Organization.
+>
+*	I suspect so.  While compiling a single list from the Glosa 1000 and the
+Glosa 6000 lists in the _Glosa 6000_ dictionary, I was aware of
+discrepancies, and did make decisions on these - just to get the job done
+in a reasonable time.
+
+>    If you look down at the bottom of the Glosa Basic Reference on the
+>WWW, you will notice a large number of expressions in classifications. 
+>For the most part, these groups are taken right out of "English - Glosa
+>1000 Classified" (1992).  They form a lot of the grammatical "stickum"
+>of the language and therefore have some importance and value.  Yet when
+>I did a search, many of the expressions I did not find in the lists you
+>sent me. 
+*	Yes some 'usage phrases' do not sit well in a 'word translation'
+dictionary, but, I guess, they should be included.  EG "such a" in English
+becomes "u tali" in Glosa: I have uncritically adopted this usage, in the
+thought that the authors have done the research, and have selected this
+usage for good (enough) etymological reasons.  Had I researched every word
+before I used it, I would never have completer "Plu Tri Ursus."
+
+	
+>    When I collated the vocabulary in the G.B.R., I used the word
+>lists in the various "Glosa 1000's" I had.  I did not start from Glosa
+>6000.  In fact, I generally ignored it (except to smuggle in a word or
+>two I wanted for correspondence once but could not find in the basic
+>lists).
+>
+* 	A distinct difference between methodologies emerges.  Knowing that there
+were variations between the various 1000-word lists, I chose to use the
+lists in the _Glosa 6000_ dictionary as my datum.  And, again, I had to do
+some tricky finger-work, because among the three lists in this book (E->G
+1000, G->E 1000, G->E 6000) there were differences.
+	Rather than add to a "baselined" 1000-word list, I would prefer to prune
+from a 6000-word list augmented with selections from Bill's "Omissions"
+list.  <I have started looking at these "Omissions.">
+
+>    So there seems to be some difference of method.  I started from the
+>various Glosa 1000's.  I take it that you started from Glosa 6000.  The
+>results are rather different.
+*	The problem is in looking at each lexeme and considering its worth:
+this is very time-consuming work; Ron Clark was at it for at least a
+decade.  Just about all of the words in the various 1000-word lists should
+be in a First/Basic/Learners/2K dictionary, but then some horse-trading is
+likely to occur over what makes additions to the G.E.O. lists worthwhile or
+essential.
+	When culling from an augmented 6000-word list, I would aim, on the other
+hand, to eliminate words that were not essential to polite tourist
+conversation .. or effective pen-friend correspondence.
+
+  My assumption was that the various Glosa
+>1000's, despite differences among them, were the proper starting point
+>in order to keep the size of the base vocabulary within some sort of
+>bounds.  It is these sorts of things that I think need to be resolved.
+>
+*	How to do it: that is the question.
+	I imagine that the creative-anarchistic approach will yield the most
+suitable list for global use (but that is just because I am a creative
+anarchist); alternatively, we can try distilling a concepts list from the
+various research lists about, and decide that the words associated with
+these concepts comprise the true 'essential' dictionary.  Ron Clark
+actually took the concept list from _Roget's Thesaurus; maybe Roget,
+himself, saw something magical in the number "one thousand."
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Glosa Per Glosa
+To: GLOSALIST
+Date: Sat, 13 Jun 98 11:0
+
+At 07:02 PM 5/31/98 EDT, Bill Patterson grafo:
+>Thu, 28 May 98 10:07:46 EDT, Robin Gaskell skribe:
+>
+>> 	[In order to research this concept, I will start a Glosa >> dictionary,
+which defines each Glosa word by using other Glosa words.   
+>>	[  .........  etc, etc  .............  ]
+>> 	[At the bottom of each page, new words on that page possibly get 
+>> defined using simple words.]
+>
+>An excellent idea, a natlang-independent beginner's instruction book.
+>And a number of good ideas for the implementation. I have one suggestion
+>which though violating the purity of the idea might make it more easily
+>achievable: a small companion booklet in the natlang,
+*	Thank you for this comment, Bill.  Yes the companion book(s) would be
+worthwhile, and, for some, essential.  Whithin a cultural setting, however,
+the more able would intuit the way to make the language work, and 
+would explain it in the relevant natlang to others, who are less intuitive.
+	I am not so concerned with purity, more with economy of resources and
+human effort.  Such a "do it yourself" book would be printable in bulk and,
+hopefully, on ASCII-based computer printers, and would be produced without
+the G.E.O. group having to learn to translate into, or commission, versions
+of Glosa instruction books in the world's myriad tongues.  Where the
+expensive effort comes in is in the thinking of the educational ploys to
+achieve all of these ends, IE making it work, on the page.
+
+>    something small
+>and fairly easy to produce, in which particularly troublesome bootstrap
+>information could be provided. Maybe even just a page to be inserted - it
+>might go a long way towards simplifying that startup task.
+>
+*	Yes, this could be sent with a book to a particular location .. possibly
+even a page from a nearby language EG a Spanish Page to a Portuguese.  With
+a first contact, we could find a person who knows a language that has been
+covered with a 'prompt sheet,' and get them to do an equivalent one for
+their culture.
+	I am a great believer in the power of the human imagination.
+Perhaps the problems are there only to give us something on which to
+stretch our minds.
+	Anyone attacking the World Language Problem, of course, has decided to
+grapple with one of the most challenging of problems.  I do believe that
+the best brains should be applied to this problem .. but, they've got us.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Re* Glosa pronunciation
+To: GLOSALIST
+Date: Sat, 13 Jun 98 12:3
+
+At 08:35 PM 5/31/98 EDT, Bill Patterson grafo:
+>Sun, 31 May 98 15:23:45 EDT, Robin Gaskell skribe:
+>
+>> 	The question of our getting together, [  ....cut .......... ]
+>> .. and 'pidgeon postage' is one of the killer costs for the
+>> authors.  As well as that, ... dictionaries are reprinted,  ...  
+>> by a Printer.
+>
+>I was wondering about the GEO, and its organization, and the worldwide
+>distribution of the glosa-pe. Is the A&C address all there is? I mean
+>physically; 
+*	In Africa the RUGOTEC Mountain Gorilla Park in Uganda is a recognised
+site.  But we don't have offices in different cities dotted around the
+globe.  Yes, we should: please write with your plan to the authors.  They
+will probably wish to see evidence of proven performance in 
+using Glosa before authorising anyone to act on their behalf.
+	I am "NSW Agent for Glosa" but do not advertise, nor put out a shingle to
+this effect.  Perhaps I should, as you suggest, locate some advertisements
+in the local media.  The trouble is that auxiliary languages, as a topic,
+are a non-category: no-one wants to accept the concept as being within
+their area of interest.  So, OK, this should simply be a provocation to me
+to make it into a category.  I possibly have been lazy in not thinking of
+this, lately.  When I first returned from the UK ~18 years ago, I did some
+advertising and a couple of talks, but this led no-where.  Perhaps it is
+time to start again.
+	The question of groups is finding a ^shepherd.^  By this I suggest that
+starting a group learning an unheard-of language asks a lot, and primarily
+calls for an "authority" on the language to watch over the ^flock^ guiding
+them through the tricky passes and observing them as they roam the plains.
+Questions like "Did I get it right?" need to be answered almost
+immediately, to ensure continued progress.  The idea of a correspondence
+course with cassettes comes to mind for the reasonably affluent
+non-networked group.  The non-affluent, non-networked need a lot more
+material help, but, magically, are more self-reliant.  
+	Certainly, we should have more satellite centres so that enquirers can be
+serviced with the minimum postage cost.  also, if Glosa materials are
+stored electronically, they can be printed using a computer printer, on
+demand.
+	Paul Bartlett points directly to the need for promotional materials in
+various national languages.  Somehow these can be produced for electronic
+reproduction, so that, for example, a German speaking enquirer can be sent
+information through my printing the right file: the one with the  .GER
+extension.
+	Distribution of Glosa-pe is not circulated as an open list - I think it
+should: Imust raise it with the authors that requests have been made for
+names and addresses of people to write to.  Most are Post Office addresses,
+involving paper, envelopes and postage stamps.
+
+
+>     not on the Net. But then, on the Net, there's only three
+>sites I know of, Robin's and Paul's and mine. I have never seen anything
+>of Glosa in the real world, and if not for Robin's "Glimmering Out" post
+>on conlang a couple of summers ago, I probably never would have seen his
+>or Paul's site. (Try doing a websearch for Glosa; you'll find a bazillion
+>hits, none of which have anything to do with this language we're talking
+>about, because glosa itself is a pretty common word in the world.)
+>
+>Somebody needs to do some advertising. On the Net and off.
+>
+*	What is the clue to finding ways of getting one's webpage listed in
+search engines?  Thanks for the tip on the broad usage of the word "glosa".
+
+> (Wait a moment, maybe that's an opportunity! Although
+>several other IALs have the lead, they aren't seen in daily life either.
+>So if we advertised even just a little bit...) 
+>
+*	Very true!
+
+>Are there national GEO satellite offices? If not, perhaps we should start
+>some, if that's acceptable.
+*	Of course it is acceptable, but somehow things have been somewhat
+centralised up to now.  I have held stocks of G.E.O. materials in the past,
+but stopped sending the ones proclaiming "Glosa has NO GRAMMAR" when I
+found this counter-productive.  It would be nice to have stocks of Glosa
+materials on hand (or on disk) ready to hand out (or run off).  This would
+be especially so, if we could all feel happy that each dictionary with the
+same name contained the same words spelt the same way.  Hence the value of
+the present work in trying to standardise the vocabulary.
+
+> That could alleviate the postage problems for
+>the GEO, since the national sites could handle the local traffic.
+>
+*	My guess is that "local traffic" would need to be stimulated.
+
+>Does anybody know the size of the glosa-pe? And where they're located?
+>
+*	 Ron and Wendy should.  But, to date a "Posting List" has not been
+circulated.  I have been asked to write to a number of people, and have
+done so.  I was writing regularly to the Ugandans, but this is a slow
+process, because they have to save up the money to buy stamps.  Maybe we
+need to build up a pen-friend system so that people can vie with one
+another for the record number of penfriends on their list.  Paul Bartlett
+would say, "But is A using the same wordlist as B?" and this is a valid
+question.  
+	Basically the distribution of Glosa-pe is very dotty, with individuals
+showing interest, in ones and twos, very widely separated .. except in
+Uganda and at Oak Log Middle School in Atlanta.
+
+>Ooooh! I made a good choice! I just checked my Dictionary Source File,
+>and sure enough, I had selected "supra" as the preferred synonym. Can't
+>say that I remember exactly why, but it does seem to me that clarity
+>is more important that brevity in this case.
+>
+*	Good intuitive sense is the way I would describe it.
+
+Saluta, 
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Re* Glosa pronunciation
+To: GLOSALIST
+Date: Sat, 13 Jun 98 14:2
+
+At 09:08 PM 5/31/98 EDT, Bill Patterson grafo:
+>Sun, 31 May 98 12:47:59 EDT, John Schilke skribe:
+>
+>JS> 	1. Glosa is still appropriately under the management of Ron and 
+>JS> Wendy, who are, by the way, very reasonable folk, in my opinion and 
+>JS> experience.  Any changes in G should proceed from GEO.
+>>From what little I know of them I'd have to agree. And I do wish they'd
+>participate. I don't understand why it's a problem. They've got an email
+>address and the traffic on glosalist is not very high.
+*	Best if we can arrange a more or less democratic way of discussing such
+possible changes .. on a concensus basis.
+	They are scared of losing money and time on the Net, while they would
+rather deal with the wider, non-networked group.  By the way, at present,
+Ron is on Glosa full-time, but Wendy has to go out to work to support them.
+	I know that Paul says it is wrong for the fate of a social invention to
+hinge on the finances of the inventors, but, at present, Glosa depends on
+the survival of the authors, who are running a fairly centralised,
+non-distibuted organisation.  It would be great to have a map of the world
+with pins in it showing the locations of the various decentralised Glosa
+offices on it.
+
+>JS> 	2. It is perhaps reasonable to change VI to VU, although I would 
+>JS> need to see a strong argument in its favor.  
+>JS>	[  ..............  ]
+>JS> Still, any such change would have economic costs (for R&W) and I would 
+>JS> question its worth.
+>
+*	At present, I would agree with this pririty rating.
+
+>Aaron provided a horribly fascinating but strangely symmetrical example:
+>
+>AI> Glosa has the possibility to improve on the Esperanto mess-up:
+>AI> Esperanto: ni = we, vi = you
+>AI> Swedish: ni= you, vi = we
+>but is this a problem for anybody who is not Swedish?
+>
+*	I feel, here, that the Latin is the correct reference language:-
+	you  - tu, vos
+	we  -  nos 
+
+>JS> 	4. I really wish that the Ugandans and Chinese and others could 
+>JS> participate in these discussions.  The charge has been levelled
+against G 
+>JS> that it is relexified English, and without the viewpoints of 
+>JS> non-anglophones, it is quite hard to gainsay that.
+>
+*	Just a fact of life that Africa is the "forgotten continent"; and, for
+some reason though there's a lot of people in China, they are not spreading
+themselves around as much as the English-speaking people do.  Economics
+play a big part in this enterprise, and the very ones we wish to hear from
+are the ones with no dough.
+
+>Relexification never bothered me. There seems to be a bias in the conlang
+>community against using any feature of your natlang in your conlang, lest
+>you be merely relexifying. But if your natlang has a useful feature, why
+>*not* use it in your conlang? I bet German conlangers accuse each other of
+>relexifying German, French conlangers French, etc.
+>
+*	Which of course, is correct.  If a truth is approached from different
+directions, it doesn't make the truth any the less true, or one approach
+less correct than the other.
+
+>However...
+>Glosa is *not* relexified English. The problem is that we sometimes tend
+>to write relexified English using Glosa vocabulary, and if that's what the
+>observers see, then they think that Glosa is relexified English. We must
+>strive to write Glosa using Glosa grammar (assuming we know what that is),
+>and write lots, and get it out there where people can see it.
+>
+*	My guess is that the Glosa grammar is the crux.  There seems to be a very
+clearcut idea of what is the right syntax, but this is not stressed by the
+authors, who assume that learners will intuit it .. picking it up ^blotting
+paper fashion^ from reading Plu Glosa Nota.
+	The thing that is deceptive is the ease of construction in English: we can
+use sloppy syntax all our lives, when speaking English, and not know it.
+But, while for Glosa, as in English, the same basic rules of syntax apply,
+we will make badly formed Glosa sentences if we use the same sloppy syntax
+that we probably would have gotten away with, in English.
+N.B. Newcomers to this list might note that in Glosa phrases, the
+substantive word, whether verb or noun, comes last: this is described
+technically as a 'head final' structure.  Modifiers (adverbs, adjectives,
+etc) precede the substantive word they modify.
+
+>JS> 	5. I know that R&W are not on Glosalist for financial reasons, 
+>JS> but this is really a shame, since it allows for a potential split; I do 
+>JS> not want such a thing to happen.  I for one would be glad to contribute 
+>JS> to a fund to subsidize their participation.  Anyone want to join me?  
+>
+* 	Before getting the authors into the Glosalist, we should check out the
+way they wish to spend their time: maybe if people write to them at  
+glosauk{at}cix{dot}compulink{dot}co{dot}uk  explaining that we wish to have them on the
+list, and will contribute to the additional costs incurred in joining us,
+then we will get the desired result.
+
+>Perhaps. I need to know more. As I said above, I don't know why it's such
+>a problem. I do know that in Europe connection costs are greater, and aren't
+>they charged by the minute? But this is a low-traffic list, and they've got
+>an address. Are they comfortable with computers? Of great importance: can
+>they work offline, prepare their mail, login and blast it all out and then
+>logoff. That shouldn't take much actual connect time. I just spent about an
+>hour and a half responding to various messages, but I'll only be online for
+>a minute or so sending it out.
+>
+*	This last thought could be it. I have offerred to send my _Eudora Ver 3_
+disks to them, but will again.  They could be sufferring from unsuitable
+software.
+
+Saluta,
+ Robin
+>
+>--
+>William W. Patterson
+http://www.neosplice.com/~ailanto
+>mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
+>
+>If ignorance is bliss, why aren't more people happy?
+>
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Re# Glosa pronunciation
+To: GLOSALIST
+Date: Sat, 13 Jun 98 15:4
+
+At 09:34 PM 5/31/98 EDT, Bill Patterson grafo:
+>Sun, 31 May 98 13:11:49 EDT, Paul O Bartlett skribe:
+>>	[  .........  ]
+>>  I do not approve of general use of Glosa 6000.  Frankly, I personally
+>> am not interested in wrestling with that size of vocabulary.
+>
+>I agree with your comments about the two Glosa dictionaries. Why two? For
+>maximum utility as an IAL,
+*	I think that is the main thing: an IAL must be ready to serve its users
+in any area of human activity, and, as such, the vocabulary should be
+there, available, as needed.  The fact that the full terminology for brain
+surgery is not in the standard dictionary, does not suggest that surgeons
+should not be able to access a suitable lexicon to talk about such things.
+	If people can cover most of their life interests within a 2K lexicon, they
+must be living in an intellectual desert.  However, if they can get fluent
+in a new language, within 2K, then the two thousand words have served their
+purpose.  But, when they want to get into something really interesting,
+like a heated discussion on language reform, or they wish to express
+themselves interestingly, they will soon discover the limits of a 2K
+vocabulary.
+
+>   just use the smaller one, and say that's it.
+>(Maybe also say, if you need a word that's not in here, use the straight
+>Latin (or Greek), so that readers will know to look in *that* dictionary
+>for anything they can't find in the Glosa dictionary.)
+*	This would result in a form of anarchy with which even I could not cope.
+I would say that all languages provide their users with increasing levels
+of complexity as interests and linguistic skills grow.
+	It would be, I feel, honest to say to people that once they master their
+first dictionary, or is it reach the limits of the dictionary they start
+with, then they will move on to a larger dictionary with a larger vocabulary.
+	Once our brain surgeon is happy with the normal vocabulary of this larger
+dictionary, he will want to discover the medical extension to the language
+so that he can effectively attend the next world conference of brain
+surgeons in Alma Ata.
+
+>  Or just use the bigger one and admit that Glosa has a large vocabulary
+>but it's a darn good IAL vocabulary. 
+*	But doing it this way, we run into the over sufficiency syndrome that
+Paul has reported.  People will feel that they can't possibly learn all of
+the words in the dictionary, and, thus, will reject the language as being
+too hard.  It might be a darn good IAL vocabulary, but learning of
+language, like everything should be in gradual stages, and this suggests
+the use of a restricted, but adequate, vocabulary, at the start.
+
+>Given that the vocabulary is large, I can understand the need for a
+>slimmed-down version for beginners. But if that slimmed-down version
+>is too slim, we're all going to be using the 6000 anyway. And there will
+>always be beginners using the 1000 and missing many of the words being
+>used by us oldtimers with the 6000. So why not choose the middle path and
+>come up with just one standard dictionary, larger than the small one but
+>smaller than the large one, and complete in itself?
+>
+*	Unlike Paul, I feel that we should aspire to the 6K lexicon asap.
+	While a world speaking to itself using a 2K vocabulary will only be using
+a 'baby language', the matter of cost explains the sending of 1000-word
+lists to the majority of Glosa-pe.  If they had had the money to buy the
+larger dictionary, they would have paid for one, but most Glosa-pe have
+either been given a version of Glosa 1000, or have had only enough cash to
+purchase the minimal dictionary. 
+
+>(Or perhaps the 1000 *is* the real-life "shareware" version, and the
+>omissions are the incentive to purchase the full version?)
+>
+*	Joke!  But the Glosa classified, that is available on the Net, is
+something like a partial dictionary, and would cause me to want to get the
+real thing.
+
+>Just omitting synonyms can slim it down quite a bit.  [  ...........  ]
+>I hate to give up too many words, but perhaps a well-selected Glosa 2000
+>or 3000 is what we really need.
+>>     Bill Patterson is doing good work in this regard.
+>>Thanks, Paul!
+*	Akorda!
+
+>>     Why need there be anything beyond a "starter" vocabulary?
+>Good point. See my comments above.
+*	And mine.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Re* Glosa pronunciation
+To: GLOSALIST
+Date: Sat, 13 Jun 98 16:2
+
+At 10:29 PM 5/31/98 -0400, Paul Bartlett wrote:
+>On Sun, 31 May 1998, William W Patterson wrote (pieces):
+>
+>> From what little I know of them I'd have to agree. And I do wish they'd
+>> participate. I don't understand why it's a problem. They've got an email
+>> address and the traffic on glosalist is not very high.
+>
+>    I did once get a couple of emails from Ron Clark.  To be honest,
+>there were almost unreadable, as if he didn't really know how to use a
+>computer.  (They didn't even understand what a spell-checker is for.)
+>
+*	Sorry to hear this: most of my letters come from Wendy, though
+occasionally I get one from Ron.  Must admit, I don't use a spell-checker,
+either, but maybe it doesn't show.
+
+>>             Are they comfortable with computers?
+>    I think not.  See above.
+*	Possibly they do not have anyone handy to help them with the secrets of
+getting into the cyberworld.  Costs of upgrades and new software are
+possibly also beyond them.  In a previous letter, I did ask for technical
+details of their computer equipment, but have recieved no data yet.  They
+might have a 386, like me, but then they could still be soldiering on with
+a 286 ... using a UNIX connection.  I must ask again.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST: Majordomo installed!  Majordomo reads your email
+address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL (fwd)
+To: glosalist
+Date: Sat, 13 Jun 98 11:5
+
+    The following post appeared of the alt.language.artificial
+newsgroup.  I though someone might be interested ion the last 
+sentence.
+
+Paul
+
+---------- Forwarded message ----------
+From: David Armstrong <armstrong{at}valise{dot}com>
+Newsgroups: alt.language.artificial
+Date: 12 Jun 1998 19:05:42 -0700
+Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL
+
+In article <wz3edasg3k.fsf{at}urquan-kzer-za.mesas.com>, John says...
+
+>Please keep the discussion at a professional or at least non-insulting
+>level.
+
+There's no way to point out the absurdity of a false claim without insulting
+the person whose claim is being de-bunked.  The NGL folks say they want to
+get "market share" for their new L1 language, and I simply pointed out that
+there is no market clamoring for new L1 languages.
+
+The NGL folks also claim that their language is nearly a loglan and "more
+suited to the modern world than English," then one of them puts forward a
+vocabulary list derived from Ogden's Basic English -- a list of some of
+the most vague, polysemous words in English.  Whenever a bunch of 
+anglophones design a new language for the world and then offer one-word
+English glosses for their morphemes, it is a sign that little or no
+attention has been paid to semantics.
+
+The gap between the claims made by NGL fans and the reality is beginning
+to rival that of Glosa.
+
+------------------
+This public news site made possible by
+the folks at http://extra.newsguy.com
+
+
+From: Paul O Bartlett
+Subject: Re: Re** Glosa pronunciation
+To: GLOSALIST
+Date: Sat, 13 Jun 98 13:4
+
+    I will try to respond to a few points in some of Robin's posts here
+rather than making scattered replies.
+
+On Sat, 13 Jun 1998, Robin Gaskell wrote (excerpted):
+
+> >> *	Nice to hear.  I guess that subscribers to this List should do a 
+> >> revised Introductory Dictionary for presentation to the authors.
+
+    I think this would be a very good idea for those who really want
+the language to succeed.  But I really don't know what would happen if
+they decline to accept it.  Like John Schilke, I think it would be a
+bad thing if there were a split in what little Glosa movement there is.
+
+> > [I wrote:]
+> >    Why need there be anything beyond a "starter" vocabulary?
+
+> *	This question does not compute!  A Starter Dictionary" is one used by
+> someone to LEARN a language - get the right 'feel' for the vocabulary,
+> understand how words and phrases articulate, get the 'lilt' of the
+> language, and generally gain confidence in using it.  But the language they
+> learn to use still remains a 'baby language' at this level.
+
+>          Paul, do you base your question on any historical precedent - of a
+> 2K language that permits full discussion?
+
+    Yes.  Pidgins.  They are in daily use and have a restricted
+vocabulary (although I have no information on the specific vocabulary
+size of particular pidgins).  As I have mentioned before, I have read
+that Tok Pisin, a pidgin, is in use in parliamentary debates in Papua
+New Guinea.  Is a pidgin a "baby language"?  It would seem to me that
+the idea of a "baby language" is more a put-down than an argument. 
+Sorry, Robin.  Was Hogben's Interglossa a "baby language" with its
+restricted vocabulary?  And I never estimated the base vocabulary size
+of Pham Xuan Thai's FRATER, but he translated the entire United Nations
+Charter into it, as well as portions of relgious scriptures from around
+the world.
+
+    I think it comes down to differing ideas about the purpose of an
+auxiliary language.  I do not see any one single auxlang as the be-all
+and end-all of the totality of human communication, just a help for
+those of dissimilar tongues.  That is why I am not in favor of such a
+large vocabulary.  There may be room for more than one auxiliary
+language, one, say, for basic communication and one for international
+subtlety.  (But again, see FRATER; I suppose I really should try to
+estimate its vocabulary.)  I see something like Glosa in the first role
+and something like Interlingua or even Esperanto, with their
+multi-thousand-word vocabularies, in the second.  (But even such a
+division of labor might or might not really be necessary.)
+
+    There is also the issue of competition in the auxlang marketplace. 
+An isolating language with a small vocabulary might have a distinct
+advantage over something like Interlingua, with a vocabulary running
+into the tens of thousands.  It would to me.
+	
+> >    Is no one else willing to put any money into Glosa?  I admit that
+> >I cannot at present, but if no one else is willing to, Glosa is in
+> >something of a dangerous condition.  It MUST not remain tied to the
+> >personal situations of Ron Clark and Wendy Ashby.
+> >
+> *	Free money or 'venture capital' is not likely to be made available for
+> anything as 'airy fairy' as another language.
+
+> 	I challenge you to name one multinational that would bank-roll Glosa.  Can
+> you even name any philanthropic trust that might donate to the G.E.O.?
+
+    But it has happened!  Alice Morris Vanderbilt poured money into
+IALA, which produced Interlingua.  I doubt that foundations might put 
+a lot of miney into Glosa -- although you never know -- but an
+enthusiastic rich donor might.
+
+> >>                       However, all Internet savvy people understand the
+> >> concept of "Shareware", which incorporates the copyright idea, so
+> >> provision of a "Glosa 2000" as Shareware would .. theoretically .. 
+> >> protect the authors' copyright.
+> >
+> >    Bad idea, in my opinion.  Greater dissemination of Glosa requires
+> >widest possible dissemination of materials, regardless of whether that
+> >dissemination hits somebody in the pocketbook.  I am not aware thae
+> >Zamenhof got particularly rich off Esperanto.
+
+> *	Are we at cross purposes?
+
+    I don't think so.  It appears to me that we just have differing
+ideas on how to try to attaina goal.
+
+>                              I am trying to say that through releasing a 2K
+> "Shareware" Glosa dictionary on the Net, the authors will not necessarily
+> be ahead financially [...]             but that the language will win on
+> dissemination, and the authors will not have 'lost face' or lost revenue,
+> by giving Glosa away as "Freeware".
+
+    "Lost face"?  I have to say that that one escapes me.  Being poor
+myself at the moment (I can barely afford to stay on the 'net) I can
+sympathize with the authors' possibly impecunious situation.  That is
+hard.  But life itself is hard at times.  That is the unpleasant
+reality of things.  They gave me approval to put the Glosa Basic
+Reference on the world wide web without any specification for payment
+by shareware or any other method.  Their copyright is on it, but the
+cat is more or less out of the bag.  If it were merely smoothed out and
+enhanced along the lines I have suggested in the last few weeks, I
+would be satisifed.
+
+***** 
+
+> >[I wrote:]
+> >    When I collated the vocabulary in the G.B.R., I used the word
+> >lists in the various "Glosa 1000's" I had.  I did not start from Glosa
+> >6000.  In fact, I generally ignored it (except to smuggle in a word or
+> >two I wanted for correspondence once but could not find in the basic
+> >lists).
+> >
+> * 	A distinct difference between methodologies emerges.  Knowing that there
+> were variations between the various 1000-word lists, I chose to use the
+> lists in the _Glosa 6000_ dictionary as my datum.
+
+    Yes.  I was using more a bottom-up approach, and you (and Bill
+Patterson, as nearly as I can tell) are top-downers.  If the intention
+of our efforts is in fact to come up with a revised/enhanced base
+vocabulary, we _may_ be able to come out more or less in the same place.
+
+> *	The problem is in looking at each lexeme and considering its worth:
+> this is very time-consuming work; Ron Clark was at it for at least a
+> decade.
+
+    No doubt, and he is to be commended for his labor.  I am not
+discounting it, and I cannot claim that I would necessarily do a better
+job.  That is precisely why I have taken the bottom-up approach. 
+Unfortunately, it is results that count, now how much sweat by whom 
+was put into the effort.  Will he (and Wendy Ashby) let no one else
+participate in the effort?  I don't know.  However, they did accept my
+efforts in producing the Basic Reference on the www, so I am presuming
+that they might be somewhat open to others' efforts.
+
+> > My assumption was that the various Glosa
+> >1000's, despite differences among them, were the proper starting point
+> >in order to keep the size of the base vocabulary within some sort of
+> >bounds.  It is these sorts of things that I think need to be resolved.
+> >
+> *	How to do it: that is the question.
+
+   Without knowing the attidude and stance of the authors, this remain
+a considerable unknown.
+
+*****
+
+> 	If people can cover most of their life interests within a 2K lexicon, they
+> must be living in an intellectual desert.
+
+    I think you are overlooking the pidgins again.  A lot of folklore
+has been preserved and recorded in Tok Pisin, and I have heard that
+there are even radio broadcasts in it out of Australia itself.  It may
+be similar with Police Motu and other pidgins.
+
+>                                            However, if they can get fluent
+> in a new language, within 2K, then the two thousand words have served their
+> purpose.
+
+    And I would like to see if a well-chosed limited vocabulary _would_
+be adequate.
+
+>           But, when they want to get into something really interesting,
+> like a heated discussion on language reform, or they wish to express
+> themselves interestingly, they will soon discover the limits of a 2K
+> vocabulary.
+
+    Maybe, maybe not.
+
+> >[Bill Patterson:]
+> >  Or just use the bigger one and admit that Glosa has a large vocabulary
+> >but it's a darn good IAL vocabulary. 
+> *	But doing it this way, we run into the over sufficiency syndrome that
+> Paul has reported.  People will feel that they can't possibly learn all of
+> the words in the dictionary, and, thus, will reject the language as being
+> too hard.
+
+    Which might well be my own case.  Over the years I have developed
+reading and concentration impairments, which may have a lot to do with
+why the idea of a limited vocabulary appeals to me, I admit.
+
+> >                                    So why not choose the middle path and
+> >come up with just one standard dictionary, larger than the small one but
+> >smaller than the large one, and complete in itself?
+
+    This has been, more or less, my position all along, and my hunch is
+that the base might not have to be much larger than that in the current
+Basic Reference.
+
+> *	Unlike Paul, I feel that we should aspire to the 6K lexicon asap.
+
+    Yes, I think we do have a serious disagreement here.
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+
+
+From: William W Patterson
+Subject: Re: Glosa Per Glosa
+To: GLOSALIST
+Date: Sat, 13 Jun 98 13:2
+
+Sat, 13 Jun 98 11:01:33 EDT, Robin Gaskell skribe:
+
+> 	Anyone attacking the World Language Problem, of course, has decided to
+> grapple with one of the most challenging of problems.  I do believe that
+> the best brains should be applied to this problem .. but, they've got us.
+
+Just wanted to say, Robin, that I love to read your writing!
+When it's not making me think harder, it's making me smile,
+and sometimes it does both, and that's a good combination.
+
+- Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+You are in a little maze of twisting passages, all different.
+
+
+From: William W Patterson
+Subject: Re: Re* Glosa pronunciation
+To: GLOSALIST
+Date: Sat, 13 Jun 98 14:0
+
+Sat, 13 Jun 98 12:35:15 EDT, Robin Gaskell skribe:
+
+> *	What is the clue to finding ways of getting one's webpage listed in
+> search engines?  Thanks for the tip on the broad usage of the word "glosa".
+
+Some search engines scour the web, sucking in every word on every page,
+discarding only the common ones for the language of the page (according
+to their estimation) such as "the" or "a" for English pages. These engines
+*will* have your page, but they're so bloated with words that they return
+many many useless hits with the few useful ones mixed in somewhere.
+
+Some just examine the titles, so it's important to stuff the relevant words
+in there too.
+
+Some are more commercial and will guarantee that your site will be within
+the first few hits - for a price. That could be argued either way, as a Bad
+Thing or a Good Thing. But it could be useful.
+
+Something I just started experimenting with is the HTML META tag. Some
+engines index on this "keyword" information, so this could be an important
+tool to use. For example, on my pages I've put something like this...
+
+<HTML>
+<HEAD>
+  <TITLE>Ailanto: Glosa</TITLE>
+  <META NAME="keywords" CONTENT="glosa, language, auxiliary, international, auxlang">
+</HEAD>
+etc...
+
+...and then next week or so I'm going to try some searches on combinations
+of these keywords to see what pops up.
+
+> because they have to save up the money to buy stamps.
+
+I hadn't thought of this. Is this due to poverty or their sort of economy?
+The thought saddens me, that such a thing could be an obstacle to an
+intellectual, educational, international pursuit.
+
+> Maybe we
+> need to build up a pen-friend system so that people can vie with one
+> another for the record number of penfriends on their list.
+
+Hahahahahaha!
+
+- Saluta! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+You are in a little maze of twisting passages, all different.
+
+
+From: William W Patterson
+Subject: Re: Re* Glosa pronunciation
+To: GLOSALIST
+Date: Sat, 13 Jun 98 14:2
+
+Sat, 13 Jun 98 16:26:29 EDT, Robin Gaskell skribe:
+
+> *	Possibly they do not have anyone handy to help them with the secrets of
+> getting into the cyberworld.  Costs of upgrades and new software are
+> possibly also beyond them.  In a previous letter, I did ask for technical
+> details of their computer equipment, but have recieved no data yet.  They
+> might have a 386, like me, but then they could still be soldiering on with
+> a 286 ... using a UNIX connection.  I must ask again.
+
+If you can get that information we might be able to give them a hand.
+
+Hey, I like UNIX! I use it every day at work. HPUX 10.2, and up until
+a few months ago we were using elm for mail. Of course, we've also had
+W95 & NT machines around too; and now we're using an NT server and
+Outlook to handle mail, and a new ISP.
+
+Anyway, there's lots of good freeware out there.
+Maybe something just right for them!
+
+- Salata! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+You are in a little maze of twisting passages, all different.
+
+
+From: William W Patterson
+Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL (fwd)
+To: GLOSALIST
+Date: Sat, 13 Jun 98 14:3
+
+Somebody on alt.language.artificial said...
+
+> The gap between the claims made by NGL fans and the reality is beginning
+> to rival that of Glosa.
+
+Does that mean we're #1? But we have to try harder now?
+
+But seriously, I assume he's referring to that old no-grammar thing?
+
+- Salata! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+You are in a little maze of twisting passages, all different.
+
+
+From: Paul O Bartlett
+Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL (fwd)
+To: GLOSALIST
+Date: Sat, 13 Jun 98 21:0
+
+On Sat, 13 Jun 1998, William W Patterson wrote:
+
+> Somebody on alt.language.artificial said...
+> 
+> > The gap between the claims made by NGL fans and the reality is beginning
+> > to rival that of Glosa.
+> 
+> Does that mean we're #1? But we have to try harder now?
+> 
+> But seriously, I assume he's referring to that old no-grammar thing?
+
+    Of course, I was the one who forwarded the post (from a public
+forum).  Unfortunately the poster did not elaborate on what he meant. 
+I just thought I would send it along as at least _some_ mention of
+Glosa.
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: My Approach to Glosa
+To: glosalist
+Date: Sat, 13 Jun 98 21:1
+
+    From time to time I have been known to express myself poorly. 
+Perhaps of late I have done something like that with respect to Glosa. 
+Let me say here that I would like to see Glosa or something like it
+succeed as an auxiliary language.  When I first encountered Glosa, I
+was fairly enthusiastic about it, and I did put in many hours of labor
+developing the Glosa Basic Reference on the www, corresponding with
+Richmond to obtain their approval.  It was only later that my
+enthusiasm cooled somewhat as I encountered some of what I consider
+insufficiencies in the language and its presentation.  But I think
+these insufficiencies are remediable without anything like major
+revisions, and it is to those matters that I have tried to address 
+myself.
+
+    I would still like to see something like it succeed, even if I
+never master it myself.  So the remarks I have made of late have been
+intended as constructive criticism, even if at times I may have
+expressed myself infelicitously.  I think that there is an honest and
+mutually sincere difference of opinion on the vocabulary size issue. 
+That may have to be dealt with.  But all the rest, even if I have not
+presented myself well, has been with the intention of helping, not
+complaining.
+
+-- 
+Regards,
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Robin Gaskell
+Subject: Re% Glosa pronunciation
+To: GLOSALIST
+Date: Sun, 14 Jun 98 13:1
+
+At 10:44 AM 6/5/98 -0400, you wrote:
+>On Thu, 4 Jun 1998, Robin Gaskell wrote (small excerpt):
+>
+>> >PPS.  Has a sex neutral fe/an been coined yet (like there is in Chinese)
+>> >(similar to Esperantic ri)?
+>> *	No, Glosa follows the English pattern here.  In an earlier Net
+>> discussion, I suggested, only half seriously, taking one letter from 
+>> "fe" and the other from "an".
+>
+>    Correct me if I am wrong, but it has been my understanding from
+>the very beginning that 'pe' is usable as a sex-neutral pronoun.
+>
+*	Don't know if anyone is "wrong" here.:-
+
+  "Na pa don u sito a plu pe."	 
+  we gave the food to the people [them]
+
+  "Na pa dona u sito a mu."
+  we gave the food to them
+
+  "Fe pa dice ad u persona."  .......  "Fe pa dice ad u pe."**
+  she  spoke  to the person  ......... she  spoke  to the he/she
+
+  "U ju-an pa don id a pe."**  
+  the boy   gave  it to him/her|hir|'it'
+
+  "U persona pa ki-in u kamera."  
+  the person  entered the room
+
+  "Pe pa ki-in u kamera."#
+  he/she|hesh|'it'|they entered the room
+
+Is "pe" a singular, first person pronoun OR an abbreviation of "person"?
+	My preference is the latter.
+
+  "U-pe pote fono u numera."
+  one   can phone the number
+	
+  "Don id ad uno-pe."  ........  "Don id a pe."#
+  give it to someone  .........  give it to person|him/her|'it'
+
+  "Don id ad u-pe."
+  give it to the_person|the_one
+
+  "Qod es pe?"#  ................  "Pe es qod?"#
+  what is 'it'|he/she  .........  he/she|they|'it' is what 
+
+My personal preferences:  ** = don't like;  # = possible.
+
+Coining "FA" from "Fe" and "An"	- 
+  "Don id a fa."
+  "Fa pa ki-in u kamera."
+  "Qod es fa?"
+	This may not work, but at least it is distinctively 1st-singular,
+and not possibly something else, as well.
+
+Saluta,
+ Robin
+
+
+From: Robin Gaskell
+Subject: Re: Archives
+To: GLOSALIST
+Date: Tue, 16 Jun 98 10:4
+
+At 12:17 AM 6/6/98 EDT, you wrote:
+>Thu, 04 Jun 98 16:10:47 EDT, Robin Gaskell skribe:
+>
+>> *	Thank you, Bill for filing the procedings away.  It would be good >>
+to give newcomers a retrospective on the List, and it is obviously 
+>> 'easier' for you to set up archive files than it is for me.  I would 
+>> appreciate this, and would add such an "Archive" site to my signature >>
+and to my webpage.  
+>
+>It has begun! Files uploaded for July through October 1997. See...
+>
+>   http://members.xoom.com/ailanto/glosa/index.htm
+>
+>which is also accessible from my Glosa page...
+>
+>   http://www.neosplice.com/~ailanto/glosa.htm
+>
+>- Saluta! - Bill
+>
+*	Thank you for this, Bill.  I will have to watch my "P"s and "Q"s now that
+they can be checked up on.
+
+Saluta,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST:   Majordomo reads your email address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: William W Patterson
+Subject: RPG Glosa Link
+To: GLOSALIST
+Date: Tue, 16 Jun 98 19:1
+
+A Role Playing Game-related page with a (-n outdated) link to Paul's page...
+
+   http://www.wpi.edu/~pwd/RPGs.html
+
+- Saluta! - Bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Although the moon is smaller than the earth, it is farther away.
+
+
+From: Robin Gaskell
+Subject: Re** ge-vide or gene ge-vide (Aaron)
+To: GLOSALIST
+Date: Sat, 20 Jun 98 12:4
+
+At 01:39 PM 6/9/98 +0100, Aaron Irvine wrote:
+>Let me think out loud...
+*	For me there is an immediate problem: you have imported a set of
+terminology from somewhere, and have not identified its source, so I cannot
+^see where you are coming from^.  Perhaps everything you are saying is
+correct, and I just can't see the text for the verbiage, though I will
+differ on some uses of "es".
+
+>I will use the following notation: (preinterface)notion(postinterface). 
+*	Is 'notion' much the same as a substantive, or a concept/word - a
+specific idea that can be percieved, on different occasions, as a thing, an
+action or a modifier?
+	How does encapsulating preceding and susequent parts of the message, in
+this way, help our understanding of the communication process?  Is it an
+unnecessarily algebraic approach; and, if not, how is it beneficial?
+
+>  Every word in Glosa (as defined by the dictionary rather than by the 
+>ending) is either a notion or a preposition.
+*	True, words in Glosa are NOT defined by their ending: IE Glosa words do
+not, as do Esperanto words (and, as did Interglossa words), carry a
+terminal vowel P-o-S marker.
+	Is this distinction roughly similar to the ^rule of thumb^ division of the
+Glosa lexicon into substantives and function words?  
+
+>  A preposition (without a comma before it) overrides the postinterface of
+>the preceding notion.  Every notion has a default preinterface as defined 
+>by the dictionary.  The default postinterface is (whole).  The
+>preinterface for the first word in a sentence is always (context).  The
+>final postinterface in a sentence is always ignored. A preposition (with a
+>comma before it) ... that's more complex!
+*	Here we probably suffer from not having read the same Linguistics text
+book.  Please define your terms or give us a reference to the source that
+will.
+	While these postulates may all be self-evident to superior intellects,
+some of us on the Glosalist are just your average World Language Reformers,
+and not necessarily of the razor-sharp brain.  Comma?
+(Whole)?  (Context)?  It's all a bit 'complex' at present.
+
+>
+>Vide and Ge-vide are two different words.  They have the same meaning, but
+>different interfaces.
+>(agent)vide(patient)            -> think of the notion of seeing
+>(patient)ge-vide(whole)      -> think of the notion of seeing
+>
+*	I had thought of VIDE being a lexeme '=the notion of seeing', but then I
+imagined the GE- particle to have a lexical value of its own, as well.
+While most Glosa-pe would be more in tune with Subject and Object, rather
+than (agent) and (patient), these more traditional terms, though less
+flexible, would probably be adequate for most learners. 
+	Somehow, I feel your second proposition (Subjective Voice) is not correct
+for Glosa.  Though abstractions are theoretically satisfying, I would
+appreciate some more concrete representations to help me understand what
+you are saying.
+   Without an example of what you mean, the  ''(patient)ge-vide(whole)''
+statement is fairly meaningless to me.  Might a possible example be:
+   Eng. "He is seen by the world."
+   Gls. "An es ge-vide ex u munda."#
+  ..... "An gene ge-vide ex u munda."%
+  ..... "An ge-vide ex munda." * 
+ #: O.K. but imports the English-like usage of the BEING concept.
+ %: Old Glosa, but my preference owing to presence of "gene" as PV marker.
+ *: Feels wrong to me; seems over abbreviated; lacks a full 'verb'.
+
+	AND, before commenting on the examples given below, I would say that such
+theoreticisation may not be helping the general move towards the
+dissemination of Glosa.  My understanding of the best use of this List for
+the development of the language is more in the use of dialogue.  You do
+seem to be expostulating what you think Glosa is, or ought to be, rather
+than than looking to see what it has become - over the past twenty years.
+	There is certainly room for development ... and improvement ... in the
+language, and this is necessary if the language to give the best showing
+when, or if, an IAL competition is announced.  BUT, I am not convinced
+that, at this moment, discussion at the top theoretical level is the best
+use of the human resources available to this project.  
+
+>Id vide = Id es vide 
+>-> (context)It(whole) (agent)seeing()
+>-> It sees (G'i vidas)
+>
+*	 These are not equivalent: syntax suggests "es" leads into a gerund =Eng.
+"seeing".   A shaman who smokes the local weed, and perceives scenes by
+looking at the inside wall of his tent, could tell you: it is seeing.]
+	"It sees." is the right rendition; I'm not researching the Esperanto, but
+assume that that language is your base reference for the ability of words
+to convey meaning.
+
+>Id ge-vide = Id es ge-vide
+>-> (context)It(whole) (patient)seeing()
+>-> It is seen (G'i vidig'as)
+>
+*	"Id ge-vide."* is not a full sentence: no full verb.  So =/=.
+	You have interpreted the Gls. "ge-" to be equivalent to the
+Esp. "-ig'-" as a Passive Voice marker: this is not so; Glosa's "ge-" makes
+sense, syntactically, as a Participle Marker.
+
+>Id gene ge-vide = Id es gene ge-vide
+>-> (context)It(whole) gets (patient)seeing()
+>-> Something starts to look at it, it acquires see-ed-ness (G'i ekvidig'as)
+>
+*	Again =/=.  "es" and "gene" have a supplementary relationship: it is one
+or the other, not both.
+	Glosa tends to 'map onto' English quite well, but the reverse process does
+not seem to work.  It looks as if you have thought:-
+  ~It  is  getting  seen.~
+ .. | . | ... | ..... |
+ .. V . V ... V ..... V
+  "Id  es   gene   ge-vide."*
+
+BUT this process is invalid.  English does not map onto Glosa, as it
+appears you have attempted to do.
+	Though it is not my desire to do so, I will consult the _Esperanto- 
+English Dictionary_ by Butler, because I respect your use of that language
+as a semantic baseline.  So, using the analytic mode, which is not my wont,
+I get:
+  G'i  ...... It
+  ek-  ...... begins to
+  vid- ...... to see | seeing  .... [I prefer the Infinitive to the Gerund]
+  -ig'- ..... becomes | be | get(ting) <Intransitive, Passive>
+  -as  ...... now <Present Tense>
+I render this as  &It is beginning to be seen.& ____(1)
+ ................ &It is now getting seen.& ________(2)
+ ................ &It starts to be seen.& __________(3)
+ ................ &It now becomes seen.& ___________(4)
+ ................ &It is beginning to become seen.& (5)
+ ................ &It is beginning to get seen.& ___(6)
+	These are all acceptible English-language sentences, but are they all
+legitimate representations of your Esperanto sentence, or of the Glosa
+sentence with which we started?
+Giving the same treatment to the Glosa version,
+ "Id gene ge-vide." 
+I get:
+  Id  ...... It
+  gene ..... gets <Passive Voice marker, when followed by "ge-">
+  ge-  ..... (got) <="-ed" or "-en" as Participle Particle>
+  vide. .... (to see) | seen <=Participle when Infinitive preceded by "ge-"
+
+>Vide id
+>-> (context eg: they default:something)Seeing(patient) (whole)it()
+>-> Something is looking at it / It is seen  (Vidig'as g'i)
+>
+*	"Vide id." is simply the Imperative: the Subject "Vi", or "Tu", is 
+implied.  It seems quite reasonable for a syntax-based language, like Glosa
+to use the Infinitive form to make the Imperative.
+The Esperanto (baseline) sentence says much the same, but with possibly
+un-necessary inflection:-
+  Vid  ... to see | see | seeing <Imperative, not necess. shown by syntax>
+  -ig'- .. becomes | be | get(ting) <Intransitive, Passive>
+  -as  ... now <Present Tense marker> 
+  g'i  ... it
+
+AND for comparison:-
+  Vide ... to see | see | seeing <Imperative implied by syntax>
+  id  .... it
+
+>"Id habe ge-vide" would, I suppose, mean "It has something that is seen"
+>
+*	When considering such sentences - in the abstract - I do try very hard to
+picture a realworld situation in which the utterance might be made.
+	"I picture myself at Lightning Ridge, opal mining (though I've never been
+there), and I see a possum scampering off into the bush.  Looking at its
+paws, I catch the glint of light on the prize opal, that I have just dug
+out, and give chase.  It has something that I have seen!"
+	Though I wouldn't feel comfortable with the construction you have given -
+probably because "habe" demands an Object - I might, in the heat of the
+moment, come out with:-
+  "Id habe u ge-vide ra." [It has the/a seen thing.]  But I try to avoid
+such ^pretzelised^ constructions.
+	HABE in Glosa conveys TO HAVE and TO HAVE THE PROPERTY OF.  There are
+usages like this in French .. l'eau avait chaud.(possibly)
+ 
+Saluta,
+ Robin
+	
+
+
+From: Robin Gaskell
+Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL (fwd)
+To: GLOSALIST
+Date: Sat, 20 Jun 98 15:2
+
+At 11:50 AM 6/13/98 -0400, you wrote:
+>    The following post appeared of the alt.language.artificial
+>newsgroup.  I though someone might be interested ion the last 
+>sentence.
+>Paul
+>---------- Forwarded message ----------
+>From: David Armstrong <armstrong{at}valise{dot}com>
+>Newsgroups: alt.language.artificial
+>Date: 12 Jun 1998 19:05:42 -0700
+>Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL
+>In article <wz3edasg3k.fsf{at}urquan-kzer-za.mesas.com>, John says...
+>>Please keep the discussion at a professional or at least non-insulting
+>>level.
+>
+>There's no way to point out the absurdity of a false claim without insulting
+>the person whose claim is being de-bunked.  The NGL folks say they want to
+>get "market share" for their new L1 language, and I simply pointed out 
+>that there is no market clamoring for new L1 languages.
+>
+*	True, we are working like the inventor, who hopes that his invention will
+work, and that people will want to use it.  Needless to say, like the
+inventor, we percieve the problem that the invention is intended to solve.
+
+>The NGL folks also claim that their language is nearly a loglan and "more
+>suited to the modern world than English," then one of them puts forward a
+>vocabulary list derived from Ogden's Basic English -- a list of some of
+>the most vague, polysemous words in English.
+*	Does NGL stand for New Generation Language?  I take it that "loglan" is
+used here generically, to mean "logical language."  I see the parallel here
+with Glosa, however, the Glosa authors started with Roget rather than
+Ogden, so the foundation is well-laid.
+
+>  Whenever a bunch of 
+>anglophones design a new language for the world and then offer one-word
+>English glosses for their morphemes, it is a sign that little or no
+>attention has been paid to semantics.
+>
+*	It is quite clear that Glosa uses a "word translation dictionary" rather
+than a dictionary with definitions.  Glosa would still have been on the
+drawing board had the authors decided to go in for a full-scale dictionary;
+so, I, for one, am thankful that they took the pragmatic view, and cut a
+number of corners.
+	But it is also very clear that semantics is the submerged, larger portion
+of the language ^iceberg^.  The authors took a direct approach to the
+situation and dealt with the visible element of syntax, claiming that the
+sense of language learner/user would allow them to sort out the meanings.
+	As I now understand it, the syntactical analysis is the first, but
+superficial, stage of linguistic analysis, while a second, more searching,
+semantic analysis follows this.  However, because the understanding of
+meaning is much more testing of our linguistic systems, most Linguists and
+Communicators concentrate on the visible, rule-governed element of
+grammatical form.  Have the "rules of semantics" been published, yet?
+
+
+>The gap between the claims made by NGL fans and the reality is beginning
+>to rival that of Glosa.
+>
+*	I take it that this rather smart comment is from the David Armstrong
+whose name appears at the head of the post.  He obviously thinks that
+Glosa's claims and its realisation are widely separated: he is probably
+still recovering from reading that Glosa has no grammar, and thus the
+language can be learnt without the need for a grammar book.
+	Such people, as Armstrong, may be time-wasters, but I will agree that our
+promotional statements could be understated rather than overdone.  Perhaps
+the authors should change their advertising agency to one with better
+copy-writers.
+	I find it quite interesting that there is such a range of theories extant
+to describe language: if Linguistics was as good as it thinks it is, I
+would have more respect for the comments of its practitioners.  But I can
+see that the secrets of language are still locked in a 'black box' called
+the brain, and I feel that the contents of this box are just as likely to
+be intuited by the likes of Clark and Ashby, as by a Chomsky.
+
+Sorry, David,
+ Robin
+
+
+The 'bottom line' is people, not money.  R.G.
+
+
+From: Robin Gaskell
+Subject: Re: Re* ge-vide or gene ge-vide
+To: GLOSALIST
+Date: Thu, 18 Jun 98 21:2
+
+At 10:49 AM 6/8/98 -0400, Paul Bartlett wrote:
+>    This whole discussion by Robin puzzles me mightily in the matter of
+>'gene ge-X'.  I will quote only a few excerpts.
+>
+>On Mon, 08 Jun 1998, Robin Gaskell wrote:
+>> At 03:49 PM 5/29/98 +0100, you wrote:
+>
+>    By the way who is "you"? [=Aaron Irvine]
+>
+>> >Saluta a plu Glosa-pe-la,
+>> >> Id gene vide per un andra. It is seen by the man.
+>> **      True, I did slip up here.  The correct version is "Id gene
+>>ge-vide ex un andra.".
+>> participle form ( ge-vide ) not the infinitive form ( vide ).
+>
+>> I wish to stress that in Glosa the form is always the same, but in
+>>English we have inherited numerous ways of forming the participle, and it
+>>may even stay the same as the infinitive.
+>
+>    Definitely.  Please see below.
+>
+>>                                   There is always a verb before the
+>> participle: "gene" in Glosa; and "is", "gets", etc in English.
+>
+>> "Ge-" is a sort of abbreviation for "gene" [get/got], [...] more sense
+>> as a PARTICIPLE PARTICLE, akin to the "-ed/-en" moiety in English.
+>
+>    Why, pray tell, do we need this clumsy construction 'gene ge-X' at
+>all except to convey a nuance discussed below?  As Robin points out,
+>'ge-X' functions as a sort of pseudo-inflection or pseudo-agglutination,
+>the only one in the language.  It forms the rough equivalent of the past
+>participle, which in bare form in English is really a passive.
+>
+*	Do you see elision at work here?-  EG
+An pa vesti-se in u ge-texo tegu. An pa vesti-se in u tegu; qi es ge-texo.
+ .................. |______| .............................. |____________| 
+
+U ge-texo tegu pa es ge-vesti ex an.  <Passive Voice>
+the woven cover  was   worn   by him  
+ ......^^.................^........
+
+In u texo vesti; qi an pa tekto, un andra pa ki in u kamera. <Active Voice>
+in a woven garment that he made  the man  entered  the room
+      
+COMMENTS: I would say that using "texo" as an 'adjective' [=substantive
+functioning as an adjective] is tricky: it could be translated into English
+as either the participle "woven" or the gerund "weaving"; using *rough
+Glosa* we just throw it in, and #may the receiver beware#; but, if we are
+being considerate of our listener (or just accurate) we use **precise
+Glosa** and spell out the participle using the appropriate affix, "ge-".
+  So, maybe already, there is *correct* (pedantic OR accurate) Glosa, and a 
+*vernacular* (back-fence OR rough) usage of it.  Perhaps "gene" is a case
+in point: I see it simply as a 'Passive Voice marker'; and, while others
+might see the inclusion of "gene" as unnecessary or wrong, I prefer to
+think of it as the correct form, thus peceiving its absence as yet another
+case of elision.
+
+GAMMA TESTING: This is a concept I find handy.  In the same way that Bill
+Gates alpha and beta tests his software, then releases it - still
+containing bugs - on an unsuspecting public, Glosa is now past the alpha
+and beta testing stage, but may still contain *bugs*.  Windows 95, in its
+third version is apparently bug-free after very extensive 'Gamma Testing'
+of versions one and two on the buying public; Glosa is now in its Gamma
+Testing stage, where it seems user ready, and does work quite well, but
+might be tweaked into better shape.  
+  Under experimental conditions, I prefer to use the 'as is' 1992 Version
+of Glosa, although some of the 'bugs' (alternative spellings, different
+terminal vowels, synonyms, etc) are known to us, here, and have been
+discussed.  The "experimental conditions" I talk about is the use of Glosa
+in the Third World: the Tri Munda 'experimental subjects' are NOT
+discussing the linguistics of Glosa, they ARE using it as a language.  
+  For reasons which make good sense to me, I am trying not to confuse the
+two strands of Glosa R&D: while the Glosalist/Conlang strand of Glosa
+discussion takes a 'disinterested' scholarly direction, the 'Field
+Application' adopts a 'committed' practical one.  I hope that these two
+strands of R&D can complement one another, even though they might appear,
+at present, to be going in opposite directions.  
+  Glosa is being Gamma Tested in Uganda; and, after the 'back-room boys'
+tinker with it a bit, 'cleaned up versions' of the dictionaries are likely
+to be sent to them as *upgrades* ... without any serious discussion being
+necessary about any (minor) changes in the lists, when compared with
+earlier ones.
+  Tweakings to Glosa's grammar (syntax) might be another matter.  I will
+soon start sending more guides on this to Uganda, but will discuss their
+content with Glosalist subscribers and the authors before sending
+pidgeon-post paper versions of these to Uganda.
+
+>    And in English and various other languages, the full passive
+>construction consists of a passive participle and a copula.  The copula
+>merely links the "passiveness" of the participle to the subject.  In
+>short, the copula is all we really need:
+>
+>        Id es ge-vide ex andra.
+>          It is seen by a/the man.  ('Un' is unnecessary here, because
+>          the preposition 'ex' must necessarily be followed by a
+>          substantive and therefore need not be explicitly marked.)
+>
+*	Using basic P-o-S underlining, this Passive Voice form is:-
+  Id   es  ge-vide  ex  andra.
+ Pron - V - Part - Prep - N
+
+	The forward-direction Active Voice version, in simple form, is:-
+  Andra vide id.
+   N -  V - Pron
+
+ . In AV there is no 'form verb' just the substantive 'verb'.
+ . I prefer "gene" as the 'form verb' in PV, because the %gets% concept
+seems more apt than the %equivalence% concept that is (OR should be)
+conveyed by "es".
+ . "andra" is a 'noun' (= substantive functioning as a noun), and that is
+what the syntax would lead us to expect, so the "un" would seem unwanted or 
+elided.
+ . What if the substantive after the preposition functioned as some other
+part of speech? EG
+  "Id es ge-vide ex kogita; ... "  <"ge-vide" used metaphorically>
+   it is  seen  from thinking  
+ 
+The "u", if included, 'flags' the coming of a simple Noun, of the Indirect
+Object variety, and I personally feel happier with this style of
+communication.  In the second example, "kogita" can be seen to function as
+a noun, but the syntax (and semantics) tell us it is functioning as a
+gerund, and that it ought to be followed by a Noun Clause.
+  
+>    The Glosa authors have made this clear:
+>
+>        ge-lose feli  ..... [R. "ge-lose" is a simple 'adjective', here]
+>          lost cat
+>        Id frakti.  ............ [R. normal Present Tense 'verb']
+>          It beaks/is breaking.  
+>        Id pa frakti. ............ [R. normal Past Tense 'verb']
+>          It broke.
+>        ID PA GENE FRAKTI.  (sic! -- NOT ge-frakti!)
+  ......................... [R. Intransitive, Past Tense, Passive Voice.]
+>          It got broken.
+>        ID ES GE-FRAKTI.  .... [R. "GE-FRAKTI" functions as a participle,
+ ...................................  adjectivally describing "ID"]
+>          It is broken.
+>
+>Hence, for non-idiomatic pseudo-passives, use 'es ge-X' in place of the
+>clumsy 'gene ge-X' unless one needs especially to express a nuance.
+>Even so, the form is NOT 'gene ge-X'.
+>
+*	It looks as if I have been using Old Glosa, again - with the 
+"gene ge-X" structure: that was the way I learnt it; must get Richmond
+feedback on the present usage for full Passive Voice.  I still like the
+O.G. form.
+
+>     [  .........................................  ]
+>    Despite its many uses, several of the meanings of "get" can roughly
+>be summarized under the headings of "become" and "acquire" (although
+>this is not exhaustive), which many languages may not subsume in a
+>single word.  Unfortunately, in my opinion, the authors have allowed
+>these meanings to collapse into 'gene' as a counterpart of "get."  Thus,
+>both "become" and "obtain/acquire" can be rendered by 'gene'.
+>(Although, to de sure, another rendering of "become" is 'esce'.)  I
+>think this is unwise and leads to confusion.
+>
+*	I look at the Glosa lexicon from the concept point of view, and see that
+there is a valuable conceptual difference between these two Glosa words;
+so, when 'thinking in Glosa' I consider the abstractions conveyed by the
+words, and try to use them accordingly.
+  IE  esce - become, through growth
+      gene - gets; gets to be
+
+  EG  "U ju-bovi esce u fo mega an-bovi."
+     ~The calf became (grew to be) a very large bull.~
+
+      "An pato gene ma mali."
+     ~His illness becomes (gets/got) worse.~
+
+>    One might say that if the window is broken, it acquires brokenness.
+>However, there is a subtle nuance of meaning here in English.  If the
+>window is broken, it is patient.  If it acquires brokenness, it is
+>agent.
+*	So, in Glosa, by choosing the right 'form verb' "gene" or "es" we change
+the flavour of the sentence, ... and thus of the way the 'participle'
+relates to the subject of the Passive Voice sentence.
+
+>    The two situations are not precisely equivalent.  Nevertheless,
+>in most circustances I would say that most users of English employ a
+>passive construction to emphasize that the subject is patient rather
+>than agent.  Consequently, in Glosa we might SEEM to have:
+>
+>        Id es ge-frakti.
+>          subject is patient
+>        Id gene ge-frakti.
+>          subject is agent
+>
+*	Seems normal: the subject is the main participant in our sentence, and
+comes first; but if the subject has the action done to it, we naturally
+choose the PV form.
+
+>However, the authors have indicated the latter to be simply:
+>
+>        Id pa gene frakti.  (Depending on the nuance, 'pa' might be
+>          unnecessary.)
+>
+>"It gets break." will do for subject-as-agent and "It is broken." for
+>subject-as-patient.  In this case, I supprt the A&C usage.
+>
+*	Now that you have spelled it out in full, I agree with what you have
+said, BUT, and there is a big "but", this level of sophistication in
+language use is just too much for learners, who are new to the language!!!
+	For the sake of getting Glosa up and running, at a high level of fluency,
+the fewer the rules, and the less nuances the better.  As long as the
+language is not set into an inflexible structure, then these 'extensions'
+of usage can be added later.
+	For all of the reasons set out above, I favour the teaching of a
+simplified, standardised form for the creation of the Passive Voice, which
+was totally absent from Old Glosa - and, I suspect, from Hogben's Interglossa.
+
+>    Remember, if we always try to smuggle English usage into Glosa. we
+>may be doing a disservice to all non-English-speaking potential users.
+>Why should English be the sole determinant of Glosa usage?  This is
+>another example of instances in which feedback from non-English-
+>speaking Glosa-pe would be invaluable.  Unfortunately, as we know, they
+>are not on the net.
+>
+*	. English usages should not be incorporated uncritically.
+	. These would impose an additional burdon on the non-English-speaking
+learner of Glosa, agreed.
+	. But where usages in English emerged as a result of the evolution of a
+'natural' use of language, then there is every chance that comparable
+usages will be equally 'natural' (IE psycholinguistically correct) in Glosa. 
+
+Saluta,
+ Robin
+
+
+From: Robin Gaskell
+Subject: 2K Compromise
+To: GLOSALIST
+Cc: Glosa Education Organization
+Date: Sat, 20 Jun 98 23:4
+
+Glosalist Frinds and Glosa Authors,
+   This is a brief statement of our differences over scope of the language
+and optimum size(s) of dictionaries.
+   Possibly the best situation for the world would be to have a number of
+auxiliary language for different purpose, say Glosa for tourism, Esperanto
+for diplomacy, and Interlingua for commerce; this would be similar to the
+present situation with English&French for telephone exchanges, English for
+air traffic, Aymara for the Andes, and Swahili for E.Afrca, etc.
+   Glosa could be a trading/emergency language with the scope of a pidgin,
+like Tok Pisin; or it could aspire to being a full language with universal
+scope.
+   Up to now, I have been working on the latter assumption:-
+	1. I have the feeling that political leaders will want to have to make
+only one decision, and will see dupication as an unnecessary and avoidable
+expense.
+	2. I have assumed, all along that Ron Clark and Wendy Ashby have projected
+the Glosa concept into research and diplomacy, as well as offering a
+langugewishing to provide people with a languag for daily living.
+	3. If there were different auxiliaries for different areas of endeavour,
+there would be junction areas that needed to communicate within communities
+served by two or more auxiliaries.
+	4. While Glosa is being disseminated a limited vocabulary is all that can
+effectivly be supported by the G.E.O., and so the authors are concentrating
+on the Glosa 1000 groups, even though they use the Glosa 6000 range in the
+periodical, _Plu Glosa Nota_.
+	5. While I look at sophisticated discussions in English, and wonder how
+the ideas and nuances will be conveyed in an uninflected Glosa, I work on
+the principle that the language is capable of extension through creation of
+compounds, and through development of a more sophisticated affix system
+than, at present, with the two letter categories.
+
+	On the question of the optimal size of a Glosa dictionary for general
+circulation, a happy compromise can be reached, I am sure:-
+	a. While Paul Bartlett and Bill Patterson feel that a 2000 word dictionary
+should be adequate for the present, I have argued for a speedy upgrade to
+the fuller 6000 word dictionary.
+	b. In the present situation, it would seem that a compromise at the 2K
+mark would probably serve Glosa well for the next five, or possibly ten,
+years.  Whole communities of Glosa-pe could gain fluency in the language
+and comprise an effective global community - operating within the limits of
+approximately two thousand words.
+	c. use of a 2K dictionary would provide considerable economies in postage
+and the learning load for those starting with the language.
+	d. With the desire for more communication power, some Glosa-pe would feel
+the need for a larger dictionary, such as the 6K edition; but, general
+Glosa publications could be largely restricted to the widely distributed
+vocabulary, giving meanings for words, beyond the 2K range, when they are
+required for specific published articles.
+	e. It is imaginable that a research publication, using a fuller lexicon,
+could be circulated among those wishing to explore the direction
+of future development of the language.  Such a publication could be the
+site of publishing of scholarly works on the way Glosa might become
+generalised and universalised, after an anticipated adoption as the IAL.
+
+	On the question of dissemination of Glosa learning materials in electronic
+format, I have raised the concept of Shareware:-
+	i. Although software piracy exists, the release of Glosa dictionaries,
+learning materials and publications as "Shareware" estblishes the copyright
+owners' legitemate claim to the intellectual property and to the right to
+profit from its distribution as Shareware.
+	ii. Any distribution of Glosa materials through the Internet, as
+Shareware, protects the G.E.O.'s ownership rights, while both fostering
+increased future sales of paper-based publications, and bringing in a level
+of revenue from Registrations.
+	iii. In traditional marketing terminology a Shareware release is a "loss
+leader", which involves the calculated risk that those sampling the
+products will be attracted to make more substantial purchased,
+subsequently.  In Shareware, ways can be arranged to prode sufficient to
+whet the appetite for more.  
+	iv. While the Glosa organisation desires both sales of materials and
+dissemination of the Glosa ethos, Shareware offers an increase of both,
+albeit with a time-lag between the distribution of the copyright materials
+and the receipt of revenue.  However, taking the broader distribution
+networks available to Shareware, such a situaion should soon provide a net
+financial gain.
+	v. Releasing Glosa learning materials as Shareware is good Poblic
+Relations, because it offers people the opportunity to investigate the
+language on a "try before you buy" basis.  This gives many people the
+opportunity to learn about Glosa, and to try the language before they
+become finacially committed; also, it gives the marginal enquirer, who will
+subsequently become a Glosa speaker, the chance of discovering the language
+effortlessly, without the feeling that he is risking anything or declaring
+a commitment.
+	vi. Seldom is a complete work released through Shareware channels: enough
+materials for fluency in Glosa could be issued on disk and through the Net,
+such that interested people would want a hardcopy dictionary and graded
+lessons, which could be included in the Cost of Registration.
+
+The 'bottom line' is people, not money.  R.G.
+
+
+From: Paul O Bartlett
+Subject: Re: 2K Compromise
+To: GLOSALIST
+Cc: Glosa Education Organization
+Date: Sat, 20 Jun 98 23:2
+
+On Sun, 21 Jun 1998, Robin Gaskell wrote (excerpted):
+
+: Glosalist Frinds and Glosa Authors,
+:    This is a brief statement of our differences over scope of the language
+: and optimum size(s) of dictionaries.
+
+    A reasonable statement of them (which I will not take up space by
+repeating).
+
+:    Possibly the best situation for the world would be to have a number of
+: auxiliary language for different purpose, [...]
+
+    There are, in fact, those who propose precisely this: more than one
+auxiliary for more than one purpose.  I myself have mixed feelings about
+this approach.
+
+:         4. While Glosa is being disseminated a limited vocabulary is all that can
+: effectivly be supported by the G.E.O., and so the authors are concentrating
+: on the Glosa 1000 groups, even though they use the Glosa 6000 range in the
+: periodical, _Plu Glosa Nota_.
+
+    At the risk of sounding tiresomely repetitious, there simply is
+no one "Glosa 1000" but rather multiple "Glosa 1000s."  It is this
+inconsistency that dampened my initial enthusiasm and has disinclined
+me to put a great deal more effort into it.  I would rather learn one
+Glosa, not multiple Glosas.
+
+:         5. While I look at sophisticated discussions in English, and wonder how
+: the ideas and nuances will be conveyed in an uninflected Glosa, I work on
+: the principle that the language is capable of extension through creation of
+: compounds, and through development of a more sophisticated affix system
+: than, at present, with the two letter categories.
+
+    I have thought that the 17 (not 18!) current affixes might have been
+extended originally, and some time ago on the Glosalist I proposed a few
+more affixes.  However, I am not now suggesting adding too much to the
+basic structure of the language.  My main "hobby horse," if you will, is
+a consistent vocabulary (three issues here) and presentation (mainly in
+the form of extending the "Mechanics of Glosa" approach).
+
+:         On the question of the optimal size of a Glosa dictionary for general
+: circulation, a happy compromise can be reached, I am sure:-
+:         a. While Paul Bartlett and Bill Patterson feel that a 2000 word dictionary
+: should be adequate for the present, I have argued for a speedy upgrade to
+: the fuller 6000 word dictionary.
+
+    I think that this is a genuine and real difference of opinion among
+the participants on Glosalist.  Considering the current size of the
+Glosa Basic Reference on the world wide web, which was largely created
+from collating different alleged "Glosa 1000s", my estimate of an
+updated word list has been in the 1500 - 2000 range.  Robin and I
+obviously differ here (Bill has to speak for himself), as I consider a
+relatively small vocabulary to be one of the great strengths of an
+auxiliary language like Glosa.
+
+:         c. use of a 2K dictionary would provide considerable economies in postage
+: and the learning load for those starting with the language.
+
+    In practical terms, this is true, although it is not my primary
+point.  However, a smaller dictionary could be much more efficiently
+turned into other national languages, which is almost a necessity if
+Glosa is to prosper.
+
+:         On the question of dissemination of Glosa learning materials in electronic
+: format, I have raised the concept of Shareware:-
+
+    I cannot speak knowledgeably about other countries, but to the best
+of my information, shareware is legally enforceable in theory in the
+United States and Canada.  However, in practice the monetary amounts are
+so small that the economics of enforcement for infringement are not
+really worth it.  Shareware is truly an honor system.
+
+:         i. Although software piracy exists, the release of Glosa dictionaries,
+: learning materials and publications as "Shareware" estblishes the copyright
+: owners' legitemate claim to the intellectual property and to the right to
+: profit from its distribution as Shareware.
+
+    Copyright is already claimed for the materials on the world wide
+web.  I was very careful about putting a copyright notice on them
+(although the "registered charity" business is meaningless in the US
+so far as I know).
+
+:         ii. Any distribution of Glosa materials through the Internet, as
+: Shareware, protects the G.E.O.'s ownership rights, while both fostering
+: increased future sales of paper-based publications, and bringing in a level
+: of revenue from Registrations.
+
+    The whole matter of copyright and intellectual property before the
+law on the internet is a real can of worms.  There is a lot of
+wrangling and disputation going on in the US, and undoubtedly elsewhere,
+even as we speak.  Before it is all over, I suspect that the courts in
+many countries are going to have a field day.  However, is the desire to
+spread the use of Glosa as a meaningful auxiliary language, or is the
+desire to get rich off of it?
+
+    A possible problem is the material already on the world wide web.
+It is copyrighted in the name of the Glosa Education Organization, so no
+one can profit from it (legally and morally).  However, nothing has been
+said about paying for it, and it might be rather difficult to try to
+claim payment retroactively.  If the vocabulary and presentation issues
+can be smoothed out, I think that the world wide web is one of the best
+means available for furthering the spread of Glosa, although to be sure
+there are many who do not have access to it.  (What is really needed,
+once a uniform version is available, is material in multiple languages.
+Proponents of other auxiliaries are burning up their keyboards getting
+material on their favorite auxlangs into place.  The other night I even
+saw something in Albanian!)
+
+:         iii. In traditional marketing terminology a Shareware release is a "loss
+: leader", which involves the calculated risk that those sampling the
+: products will be attracted to make more substantial purchased,
+: subsequently.  In Shareware, ways can be arranged to prode sufficient to
+: whet the appetite for more.
+
+    With computer software, this may be true at times, inasmuch as the
+non-registered, publicly-available version is sometimes what is known as
+"crippleware."  Nevertheless, a lot of shareware is the real thing and
+the author has no more to offer.  It is just an honor system that people
+will pay up.
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Robin Gaskell
+Subject: Re: Re* Glosa pronunciation
+To: GLOSALIST
+Date: Sun, 21 Jun 98 08:4
+
+At 02:27 PM 6/13/98 EDT, you wrote:
+>Sat, 13 Jun 98 16:26:29 EDT, Robin Gaskell skribe:
+>
+>> *	Possibly they do not have anyone handy to help them with the secrets of
+>> getting into the cyberworld.  Costs of upgrades and new software are
+>> possibly also beyond them.  In a previous letter, I did ask for technical
+>> details of their computer equipment, but have recieved no data yet.  They
+>> might have a 386, like me, but then they could still be soldiering on with
+>> a 286 ... using a UNIX connection.  I must ask again.
+>
+>If you can get that information we might be able to give them a hand.
+>
+>Hey, I like UNIX!   [  ............... ]
+>
+>Anyway, there's lots of good freeware out there.
+>Maybe something just right for them!
+>
+>- Salata! - Bill
+*   I will Forward your message to the Glosa authors with a repeat request
+for information about their Internet system.  
+	I do believe that the authors would find even the Glosalist a heavy toll
+on their time, but agree that they would do better to keep a watching brief
+on it.	
+	If any Glosalist subscriber urgently needs to pass their message directly
+to the Glosa authors, they should use the "Cc:" button, to send to 
+  glosauk{at}cix{dot}compulink{dot}co{dot}uk  making the authors 'ex-officio' subscribers
+to the List.
+
+Saluta,
+ Robin
+
+The 'bottom line' is people, not money.  R.G.
+
+
+From: Robin Gaskell
+Subject: Re: NGL: NGL is not a L2 language, nor a con-IAL (fwd)
+To: GLOSALIST
+Date: Sun, 21 Jun 98 18:0
+
+At 02:32 PM 6/13/98 EDT, you wrote:
+>Somebody on alt.language.artificial said...
+>
+>> The gap between the claims made by NGL fans and the reality is beginning
+>> to rival that of Glosa.
+>Does that mean we're #1? But we have to try harder now?
+>
+*Although written by a Linguist, the sentence fails on clarity: I had to
+read it twice, also.
+>But seriously, I assume he's referring to that old no-grammar thing?
+>
+*  Quite so: but I must maintain self-discipline and not start saying
+things about Linguists or their "science."
+
+Saluta, 
+ Robin
+
+The 'bottom line' is people, not money.  R.G.
+
+
+From: Robin Gaskell
+Subject: Re: My Approach to Glosa
+To: GLOSALIST
+Date: Sun, 21 Jun 98 19:2
+
+At 09:19 PM 6/13/98 -0400, you wrote:
+>  [  ..............  ]        I think
+>these insufficiencies are remediable without anything like major
+>revisions, and it is to those matters that I have tried to address 
+>myself.
+>
+>    I would still like to see something like it succeed, even if I
+>never master it myself.  So the remarks I have made of late have been
+>intended as constructive criticism, even if at times I may have
+>expressed myself infelicitously.  [  .. ]  But all the rest, even if I
+>have not presented myself well, has been with the intention of helping, 
+>not complaining.
+>
+*  Paul, your contribution, though sometimes reminding me of what aai
+haven't done or am doing wrongly, has always been factual and stimulating.
+  I appreciate your positive criticisms, and do try to act upon them: the
+needed revision and regularisation ofthe word lists is a case in point.
+   I trust that whilever I do follow through, you will continue to provide
+this balanced view.
+>-- 
+>Regards,
+>Paul                        
+*   I fully understand that the comments are made with the best interests
+of Glosa in mind.
+
+Saluta,
+ Robin
+
+The 'bottom line' is people, not money.  R.G.
+
+
+From: John Schilke
+Subject: Copy of _Interglossa_
+To: Glosalist
+Cc: Wendy & Ron - Glosa
+Date: Mon, 22 Jun 98 11:1
+
+
+Dear Friends, plu Glosa-pe,
+
+	As I was looking for another book this morning, I came across my 
+rather sadly deteriorating copy of L. Hogben's _Interglossa_.  It is the 
+1943 Pelican (Penguin) paperback, of some 285 pages.  It really is a fine 
+job of printing, considering the wartime restrictions which myust have 
+applied, but the paper is acid-treated and is showing more signs of age 
+than I do!
+	My question is this:  I wish to keep it and to keep it legible.  
+I plan to ask around a bit about restoration, but I have few contacts and 
+fewer hopes that anything can be done.  Mere photocopying (however 
+expensive that would be) would miss the nicely colored (mainly red) 
+segments of the printed pages and thus not really be a satisfactory 
+solution.  I have no way to get it scanned for the internet, but I do 
+think that it is a valuable historical (and linguistic) document, and 
+should be preserved.
+	Does anyone have any ideas?  I'd be willing to lend it for any 
+reasonable length of time for "processing," but want the effort to be 
+worthwhile and (one would hope) not terribly expensive.
+	I'm eager to hear from you.  I've no idea how many copies exist, 
+but this is the only one I have ever seen.  My copy bears a Dec. '43 date 
+of the original owner, and I bought it about 1973 in a used book shop.
+	Plu kardia saluta ex
+	John
+
+
+From: Paul O Bartlett
+Subject: Re: Re* ge-vide or gene ge-vide
+To: GLOSALIST
+Date: Mon, 22 Jun 98 11:3
+
+On Fri, 19 Jun 1998, Robin Gaskell wrote (excerpted):
+
+:                                                  Perhaps "gene" is a case
+: in point: I see it simply as a 'Passive Voice marker'; and, while others
+: might see the inclusion of "gene" as unnecessary or wrong, I prefer to
+: think of it as the correct form, thus peceiving its absence as yet another
+: case of elision.
+
+    If 'gene' is a passive voice marker, then what is 'ge-'?  Mind
+you, I do not regard 'gene ge-X' as outright wrong; I just see the
+construction as clumsy and completely unnecessary.
+
+:   Under experimental conditions, I prefer to use the 'as is' 1992 Version
+: of Glosa, although some of the 'bugs' (alternative spellings, different
+: terminal vowels, synonyms, etc) are known to us, here, and have been
+: discussed.
+
+    But WHICH 1992 version?  There seems to be more than one, in the
+sense of multiple and not wholly consistent vocabulary lists, which has
+been one of my major points all along.  It was the discovery of this
+inconsistency which discouraged me from putting more work into Glosa.
+
+:             The "experimental conditions" I talk about is the use of Glosa
+: in the Third World: the Tri Munda 'experimental subjects' are NOT
+: discussing the linguistics of Glosa, they ARE using it as a language.
+
+    Insofar as possible, this is a good thing.
+
+:  . In AV there is no 'form verb' just the substantive 'verb'.
+
+    I do not know what you mean by "form" verb as opposed to
+"substantive" verb.  ("Substantive" usually refers to a noun, pronoun,
+or noun clause.)
+
+:  . I prefer "gene" as the 'form verb' in PV, because the %gets% concept
+: seems more apt than the %equivalence% concept that is (OR should be)
+: conveyed by "es".
+
+    But the whole problem is that "get" in English is HIGHLY ambiguous
+and polysemous.  Why, oh why, should this mess be imported into a
+language such as Glosa, which is supposed to facilitate communication,
+not impede it with such a conglomeration as "get"?  I can easily suppose
+that in many native languages, there simply is no single verb
+corresponding to this hydra-headed monster of "get."  I think this "get"
+in Glosa should be junked forthwith.
+
+:  . What if the substantive after the preposition functioned as some other
+: part of speech? EG
+
+    What does this mean?  In every grammar that I have ever heard of, a
+_substantive_ follows a preposition and is a substantive, not some other
+part of speech.
+
+:   "Id es ge-vide ex kogita; ... "  <"ge-vide" used metaphorically>
+:    it is  seen  from thinking
+:
+: The "u", if included, 'flags' the coming of a simple Noun, of the Indirect
+: Object variety, and I personally feel happier with this style of
+: communication.
+
+    Based on a direct communication I had from Richmond, you seem to
+differ from them in usage here.  Although 'u' before a noun following a
+preposition is allowable, I see not a particle's worth of difference in
+the meaning whether the marker is there or not.
+
+:                 In the second example, "kogita" can be seen to function as
+: a noun, but the syntax (and semantics) tell us it is functioning as a
+: gerund, and that it ought to be followed by a Noun Clause.
+
+    By definition, a gerund is a substantive, albeit one derived from
+a verb.  Some languages, such as IALA Interlingua, have no gerund
+construction as such.  And why must a gerund be followed by a noun
+clause?  It certainly does not have to in English.
+
+: *       I look at the Glosa lexicon from the concept point of view,
+
+    I have never understood just what a "concept language" is.  How does
+such a thing, if it even exists, differ from any other language.  So
+what is the "concept point of view"?
+
+:   IE  esce - become, through growth
+:       gene - gets; gets to be
+
+    I do not understand any practical difference.
+
+: >    One might say that if the window is broken, it acquires brokenness.
+: >However, there is a subtle nuance of meaning here in English.  If the
+: >window is broken, it is patient.  If it acquires brokenness, it is
+: >agent.
+: *       So, in Glosa, by choosing the right 'form verb' "gene" or "es" we change
+: the flavour of the sentence, ... and thus of the way the 'participle'
+: relates to the subject of the Passive Voice sentence.
+
+    I admit that I did make an agent/patient distinction here.  But on
+second thought, I wonder if this subtlety is even worth making in an
+auxiliary language.
+
+: *       Now that you have spelled it out in full, I agree with what you have
+: said, BUT, and there is a big "but", this level of sophistication in
+: language use is just too much for learners, who are new to the language!!!
+
+    Precisely! now that I think about it further.
+
+:         For the sake of getting Glosa up and running, at a high level of fluency,
+: the fewer the rules, and the less nuances the better.
+
+    Yes.
+
+:         For all of the reasons set out above, I favour the teaching of a
+: simplified, standardised form for the creation of the Passive Voice, which
+: was totally absent from Old Glosa - and, I suspect, from Hogben's Interglossa.
+
+    I do not have a copy of "Interlgossa" at hand, so I cannot say about
+that.  However, I wonder what "Old Glosa" has to do with the price of
+eggs now.  It seems to have been a provisional form which is no longer
+"in effect" and therefore no longer particularly relevant.
+
+: >    Remember, if we always try to smuggle English usage into Glosa. we
+: >may be doing a disservice to all non-English-speaking potential users.
+: >Why should English be the sole determinant of Glosa usage?  This is
+: >another example of instances in which feedback from non-English-
+: >speaking Glosa-pe would be invaluable.  Unfortunately, as we know, they
+: >are not on the net.
+: >
+: *       . English usages should not be incorporated uncritically.
+:         . These would impose an additional burdon on the non-English-speaking
+: learner of Glosa, agreed.
+
+    Exactly my point.  If someone has to learn or know English first in
+order to use Glosa properly, then Glosa becomes entirely superfluous.
+Just junk it and use English as the auxiliary language.  If Glosa cannot
+stand on its own two feet, then it is worthless and a waste of time.
+
+:         . But where usages in English emerged as a result of the evolution of a
+: 'natural' use of language, then there is every chance that comparable
+: usages will be equally 'natural' (IE psycholinguistically correct) in Glosa.
+
+    "Evolution of 'natural' use of language" does not exist, in my
+opinion.  Why are not usages in other languages equally "natural"?
+Please consider the post I made on AUXLANG recently of an excerpt from
+a work of fiction which addresses this very issue.  Is there a bit of
+language chauvinism here?  My native tongue is "natual" and others are
+"unnatural"?  Total rubbish.
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Re: Copy of _Interglossa_
+To: Glosalist
+Date: Mon, 22 Jun 98 11:4
+
+On Mon, 22 Jun 1998, John Schilke wrote (excerpted):
+
+> 	As I was looking for another book this morning, I came across my 
+> rather sadly deteriorating copy of L. Hogben's _Interglossa_.  It is the 
+> 1943 Pelican (Penguin) paperback, of some 285 pages.
+
+> 	My question is this:  I wish to keep it and to keep it legible.  
+> I plan to ask around a bit about restoration, but I have few contacts and 
+> fewer hopes that anything can be done.  Mere photocopying (however 
+> expensive that would be) would miss the nicely colored (mainly red) 
+> segments of the printed pages and thus not really be a satisfactory 
+> solution.
+
+> 	Does anyone have any ideas?
+
+    There are high-grade color photocopiers these days.  Just ask the
+Secret Service trying to foil counterfeiters.  I used one once at a
+copy shop in Salem (not far from where John lives).  The per-copy price
+was higher, but the quality -- for a photograph, no less -- was not too
+bad.  You might check around in the Kinko's and PIP type places for
+color copiers.
+
+> 	I'm eager to hear from you.  I've no idea how many copies exist, 
+> but this is the only one I have ever seen.
+
+    There is a copy, also deteriorating, in the Library of Congress in
+Washington, DC.
+
+>                                             My copy bears a Dec. '43 date 
+> of the original owner, and I bought it about 1973 in a used book shop.
+
+    Powell's, maybe?  (I think they were already in business then.)
+
+-- 
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: John Schilke
+Subject: Re: Copy of _Interglossa_
+To: Paul O Bartlett
+Cc: Glosalist
+Date: Mon, 22 Jun 98 16:3
+
+Hello, Paul!
+	Thanks for answering.
+> 
+>     There are high-grade color photocopiers these days.  Just ask the
+> Secret Service trying to foil counterfeiters.  I used one once at a
+> copy shop in Salem (not far from where John lives).  The per-copy price
+> was higher, but the quality -- for a photograph, no less -- was not too
+> bad.  You might check around in the Kinko's and PIP type places for
+> color copiers.
+	I'll look into this, although I fear the 140+ copies (since the 
+book would allow copying of 2 pages at once) might be staggering.
+
+>     There is a copy, also deteriorating, in the Library of Congress in
+> Washington, DC.
+	But the LC has a reputation of letting things turn to dust.
+> 
+> >                                             My copy bears a Dec. '43 date 
+> > of the original owner, and I bought it about 1973 in a used book shop.
+> 
+>     Powell's, maybe?  (I think they were already in business then.)
+	Almost for sure!  I've frequented that haunt for many years, and 
+have a vague recollection of finding it there -- much to my surprise.
+
+	Again, thanks for the helpful ideas.
+	Best wishes,
+	John
+
+
+From: Robin Gaskell
+Subject: Re: Copy of _Interglossa_
+To: GLOSALIST
+Date: Sun, 28 Jun 98 17:3
+
+At 08:11 AM 6/22/98 -0700, you wrote:
+>
+>Dear Friends, plu Glosa-pe,
+>
+>	As I was looking for another book this morning, I came across my 
+>rather sadly deteriorating copy of L. Hogben's _Interglossa_.  It is the 
+>1943 Pelican (Penguin) paperback, of some 285 pages.  It really is a fine 
+>job of printing,    [  ...........................  ] I do 
+>think that it is a valuable historical (and linguistic) document, and 
+>should be preserved.
+*   Quite so.  And even moreso, if Glosa becomes the IAL.
+
+>	Does anyone have any ideas?  I'd be willing to lend it for any 
+>reasonable length of time for "processing," but want the effort to be 
+>worthwhile and (one would hope) not terribly expensive.
+>	I'm eager to hear from you.  I've no idea how many copies exist, 
+>but this is the only one I have ever seen.  My copy bears a Dec. '43 date 
+>of the original owner, and I bought it about 1973 in a used book shop.
+*   Do not give it to anyone for scanning: it would come back as single
+sheets with the spine guillotined off, as did my copy of "Glosa 6000",
+which is now held together with bulldog clips.
+    You might contact a state library which has an Archive Section: such a
+place should give you the best advice.  I too, have a copy in similar
+condition to yours: I could contact the NSW public Library, which is active
+in the preservation, through computer photographic scanning, of Australian
+historical documents.
+
+   Normal scanning with OCR is unsuitable for heavily formatted texts: the
+photographic record is the only way to go.
+
+Best wishes,
+ Robin
+
+------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST MAILING LIST:   Majordomo reads your email address automatically.
+	To:     majordomo{at}zeta{dot}org{dot}au
+	      subscribe glosalist
+
+ GLOSALIST ARCHIVES:  http://members.xoom.com/ailanto/glosa/index.htm
+
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop
+www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: William W Patterson
+Subject: Interglossa Site
+To: GLOSALIST
+Date: Mon, 29 Jun 98 19:2
+
+Rick Harrison has started a new site at...
+
+   http://www.vor.nu
+
+He has posted some excellent Interglossa information beginning at...
+
+   http://www.vor.nu/langlab/i0.html
+
+- bill
+
+--
+William W. Patterson                         http://www.neosplice.com/~ailanto
+mailto:ailanto{at}neosplice{dot}com                 http://members.xoom.com/ailanto
+
+Pride is what we have. Vanity is what others have.
+
+
+From: Robin Gaskell
+Subject: Re* ge-vide or gene ge-vide (XS detail&length)
+To: GLOSALIST
+Date: Tue, 30 Jun 98 13:0
+
+At 11:36 AM 6/22/98 -0400, Paul Bartlett grafo:
+>On Fri, 19 Jun 1998, Robin Gaskell wrote (excerpted):
+>
+>:                                                  Perhaps "gene" is a case
+>: in point: I see it simply as a 'Passive Voice marker'; and, while others
+>: might see the inclusion of "gene" as unnecessary or wrong, I prefer to
+>: think of it as the correct form, thus peceiving its absence as yet another
+>: case of elision.
+>
+>    If 'gene' is a passive voice marker, then what is 'ge-'?  Mind
+>you, I do not regard 'gene ge-X' as outright wrong; I just see the
+>construction as clumsy and completely unnecessary.
+>
+*   I would rather, personally, stay with the "clumsy" construction, but
+will see how it gets elided by other Glosa-pe.  As well as believing the
+two parts to be functional, I will admit to a rare sentimentalisation, and
+say that the 'gene ge-X' construction is ''quaint''.  It very clearly marks
+the differentness of the Passive Voice form.
+
+>:   Under experimental conditions, I prefer to use the 'as is' 1992 Version
+>: of Glosa, although some of the 'bugs' (alternative spellings, different
+>: terminal vowels, synonyms, etc) are known to us, here, and have been
+>: discussed.
+>
+>    But WHICH 1992 version?  There seems to be more than one, in the
+>sense of multiple and not wholly consistent vocabulary lists, which has
+>been one of my major points all along.  It was the discovery of this
+>inconsistency which discouraged me from putting more work into Glosa.
+>
+*   I refer specifically to the "Glosa 6000" dictionary, and I believe
+there is only one edition of it: the 1992 First Printing.
+    At an early stage, I decided that I would either have to completely
+recast this dictionary, or use it, as well as I could, inconsistencies and
+all.
+    Using it 'as is' was both a calculated risk and an economic decision on
+my part.  Had the drafts been properly edited and all inconsistencies
+removed, prior to publishing, things would have been easier between us: as
+it is, I am extending my suspension of judgment to the authors; and you are
+pointing out that an invention must be well-crafted and polished, before
+the man and woman in the street will bother to pick it up and look at it.
+    I wished to avoid further negative reactions to the 'annoying typos' in
+the dictionaries, so decided that it was time to rationalise the word-list
+and SORT it using electronic means.  Thus, I had the "Glosa 6000" list
+scanned, and that is where we are to-day: trying to rationalise the list to
+something with fully consistent spelling, comprising a full working
+dictionary - without marginal words.
+
+   [ ...........................  ] 
+>:  . In AV there is no 'form verb' just the substantive 'verb'.
+>
+>    I do not know what you mean by "form" verb as opposed to
+>"substantive" verb.  ("Substantive" usually refers to a noun, pronoun,
+>or noun clause.)
+>
+*   I use "substantives" to cover all of the words that represent realworld
+things, actions, or descriptions: Linguists have a term for this group,
+which is infinite in size .. by contrast with this, there are the "function
+words", that comprise a small, finite group of words that allow us to show
+the relationships between the things, actions, and descriptions we are
+talking about.
+    In Glosa, where the lexical item can function as verb, noun, or
+modifier, I find it convenient to label such a meaningful, multipurpose
+concept/word as a "substantive."
+    There are some words that are used in all languages simply to
+facilitate the flow of ideas, and to define relationships beteen the more
+^meaty^ words. 
+Together with the 'function words' there are some 'verbs' that are present
+for the demands of syntax more than to convey concepts: these 'verbs' are
+often present to preserve the S-V-O form of the sentence, hence my term
+"form verbs."  In English, words that can be used in this way are: is, do,
+have, get, go. EG  I HAVE to have it.  He IS wet.  They DO want it.  I'll
+GET GOing in a minute.  She was GOing to go.
+
+But what makes English difficult .. and Glosa reasonably exact .. is that
+'verbs', which are used as 'form verbs', also have a literal meaning as
+well, and can, and should, be used SUBSTANTIALLY when this literal meaning
+is called for.
+
+>:  . I prefer "gene" as the 'form verb' in PV, because the %gets% concept
+>: seems more apt than the %equivalence% concept that is (OR should be)
+>: conveyed by "es".
+>
+>    But the whole problem is that "get" in English is HIGHLY ambiguous
+>and polysemous.  Why, oh why, should this mess be imported into a
+>language such as Glosa,
+*    The English "get" problem is one thing; Glosa does not have a "gene'
+problem.  I contend that a 'mess' is not being imported into Glosa, and
+that when one uses "gene" in Glosa, he is using it predominantly
+substantially .. or, alternatively, on odd occasions, in one of its very
+few, well-defined 'form verb' roles.
+
+>          I can easily suppose
+>that in many native languages, there simply is no single verb
+>corresponding to this hydra-headed monster of "get."  I think this "get"
+>in Glosa should be junked forthwith.
+>
+*   I feel the difference in semantics between 'gene" and "esce" is quite
+sufficient to warrent "gene" its place in the list: one concept involves
+having something happen to an object (gene); the other involves a change
+that is generated as a result of internal energy (esce).
+
+>:  . What if the substantive after the preposition functioned as some other
+>: part of speech? EG
+>
+>    What does this mean?  In every grammar that I have ever heard of, a
+>_substantive_ follows a preposition and is a substantive, not some other
+>part of speech.
+>
+>:   "Id es ge-vide ex kogita; ... "  <"ge-vide" used metaphorically>
+>:    it is  seen  from thinking
+>:
+*   In these demo sentences dissociated from normal life, I still try to
+imagine realworld situations in which they might be used.  So here I will
+try to use the same 'clause' as a whole sentence, and as a subsidiary
+clause in a larger sentence:-
+ 
+  "Id gene ge-vide ex u diskursi."  - "It is seen from the discussion." .. (A)
+
+  "Id gene ge-vide ex diskursi; plu faktu habe ero."  .................... (B)
+  "It is seen from discussion, that the facts are wrong."
+
+    In (A), the substantive after the preposition is a 'noun'.  In (B), the
+same substantive is neither a 'verb' nor a 'noun', but has more of the
+qualities of a gerund, and the "u" marker is not needed - though, if
+present, would not necessarily be wrong.
+
+>: The "u", if included, 'flags' the coming of a simple Noun, of the Indirect
+>: Object variety, and I personally feel happier with this style of
+>: communication.
+>
+>    Based on a direct communication I had from Richmond, you seem to
+>differ from them in usage here.  Although 'u' before a noun following a
+>preposition is allowable, I see not a particle's worth of difference in
+>the meaning whether the marker is there or not.
+>
+*   In (A) and (B) above, I argue for the significance of "u" in
+distinguishing between 'noun' and 'gerund'.  I suspect that there would be
+something on it in the Functional Grammar method of analysing sentences.  Re
+Richmond, I guess that the authors are promoting the elided, "telegraphic"
+method of using the language.
+
+>:                 In the second example, "kogita" can be seen to function as
+>: a noun, but the syntax (and semantics) tell us it is functioning as a
+>: gerund, and that it ought to be followed by a Noun Clause.
+>
+>    By definition, a gerund is a substantive, albeit one derived from
+>a verb.  Some languages, such as IALA Interlingua, have no gerund
+>construction as such.  And why must a gerund be followed by a noun
+>clause?  It certainly does not have to in English.
+>
+*   Well, if I had two or three lifetimes I would study all the major
+auxlangs, and become fluent in them.  But since I am trying to do things in
+my present lifetime, other than Language Reform, I have only budgetted time
+to do R&D on, and learn, one auxlang.
+    In the case of "kogita", above, I thought that the semantics called for
+a *thing*.  Originally, a noun clause in Glosa could have the forms of
+"xxx; X."
+or "xxx; ke X."  (xxx -last word of preceding phrase; X - Noun Clause; "ke" -
+=Eng. "that")  But, since then, the authors have decided to elide the "ke"
+into oblivion: I may not agree that this is best Linguistically, but will
+go along with it to support the ^party vote^.
+
+>: *       I look at the Glosa lexicon from the concept point of view,
+>
+>    I have never understood just what a "concept language" is.  How does
+>such a thing, if it even exists, differ from any other language.  So
+>what is the "concept point of view"?
+>
+*   The difference is a supposed difference between using language elements
+as concrete objects, and using them as abstract ideas.  The difference
+could be that between prose and poetry.  I fear that Glosa's rating as a
+language in which the words represent abstract ideas (concepts) is one of
+the reasons for its small currency.  Most languages do call a spade a
+"spade", and one instantly has a mental picture of an object with which one
+digs the soil. 
+This is the opposite of the 'concept language' situation, in which "spade"
+represents ~spadeness~, and the word, "spade" is interpreted from all its
+possible realisations by reference to the surrounding words, IE its syntax.
+    In the sentence, "He told me to spade the manure into the ground." we
+see "spade" realised as a verb: we get a mental picture of the process of
+turning a brown substance into the soil; we do not necessarily see - in our
+mind's eye - a wooden and metal digging implement.  This is definitely a
+case of using English as a 'concept language.'  BUT, most of the time that
+people use English, they are using it as a 'concrete language.'  Glosa was
+designed to be usable at the *abstract* level all the time: and this may be
+a feat beyond the powers of most people.
+    Of course, I believe that the move from concrete language (and concrete
+thinking) to abstract language (and abstract thinking) is simply a case of
+an improvement in civilisation ... and Glosa is riding on the crest of the
+wave of this civilisation advance.
+
+>:   IE  esce - become, through growth
+>:       gene - gets; gets to be
+>
+>    I do not understand any practical difference.
+>
+*   A plant gets salts from the soil: it then becomes larger.
+    U fito gene plu sali ex u sola; seqe id esce ma maxi.  ............ (X)
+    U fito esce plu sali ex u sola; seqe id gene ma maxi.*  ........... (Y) 
+
+>: >    One might say that if the window is broken, it acquires brokenness.
+>: >However, there is a subtle nuance of meaning here in English.  If the
+>: >window is broken, it is patient.  If it acquires brokenness, it is
+>: >agent.
+>: *       So, in Glosa, by choosing the right 'form verb' "gene" or "es"
+we >: change the flavour of the sentence, ... and thus of the way the >:
+'participle' relates to the subject of the Passive Voice sentence.
+>
+>    I admit that I did make an agent/patient distinction here.  But on
+>second thought, I wonder if this subtlety is even worth making in an
+>auxiliary language.
+>
+>: *       Now that you have spelled it out in full, I agree with what you 
+>: have said, BUT, and there is a big "but", this level of sophistication in
+>: language use is just too much for learners, who are new to the language!!!
+>
+>    Precisely! now that I think about it further.
+>
+>:         For the sake of getting Glosa up and running, at a high level of
+ fluency, the fewer the rules, and the less nuances the better.
+>
+>    Yes.
+>
+*   The agent/patient difference is inherent in Glosa, but IMO is best
+introduced, by example - without description - through a combination of
+syntax and semantics.
+
+>:         For all of the reasons set out above, I favour the teaching of a
+>: simplified, standardised form for the creation of the Passive Voice, which
+>: was totally absent from Old Glosa - and, I suspect, from Hogben's
+Interglossa.
+>
+>    I do not have a copy of "Interlgossa" at hand, so I cannot say about
+>that.  However, I wonder what "Old Glosa" has to do with the price of
+>eggs now.  It seems to have been a provisional form which is no longer
+>"in effect" and therefore no longer particularly relevant.
+>
+*   What I should have said was that the authors originally said that Glosa
+did not have a Passive Voice.  Then, somewhere between '84 and '92, they
+decided that we would have to allow people the option of using a Passive
+Voice form, if they really thought it was needed.  
+INTERGLOSSA p180 features "(472) _ge_  that has got; that has been"
+   EG  Hypo ge astra syn phylla urani
+       Beneath a starred and leafy sky
+
+  p181 has (473) "_gene_ get; acquire; receive; receipt or acquisition (in
+the abstract)"
+   "Gene is equivlent to become only when associated with an abstraction.
+When become expresses incipient identification, we use the couplet proto
+eque (469)."  and
+   "Gene couplets convey the passive meaning of corresponding constructions
+with acte, dicte and stimule.  When the amplifier is a physical state, we
+can then express the passive by means of a habe couple; but it is better to
+use the gene construction when an explicit agent follows, e.g.:
+   U porta pre habe claustro   = The door was shut; The door has closed
+
+   U porta pre gene claustro ex fe. = The door was shut by her.
+
+There is a list of gene couplets on pp. 196-206 at the end of this chapter."
+*   So, "ge" and "gene" are directly from Interglossa, but the Glosa
+authors did not want to introduce Hogben's passive form into the revised
+language; however, requests for a passive, caused them to look again at
+Hogben's book.  Hogben went into considerable lengths to create phrasal
+usages under the heading of "Semantics."  The Glosa authors have tried to
+avoid printing a grammar book with the same *prescriptive* style that
+Hogben used in _Interglossa_.
+    Maybe, it is time to do something to redress this omission.  Perhaps,
+through agreement with the authors, this group can knock into shape a brief
+guide to the syntax of Glosa.
+
+>: >    Remember, if we always try to smuggle English usage into Glosa. we
+>: >may be doing a disservice to all non-English-speaking potential users.
+>: >Why should English be the sole determinant of Glosa usage?  This is
+>: >another example of instances in which feedback from non-English-
+>: >speaking Glosa-pe would be invaluable.  Unfortunately, as we know, they
+>: >are not on the net.
+>: >
+>: *       . English usages should not be incorporated uncritically.
+>:         . These would impose an additional burdon on the
+>:non-English-speaking learner of Glosa, agreed.
+>
+>    Exactly my point.  If someone has to learn or know English first in
+>order to use Glosa properly, then Glosa becomes entirely superfluous.
+>   [  ...............  ]
+*   Well, I have had conclusive proof that this is NOT the case: LUI Hatao
+from China wrote atrocious English, but perfect Glosa.
+    But the absence of inputs from Glosa-pe living in non-English speaking
+cultures is a serious deficiency of this List. 
+    When we can locate Internet-connected, other-culture Glosa-pe, we will
+necessarily have to use Glosa as the common language of this List ... or
+possibly type everything in both our native tongues and Glosa.  The former
+would be less time-consuming.
+
+>:         . But where usages in English emerged as a result of the evolution 
+>: of a 'natural' use of language, then there is every chance that comparable
+>: usages will be equally 'natural' (IE psycholinguistically correct) in
+Glosa.
+>
+>    "Evolution of 'natural' use of language" does not exist, in my
+>opinion.
+*   So all natlangs have over-riding cultural ingredients that adulterate
+them in some way.  Glosa will, as you intimate all languages do, contain
+some cultural adulterations that separate it from the hypothetical,
+unobtainable 'natural' (psychologically pure) language.  How, I wonder,
+would we recognise it, if we stumbled over a language whose grammar was
+virtually ""culture-free""?
+
+>     Why are not usages in other languages equally "natural"?
+>Please consider the post I made on AUXLANG recently of an excerpt from
+>a work of fiction which addresses this very issue.  Is there a bit of
+>language chauvinism here?
+*   Linguists have printed the message that "all languages are equal."
+This, in my opinion, is Politically Correct rubbish.  However, henceforth
+on this List, it is probably best for us (especially me) not to use the
+word "natural", because a "natural language" cannot be defined.
+    By your interpretation of the word, "natural", either we ought to avoid
+using the word, or all languages are equally natural.  Either way, the
+concept can have no discriminating power in our discussions, and so, is
+rendered meaningless.
+    Your AUXLANG story about the person who thought his language was the
+only true way of thinking is clearly in mind.  It is probably a truism to
+say that each person believes that thinking in his L1 is the only true and
+correct way of thinking: it is simply a corollary of the Sapir-Wharf
+Hypothesis.
+
+>  My native tongue is "natual" and others are "unnatural"?  Total rubbish. 
+>Paul                            
+*   I will cease forthwith to suggest, on this List, that one natlang, or
+conlang, might possibly be more evolved than another natlang, or conlang,
+but I will continue to think that through linguistic change, languages can
+shed some of their earlier cultural encrustments, and so, move closer to
+more neutral situations, communication-wise.
+    Matters of "naturalness", linguistic evolution, and the thorny Lanuage-of-
+Thought, might, however, be brought up - in private communications -
+between myself and 'consenting persons.'
+
+Place, dice a mi, si tu puta; u-ci posta habe tro longi.
+ 
+Saluta, 
+ Robin
+

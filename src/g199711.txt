@@ -1,0 +1,1072 @@
+
+From: Robin Gaskell
+Subject: Re: Dictionaries
+To: Robin Gaskell
+Date: Thu, 06 Nov 97 08:1
+
+At 09:45 PM 10/30/97 -0500, Bill Patterson skribe:
+>Beginning with G-E.ALL, I wrote an awk script to create GE0.TXT,
+>which consists of lines of the form "glosaword = englishword", one
+>word from each language per line. Then I re-sorted, and then used vim
+>and uniq to pull out the lines that begin with the same Glosa words.
+>The purpose was to locate (as much as possible!) all those Glosa
+>words which appear to have multiple meanings; not just similar
+>meanings (synonyms), but completely different meanings. For example,
+>I found that "amo" means "like", "love" and "sand", and "hipo" means
+>"below", "under" and "horse". Some of these result from a Greek word
+>clashing with a Latin word. Some may be typos. But I'd like to clean
+>them up before I continue.
+>
+*       I don't know  awk  vim  uniq  .   Would you please let us on the
+Forwarder know what they are, and how they operate, Bill.
+        The word, "homonym" covers words with the same spelling but different, 
+and unrelated, meanings.
+
+>I'm currently looking at 274 such words.
+*       That is a lot.  The authors claimed originally, that in the Glosa
+vocabulary, they would avoid Classical Clashes, where there were Greek and
+Latin roots with similar spellings.
+
+> Here's an example of a fairly simple situation:
+>   KANCERA = cancer - crab  .......................................... #
+>   KARCINO = cancer - crab  .......................................... #
+>   KARCINOMA = cancerous ulcer
+>For internal consistency of the dictionary, here are my choices:
+>   KANCERA = crab
+>   KARCINO = cancer  ............................................... @
+>   KARCINOMA = cancerous ulcer  .................................... @
+>
+*       I concur.  It defeats the object of communication to have the situation,
+above, marked - # 
+        Also, the pair marked  @  show the Primary/Generic relationship well!
+
+>And another:
+>   TIRO = beginner - cheese (!)
+>   TYRO = beginner
+>   KASEA = cheese
+>Here are my choices:
+>   KASEA = cheese
+>   TIRO = beginner
+>I chose TIRO rather than TYRO because the Glosa Basic Reference says
+>that the "y" in Greek words should be replaced by "i".
+>
+*       My feeling is that the Glosa authors erred on the side of excess,
+knowing that, one day, an analytical mind like Bill's would come along and
+find the fine line that sorted the vocabulary into rational order.
+        It is my belief that we cannot afford the luxury of unnecessary, and
+definitely confusing, synonyms in a language that is presented as
+streamlined, with primarily one word per concept.
+
+>Qestio: Should TIRO instead be considered literary? A synonym? Maybe
+>we should instead construct "beginner" using the "-pe" Generic. We'd
+>have to choose our rootword carefully. Would a beginning-person be a
+>novice or a baby? Another example, we find:
+>   MANTI = divination - soothsayer
+>and I'm wondering if we should have MANTI = "divination" and MANTI-PE
+>for soothsayer.
+>
+*       For consistency, the use of category markers, such as -PE give Glosa
+part of its distinctive feel, and would be the better choice.  TIRO = cheese
+can be kept *in the wings* for literary use, when Glosa has a body of users,
+but, for the present we are liable to *drown the baby by overfilling the
+bath* to bend a cliche.
+        Lexical distinctions, like one between the soothsayer and his
+prognostications, are essential if Glosa is to be fully flexible.  The
+mechanism is there: you have used it correctly, Bill.  I ask for others on
+the Mail Forwarder to give their opinions!?  We can also use MANTI-AN and
+MANTI-FE if we need to specify the sex of the diviner.  I would say that
+when the Glosa authors were working on the lexicon, they were concentrating
+on the *large picture*, and thus, got the job completed; now it is necessary
+for us to see that the *detail* has been filled in correctly (or consistently).
+
+>Which brings to mind another criterion for synonym selection: a
+>synonym which spawns a Generic should be the Primary! Of course, only
+>a few words could possibly be affected by this. Maybe none. But it's
+>pretty important, I think.
+>
+*       Agreed: this principle is sound.  For example, is a water-pipe an
+AQA-TUBI or a HIDRA-TUBI?  Which 'primary' lends itself better, and "feels"
+better, when used to form 'generics'?  AQA-TUBI rolls off the tongue better,
+and, by such backward logic, AQA should probably be the 'primary' Glosa-word 
+for water.
+
+>Plus questio: GOMFO represents bolt, nail and peg, but sometimes I
+>think we'd need to be more specific as to which one we really should
+>be using. Any suggestions? The Glosa dictionary contains several
+>words for nail, but they all seem to be the biological kind, except
+>maybe for one that I don't recognize: what sort of nail is an AKU?
+>
+*       Again, such differentiation of meaning is essential.  A "bolt" is
+blunt, but anything called an AKU = "needle", "nail" ( from AKUTO = sharpen)
+must be
+sharp and pointed.  Perhaps when sewing, we use a VE-AKU, and when doing
+carpentry, we use a XY-AKU.  When clothiers are talking together, they say
+AKU, knowing they are only referring to the sewing needle; while, when
+carpenters discus the job they only use AKU, knowing it is a "nail".
+        The Langenscheidt Shorter Latin Dictionary didn't help much:-
+  L-E  gomphus, i - peg, pin.
+
+  E-L  peg - clavus  [L-E  clavus - 1. nail; 2. a) rudder, helm; b) purple
+stripe on tunic.]
+        pin - acus, us; fibula  [L-E  acus - needle.]
+
+        This world standard dictionary has the same sort of *mulberry bush*
+meanings that people criticise in "Glosa 6000".  With more time and
+patience, I would look further to differentiate between "pins" and "needles".
+        In the end, I try to assemble all of the possible Classical words
+with their meanings, and try to distil the original flavour ... or sound
+particle ...
+that gave each word its conceptual meaning.  This method has been used by
+the Glosa authors e.g. PET = fly
+        The whole thing is complicated by the fact that the Ancients used
+wooden pegs to hold things together, because the technology of nuts and
+bolts was not available to them.  So, maybe the modern bolt is a renovation
+of the old "peg".
+This might give us the Glosa-word GOMFO = bolt .. or, if a bolt is really a 
+"screw-peg", HELIKO-GO = screw-peg (bolt).  Maybe the modern "pin" is a
+GOMFO in Glosa.
+ 
+>Once we've got these multiple-meaning words nailed down, I plan to
+>invert the file and consolidate the synonym lines to form a literary
+>English-Glosa dictionary. Then we can select a primary synonym for
+>each English word, resulting in the basic English-Glosa dictionary.
+>
+*Sounds like the way to go: starting with what we have got, and reducing it
+to a sub-set for learners and the non-literary communicator.
+
+>So I envision three dictionaries:
+>   a glosa-natlang dictionary containing all the words
+>   a literary natlang-glosa dictionary containing all the words
+>   a basic natlang-glosa dictionary containing only primary synonyms ... $
+>Of course, the literary dictionary could also function as a basic
+>dictionary if we assume that the first synonym is the primary.   
+>
+*        In the same way that Ron and Wendy stressed the value of the "Glosa
+1000" dictionary for learners, I feel that your ($) suggestion is the one
+for general dissemination - based, of course, on the 6000 List instead of
+the basic 1000 words.  I still feel that room should be left for the few
+cases where a synonym is assumed, e.g. AQA (HIDRA) or is it HIDRA (AQA) ?
+
+>Has anybody else noticed that the creators of Glosa seemed to be
+>awfully fond of bogs and marshes and mud and and pipes and other such
+>watery things, and suet and fat and grease, too?
+>
+*       Well, landform and water were very important to the Ancients, who
+lived much closer to the elements than we do.  I guess this comes through in
+what we know of their culture and language.  Whenever I do dictionary
+research in "6000"
+I see the mists and rolling hills of ancient Greece, and I am reminded of
+what passed for civilisation, in those days, in Rome and Athens.  The
+contrast is marked when comparing the Greek and Latin dictionaries: in the
+Greek dictionary there are modern figures of speech and contemporary
+inventions; the Latin dictionary seems frozen in time - in a pre-industrial
+earth-bound culture.
+        This flavour has come across in "6000", with words for pine-cones
+and pine trees, but nothing for "pins".  I wonder, were pine-needles the
+first pins, or did the Ancients use bones from small animals or fish, as
+their first sewing pins!
+        Perhaps what happened then is just not relevent, now, and all we
+have to do is find suitable words - or families of words - that allow us to
+differentiate between the different technological concepts available to us
+to-day.
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Re: Dictionaries
+To: glosa
+Date: Thu, 06 Nov 97 09:3
+
+On Thu, 6 Nov 1997, Robin Gaskell wrote (excerpts):
+
+> *       Agreed: this principle is sound.  For example, is a water-pipe an
+> AQA-TUBI or a HIDRA-TUBI?  Which 'primary' lends itself better, and "feels"
+> better, when used to form 'generics'?  AQA-TUBI rolls off the tongue better,
+> and, by such backward logic, AQA should probably be the 'primary' Glosa-word 
+> for water.
+
+    Robin, I must very strongly disagree with you here.  What "feels"
+better or "rolls off the tongue better" is so subjective and influenced
+by prior conditioning as to be a useless criterion, in my humble
+opinion.  The feel and pronounceability are going to be so determined
+by one's previous linguistic experience that nobody will agree.  I
+suggest this criterion be dropped.
+
+> *        In the same way that Ron and Wendy stressed the value of the "Glosa
+> 1000" dictionary for learners,
+
+    Unfortunately, no consistent list of "Glosa 1000" exists, as I
+found out when I collated official copies from G.E.O.  That's why the
+Glosa Basic Reference on the Web pages has more on the order of 1600
+words than 1000.  Regardless of whatever the personal and
+circumstantial limitations of Ashby&Clark may have been and/or be, this
+lack of consistency (as well as in terminal vowels and two Glosa words
+for a term) is harmful to the Glosa cause.  People may never know or
+care about Ashby&Clark and their personal circumstances: they will only
+know the publications, which could have been better done, no matter
+_how_ they came to be the way they are.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: William W Patterson
+Subject: Watery Words: Nasma, Pidako
+To: William
+Date: Fri, 07 Nov 97 00:5
+
+Both from the Greek:
+
+NASMA = spring - stream
+PIDAKO = fountain - spring
+
+There are plenty of words for spring and stream and fountain and such,
+and these two words aren't used in any compounds or anywhere else in
+the dictionary, so it looks like we're free to define them as we please.
+Preferences, anybody?
+
+- Saluta! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+
+From: William W Patterson
+Subject: Re: Dictionaries
+To: William
+Date: Fri, 07 Nov 97 01:0
+
+Thu, 06 Nov 97 08:17:26 EST, Robin Gaskell skribe:
+
+> *       I don't know  awk  vim  uniq  .   Would you please let us on the
+> Forwarder know what they are, and how they operate, Bill.
+
+I'm using DOS versions of these handy Unix programs.
+
+Awk is a programming language that allows you to write programs which
+read textfiles one line at a time, find the lines which match some
+criterion, then perform some function on those lines. You could do the
+same thing in pretty much any language but awk was designed for this
+sort of textprocessing so it has lots of useful functions that make the
+tasks much easier. Vim is an editor, a freeware superduper version of
+Unix vi (vim = vi-improved). Uniq reads a file and writes out any
+duplicate adjacent lines. Or you can tell it to write out the lines
+which are not duplicated. Grep, fgrep and egrep are like the DOS find,
+but with more features.
+
+So, for example, once I had the file of glosaword=englishword records,
+I used vim to globally delete everything after the = and then saved
+this as a new file, containing only Glosa words. Then I passed this
+file to uniq and it returned a file consisting of only the duplicated
+Glosa words. Then I wrote an awk program to search the Glosa dictionary
+for every word in the duplicates file, writing those words and definitions
+to another file. Then I used vim to read that file and remove the
+duplicates which were just synonyms, leaving only those duplicate words
+with different meanings.
+
+> The word, "homonym" covers words with the same spelling but different, 
+> and unrelated, meanings.
+
+Yes, Robin - homonym, that's the word! How could I have forgotten?
+
+> [Robin's analysis of bolts and pegs and nails and needles, etc...]
+
+Nicely done, Robin! But it's late - I need to get some sleep
+and then re-read it.
+
+> Whenever I do dictionary research in "6000"
+> I see the mists and rolling hills of ancient Greece, and I am reminded of
+> what passed for civilisation, in those days, in Rome and Athens.  The
+> contrast is marked when comparing the Greek and Latin dictionaries: in the
+> Greek dictionary there are modern figures of speech and contemporary
+> inventions; the Latin dictionary seems frozen in time - in a pre-industrial
+> earth-bound culture.
+>         This flavour has come across in "6000", with words for pine-cones
+> and pine trees, but nothing for "pins".  I wonder, were pine-needles the
+> first pins, or did the Ancients use bones from small animals or fish, as
+> their first sewing pins!
+
+Yes! I had a similar feeling when I first examined the Generics; not
+ancient, just not quite modern. That's what prompted my earlier question
+about the Generics - the choices seemed odd, but intriguing.
+
+The feeling does get stronger and more ancient as I examine the dictionary.
+
+Unfortunately (or not, depending on one's point of view), as an IAL Glosa
+will undoubtedly acquire more modern words, or develop its own substitute
+terms for modern concepts. But I can't help liking a language that has
+seven words for "marsh", and another for "marsh marigold". I think I'll
+add a fourth dictionary to my list, by freezing a copy of the first
+literary dictionary, and calling it Classical Glosa.
+
+- Saluta! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+
+From: William W Patterson
+Subject: Re: Dictionaries
+To: William
+Date: Fri, 07 Nov 97 00:5
+
+Thu, 06 Nov 97 09:36:22 EST, Paul O Bartlett skribe:
+
+>     Robin, I must very strongly disagree with you here.  What "feels"
+> better or "rolls off the tongue better" is so subjective and influenced
+> by prior conditioning as to be a useless criterion, in my humble
+> opinion.  The feel and pronounceability are going to be so determined
+> by one's previous linguistic experience that nobody will agree.  I
+> suggest this criterion be dropped.
+
+But I'd argue that in a living language the "feel" would be very important
+in unconsciously deciding between two words which are otherwise equivalent.
+And though the engineer in me prefers HIDRO (hydraulic, etc.), most of me
+does prefer AQA. Since both appear only once in compounds, I feel that this
+is a case in which "feel" could be a valid consideration.
+
+Besides, the HIDRO compound is just ANHIDRO (without water), but the AQA
+compound is AQARELA (water color) and to me that seems to be of more
+significance than the simple negation embodied in the former.
+
+What color is your water?
+
+- Saluta! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+
+From: Paul O Bartlett
+Subject: Re: Dictionaries
+To: glosa
+Date: Fri, 07 Nov 97 11:2
+
+On Fri, 7 Nov 1997, William W Patterson wrote:
+
+> Thu, 06 Nov 97 09:36:22 EST, Paul O Bartlett skribe:
+> 
+> > [...]     The feel and pronounceability are going to be so determined
+> > by one's previous linguistic experience that nobody will agree. [...]
+> > suggest this criterion be dropped.
+> 
+> But I'd argue that in a living language the "feel" would be very important
+> in unconsciously deciding between two words which are otherwise equivalent.
+> [...]
+
+    Again I want to stress how much this "feel" is strongly biased by
+prior conditioning.  If Glosa ever takes off, a lot of learners are
+going to be post-adolescents whose language habits are more or less
+fixed.  And for that matter, even pre-adolescent children can have a
+certain amount of fixity (though less) in their language habits.
+
+    English is basically a Germanic language, and the Germanic and
+Slavic languages are notorious for their consonant clusters, which can
+be a real struggle for adult learners from other language groups.  I
+once worked with refugees whose native language was Khmer, and they had
+a devil of a time with the consonant clusters of English.  If they were
+assessing different candidate Glosa words, they might
+semi-automatically select the one with fewer consonant clusters on the
+grounds that it "feels" better, whereas an anglophone or slavophone,
+accustomed to consonant clusters, might not even think of such a matter
+with regard to how a word "feels."
+
+    My whole point is that we can be led badly astray by our prior
+language conditioning as to what "feels" better or "natural."  This
+subjectivity has been notorious in the constructed auxliliary language
+world.  "Natural" and "feels" better are all too often code words for
+"more like my native language."  Other people with native languages
+from different language fanilies might think that very different
+phenomena "feel" better and more "natural."
+
+    I still maintain that "feel" is so subjective and deceptive as to
+be useless in practice.  If you think that you _must_ use it, then by
+all means gather a panel of Glosa-pe who have different native
+languages from English, preferably those with non-Indo-European native
+tongues, and see how much agreement there is on "feel."
+
+> What color is your water?
+
+    Light yellow when I'm healthy. :-)
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: conIAL Structural Type and Vocabulary Size
+To: glosa
+Date: Fri, 07 Nov 97 17:3
+
+{crossposted to AUXLANG, Glosa Discussion 
+{Group, and C. George Boeree}
+
+    Some time ago I received a private communication from George
+Boeree, the originator of Lingua Franca Nova, from which I will take
+the liberty to quote a few lines here.
+
+>                                 (3) grammar whould be kept simple and 
+> regular, but there is no reason to suppose that isolating languages 
+> (with all their particles) are any easier to learn than agglutinating 
+> ones, or vice versa;
+>                      and (4) people easily absorb three or four 
+> thousand words, and need at least that kind of variety to express 
+> themselves well, i.e. while an "infinite" vocabulary (English's claim 
+> to fame) is absurd, one restricted to one or two thousand key words is 
+> likewise unwise.
+
+    I have sometimes wondered what is the justification for the
+sometime assumption that a strictly isolating language, say of the
+Glosa type, is necessarily "simpler" than a language more of the
+agglutinating type, such as Esperanto.  _Why_ must a welter of
+particles with otherwise invariant roots somehow _have_ to be "simpler"
+than agglutinated morphemes?  What does it even mean to say that one
+structural type is "simpler" than another?
+
+    What is a good working vocabulary size for a conIAL, even if we
+allow for word derivation from roots?  About how many words do people
+need to express more or less what they want to express in everyday
+living (apart from specialized, vocational, literary, or technical
+terminology)?  Mr. Boeree hypothesizes about 3000 - 4000.  Other 
+ideas?
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Face Plu Neo Verba
+To: glosa
+Date: Fri, 07 Nov 97 21:5
+
+    Pre-kron nu-di mi skribe peci ex grama de C. George Boeree, qi poeia
+u auxilingua Lingua Franca Nova.  Sr. Boeree dona an doxo, auxilingua
+debi kleisto 3000 - 4000 verba te pe pote face sati u lexi valu.  U
+WWW-pagina de Glosa kleisto proxi 1600 verba, e mi habe u no-facili te
+dice ali-ra mi volu.  U no-facili es; Glosa ne habe boni metodi face plu
+neo verba.  Anti-co mi ne amo idea uti Glosa 6000 panto kron.  Qe Glosa
+volu u ma boni metodi te face plu neo verba?
+
+Vale,
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: William W Patterson
+Subject: Hunters/Sadists & Fingers/Toes
+To: William
+Date: Tue, 11 Nov 97 01:1
+
+Perhaps the creators were trying to make a statement - I don't know.
+But here's how I've resolved the SADISTI homonym. Originally, we had...
+
+   CASA = chase, hunt
+   SADI = cruel
+   SADISTI = hunter - sadist
+
+Now we have...
+
+   CASA = chase, hunt
+   SADI = cruel
+   SADISTI = sadistic (as in Glosa 1000)
+   CASA-PE = hunter
+   SADISTI-PE = sadist
+
+I've noticed that there are several words in Glosa 6000 which refer
+to people, and end in -STI, and appear to be formed from a root word:
+SADI -> SADISTI, DENTI -> DENTISTI, JURNALI -> JURNALISTI, for examples.
+Taking a clue from Glosa 1000, I removed the person from SADISTI but
+retained the word as a different form of cruelty. There are undoubtedly
+other words like this. For words like the other examples, I'd suggest
+that we drop the -STI words: DENTI -> DENTI-PE, JURNALI -> JURNALI-PE.
+
+========
+
+DIGITA is a word that looked like a homonym though it isn't really.
+DAKTILI probably should have looked like a homonym even though it
+isn't, but it didn't, because it was defined only as finger.
+
+We had...
+
+   DAKTILI,G. = finger
+   DIGITA = finger - toe
+   MANU = hand
+   PEDI = foot
+   POLEX = thumb
+   HALUX = big toe
+
+According to my dictionaries it appears that neither Greek nor Latin
+distinguished between the digits of the hands and feet, though somebody
+found words for thumb and big toe! In fact, my Greek dictionary refers
+to "finger" as "daktilo" and "toe" as "daktilo of the foot".
+
+So we have...
+
+   DAKTILI,G. = digit(finger or toe)
+   DIGITA = digit(finger or toe)
+   MANU-DIGITA = finger
+   PEDI-DIGITA = toe
+   POLEX = thumb
+   HALUX = big toe
+
+Unless somebody perhaps has a better dictionary, one which gives separate
+words for "finger" and "toe"? I still find it hard to believe that neither
+of those two languages distinguishes between them!
+
+========
+
+- Saluta! - Bill
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+Alia tempo, aliaj moroj.
+
+
+From: Robin Gaskell
+Subject: Re: Face Plu Neo Verba
+To: Robin Gaskell
+Date: Sat, 22 Nov 97 07:2
+
+At 09:58 PM 11/7/97 -0500, you wrote:
+>    Pre-kron nu-di mi skribe peci ex grama de C. George Boeree, qi poeia
+>u auxilingua Lingua Franca Nova.  Sr. Boeree dona an doxo, auxilingua
+>debi kleisto 3000 - 4000 verba te pe pote face sati u lexi valu.  U
+>WWW-pagina de Glosa kleisto proxi 1600 verba, e mi habe u no-facili te
+>dice ali-ra mi volu. 
+*       Akorda!  Na nece habe tri alo tet kilo verba pro gluko komunika; e
+seqe-co, na nece habe u mode de extende plu-ci verba te dona ma semani.  Na
+habe plu bi-litera adi-partikula; plu-ci es plu "genera kategori", qi na bi
+vo vide gene ma.  Sed il es nuli hetero regula pro u face de neo verba, alo
+u muta de plu existe verba te genera plu neo, sed ge relati, verba.  U pusi
+lista de 1600 
+verba ne sati plu-pe; qi vo expresi mu-auto uti plu "mot juste."
+        U promoti de mo (alo bi) kilo verba iso un uti-ple lingua es u
+no-sati ekonomi, ge kausa ex ge-limita pluto.  U preci de u "Glosa 6000"
+verba bibli es ma de plu-pe vo dona pro u xeno diktionaria; e so, pro mito a
+plu responde-pe, 
+u Glosa 1000 lista es un ekonomi decide-ra.  Anti-co, holo na, ci intra u
+Glosa Stude Grega, ski: mo kilo e six centi verba es no-sufici pro civilisi
+konversa.
+
+>         U no-facili es; Glosa ne habe boni metodi face plu
+>neo verba.  Anti-co mi ne amo idea uti Glosa 6000 panto kron.  Qe Glosa
+>volu u ma boni metodi te face plu neo verba?
+>
+>Vale,
+>Paul 
+>
+*       Hetero de crea plu ge-hifen komposito verba, iso un "adi-partikula,"
+qi mi pa face pro u-ci responde, na habe nuli ge-publiko mode de adi plu
+verba ad u Glosa lexikon.  Sed, mi adi plu neo verba, iso mi este u nece
+akti id.  EG, mi pa krea u verba "hifen" (= Eng. hyphen) ka mi vo uti u-ci
+koncepa.  Un uti de u-ci marka, intra Glosa, es esentia te tena u regula de
+plu separa verba.  "Hifen", alo id ma boni eqivalu verba, sio debi es in u
+"6000" lista.
+        Dice-co, qod es tu rationa, Paul, de grafo ke tu " .. ne amo uti Glosa
+6000 panto kron."?  Mo posi logi es ke poli-pe habe solo u "1000" lista.
+Anti-co, mi kredi tu habe u hetero rationa: si so, qod es id?
+        Pre-nu, tem grafo ad u gina de fe [Eng] ''employment,'' mi ne pote
+detekti u kongru verba intra u Glosa lexikon, so mi pa qero id intra plu
+Klasiko diktionaria.  U Latino verba, "utor" pa sembla fo kongru, so mi pa
+adi id ad u lexikon.  
+
+        Plu-ci komenta posi ne dona responde a tu qestio, sed mu *mastika*
+un idea u poko. 
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Watery Words: Nasma, Pidako
+To: Robin Gaskell
+Date: Sat, 22 Nov 97 07:2
+
+At 12:59 AM 11/7/97 -0500, Bill Patterson dice:
+>Both from the Greek:
+>
+>NASMA = spring - stream
+>PIDAKO = fountain - spring
+>
+>There are plenty of words for spring and stream and fountain and such,
+>and these two words aren't used in any compounds or anywhere else in
+>the dictionary, so it looks like we're free to define them as we please.
+>Preferences, anybody?
+>
+*       I have not looked at the lists of spring/stream/fountain words, but
+I do not agree that we are able to arbitrarily allocate our chosen meanings
+to existing lexical items.
+ 1) I go along with the Huna idea that words are made up of elements that
+have 'spiritual' significance.  If we were able to look back far enough, we
+would find the primitive start of language, and we would probably find that
+the elements of 'watery flowingness' are in NASMA.  I suspect that the "AS"
+in NASMA is suggestive of flowing water; the whole word gives me the mental
+picture of a wet patch at the bottom of a hill, where the ground-water is
+oozing out into a boggy area from which a small rill of flowing water runs
+away into a larger riverlet, and so on.
+        A bit poetic, I guess, and very subjective, but the original word
+had to come from somewhere, and did have a specific meaning, then.  I would
+like to imagine that someone with perceptive powers could sit down with the
+various synonimous words on his desk with a few Classical dictionaries for
+research, and then could fill in the presently significant concepts of
+'watery flowingness' - matching up the Classical lexical entries with
+current concepts.  
+ 2) I have to admit that PIDAKO seems like a much more acive word, probably
+covering water in the form of an actual squirt.  Is the "AKO" element
+suggestive of water 'arcing' in the form of an arch, or is it to do with
+pointedness [ref. "aku"], and thus something to do with water from a
+fountain or a spring that is spirting water.  In England, there is a small
+group of villages that feature the word "Piddle" (= stream) as part of their
+name, e.g. Piddle Trenthide.  Maybe a PIDAKO is the water squirt that comes
+from a wet rock stratum forming the start of a river.
+        Again, poetic ... but not arbitrary, though possibly intuitive.
+ ... I hope that this helps in the search for meaning.  I can hear Paul Bartlett
+disapproving of this approach as too subjective, but I believe that it is
+'intuitve.'
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Robin Gaskell
+Subject: Re: Dictionaries
+To: Robin Gaskell
+Date: Sat, 22 Nov 97 07:2
+
+At 11:27 AM 11/7/97 -0500, Paul Bartlett dice:
+>On Fri, 7 Nov 1997, William W Patterson wrote:
+>
+>> Thu, 06 Nov 97 09:36:22 EST, Paul O Bartlett skribe:
+>> 
+>> > [...]     The feel and pronounceability are going to be so determined
+>> > by one's previous linguistic experience that nobody will agree. [...]
+>> > suggest this criterion be dropped.
+>> 
+>> But I'd argue that in a living language the "feel" would be very important
+>> in unconsciously deciding between two words which are otherwise equivalent.
+>> [...]
+>
+>    Again I want to stress how much this "feel" is strongly biased by
+>prior conditioning.  If Glosa ever takes off, a lot of learners are
+>going to be post-adolescents whose language habits are more or less
+>fixed.  And for that matter, even pre-adolescent children can have a
+>certain amount of fixity (though less) in their language habits.
+>
+*       I understand, Paul, that my "feeling" is likely to be different from
+that of others growing up with other sounds and other neuro-muscular traces
+built up in the formation of these sounds.  However, I am trying to be  -
+the impossible - impartial, in this.  I am thinking ~Glosa~ and I am
+thinking ~elegance~ in sound.  Worse, I am assuming the Roman alphabet: this
+is an incorrect assumption for the Chinese people who do not differentiate
+between 
+/l/, /n/ and /r/.
+        But where do we draw the line?  Can we only use one of this trio of
+phonemes because, otherwise, many Chinese speakers would have to learn how
+to form the new sounds?  That cuts the effective alphabet down to
+twenty-four; through a similar process of reduction, reviewing other
+languages, how many letters would we be left with?   This leads to the
+Gilson (AUXLANG) suggestion that a Global IAL is an impossibility.
+        My refutation of this is that LUI Haitao, of China, taught himself
+Esperanto, and subsequently Glosa, in which he was quite good, but ... his
+attempts at English were atrocious!  Agreed this was in the written form only!!!
+        Haitao is now on Auxlang.  Perhaps I should ask him to re-open our
+dialogue .. but with the use of voice cassettes to demonstrate his ability
+to sound both Esperanto and Glosa.  I would like to know how well his vocal
+attempts at the auxiliary languages matches up with his spoken use of them. 
+
+>    English is basically a Germanic language, and the Germanic and
+>Slavic languages are notorious for their consonant clusters, which can
+>be a real struggle for adult learners from other language groups.  I
+>once worked with refugees whose native language was Khmer, and they had
+>a devil of a time with the consonant clusters of English.  If they were
+>assessing different candidate Glosa words, they might
+>semi-automatically select the one with fewer consonant clusters on the
+>grounds that it "feels" better, whereas an anglophone or slavophone,
+>accustomed to consonant clusters, might not even think of such a matter
+>with regard to how a word "feels."
+>
+*       I would agree with the Khymer speakers: what rolls off the tongue
+best is the obvious choice.  And it is true, Glosa started with the  C-V-C-V
+pattern.  Some of the later additions .. more the Greek ones .. are a bit
+hader to articulate.  Which would be harder for a Khymer to say: AQA or HIDRA?
+        Consonant clusters are bad news, and should not be in Glosa.  But I
+probably (PROBABILI) accepted them without thinking, because they were no
+trouble to me.  Point taken.  I still wonder, though, if the Classical roots
+of science can somehow be taken as a baseline in international vocabulary.
+Somewhere a decision would have to be made .. along the lines of the need
+for sufficient concepts.  Also, some smoothing of sounds could occur, as in
+the case of PROBABILI, above.  The consistency of using the Classicals of
+science is a factor in the equation, as well.
+        Who has to compromise what - if global dialogue is to take place:
+the Chinese and others with the learning of new sounds; or those for whom
+the Classicals are comfortable .. in the loss of words or the alteration of
+spellings, for ease of pronunciation?
+
+>    My whole point is that we can be led badly astray by our prior
+>language conditioning as to what "feels" better or "natural."  This
+>subjectivity has been notorious in the constructed auxliliary language
+>world.  
+*       I guess so.  And just how bad is Glosa at doing it?
+
+>"Natural" and "feels" better are all too often code words for
+>"more like my native language."  Other people with native languages
+>from different language fanilies might think that very different
+>phenomena "feel" better and more "natural."
+>
+*       All of this points to the fact that, in Glosa, there has been an over-
+concentration on th written form of the language.  Now we need to clean up
+the act as far as the spoken form goes!
+       
+>    I still maintain that "feel" is so subjective and deceptive as to
+>be useless in practice.  If you think that you _must_ use it, then by
+>all means gather a panel of Glosa-pe who have different native
+>languages from English, preferably those with non-Indo-European native
+>tongues, and see how much agreement there is on "feel."
+>
+*       Quite so, this, in Glosa parlance, is known as the 'Translingual
+Project'.  My reason for seeking affluent enthusiasts on the Net, was to
+find more people to service this Translingual Group, communicating by letter
+.. and,
+as is becoming obvious from this discussion, cassette.
+
+Saluta,
+ Robin
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Re: Dictionaries
+To: glosa
+Date: Sat, 22 Nov 97 09:4
+
+On Sat, 22 Nov 1997, Robin Gaskell wrote (tiny excerpt):
+
+>         But where do we draw the line?  Can we only use one of this trio of
+> phonemes because, otherwise, many Chinese speakers would have to learn how
+> to form the new sounds?  That cuts the effective alphabet down to
+> twenty-four; through a similar process of reduction, reviewing other
+> languages, how many letters would we be left with?   This leads to the
+> Gilson (AUXLANG) suggestion that a Global IAL is an impossibility.
+
+    Not necessarily.  In the 1950's, a Vietnamese author came out with
+the auxlang project FRATER.  He explicitly named Bodmer as a source of
+ideas, although I suspect they were actually based somewhat on those of
+Hogben as expressed in _The_Loom_of_Language_.  I developed and
+modified FRATER into my frater2 project, although I have never gotten
+vocabulary typed in, so it has been largely an exercise in structure. 
+Information on frater2 is available via my auxlang WWW page at
+
+http://www.geocities.com/Athens/Acropolis/6223/
+
+    My whole point is that the sound system of FRATER (which I did not
+change in frater2) consists of only eighteen (count 'em) phonemes. 
+>From what I have been able to tell, these eighteen are among the most
+common phonemes in the world's languages.  As in Glosa, most of the
+base vocabulary is taken from Latin and Greek roots, but because of the
+limited phoneme inventory, a goodly number of them have undergone some
+deformation.  Apparently there was a conscious design decision to place
+pronounceability for more above strict recognizability for some. 
+FRATER showed that is is completely possible to build an auxlang out of
+a limited phoneme inventory.
+
+    Granted, Glosa could not withstand such a severe reduction of
+phoneme inventory without losing its character.  But a reduced
+inventory does not at all mean an auxlang is thereby impossible.  From
+his posts on the AUXLANG list, I suspect that Bruce Gilson's idea that
+a truly global conIAL is not possible does not derive from phoneme
+inventory.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: Paul O Bartlett
+Subject: Re: Face Plu Neo Verba
+To: glosa
+Date: Sat, 22 Nov 97 12:0
+
+Di six, 22 meno mo mo 1997, Robin Gaskell skribe (peci):
+
+>                  Na nece habe tri alo tet kilo verba pro gluko komunika;
+> [...]                                                                U pusi
+> lista de 1600
+> verba ne sati plu-pe; qi vo expresi mu-auto uti plu "mot juste."
+
+> [...]                   mo kilo e six centi verba es no-sufici pro civilisi
+> konversa.
+
+> verba ad u Glosa lexikon.  Sed, mi adi plu neo verba, iso mi este u nece
+                   ^^^^^^^
+                          verba-grega?
+
+>         Dice-co, qod es tu rationa, Paul, de grafo ke tu " .. ne amo uti Glosa
+> 6000 panto kron."?  Mo posi logi es ke poli-pe habe solo u "1000" lista.
+> Anti-co, mi kredi tu habe u hetero rationa: si so, qod es id?
+
+    U idea es boni; u verba-grega ne es tro mega.  1000 alo 1600 verba
+ne sati sine metodi per face neo verba.  6000 verba es tro poli akorda
+u nece.
+
+Paul                             <pobart{at}access{dot}digex{dot}net>
+..........................................................
+Paul O. Bartlett, P.O. Box 857, Vienna, VA 22183-0857, USA
+Finger, keyserver, or WWW for PGP 2.6.2 public key
+Home Page:  http://www.access.digex.net/~pobart
+
+
+From: William W Patterson
+Subject: Footwear
+To: William
+Date: Tue, 25 Nov 97 21:4
+
+
+Ave, panto-pe!
+
+With all those gloomy watery places waiting for us you'd think that
+Glosa would provide us with some decent footwear, but all we've got
+is...
+
+BOTA = boot              
+TROKADA = running shoe     Greek trokadin = at a run, quickly
+SOKO = shoe(light)         Latin soccus = light shoe; comedy
+UDO = shoe - sock          Latin udo = shoe of felt or skin
+
+Well, ok, the boot would be handy.
+
+BOTA is ok - I think we can leave that one alone. TROKADA's ok too,
+though I bet *that* wasn't in Classical Glosa. But what I'm looking
+for here is just some plain old shoes and socks. My English bias
+tells me to use SOKO for sock, leaving UDO for shoe, but the
+etymologies tell me to do the opposite: Latin "udo" sounds more
+socklike, and "soccus" is definitely a shoe. (Or a comedy?)
+
+How about some new terms?
+
+I rather like the Latin word for stocking: "tibiale". (The Greek
+"kaltda" is too close in sound to KALTA (marsh marigold)).
+
+For shoe, Latin "calceus" works for me - say it out loud, it sounds
+better than it looks. KALCEUS. Then there's the Greek "papoutdi" -
+but I think that one looks better than it sounds.
+
+And we could then leave UDO as it is, meaning either shoe or sock,
+generically footwear. Or maybe yesterday's UDO *is* today's sock.
+Kind of an inner, soft shoe.
+
+- Bill
+
+
+--
+William W. Patterson <ailanto{at}neosplice{dot}com>
+http://www.neosplice.com/~ailanto
+
+Every silver lining has a cloud.
+
+
+From: Robin Gaskell
+Subject: Re: Hunters/Sadists & Fingers/Toes
+To: Robin Gaskell
+Date: Wed, 26 Nov 97 07:0
+
+At 01:13 AM 11/11/97 -0500, Bill Patterson grafo:-
+>Perhaps the creators were trying to make a statement - I don't know.
+>But here's how I've resolved the SADISTI homonym. Originally, we had...
+>
+>   CASA = chase, hunt
+>   SADI = cruel
+>   SADISTI = hunter - sadist
+>
+>Now we have...
+>
+>   CASA = chase, hunt
+>   SADI = cruel
+>   SADISTI = sadistic (as in Glosa 1000)
+>   CASA-PE = hunter
+>   SADISTI-PE = sadist
+>
+*       This sort of rationalisation seems necessary to 'standardise' Glosa
+forms.  Obviously, for the lexicon, we need different words for 'cruelty'
+and 'sadism'.  Here I suggest the noun as the base "concept word".  Both
+"cruel" and "sadistic", as you have given them, are adjectives: I imagine
+the mind storing its collection of concepts as either objects or actions; so
+getting mixed up with psycho-linguistics, I see most of our mental store of
+concepts as either nouns or verbs.  EG the Glosa word, KI, is most likely
+stored mentally as the action, and not as (in English) "going" - the
+gerundive form.  IE KI (= to go)
+would seem the base concept, rather than U KI (=the going) or DU KI (=going:
+continuous action).
+
+        The example SADISTI, however, meaning 'causing cruelty', is very
+likely stored in our memory banks as a description .. so the adjective
+"sadistic" might be the entry in our mental lexicon, because using this
+concept decriptively is more basic than thinking of the abstract idea,
+"sadism."  More by coincidence, I suspect, the -STI suffix can mean
+"causing" or "causes."  So SADI-STI or SADISTI
+could be ~glossed~ as <cruelty causing>.  Thus, SADI-STI-PE, or SADISTI-PE,
+glosses well as <cruelty causing person>.
+
+>I've noticed that there are several words in Glosa 6000 which refer
+>to people, and end in -STI, and appear to be formed from a root word:
+>SADI -> SADISTI, DENTI -> DENTISTI, JURNALI -> JURNALISTI, for examples.
+>Taking a clue from Glosa 1000, I removed the person from SADISTI but
+>retained the word as a different form of cruelty. There are undoubtedly
+>other words like this. For words like the other examples, I'd suggest
+>that we drop the -STI words: DENTI -> DENTI-PE, JURNALI -> JURNALI-PE.
+>
+*       And again the -ISTI could be a "switch on" suffix.  The -I- might
+just be the terminal vowel, leaving the -STI part to refer to the "switching
+on" or "causing to come into being."  A JURNALI-PE causes the JURNALI to
+come into being, so might legitemately be a JURNALI-STI, or a JURNALISTI.
+Dentists, on the other hand, cause dentures, or bring them into being.
+Whether all this was going on in the Clark/Ashby brain at the time of
+vocabulary-building, I don't know, but there could have been some
+serendipitous thinking occurring.
+
+>========
+>
+>DIGITA is a word that looked like a homonym though it isn't really.
+>DAKTILI probably should have looked like a homonym even though it
+>isn't, but it didn't, because it was defined only as finger.
+>
+*       Not sure what differentiates true from false homonyms, here.
+        If DIGITA .=. DAKTILI glosses as "digit (hand or foot)" then they
+might be the Latin and Greek equivalents, and, thus, be seen as homonyms.
+
+>We had...
+>
+>   DAKTILI,G. = finger
+>   DIGITA = finger - toe
+>   MANU = hand
+>   PEDI = foot
+>   POLEX = thumb
+>   HALUX = big toe
+>
+>According to my dictionaries it appears that neither Greek nor Latin
+>distinguished between the digits of the hands and feet, though somebody
+>found words for thumb and big toe! In fact, my Greek dictionary refers
+>to "finger" as "daktilo" and "toe" as "daktilo of the foot".
+>
+*       A very strange Classical lack of discrimination.
+
+>So we have...
+>
+>   DAKTILI,G. = digit(finger or toe)
+>   DIGITA = digit(finger or toe)
+>   MANU-DIGITA = finger
+>   PEDI-DIGITA = toe
+>   POLEX = thumb
+>   HALUX = big toe
+>
+>Unless somebody perhaps has a better dictionary, one which gives separate
+>words for "finger" and "toe"? I still find it hard to believe that neither
+>of those two languages distinguishes between them!
+>
+*       This rationalisation seems correct, but the apparent synonyms could
+appear on the same line:-
+     DIGITA,DAKTILI,G. digit (finger or toe)
+
+        Such inconsistencies are, I feel, par for the course.  The Glosa
+authors did a very large job in hunting out their 6000 concept wordlist; and
+while some of us might question some of the inclusions and omissions, the
+rationalisations you suggest are legitemate at this Applications Research
+stage of the language's development.  Perhaps suggestions for the inclusion
+of additional words, EG computing terminologogy and some descriptive
+linguistic terms, plus a hit list for removals - from "6000" - are also in
+order at this 'Applications' stage of Glosa's development.
+
+Saluta,
+ Robin
+
+>Alia tempo, aliaj moroj. 
+*       "A different time, different customs."
+ Or is it:  "Another time, other customs." ?
+
+ ------------------------------------------------------------------------------
+ ROBIN GASKELL: rgaskell{at}zeta{dot}org{dot}au      WEBPAGE: www.zeta.org.au/~rgaskell
+ GLOSALIST:  Awaiting Majordomo installation : CURRENTLY USING a "Mail
+Forwarder"
+ BOOKS ON GLOSA:-  Blackwells Internet Bookshop  www.blackwell.co.uk/bookshops/
+                   Internet Bookshop  sales{at}bookdata{dot}co{dot}uk   
+
+
+From: Paul O Bartlett
+Subject: Question from neophyte (fwd)
+To: glosa
+Date: Sun, 30 Nov 97 11:1
+
+Due an addressing problem, this message did not 
+make it the first time around.
+
+Paul Bartlett
+
+---------- Forwarded message ----------
+From: Andy Nousen <anousen{at}proaxis{dot}com>
+To: glosa <pobart{at}access{dot}digex{dot}net>
+Date: Sat, 29 Nov 1997 22:29:11 -0800
+Subject: Question from neophyte
+
+Glosa-pe,
+
+I am interested in joining your email group to learn about Glosa. I
+already have a question: does "mi kanta" mean "I sing" or "my
+singing"?
+
+Thank you,
+Andy Nousen
+
+
+From: Paul O Bartlett
+Subject: Special Test -- Disregard
+To: glosa
+Date: Sun, 30 Nov 97 15:0
+
+Disregard this message: it is a special technical 
+test of the Glosa Discussion Group mechanism.
+
+Paul Bartlett
+

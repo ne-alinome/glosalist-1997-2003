@@ -1,0 +1,1363 @@
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re: [glosalist] Final vowels
+From: "Marcel Springer" <m.springer{at}nikocity{dot}de>
+Date: Sun, 1 Apr 2001 14:20:17 +0200
+
+Dear Charles, 
+
+Tu grafo: 
+ > I don't find the authors of Glosa credible as linguists
+ > of either the scientific or polyglot sort; in other words,
+ > no degree in linguistics, not much knowledge of the source langs. 
+
+Yes, I think there is an awkward self-overestimation in this point, 
+that damages Glosa's reputation and so the spread of the language.  
+
+Look what Wendy wrote to Alexander (see his email 01-02-11):  "Ron pa 
+dice Ruso-lingua fo boni e fo amo tu lingua.  Mali-fortuna an ne pa 
+habe pote de grafo tu alfabeta per an puta-me; seqe-co an ne pa proto 
+u-ci [the translation of 'Glosa 6000'] ergo." - and she feels 
+thoroughly convinced of it.  Their "Deutsch-Glosa 1000"-book is nearly 
+unreadable and so I cannot believe, that Ron's Russian would have 
+satisfied to write a whole book in it. 
+
+But I do think, they were NOT totally stupid, they have more knowledge 
+than me and they did put a lot of work into the Glosa words, more than 
+there can be seen in their printed word lists.  Certainly a lot of 
+errors in the vocabulary are redactional (language development faster 
+than new editions of books) and so perhaps a problem of computer 
+usage.  And finally do not forget, more problems are caused than 
+solved by the science.  That makes non-scientific inventions likable. 
+
+
+ > Arbitrary and inextensible. Also anti-mnemonic for Europeans. 
+
+Very extensible: take every -i-word and make it to -a, -e, -o and -u, 
+then you have a 4-times-extension!  ;)  -    OK, I know, what you mean 
+and you are right. 
+
+
+ > No system, therefore no justification for it.
+
+Can you please write a comment to this: 
+
+ > > Glosa uses international words.  It claims that there is to EVERY 
+ > > Glosa word at least ONE cognate in EACH of the following five 
+ > > languages: English, Spanish, French, German and Russian.  So we 
+ > > have to find all these cognates in these five languages and take 
+ > > the average vowel of them.  That is the way, Glosa wants to be. 
+
+Thank you, gratia e saluta - Marcel 
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Final vowels
+From: Charles <charles{at}catty{dot}com>
+Date: Sun, 01 Apr 2001 10:30:23 -0700
+
+Marcel Springer wrote:
+
+> But I do think, they were NOT totally stupid
+
+No, I don't think that either. They dropped morphology,
+and that proved both revolutionary and workable.
+Their work was as valuable as that of Hogben.
+
+> they did put a lot of work into the Glosa words, more than
+> there can be seen in their printed word lists.
+
+Only someone who has tried to make a conlang knows
+how difficult the task is, even using a computer.
+
+> > No system, therefore no justification for it.
+> 
+> Can you please write a comment to this:
+
+Interlingua of Peano had a word selection system
+(and it determined final vowels nicely).
+Interlingua of Gode has an algorithm to determine
+international words. It is almost the same as
+that of the earlier Occidental.
+
+Esperanto began with a set of roots and affixes.
+It was arbitrary but artistic and consistent. It proved
+that less (rules and vocabulary) is more (learnable).
+
+Interglossa had some guidelines for selecting vocabulary,
+but it wasn't thorough. Glosa used the Roget's Thesaurus
+plus whatever fill-in words occured to the authors.
+Compared to other systems, it isn't adequate for use,
+but *could* be revised using more modern techniques.
+
+The EuroWordnet project compared vocabularies of several
+European languages and identified their most important
+shared concepts, much better than Roget:
+http://www.hum.uva.nl/~ewn/corebcs/topont.htm
+
+As for English, a huge corpus of data was analyzed
+to produce a word-frequency list by part-of-speech:
+http://www.itri.bton.ac.uk/~Adam.Kilgarriff/bnc-readme.html
+Notice especially his "lemmatized list" which generates
+90% of all English vocabulary in actual usage.
+
+I have come to believe, provisionally, that it is necessary
+for a useful artificial language to have a base set of
+approximately 3000 to 6000 *productive* words. It would
+include "cat" but not "lion", because there are too many
+specific names of things to give them all primary roots.
+Glosa has no morphology, but every lang must have derivation.
+So, "big cat", etc.
+
+Interglossa originally had another good idea which has
+been lost in Glosa: We don't need more than a very limited
+number of verbs, perhaps only 20 to 100. This is valid
+because most verbs (approximately 5000 in European languages)
+are composed of a "light verb" that incorporates a noun
+and/or direction. So factor them out, and things get simple
+fast. Asian langs do this and work very efficiently.
+
+But how to choose which base words are really needed?
+I think it is necessary to rely on linguistic science today,
+not personal artistic inspiration. Some weighted formula
+involving EuroWordnet, BNC, even Roget, and/or other sources
+can be tried out by computer and tested and adjusted.
+Then it can be published and maintained in the future,
+by some committee that will perpetuate Glosa.
+
+It is also possible to design an algorithm matching
+equivalent roots in many languages to the chosen concepts.
+One could include ancient and modern languages and dialects.
+Then maximize recognizability, pronounceability, etc,
+by another open (public) algorithm.
+
+This could be done, and should be, by trained linguists.
+There are probably 10 available in the world, I even
+know of 1 or 2. It has to adhere to the highest possible
+standards of science and openness. I think the world
+would welcome such an effort, and even use the language.
+If a sufficient enthusiastic group of supporters were
+to "demand" such a thing, I think it could happen.
+(Until then, I prefer a different interlingue.)
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: Re:[glosalist] Interglossa syntax (was: final vowels) 
+From: "Marcel Springer" <m.springer{at}nikocity{dot}de>
+Date: Sun, 1 Apr 2001 23:57:47 +0200
+
+Dear Charles,
+
+Thank you for your interesting answer about word-derivation.
+
+
+You wrote about Interglossa:
+
+ > Interglossa originally had another good idea which has
+ > been lost in Glosa: We don't need more than a very limited
+ > number of verbs, perhaps only 20 to 100.  ...
+
+Glosa has not lost it.  You can form lovely easy sentences with akti,
+es, este, face, habe.  And this method is also good for longer
+sentences to make clearer what is the verb.
+
+But Glosa has also the possibility of strong verbs.  And therefore
+you do not need a vocabulary extension because of the
+no-part-of-speech-concept.  Stronger verbs give better style.  More
+life comes in.  Interglossa was poison for poets.
+
+So with Glosa you have both, and I like this hybrid.  But I am angry,
+that Ashby and Clark refused to write a grammar.  So the older
+Interglossa with its sentence-formulas seems to be clearer, easier and
+more scientific than its follower.
+
+
+------------
+(Exempla de Reiners, Ludwig: Stilkunst [Art of Style], Munich 1943,
+p. 139):
+    Nach Aushebung einer Vertiefung liegt auch für den Urheber ein
+    Stürzen im Bereich der Möglichkeit.
+(Mi tenta translati):
+    After out-lifting of a deepening there is also for the creator a
+    falling in the area of possibility.
+(The original: bible, Proverbs of Solomon 26, 27):
+    Wer andern eine Grube gräbt, fällt selbst hinein.
+    Whoso diggeth a pit shall fall therein.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] Interglossa syntax (was: final vowels)
+From: Charles <charles{at}catty{dot}com>
+Date: Sun, 01 Apr 2001 15:41:11 -0700
+
+
+>  > Interglossa originally had another good idea which has
+>  > been lost in Glosa: We don't need more than a very limited
+>  > number of verbs, perhaps only 20 to 100.  ...
+
+> Glosa has not lost it.  You can form lovely easy sentences with akti,
+> es, este, face, habe.  And this method is also good for longer
+> sentences to make clearer what is the verb.
+
+But that feature eliminated all confusion that results
+from using vague verbs such as "to hammer"; one is forced
+to say "use hammer" etc, which is clear and easy to read.
+
+> But Glosa has also the possibility of strong verbs.  And therefore
+> you do not need a vocabulary extension because of the
+> no-part-of-speech-concept.
+
+Well, there are always names and particles at a minimum.
+Glosa uses "pa/nu/fu" etc excessively just to mark where the
+subject ends and the verb begins. But I agree (now) that
+eliminating Esperantish a/e/o POS was an improvement.
+
+>  Stronger verbs give better style.  More
+> life comes in.  Interglossa was poison for poets.
+
+Poetry is certainly attested in natural pidgin/creoles.
+When I try to write in Glosa the particles are awkward.
+Strong verbs are an ambiguity-causing problem, IMO,
+so I much prefer light verbs without tense particles.
+
+> I am angry, that Ashby and Clark refused to write a grammar.
+
+That problem is most easily remedied, because nobody would try
+to stop you from writing one; but it's a bit of work ...
+
+For instance, in English and Chinese the sentence is based on
+the SV(O) pattern, but SV can be either transitive or intrans.,
+as in "I dropped it, and it dropped (like a stone)".
+I don't know which is correct in Glosa, but would guess
+it's *different*, therefore English/Chinese speakers must
+be taught the rule, or they will mangle it in practice.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] glosa grammar
+From: Sydpidd{at}aol{dot}com
+Date: Mon, 2 Apr 2001 14:33:21 EDT
+
+--part1_49.9a20d63.27fa1ff1_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+http://members.aol.com/sydpidd/eeee.htm
+http://members.aol.com/sydpidd/glosa-gramatika.htm
+sorry I don't use all this <<<<< business - will learn sometime
+I've been thinking about glosa grammar for some time having done some 
+Urdu/Hindi, Bengla looked very briefly at Welsh etc. I find learning other 
+languages difficult and have tried to put myself into the shoes of a similar 
+person without english and from India. Glosa so far is about the easiest lang 
+ I've come across but partly because it is more or less english with 
+different words used (and why not?) however my virtual indian other self 
+would not find it so easy
+I seem to need know where the verb phrase starts and ends and the head word 
+so - pa fu and I suggest du for the present ( dura for continuous)
+same with noun - u/plu - it has been suggested that we beg borrow steal em 
+for beginning of direct object - I suggest per to introduce subject. some 
+months ago, I loaded you all with something like that.
+(per) un andro du dona (em) plu-r avi ad u gina.
+(em) plu-r avi ad u gina per un andro du dona (like Hindi) . 
+
+--part1_49.9a20d63.27fa1ff1_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2 FAMILY="SERIF" FACE="Times New Roman" LANG="0">http://members.aol.com/sydpidd/eeee.htm
+<BR>http://members.aol.com/sydpidd/glosa-gramatika.htm
+<BR>sorry I don't use all this &lt;&lt;&lt;&lt;&lt; business - will learn sometime
+<BR>I've been thinking about glosa grammar for some time having done some 
+<BR>Urdu/Hindi, Bengla looked very briefly at Welsh etc. I find learning other 
+<BR>languages difficult and have tried to put myself into the shoes of a similar 
+<BR>person without english and from India. Glosa so far is about the easiest lang 
+<BR>&nbsp;I've come across but partly because it is more or less english with 
+<BR>different words used (and why not?) however my virtual indian other self 
+<BR>would not find it so easy
+<BR>I seem to need know where the verb phrase starts and ends and the head word 
+<BR>so - pa fu and I suggest du for the present ( dura for continuous)
+<BR>same with noun - u/plu - it has been suggested that we beg borrow steal em 
+<BR>for beginning of direct object - I suggest per to introduce subject. some 
+<BR>months ago, I loaded you all with something like that.
+<BR>(per) un andro du dona (em) plu-r avi ad u gina.
+<BR>(em) plu-r avi ad u gina per un andro du dona (like Hindi) . </FONT></HTML>
+
+
+--part1_49.9a20d63.27fa1ff1_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_49.9a20d63.27fa1ff1_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] IPA and glosa
+From: Sydpidd{at}aol{dot}com
+Date: Mon, 2 Apr 2001 15:53:34 EDT
+
+--part1_40.9a6df71.27fa32be_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+http://members.aol.com/sydpidd/eeee.htm
+http://members.aol.com/sydpidd/glosa-gramatika.htm
+sorry I don't use all this <<<<< business - will learn sometime
+I've been thinking about glosa grammar for some time having done some 
+Urdu/Hindi, Bengla looked very briefly at Welsh etc. I find learning other 
+languages difficult and have tried to put myself into the shoes of a similar 
+person without english and from India. Glosa so far is about the easiest lang 
+ I've come across but partly because it is more or less english with 
+different words used (and why not?) however my virtual indian other self 
+would not find it so easy
+I seem to need know where the verb phrase starts and ends and the head word 
+so - pa fu and I suggest du for the present ( dura for continuous)
+same with noun - u/plu - it has been suggested that we beg borrow steal em 
+for beginning of direct object - I suggest per to introduce subject. some 
+months ago, I loaded you all with something like that.
+(per) un andro du dona (em) plu-r avi ad u gina.
+(em) plu-r avi ad u gina per un andro du dona (like Hindi) . 
+
+--part1_40.9a6df71.27fa32be_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2 FAMILY="SERIF" FACE="Times New Roman" LANG="0">http://members.aol.com/sydpidd/eeee.htm
+<BR>http://members.aol.com/sydpidd/glosa-gramatika.htm
+<BR>sorry I don't use all this &lt;&lt;&lt;&lt;&lt; business - will learn sometime
+<BR>I've been thinking about glosa grammar for some time having done some 
+<BR>Urdu/Hindi, Bengla looked very briefly at Welsh etc. I find learning other 
+<BR>languages difficult and have tried to put myself into the shoes of a similar 
+<BR>person without english and from India. Glosa so far is about the easiest lang 
+<BR>&nbsp;I've come across but partly because it is more or less english with 
+<BR>different words used (and why not?) however my virtual indian other self 
+<BR>would not find it so easy
+<BR>I seem to need know where the verb phrase starts and ends and the head word 
+<BR>so - pa fu and I suggest du for the present ( dura for continuous)
+<BR>same with noun - u/plu - it has been suggested that we beg borrow steal em 
+<BR>for beginning of direct object - I suggest per to introduce subject. some 
+<BR>months ago, I loaded you all with something like that.
+<BR>(per) un andro du dona (em) plu-r avi ad u gina.
+<BR>(em) plu-r avi ad u gina per un andro du dona (like Hindi) . </FONT></HTML>
+
+
+--part1_40.9a6df71.27fa32be_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_40.9a6df71.27fa32be_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] glosa grammar
+From: Charles <charles{at}catty{dot}com>
+Date: Mon, 02 Apr 2001 17:29:57 -0700
+
+Sydpidd{at}aol{dot}com wrote:
+
+> Glosa so far is about the easiest lang 
+> I've come across but partly because it is more or less english with 
+> different words used (and why not?) however my virtual indian other self 
+> would not find it so easy
+
+English verb structures are not easy:
+http://www.cis.upenn.edu/~xtag/tech-report/node29.html
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: [glosalist] Another Glosa newspaper
+From: "Marcel Springer" <m.springer{at}nikocity{dot}de>
+Date: Sun, 8 Apr 2001 19:05:25 +0200
+
+------=_NextPart_000_0009_01C0C05E.DE620B00
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+----English seqe Glosa.-----------
+
+Un hetero Glosa jurnali (e e-posta-jurnali) es la - "Justi" !!! 
+
+Id gene face ex Gary Miller 
+  (; qi es pluso sura ge-ski ex vi homo u Glosa rura-kanta-pe 
+  nume mo.  Vide audi-exempla-pagina www.glosa.org/en/audi.htm ). 
+
+"Justi" habe bi lingua - Esperanto e Glosa.  Major topika de id feno 
+es religio (Kristo-religio, Luther-mode?) ko uno lokali nova ex Boreo 
+Dakota; qo-lo an eko. 
+
+Tu pote subskribe id: 
+  THE MILLERS;  409-7 AVE NW;  MANDAN ND 58554-2522;  U S A 
+  <miller.justi{at}gmx{dot}net> 
+
+-----------------------------------
+
+Another Glosa newspaper (and newsletter) is available - "Justi" !!!  
+
+It is from Gary Miller 
+  (, who is also certainly known by you as the first Glosa country 
+  singer, see listening examples www.glosa.org/en/audi.htm ). 
+
+"Justi" is bilingual - Esperanto and Glosa.  Its contents seems to be 
+mainly religious (Christian, Lutheran?) with some local news from 
+North Dakota, where he lives. 
+
+You can subscribe it: 
+  THE MILLERS;  409-7 AVE NW;  MANDAN ND 58554-2522;  U S A 
+  <miller.justi{at}gmx{dot}net>
+
+-----------------------------------
+
+Inklude-ra: Justi-grama nume 42 
+Attachment: Justi-newsletter No. 42 
+
+------=_NextPart_000_0009_01C0C05E.DE620B00
+Content-Type: text/plain;
+	name="J042.txt"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="J042.txt"
+
+ =A6=A6                                                                =
+=A6=A6   GE-FACE
+  =A6 =A6 =A6  =A6=A6 =A6=A6=A6 =A6  =A6=A6 =A6 =A6=A6=A6 =A6=A6=A6      =
+                               =A6 =A6 =A6  =A6=A6 =A6=A6=A6 =A6
+  =A6 =A6 =A6 =A6    =A6  =A6 =A6   =A6  =A6  =A6                        =
+               =A6 =A6 =A6 =A6    =A6  =A6
+  =A6 =A6 =A6 =A6=A6=A6  =A6  =A6 =A6 =A6 =A6  =A6  =A6=A6               =
+                       =A6 =A6 =A6 =A6=A6=A6  =A6  =A6
+  =A6 =A6 =A6   =A6  =A6  =A6 =A6 =A6 =A6  =A6  =A6                      =
+                 =A6 =A6 =A6   =A6  =A6  =A6
+=A6 =A6 =A6=A6=A6 =A6=A6   =A6  =A6 =A6=A6=A6 =A6  =A6  =A6=A6=A6        =
+                           =A6 =A6 =A6=A6=A6 =A6=A6   =A6  =A6
+=A6=A6        PER LIA GRACO                                           =
+=A6=A6   PER AN AMO
+-------------------------------------------------------------------------=
+-----------
+Numero 42                2001 majo-junio           Nume 42               =
+ 2001 M.5-6
+-------------------------------------------------------------------------=
+-----------
+
+        MATEO 18:  20 Kie du aux tri                MATE 18:  20 Topo bi =
+alo tri de
+        kunvenas en Mia nomo, tie Mi                vi habe enkontra per =
+Mi nima, la
+        estas meze de ili.                          es Mi in meso de mu.
+
+Di' cxiam zorgas pri Pregxej',                                Teo pa =
+tekto preka-do;
+Kiun Li mem jam konstruis;                                  Qi sta tem =
+plu koni-turi
+Ecx multe da sonorilej'                                         Kade =
+ad-epi pedi-lo.
+Falas, sed Gxi kontinuis,                                      Tini-ru =
+du dona voci:
+Malgraux internacia lim',                                    Id voci ne =
+solo ad urb,
+Precipe por pentant-anim'                                  Sed idio a =
+psiko ko turb,
+Sercxanta eternan vivon.                                    Qi cerka u =
+pan-tem paci.
+
+                        Kirken den er et gammelt Hus
+                        Nikolai F.S. Grundtvig (1783-1872)
+
+
+Leciono el la luterana                                                 =
+Sko ex lutera
+KATEKISMO                                                                =
+ DOCI-BIBLI
+
+ --------------------------------------      =
+-------------------------------------
+| LA SxLOSILOJ                         |    |                           =
+PLU KLAVI |
+|                                      |    |                            =
+         |
+| Due: Kiel kristana pregxejanaro uzas |    | Qestio bi: Qo-mode kristi =
+kongrega  |
+| la sxlosilojn?                       |    | sti uti de plu-ci klavi?   =
+         |
+|                                      |    |                            =
+         |
+| Kristana pregxejanaro kun sia vokita |    | Kristi kongrega ko se =
+ge-voci       |
+| pastoro uzas la sxlosilojn laux la   |    | pastora sti uti de plu-ci =
+klavi     |
+| ordono de Kristo per pardoni tiujn,  |    | akorda Kristo komanda per =
+pardo pe; |
+| kiuj pentas pri siaj pekoj kaj volas |    | qi este penite de se =
+mali-akti e qi |
+| plibonigxi, kaj per ekskludi al la   |    | volu esce ma boni, e per =
+exklude ab |
+| pregxejanaro tiujn, kiuj estas klare |    | kongrega pe; qi es =
+no-penite, te pe |
+| nepetantaj, por ke ili povos penti.  |    | sti penite.  Mi este =
+kredi; kron id |
+| Mi kredas, ke kiam gxi tiel faras,   |    | tali akti, kron u-ci es ta =
+reali e  |
+| cxi tio estas tiel valida kaj certa  |    | ta certa pluso in urani, =
+qasi auto  |
+| ankaux en cxielo, kvazaux Kristo,    |    | Kristo, na karo Senior, =
+face pragma |
+| nia kara Sinjoro, mem traktis nin.   |    | ko na.                     =
+         |
+|                                      |    |                            =
+         |
+| Kie cxi tio estas skribita?          |    | U-ci es ge-grafo qo-lo?    =
+         |
+|                                      |    |                            =
+         |
+| Jesuo diras en Mateo, cxapitro 18:   |    | Jesu dice in Mate, =
+kapitula 18: "Vi |
+| "Cxio, kion vi ligos sur la tero,    |    | sti liga epi geo de =
+uno-ra, u-ci es |
+| estos ligita en la cxielo; kaj cxio, |    | ge-liga in urani, pluso-co =
+vi sti   |
+| kion vi malligos sur la tero, estos  |    | laxa epi geo de uno-ra, =
+u-ci es ge- |
+| malligita en la cxielo."             |    | laxa in urani."            =
+         |
+ --------------------------------------      =
+-------------------------------------=20
+
+Kiel kristanaj pregxejanaroj uzas la        Qo-mode kristi kongrega sti =
+uti plu-ci=20
+sxlosilojn?                                 klavi?
+
+        1 KORINTANOJ 14:  40 Cxio                   1 KORINTI 14:  40 =
+Lice: pan-ra
+        farigxu konvene kaj lauxorde.               ge-akti per deko e =
+per ordina.
+        1 KORINTANOJ 4:  1 Tiel oni                 1 KORINTI 4:  1 =
+Lice: pe dona
+        rigardu nin, kiel servantojn de             konsidera a na talo; =
+homo kura-
+        Kristo kaj administratojn de la             pe de Teo misteri.
+        misteroj de Dio.                            JOHANE 20:  23 Si vi =
+dona pardo
+        JOHANO 20:  23 Kiel pekojn vi               de uno-pe mali-akti, =
+mu es ge-
+        pardonos, al tiuj ili estas                 pardo.  Si vi tena =
+pardo ab=20
+        pardonitaj; kies vi retenos, ili            uno-pe mali-akti, mu =
+es ge-
+        estas retenitaj.                            tena.
+        1 KORINTANOJ 5:  13 Forigu el               1 KORINTI 5:  13 Apo =
+kako-pe ab
+        inter vi la malvirtulon.                    Vi.
+
+Kristanoj pregxejanaroj vokas pastorojn     Kristi kongrega dona voci a =
+pastora, te
+por trakti malkasxe nepentantajn            trakta de evide no-penite =
+mali-akti-pe.
+pekulojn.
+
+PRI NORDA DAKOTO                                                     DE =
+BOREO DAKOTA
+kaj pri ni                                                               =
+    e de na
+
+  Je la unua fojo post dudek jaroj, la        A proto kron po bi-ze =
+anua, u preside-
+prezidento de Usono venis al Norda          pe de USA pa ki a Boreo =
+Dakota.  Plu=20
+Dakoto. _Kandidatoj_ por la prezidento      _kompeti-pe_ pro preside-pe =
+kina a ci
+venas dum la tempo de elektoj, sed, post    duranto elekti tem, sed po =
+mu esce=20
+kiam ili prezidentigxas, ili malofte        preside-pe, mu rari ki =
+versi.  Ma de
+revenas.  Pli ol 20,000 norddakotanoj       20,000 bore-dakota-pe pa =
+vide u preside-
+vidis la prezidenton, George BUSH, en la    pe, George BUSH, in Fargo =
+civita.  U
+urbo Fargo.  La prezidento vizitis          preside-pe pa akti visita in =
+poli hetero
+multajn aliajn sxtatojn, sed pli homoj      stato, sed ma pe ex Boreo =
+Dakota pa kine
+el Norda Dakoto venis por vidi lin, ol      vide an de pan hetero stato.
+el alia ajn sxtato.                           George BUSH pa dice de se =
+skema de re-
+  George BUSH prelegis pri sia plano por    dona tro-qantita de fiska ad =
+USA-pe. =20
+redoni troajn impostojn al usonanoj.        Anti-co an es u membra de =
+Republika
+Sed li estas ano de la Republika partio,      parti, pluso-co bi na =
+senato-pe es plu
+kaj niaj senatoroj de la Demokratia         membra de Demokrati parti.  =
+Minus=20
+partio.  Sendube ili ne vocxdonos por       dubito, mu ne fu dona elekti =
+pro an=20
+lia plano.                                  skema.
+  Nia familio kantas en la interreto.         Na famili nu kanta in =
+inter-reto.  Vi
+Vi povas vidi nin cxe:                      pote vide na a:
+        www.glosa.org/en/audi.htm                   =
+www.glosa.org/en/audi.htm
+  Pacon kaj stabilecon al vi per la namo      Paci e stabili a vi per =
+Jesu nima.
+de Jesuo.                                           A tu veri,
+        Sincere,
+                                                            Gary
+	          Gary
+
+_Justigite_  estas senpaga eldonajxo.       _Justi_ es u gratis =
+publika-ma.  Ali-pe;
+Iu ajn, kiu volas kopion aux abonon,        qi volu u kopi alo u =
+subskribe, pote=20
+povas skribi al ni:                         grafo a na:
+                               THE MILLERS
+                               409-7 AVE NW
+                               MANDAN ND 58554-2522
+                               U S A
+                               <miller.justi{at}gmx{dot}net>
+
+
+------=_NextPart_000_0009_01C0C05E.DE620B00
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+------=_NextPart_000_0009_01C0C05E.DE620B00--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] IPA and glosa
+From: Robin Gaskell <rgaskell{at}zeta{dot}org{dot}au>
+Date: Mon, 09 Apr 2001 11:38:20 +1000
+
+At 15:53 02/04/2001 EDT, you wrote: 
+
+>>>>
+
+<excerpt><fontfamily><param>Times New
+Roman</param><smaller>http://members.aol.com/sydpidd/eeee.htm 
+
+http://members.aol.com/sydpidd/glosa-gramatika.htm 
+
+sorry I don't use all this <<<<<<<<<< business - will learn sometime 
+
+I've been thinking about glosa grammar for some time having done some 
+
+Urdu/Hindi, Bengla looked very briefly at Welsh etc. I find learning
+other 
+
+languages difficult and have tried to put myself into the shoes of a
+similar 
+
+person without english and from India. Glosa so far is about the easiest
+lang 
+
+ I've come across but partly because it is more or less english with 
+
+different words used (and why not?) however my virtual indian other self 
+
+would not find it so easy 
+
+I seem to need know where the verb phrase starts and ends and the head
+word 
+
+so - pa fu and I suggest du for the present ( dura for continuous) 
+
+same with noun - u/plu - it has been suggested that we beg borrow steal
+em 
+
+for beginning of direct object - I suggest per to introduce subject. some 
+
+months ago, I loaded you all with something like that. 
+
+(per) un andro du dona (em) plu-r avi ad u gina. 
+
+(em) plu-r avi ad u gina per un andro du dona (like Hindi) .
+</smaller></fontfamily><fontfamily><param>arial</param> 
+
+</fontfamily></excerpt><fontfamily><param>arial</param><<<<<<<<
+
+Karo Amika,
+
+    I did a beautiful reply all in Glosa ... but it was late and I must
+have moused the wrong option,
+
+because that reply has disappeared up some untraceable mouse-hole.
+
+   In brief, I suggested that the designers of the mail program Syd uses
+did a serious dis-service to the Net by bringing in numbers of vertical
+stripes instead of continuing with the clear ">", ">>" etc, system.
+
+   On grammar I tried to say there was a "signpost" system for both Noun
+Phrases and Verb Phrases: a N.P. starts with a 'determinant' (u/plu) or a
+numerator e.g. ~tri~, ~poli~, ~nuli,  and then fills in with more
+substantial words leading to the final substantive "noun"; the V.P.
+starting with a tense particle is clearly visible ... ending with the
+substantive "verb."
+
+   Trouble comes when there is NO tense particle needed (Simple Present
+Tense), and there are no modifiers to indicate that we have a new phrase:
+then the V.P. comprises only one word. 
+
+
+  e.g.   Jon gresi in u parka.
+
+           Jon, gresi in u parka, skope un avi.
+
+           Jon, puta id fu habe gluko flavoro, pa bali u sagita ad un
+avi.
+
+
+  The "descriptive grammar" for Glosa, that I wrote from observation of
+Ron and Wendy's prose, combined with my subjective ponderings, may have
+got lost.  I think I put it on my website, but will send it to the
+Glosalist as an attachment - next post - not as a definitive statement,
+but as a point of continuation of the discussion.  
+
+  The question proper formation of sentences in Glosa got the treatment
+in my "Seminars" #1 and #2.  These seminars were prepared as a result of
+a request, from Africa, for more guidance on the matter of sentence
+formation; these were written at a time when Ron was opposed to the
+writing of a "Grammar Book", stating that such a thing was unnecessary,
+and would only serve to rigidify Glosa, and cause unwanted confusion to
+its users.  
+
+  My attempt to "describe" Glosa's grammar came as a result of subjective
+frustration, and from taunts out of the Conlang Mailing List, that Glosa
+had '''no grammar'''.  As it worked out, I made extensive use of
+discussion, with the Conlangers, to refine the descriptive grammar
+offered.
+
+
+  Perhaps I should mention here my one significant addition to the
+Linguists' lexicon.  Following much trial and error - with emphasis on
+the latter - I finally coined a phrase to describe the style of grammar
+found in Glosa: Glosa has 'syntax-based' grammar.  Needless to say such a
+phrase is not (as yet) found in the Linguistic literature; however,
+something like it will have to be 're-invented' if Glosa is ever to be
+recognised by the Linguists, because it does not fit their pre-existing
+categories.   Needless to say, well-written Chinese is syntax-based, and
+so is 50% of English.
+
+
+  While I'm at it, perhaps I should say that if Glosa's "grammar" does
+depend on syntax, and that people with a better understanding of syntax
+would write better Glosa than those who do not have this understanding,
+then ... the "Rules of Syntax" will need to be 'taught' to
+school-children learning Glosa!  There is only one problem, such syntax
+rules do not seem to be available in the general alinguistic literature. 
+This is only a small oversight, considering that Simon Pinker and others
+researching children's learning of language, have strongly stated that
+the one principle running through the learning of all languages is the
+brain's hard-wired syntax system.  Some languages are closer to it, while
+others are quite sophisticated, and a long way from 'natural syntax.'  If
+Ron Clark had not been tapping into something fundamental to human
+thinking, how could he have possible stated that Glosa could be used
+without first ' ' learning' ' its grammar?
+
+   The closest I have seen, in print, to the 'syntax-based' idea, is the
+fairly recent definition of the grammar of English - under the heading,
+Functional Grammar.  Of course, grammarians of English have to run two
+sets of rule, in parallel, to cover both Latino/Germanic synthetic
+grammar and the much simpler uninflected Early British forms.  Am I
+unkind, or simply technically correct, in describing English as having a
+"bastard grammar"?
+
+   Nedless to say, the simple, uninflected strand of English grammar is
+the one perpetuated through Glosa, and this can be observed in academic
+fashion in the two "Seminars", the Glosa descriptive grammar and in the
+attempt to record observed syntax, non-verbally,  in the GAS (gASCII
+Analysed Syntax) system.
+
+
+   Were we living in "Peace-time" I would spend much of my non-working
+time in writing in, and about, Glosa.  However, living in a situation
+where, like Columbus' sailors, we feel we are about to drop off the edge,
+it is hard to ignore the possibility that soon there could be no
+civilisation into which Glosa  might be introduced.  Sadly, I cannot turn
+my back on the world, and say I'm doing my bit by perfecting Glosa for a
+time when the world is ready for it.  If the right actions are not taken
+now, the world might drop back into a New Dark Age, and never be ready
+for Glosa.  I don't really know when I'll be back into full promotional
+mode: it depends on the international situation.
+
+
+Saluta,
+
+
+Robin Gaskell
+
+
+</fontfamily>
+
+<underline>MAILING LIST:  ( EZMLM )  Send blank e-mails to:-
+
+         To: glosalist-subscribe{at}lists{dot}zeta{dot}org{dot}au  
+
+      -OR-   glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+
+ -For INFO-  glosalist-info{at}lists{dot}zeta{dot}org{dot}au
+
+WEBPAGE:  www.zeta.org.au/~rgaskell  [in English and Spanish]
+
+          www.tu-harburg.de/~smms1406/glosa.htm  [in German]
+
+ARCHIVES:  members.xoom.com/ailanto/glosa/index.htm
+
+BLACKWELLS INTERNET BOOKSHOP:  www.blackwell.co.uk/bookshops/
+
+CASSETTES & DICTIONARY DISK:  rgaskell{at}zeta{dot}org{dot}au  
+
+       (A$10 each, incl post; to Glosalist Subscribers - free)
+
+AUTHOR: Wendy Ashby  P.O. Box 18, Richmond Surry TW9 1WD, U.K. 
+
+</underline><underline>   "Plu Glosa Nota", Dictionaries, "18 Steps to Fluency in
+Euro-Glosa" (</underline>All payments to the charity, Glosa Education
+Organisation)
+
+<underline>                </underline>
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] IPA and glosa
+From: Charles <charles{at}catty{dot}com>
+Date: Sun, 08 Apr 2001 22:15:53 -0700
+
+Robin Gaskell wrote:
+
+> On grammar I tried to say there was a "signpost" system for both Noun Phrases and Verb Phrases: a N.P. starts with a 'determinant' (u/plu) or a numerator e.g. ~tri~, ~poli~, ~nuli, and then fills in with more substantial words leading to the final substantive "noun"; the V.P. starting with a tense particle is clearly visible ... ending with the substantive "verb."
+
+nounphrases: (preposition) determiner (adjectives) noun
+verbphrase: (auxiliaries) verb
+sentence: nounphrase verbphrase (nounphrases)
+
+> Trouble comes when there is NO tense particle needed (Simple Present Tense), and there are no modifiers to indicate that we have a new phrase: then the V.P. comprises only one word.
+
+Those are simply ambiguous or awkward sentences.
+There's no way to prevent "language abuse";
+that's just part of learning.
+
+> My attempt to "describe" Glosa's grammar came as a result of subjective frustration, and from taunts out of the Conlang Mailing List, that Glosa had '''no grammar'''.
+
+Glosa has no inflectional grammar, which is the nastiest kind.
+
+> Glosa has 'syntax-based' grammar. Needless to say such a phrase is not (as yet) found in the Linguistic literature;
+
+Oh it is; they say that some language grammars rely more on morphology,
+others on syntax. They'll never convict you; go ahead and use the phrase.
+
+Not only that, but recently the linguists on sci.lang have admitted
+that some languages are really truly 2 to 6 times easier than others.
+
+> people with a better understanding of syntax would write better Glosa than those who do not have this understanding, then ... the "Rules of Syntax" will need to be 'taught' to school-children learning Glosa!
+
+I think the best way is by example, after all. But not just easy
+trivial ones. The longer sentences demonstrate more and better.
+(However ... I still say Glosa's semicolons suck very badly!)
+
+> Am I unkind, or simply technically correct, in describing English as having a "bastard grammar"?
+
+I don't know, but most of Europe switched from SOV or VSO to basic SVO
+since the year 1000 give or take a few centuries. The funny thing
+about English is adjective-noun order instead of the reverse.
+But it works, so Glosa hasn't chosen badly; especially since
+compounds naturally follow the Greek order (e.g. "tele-phone").
+
+> Were we living in "Peace-time"
+
+I think we were, and that golden age (1992-2000) is past.
+It's time to get working on the most important tasks.
+I think that would be the development of machine intelligence;
+language is a huge part of that problem. Maybe you should
+reconsider whether Glosa might be part of your solution,
+since it needs only a few people's help, but they are of
+a very rare type, whereas political demonstrations are
+mindless mass-mob things. Just my opinion, of course.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] heresy corner --------    -     .spg ipa, syntax and cabbage flies
+From: Sydpidd{at}aol{dot}com
+Date: Mon, 9 Apr 2001 11:30:50 EDT
+
+--part1_25.138c9b01.28032faa_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+Written in .spg (g for glosa...), a heretical variant of glosa brutally 
+simplified or being so done to make the variant easy for a beginner.
+
+there are no caps, "q" of normali glosa becomes "ku", "x" becomes "ks" and 
+"sc" becomes "x" - a little confusing for us old lags but easier for 
+newcomers. 
+
+verb phrases are introduced by "pa", "fu" and "du" (present tense) - noun 
+phrases  by "u", "plu" or a number - the subject may be introduced by "per" 
+and the object by "em"
+
+Henry Doubleday Research Association is shortened to HDRA and, in, .spg, to 
+.hdra - at the end is some info for Robin who might find HDRA interesting and 
+thinking along similar lines to his own.
+
+The pronunciation of .spg follows the that of .ita (international phonetic 
+alphabet). the word stress is on the vowel just before the last consonant, 
+any vowels in words of less than 4 letters are given their full value, 
+otherwise the final vowel is free to be changed, smudged or glossed over etc 
+but it is recomended that it heard.
+ where the vowel at the end of a word is difficult to pronounce easily before 
+the vowel at the beginning of some of the following words, a very brief flap 
+of "r" can be inserted. instead of "u"/"un", "a"/"ad" etc we have "u (r) 
+unda", "plu (r) unda", "a (r) unda" The .spg dictionary has been adjusted a 
+little to allow for these recomendationa. 
+The dictionary has been assembled by amalgamating G1000, and G6000 with 
+Marcel and company's pretty comprehensive core dic. for beginners it is being 
+rather ruthlessly  pruned.
+
+a contribution about the cabbage root fly:-
+ -----------------------------------------------------
+  u .hdra du cerka de plu boni metodi de horti e id du kuestio plu-id 
+grega-pe de face plu eksamina de plu varia tema.
+-------------------------------------------------
+The HDRA does search for the good methods of gardening and does ask its 
+members to make investigations on various themes 
+==============================================
+
+to shorten the dictionaries, we use "ne " and "no" so "approximate" becomes 
+"opposite"+"exact" = ne-eksakti, "ago"  "opp." + "to come" = "ne-avante"
+we can have a scale from fo-boni, meso-boni, boni, pusi-boni, no-boni, 
+pusi-ne-boni, ne-boni, meso-ne-boni, fo-ne-boni
+very good,moderately good, good, slightly good, indifferent, slightly 
+opposite to good=bad, etc
+
+---------------------------------------
+  ne-exakti 30 alo 40 anua ne-avanti, em plu mode pa cerka de ne-sti u 
+ne-boni ex delia brasika (u bi ptera insekti kui agresi plu radi de u 
+vora-fito, brasika ) ne-ko nece du ne-kolekti plu toxi epi plu fito alo solu. 
+----------------------------------------
+(not exact)=about 30 or 40 years (not in front)=ago a method was sought to 
+(opposite of start)=stop the bad from cabbage root fly ( a 2 wing insect that 
+attack the roots of the eat-plant, cabbage) not with= without need not 
+collect=spread poison on plants and soil
+======================================
+here we have passive mood - (they) sought a method = a method was sought. the 
+active mood object noun is brought to the front and the verb adjusted. glosa 
+has a similar construction (ge-cerki) that has been criticised rather. The 
+use of "em" obviated the need for it 
+
+  **************************************
+more heresies to follow
+
+dear robin
+you might be interested in HDRA (www.hdra.org.uk), I've been in it for many 
+years as an organic gardener. They investigate environment friendly plant 
+growing in England and other parts of the world (glosa could be useful to 
+them perhaps), there are or were australian members. I had a letter from an 
+australian member called Pidd asking whether I was a relation. At that time 
+from what I could gather, I was not. They came fromm Fleet and later I 
+learned that my forefathers also came from there.
+syd 
+
+
+--part1_25.138c9b01.28032faa_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2 FAMILY="SERIF" FACE="Times New Roman" LANG="0">Written in .spg (g for glosa...), a heretical variant of glosa brutally 
+<BR>simplified or being so done to make the variant easy for a beginner.
+<BR>
+<BR>there are no caps, "q" of normali glosa becomes "ku", "x" becomes "ks" and 
+<BR>"sc" becomes "x" - a little confusing for us old lags but easier for 
+<BR>newcomers. 
+<BR>
+<BR>verb phrases are introduced by "pa", "fu" and "du" (present tense) - noun 
+<BR>phrases &nbsp;by "u", "plu" or a number - the subject may be introduced by "per" 
+<BR>and the object by "em"
+<BR>
+<BR>Henry Doubleday Research Association is shortened to HDRA and, in, .spg, to 
+<BR>.hdra - at the end is some info for Robin who might find HDRA interesting and 
+<BR>thinking along similar lines to his own.
+<BR>
+<BR>The pronunciation of .spg follows the that of .ita (international phonetic 
+<BR>alphabet). the word stress is on the vowel just before the last consonant, 
+<BR>any vowels in words of less than 4 letters are given their full value, 
+<BR>otherwise the final vowel is free to be changed, smudged or glossed over etc 
+<BR>but it is recomended that it heard.
+<BR> where the vowel at the end of a word is difficult to pronounce easily before 
+<BR>the vowel at the beginning of some of the following words, a very brief flap 
+<BR>of "r" can be inserted. instead of "u"/"un", "a"/"ad" etc we have "u (r) 
+<BR>unda", "plu (r) unda", "a (r) unda" The .spg dictionary has been adjusted a 
+<BR>little to allow for these recomendationa. 
+<BR>The dictionary has been assembled by amalgamating G1000, and G6000 with 
+<BR>Marcel and company's pretty comprehensive core dic. for beginners it is being 
+<BR>rather ruthlessly &nbsp;pruned.
+<BR>
+<BR>a contribution about the cabbage root fly:-
+<BR> -----------------------------------------------------
+<BR> &nbsp;u .hdra du cerka de plu boni metodi de horti e id du kuestio plu-id 
+<BR>grega-pe de face plu eksamina de plu varia tema.
+<BR>-------------------------------------------------
+<BR>The HDRA does search for the good methods of gardening and does ask its 
+<BR>members to make investigations on various themes 
+<BR>==============================================
+<BR>
+<BR>to shorten the dictionaries, we use "ne " and "no" so "approximate" becomes 
+<BR>"opposite"+"exact" = ne-eksakti, "ago" &nbsp;"opp." + "to come" = "ne-avante"
+<BR>we can have a scale from fo-boni, meso-boni, boni, pusi-boni, no-boni, 
+<BR>pusi-ne-boni, ne-boni, meso-ne-boni, fo-ne-boni
+<BR>very good,moderately good, good, slightly good, indifferent, slightly 
+<BR>opposite to good=bad, etc
+<BR>
+<BR>---------------------------------------
+<BR> &nbsp;ne-exakti 30 alo 40 anua ne-avanti, em plu mode pa cerka de ne-sti u 
+<BR>ne-boni ex delia brasika (u bi ptera insekti kui agresi plu radi de u 
+<BR>vora-fito, brasika ) ne-ko nece du ne-kolekti plu toxi epi plu fito alo solu. 
+<BR>----------------------------------------
+<BR>(not exact)=about 30 or 40 years (not in front)=ago a method was sought to 
+<BR>(opposite of start)=stop the bad from cabbage root fly ( a 2 wing insect that 
+<BR>attack the roots of the eat-plant, cabbage) not with= without need not 
+<BR>collect=spread poison on plants and soil
+<BR>======================================
+<BR>here we have passive mood - (they) sought a method = a method was sought. the 
+<BR>active mood object noun is brought to the front and the verb adjusted. glosa 
+<BR>has a similar construction (ge-cerki) that has been criticised rather. The 
+<BR>use of "em" obviated the need for it 
+<BR>
+<BR> &nbsp;**************************************
+<BR>more heresies to follow
+<BR>
+<BR>dear robin
+<BR>you might be interested in HDRA (www.hdra.org.uk), I've been in it for many 
+<BR>years as an organic gardener. They investigate environment friendly plant 
+<BR>growing in England and other parts of the world (glosa could be useful to 
+<BR>them perhaps), there are or were australian members. I had a letter from an 
+<BR>australian member called Pidd asking whether I was a relation. At that time 
+<BR>from what I could gather, I was not. They came fromm Fleet and later I 
+<BR>learned that my forefathers also came from there.
+<BR>syd 
+<BR></FONT></HTML>
+
+
+--part1_25.138c9b01.28032faa_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_25.138c9b01.28032faa_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] heresy corner
+From: Charles <charles{at}catty{dot}com>
+Date: Mon, 09 Apr 2001 10:01:20 -0700
+
+Sydpidd{at}aol{dot}com wrote:
+
+> there are no caps
+
+I like caps, but only for proper names and acronymns,
+not for beginning sentences. But then sentences must be
+separated by something more substantial than period-space.
+Also I want something to show intonation, but I suppose
+that's too difficult to systematize well.
+
+> "q" of normali glosa becomes "ku", "x" becomes "ks" and 
+> "sc" becomes "x" - a little confusing for us old lags but easier for 
+> newcomers. 
+
+Why not break up all consonant clusters, force all words
+to 4 letters and have a pure CVCV root pattern? Once we decide
+to phoneticize, there is no longer much recognize-ability
+for eurolang speakers anyway, but it's easier for the world.
+
+> verb phrases are introduced by "pa", "fu" and "du" (present tense) - noun 
+> phrases  by "u", "plu" or a number - the subject may be introduced by "per" 
+> and the object by "em"
+
+Yes, make a full set of 10 or so prepositions, maybe 10 determiners,
+auxiliaries, etc. Then set up a simple word menu to pick options
+to build sample sentences. Looks good in HTML forms.
+
+> the final vowel is free to be changed, smudged or glossed over etc 
+> but it is recomended that it heard.
+
+That's good if we can't restructure the whole vocab to eliminate
+the problem by design. But there are projects that deliberately
+designed all words to differ by more than the unstressed vowel.
+But even better is the idea of repeating the previous vowel,
+e.g. "fele, kana, musu".
+
+Of course, making such radical changes really makes a new language.
+I have a feeling this isn't going to happen.
+
+> where the vowel at the end of a word is difficult to pronounce easily before 
+> the vowel at the beginning of some of the following words, a very brief flap 
+> of "r" can be inserted.
+
+I prefer to eliminate roots beginning with vowels altogether.
+If there were only 20 consonants and 5 vowels, that allows for
+2000 CVCV roots. Adding 5 more consonants via digraphs
+e.g. CH SH TH ND ST or some such, gives 3125. Adding a vowel
+gives 2400. Both, 3750. Why shouldn't 2000 roots be enough?
+Tunu (my linguist friend's conlang) needs only 1400.
+
+> to shorten the dictionaries, we use "ne " and "no" so "approximate" becomes 
+> "opposite"+"exact" = ne-eksakti, "ago"  "opp." + "to come" = "ne-avante"
+> we can have a scale from fo-boni, meso-boni, boni, pusi-boni, no-boni, 
+> pusi-ne-boni, ne-boni, meso-ne-boni, fo-ne-boni
+> very good,moderately good, good, slightly good, indifferent, slightly 
+> opposite to good=bad, etc
+
+I agree, polarity affixes or roots are very good; you multiply
+effective vocabulary at minimal cost. But there are other affixes
+equally productive and necessary, e.g. English -ing -ed -ly -ish.
+But how to apply these affixes, at the beginning or end?
+Maybe it's best to use actual roots and simply compound them.
+Then, "non-" becomes "nulu", and "un-" becomes "nege", etc.
+And BTW, please give me a word for "e.g."!
+
+> here we have passive mood - (they) sought a method = a method was sought. the 
+> active mood object noun is brought to the front and the verb adjusted. glosa 
+> has a similar construction (ge-cerki) that has been criticised rather. The 
+> use of "em" obviated the need for it 
+
+We could have true verbal voices such as passive and middle,
+which are very productive. The verb phrase goes:
+tense + aspect + mood + voice + mainverb. Most IALs fail
+to distinguish tense from aspect (finished vs. continuing),
+which is absolutely fatal in Asian countries.
+
+> more heresies to follow
+
+Excellent beginning!
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: [glosalist] Sapir book
+From: Charles <charles{at}catty{dot}com>
+Date: Mon, 09 Apr 2001 12:49:25 -0700
+
+Here in one chapter is to be found much of the
+justification for a language like Glosa:
+
+http://www.bartleby.com/186/5.html
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] heresy corner
+From: Sydpidd{at}aol{dot}com
+Date: Thu, 12 Apr 2001 14:08:10 EDT
+
+--part1_99.137472b5.2807490a_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+.spg
+encouraging response! as few brief comments
+
+xxxxful
+ple de kali ....... ple-de-kali ...... pledekali
+=beautiful - noun "beauty" is now adjective - "a" is the important stressed 
+vowel and remains so.
+ple-de-ne-kali ....... pledenekali ...... full of ugly
+kali=beauty, ne-kali=ugliness
+
+kali-ple ...... kaliple .... stress moves  to "i" the final and unimportant 
+vowel.
+
+xxxable
+.spg uses "em" to mark object - if object first, "em plu(r) avi du dona per 
+u(r) andro" - pseudo passive - "ge-dona" now not needed - "gene" (got) can be 
+shortened to "ge"
+poti ge moti ...... (able get moved) pote-ge-moti ..... potegemoti =moveable  
+ 
+
+in 2 (or more) minds about that final vowel.
+
+recommend 1 simplish rule - all FVs are free etc and the dictionary reflects 
+that idea - if the current FV is essential, add another perhaps echoing the 
+stressed one
+kala, poteo, rosao, rosio, rugau, rugiu, roga/rogo, rutau, rutiu, rura/ruru
+syd
+
+--part1_99.137472b5.2807490a_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2 FAMILY="SERIF" FACE="Times New Roman" LANG="0">.spg
+<BR>encouraging response! as few brief comments
+<BR>
+<BR>xxxxful
+<BR>ple de kali ....... ple-de-kali ...... pledekali
+<BR>=beautiful - noun "beauty" is now adjective - "a" is the important stressed 
+<BR>vowel and remains so.
+<BR>ple-de-ne-kali ....... pledenekali ...... full of ugly
+<BR>kali=beauty, ne-kali=ugliness
+<BR>
+<BR>kali-ple ...... kaliple .... stress moves &nbsp;to "i" the final and unimportant 
+<BR>vowel.
+<BR>
+<BR>xxxable
+<BR>.spg uses "em" to mark object - if object first, "em plu(r) avi du dona per 
+<BR>u(r) andro" - pseudo passive - "ge-dona" now not needed - "gene" (got) can be 
+<BR>shortened to "ge"
+<BR>poti ge moti ...... (able get moved) pote-ge-moti ..... potegemoti =moveable &nbsp;
+<BR>&nbsp;
+<BR>
+<BR>in 2 (or more) minds about that final vowel.
+<BR>
+<BR>recommend 1 simplish rule - all FVs are free etc and the dictionary reflects 
+<BR>that idea - if the current FV is essential, add another perhaps echoing the 
+<BR>stressed one
+<BR>kala, poteo, rosao, rosio, rugau, rugiu, roga/rogo, rutau, rutiu, rura/ruru
+<BR>syd</FONT></HTML>
+
+
+--part1_99.137472b5.2807490a_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_99.137472b5.2807490a_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] heresy corner
+From: Sydpidd{at}aol{dot}com
+Date: Thu, 12 Apr 2001 14:11:32 EDT
+
+--part1_5b.14af1784.280749d4_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+e.g.   could try  "de exampla" -  = d.e.   (.de)    perhaps?
+syd
+
+--part1_5b.14af1784.280749d4_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2 FAMILY="SERIF" FACE="Times New Roman" LANG="0">e.g. &nbsp;&nbsp;could try &nbsp;"de exampla" - &nbsp;= d.e. &nbsp;&nbsp;(.de) &nbsp;&nbsp;&nbsp;perhaps?
+<BR>syd</FONT></HTML>
+
+
+--part1_5b.14af1784.280749d4_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_5b.14af1784.280749d4_boundary--
+
+========
+To: glosalist{at}lists{dot}zeta{dot}org{dot}au
+Subject: Re: [glosalist] more heresy per, em and a nasty bit of abduction 
+From: Sydpidd{at}aol{dot}com
+Date: Fri, 13 Apr 2001 14:02:27 EDT
+
+--part1_e8.13544c63.28089933_boundary
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+in u pa-di abduce, (per) plu per-abduce pe pa abduce (em) u em-abduce pe.
+
+In yesterday's abduction, ("abduce" is head of NP marked by "u") the 
+abducting people (perxxxx marks "pe" as being the subject of a verb "abduct", 
+"per" in .spg marks the subject) did abduct ( "pa" marks "abduce" as being a 
+verb) the abducted person ("em" marks the person as being the object of the 
+verb "abduce" , "em" marking the object NP in .spg)
+
+--part1_e8.13544c63.28089933_boundary
+Content-Type: text/html; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+<HTML><FONT FACE=arial,helvetica><FONT  SIZE=2 FAMILY="SERIF" FACE="Times New Roman" LANG="0">in u pa-di abduce, (per) plu per-abduce pe pa abduce (em) u em-abduce pe.
+<BR>
+<BR>In yesterday's abduction, ("abduce" is head of NP marked by "u") the 
+<BR>abducting people (perxxxx marks "pe" as being the subject of a verb "abduct", 
+<BR>"per" in .spg marks the subject) did abduct ( "pa" marks "abduce" as being a 
+<BR>verb) the abducted person ("em" marks the person as being the object of the 
+<BR>verb "abduce" , "em" marking the object NP in .spg)</FONT></HTML>
+
+
+--part1_e8.13544c63.28089933_boundary
+Content-Type: text/plain; charset=
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+--part1_e8.13544c63.28089933_boundary--
+
+========
+To: <glosalist{at}lists{dot}zeta{dot}org{dot}au>
+Subject: [glosalist] The English syntax and the Glosa one
+From: "Alexander E. Kirpichev" <brickswall{at}mtu-net.ru>
+Date: Mon, 30 Apr 2001 15:59:27 +0400
+
+Saluta, karo plu Glosa-pe
+Mi nufu grafo in u English-Glosa mixa; ka mi ne pote grafo "linguistical
+terms" in na lingua.
+Mi pa lekto u boni libro de English gramatika, e mi pa trovi u skema de
+"English syntax".
+Mi pa kompara id kon u Glosa "word order" de "18 steps".
+English    Glosa
+SUBJECT    SUBJECT
+VERB    VERB
+INDIRECT OBJECT   DIRECT OBJECT
+DIRECT OBJECT    INDIRECT OBJEKT
+PREPOSITIONAL OBJECT
+
+So, vi pote vide; in Glosa "indirect object" sempre habe"preposition", e
+"indirect object" de Glosa es u "prepositional object" de English-lingua.
+
+Saluta,
+Alexander.
+
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
+For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
+
