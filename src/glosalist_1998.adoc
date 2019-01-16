@@ -1,5 +1,5 @@
 = Glosalist 1998
-:revdate: 2018-11-30
+:revdate: {nbsp}
 
 // 1998-01 {{{1
 == 1998-01
@@ -466,48 +466,6 @@ There's *always* room for Jello!
 // XXX Remark -- New message:
 ................................................................
 From: ailanto
-Subject: Re: Hedo Neo Anua
-To: GLOSALIST
-Date: Sat, 10 Jan 98 21:2
-
-Sat, 10 Jan 98 10:59:44 EST, Paul O Bartlett skribe:
-
->     If a clause has a third-person singular subject and then in the
-> predicate there is a third-person singular pronoun or pronominal
-> adjective with the same sexual referent, there can be ambiguity, as in
-> English.  Various languages, including at least some of the Romance
-> languages following Latin, resolve this with reflexive pronouns.  A
-> reflexive pronoun refers to the subject of the clause in which it
-> appears in the predicate.  If the third-person predicate reference is 
-> not via a reflexive, then it referes to other than the subject.
-
-I just try to avoid such constructions by rewriting or using proper nouns.
-Why do even have pronouns? For brevity, I think.
-
-I've always thought it strange that we have a mechanism for reflexivity
-rather than for nonreflexivity. For example, if I heard "She went to her
-house after school." I'd assume that "She" and "her" refer to the same
-person. Even if I knew that there was more than one female involved. If
-I heard "Becky went to her house after school." I'd still assume Becky=her.
-That's just the simplest way of interpreting the statement.
-
-The question arises with a statement like "She went to Becky's house after
-school.". "She" might still be "Becky", but it's unusual in English to
-use a pronoun and a name in this way, so that's a sign to me that "She"
-is not going to her own house.
-
-- Salata! - Bill
-
---
-William W. Patterson <ailanto{at}neosplice{dot}com>
-http://www.neosplice.com/~ailanto
-
-There's *always* room for Jello!
-................................................................
-
-// XXX Remark -- New message:
-................................................................
-From: William W Patterson
 Subject: Re: Hedo Neo Anua
 To: GLOSALIST
 Date: Sat, 10 Jan 98 21:2
@@ -2118,46 +2076,6 @@ May your caffeine sources always be fresh.
 
 // XXX Remark -- New message:
 ................................................................
-From: William W Patterson
-Subject: Re: Dictionaries
-To: GLOSALIST
-Date: Sat, 21 Mar 98 02:3
-
-Thu, 19 Mar 98 02:23:16 EST, William W Patterson skribe:
-
-> Ick. I need some sleep. But before I do that, I just wanted to
-> point you all to my Glosa page. I've added some dictionaries.
-
-plus an pa skribe:
-
-> The password is [not here anymore because this file is now public].
-
-And I added another dictionary tonight. But the two English-Glosa
-dictionaries won't be complete until all the preferred synonyms
-are selected.
-
-   http://www.neosplice.com/~ailanto/glosa.htm
-   http://www.neosplice.com/~ailanto/synonyms.htm
-
-Help! Take a look at the remaining synonyms and share your preferences!
-
-Actually, there will still be some work to do on the dictionaries.
-But anyway we'll have the preferred words nailed down. I've written
-some procedures to automagically generate the three dictionaries from
-a single sourcefile, and all ready for doublesided printing too! So it
-will be a simple matter for me to update them as we go along.
-
-- Salata! - Ciano
-
---
-William W. Patterson <ailanto{at}neosplice{dot}com>
-http://www.neosplice.com/~ailanto
-
-May your caffeine sources always be fresh.
-................................................................
-
-// XXX Remark -- New message:
-................................................................
 From: Robin Gaskell
 Subject: What is Good Syntax?
 To: GLOSALIST
@@ -2729,88 +2647,7 @@ Eeeeuw!  You mean you actually TALK on the phone?
 
 // XXX Remark -- New message:
 ................................................................
-From: William W Patterson
-Subject: Re: Glosa Cassettes
-To: GLOSALIST
-Date: Tue, 24 Mar 98 19:4
-
-Wed, 12 Nov 97 18:10:53 EST, Robin Gaskell skribe:
-
-> [I write to you concerning the production of sound cassettes of spoken Glosa.
-> So far, this is only an idea.  But I wish to ask you about the types of
-> cassettes, which you would possibly listen to.]
-
-* Basic phrases, perhaps some conversations
-
-* Winnie the Pooh
-
-* Jack Kerouac, something from Desolation Angels or Lonesome Traveler
-
-* Tao Te Ching
-
-- Saluta - Bill
-
---
-William W. Patterson <ailanto{at}neosplice{dot}com>
-http://www.neosplice.com/~ailanto
-
-Eeeeuw!  You mean you actually TALK on the phone?
-................................................................
-
-// XXX Remark -- New message:
-................................................................
 From: ailanto
-Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
-To: GLOSALIST
-Date: Thu, 26 Mar 98 01:0
-
-Sun, 22 Mar 98 18:29:56 EST, Paul O Bartlett skribe:
-
->     For use by artificial language authors, I have combined the
-> vocabularies of Basic English, Essential World English, and the Longman
-> Defining Vocabulary into a single, alphabetized file.  The combined
-> vocabulary consists (in English) of 9 prefixes, 41 suffixes, and 2717
-> words (including a few phrases).
-
-Nicely done, Paul! I'm already using it in two ways:
-
-   To find out what words are missing in Glosa 6000.
-
-   To construct a Glosa Core Vocabulary, as you once suggested,
-   by removing words from the Basic Dictionary that aren't also
-   found in the Artificial Languages Base Vocabulary.
-
-I'm still calling the dictionaries the 6000 Series and the 1000 Series,
-though it looks like they're going to be closer to 7500 and 2500 words.
-Perhaps I'll just leave the names alone, have it be one of those "For
-Historical Reasons" kind of things. On the other hand, calling them
-Glosa 7000 and Glosa 2500 would distinguish them from the others. But
-first I'll wait until I can make a better estimate.
-
-A new page, also accessible from my main Glosa page, shows the words
-which are in the Artificial Languages Base Vocabulary but not in
-Glosa 6000...
-
-http://www.neosplice.com/~ailanto/omission.htm
-
-Also, the other two pages and the dictionary files have been updated.
-
-Has anybody had trouble downloading those selfextracting dictionary
-files? My browser doesn't seem to want to download executables via
-ftp. It downloads other binary files - just plain zipfiles for example.
-
-- Salata! - Bill
-
---
-William W. Patterson <ailanto{at}neosplice{dot}com>
-http://www.neosplice.com/~ailanto
-
-With fronds like that, who need anemones?
-................................................................
-
-// XXX Remark -- New message:
-................................................................
-From: William W Patterson
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
 Date: Thu, 26 Mar 98 01:0
@@ -3100,51 +2937,6 @@ On Tue, 24 Mar 1998, William W Patterson wrote:
 
 // XXX Remark -- New message:
 ................................................................
-From: John Schilke
-Subject: Re: Glosa Cassettes
-To: William W Patterson
-Cc: GLOSALIST
-Date: Thu, 26 Mar 98 15:4
-
-Dear Bill,
-
-	I'd listen to all of these, but especially to the basic phrases.  
-BTW, are you aware of the rather good cassette that Ashby & Clark have 
-put out??  
-
-	Best wishes -- saluta ex
-		John
-
-
-On Tue, 24 Mar 1998, William W Patterson wrote:
-
-> Wed, 12 Nov 97 18:10:53 EST, Robin Gaskell skribe:
-> 
-> > [I write to you concerning the production of sound cassettes of spoken Glosa.
-> > So far, this is only an idea.  But I wish to ask you about the types of
-> > cassettes, which you would possibly listen to.]
-> 
-> * Basic phrases, perhaps some conversations
-> 
-> * Winnie the Pooh
-> 
-> * Jack Kerouac, something from Desolation Angels or Lonesome Traveler
-> 
-> * Tao Te Ching
-> 
-> - Saluta - Bill
-> 
-> --
-> William W. Patterson <ailanto{at}neosplice{dot}com>
-> http://www.neosplice.com/~ailanto
-> 
-> Eeeeuw!  You mean you actually TALK on the phone?
-> 
-> 
-................................................................
-
-// XXX Remark -- New message:
-................................................................
 From: ailanto
 Subject: Re: Glosa Cassettes
 To: John Schilke
@@ -3178,37 +2970,6 @@ You can make the passages look less alike by dropping things.
 // XXX Remark -- New message:
 ................................................................
 From: ailanto
-Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
-To: GLOSALIST
-Date: Sat, 28 Mar 98 19:3
-
-Thu, 26 Mar 98 01:03:58 EST, William W Patterson skribe:
-
-> I'm still calling the dictionaries the 6000 Series and the 1000 Series,
-> though it looks like they're going to be closer to 7500 and 2500 words.
-> Perhaps I'll just leave the names alone, have it be one of those "For
-> Historical Reasons" kind of things. On the other hand, calling them
-> Glosa 7000 and Glosa 2500 would distinguish them from the others. But
-> first I'll wait until I can make a better estimate.
-
-Hmmmm. I did a wordcount tonight, and was surprised to find that my
-current Glosa-English 6000 source file contains 5989 Glosa entries.
-Not bad! Some of those are compounds (lowering the count), and I'll
-be adding a few new ones (raising the count), so it will probably end
-up not too far from 6000 unique words.
-
-- Saluta! - Bill
-
---
-William W. Patterson <ailanto{at}neosplice{dot}com>
-http://www.neosplice.com/~ailanto
-
-You can make the passages look less alike by dropping things.
-................................................................
-
-// XXX Remark -- New message:
-................................................................
-From: William W Patterson
 Subject: Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: GLOSALIST
 Date: Sat, 28 Mar 98 19:3
@@ -4156,31 +3917,6 @@ I have a mind like a steel... uh... thingy.
 
 // XXX Remark -- New message:
 ................................................................
-From: William W Patterson
-Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
-To: GLOSALIST
-Date: Tue, 31 Mar 98 00:0
-
-Sun, 29 Mar 98 20:54:56 EST, John Schilke skribe:
-
-> lost in the process.  For example, the ingenious verb system, though 
-> difficult at first, is really simple and can work after a while spent 
-> learning it.  It is central to Ig, and Glosa is very much different 
-> because of the changes.  They are more than a simplification, though.
-
-Please tell us some more about the verb system!
-
-- Thanks - Bill
-
---
-William W. Patterson <ailanto{at}neosplice{dot}com>
-http://www.neosplice.com/~ailanto
-
-I have a mind like a steel... uh... thingy.
-................................................................
-
-// XXX Remark -- New message:
-................................................................
 From: John Schilke
 Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
 To: William W Patterson
@@ -4812,69 +4548,6 @@ http://www.neosplice.com/~ailanto
 
 // XXX Remark -- New message:
 ................................................................
-From: William W Patterson
-Subject: Re: Glosa/Interglossa Was:Re: Artificial Languages Base Vocabulary & The Dictionaries
-To: GLOSALIST
-Date: Sun, 05 Apr 98 13:1
-
-Wed, 12 Nov 97 08:52:56 EST, Robin Gaskell skribe:
-
-> 	I understood, at that time, that they had declared that any word could
-> function, within reason, as any part of speech; and that syntax was the
-> basis of the gramatical system.  This meant that the terminal letter was no
-> longer a function marker, and, because of this, the words could remain
-> truer to their Classical derivation ... as far as terminal letter goes.
-
-Interesting evolution, that of the POS markers -> simplified POS markers
--> no POS markers, thereby allowing the concept-word idea, which is one
-of the things that attracted me to Glosa. I still tend towards the idea
-that *any* word can be used as *any* part of speech. Though some words
-fight me on this, insisting that they are, indeed, nouns.
-
-But I think that allowing the words to remain truer to their classical
-derivations brings in further complexities. What about the users who
-lack the classical background? Or even worse, have a background which
-conflicts with *the* classical background?
-
-I saw while analyzing the dictionaries and any Glosa texts I found...
-
-   1) Inconsistencies in the spelling of words which end in a vowel,
-      usually between a/o and e/i. Sometimes even within a dictionary,
-      a word will be spelled in both ways, which leads us to...
-
-   2) Many words differ only in the final vowel (terminal, or within
-      the final syllable). Substitution may create a homonym.
-
-(I'm sorta thinking out loud here, if that can be said of email.)
-I don't want POS marking, both for Simplicity and Euphony. But the lack
-of consistent terminations makes spelling more difficult. What to do?
-
-> The getting rid of double letters from the Glosa lexicon, is a
-> clear example of the decision process they used.
-
-I rather like double letters, but knowing that there are *none* solves
-those situations where I just can't recall whether a letter was doubled
-or not. (One that bites me every time: address. Let's see, was that one
-s or two. Adreso; one. Oh, wait, that's Esperanto. Adress. Yeah, that's
-it. Wait a minute; doesn't look right; better look it up. Again. Doubled
-s, yeah, oh, and doubled d too! Okay, got it.)
-
-> sounded CH.  Thus, in Glosa, 'k' became used for the hard "c" in Latin words.
-
-One letter, one sound. I like that. Except for SC, which I won't mention
-because I like it, and every rule wants one (just one!) exception, and it's
-like Old English (biscop, disc, Englisc, fisc (n), fiscian (v), fiscere (m),
-scip, and the classic: sceat (originally dirt, or soil, haha!))
-
-- salata! - Bill
-
---
-William W. Patterson <ailanto{at}neosplice{dot}com>
-http://www.neosplice.com/~ailanto
-................................................................
-
-// XXX Remark -- New message:
-................................................................
 From: ailanto
 Subject: u lupus, redux
 To: GLOSALIST
@@ -5172,44 +4845,6 @@ Quit thinking about koans. Learn how to go to sleep and wake up.
 // XXX Remark -- New message:
 ................................................................
 From: ailanto
-Subject: U Lupus, continued...
-To: GLOSALIST
-Date: Wed, 15 Apr 98 23:5
-
-I've updated the dictionary files. Nothing major - just a few tweaks.
-
-And here's the latest installment of U Lupus...
-
-========
-
-Post tali boni fortuna, u tri lupus pa este simul kontenta e no-certe
-in aliena peri-lo. No-kompasa de mu pra-du akti in eko-regio, plu lupus
-durante di igresi vaka-plutea. Mugi de vaka, frakaso de ligni pile,
-klamoro de ungula, e kalido famina pneumo de lupus satura talpo pusi
-domi. Sed popula tem-co reakti. Premiu pra-du positi epi plu lupus, e
-u-la pa inkoragio plu viki-pe. Mu pa kopto lupus per boleta dia kola,
-e deutero lupus per peleki. Lupus tri pa eskapa e kursi e kursi e kade
-demi-morta in nifa. An pa maxi juveni e kalisto lupus; tarqini bestia;
-forti e gratioso. Long-tem an pa jace e astma. Hemato-rubi plu anula
-pa strobo ante an plu opti, e an pa dolo geme. Peleki pra impinge an
-dorsa. Anti-co an pa manea sta, e solo tem-co an vide u dista qi an
-pra kursi. In panorama pa existe ni popula ni kasa. Nivi-stratu
-bu-monti pa kumbe ante u lupus: u Chasseral. An pa decide cirkumfera
-u monti. Gene ge-tortura ex dipso, u lupus pa mangia plura fragmenta
-de adamanti kristali nifa.
-
-   ...to be continued...
-
---
-William W. Patterson <ailanto{at}neosplice{dot}com>
-http://www.neosplice.com/~ailanto
-
-You are in a little maze of twisting passages, all different.
-................................................................
-
-// XXX Remark -- New message:
-................................................................
-From: William W Patterson
 Subject: U Lupus, continued...
 To: GLOSALIST
 Date: Wed, 15 Apr 98 23:5
@@ -6228,108 +5863,6 @@ o@ K(-) w$  O++@$ !M V+++$ PS+ PE Y+ PGP++ t++(---)
 
 // XXX Remark -- New message:
 ................................................................
-From: William W Patterson
-Subject: Re: Glosa & Ido
-To: GLOSALIST
-Date: Tue, 28 Apr 98 21:2
-
-Sun, 28 Apr 96 09:22:26 EDT, Robin skribe:
-
->   Do we all study Ido to see exactly what its attraction is?
-
-I've studied Esperanto a lot and Ido a little. Of the two I think I'd
-prefer Ido if I hadn't already invested so much time in Esperanto, and
-if Ido were more widely used.
-
-Ido shares much of its vocabulary with Esperanto but there are also many
-differences. Of particular interest to me: although classic Esperanto
-forms opposites by negation (as in right and opposite-of-right for
-right and left), Ido has separate words for these antonyms (although
-the negation-method would be understood also). But in literary Esperanto,
-and often in everyday conversation, the separate words are often used.
-It seems to me that as people expand their vocabularies, they prefer to
-have separate words for such antonyms. This would also make the meaning
-more clear under circumstances in which a word fragment might be missed,
-possibly inverting the meaning!
-
-The grammar of Ido seems to fall somewhere in between that of Esperanto
-and Glosa, as Tom has found. While Ido retains some inflections, it
-discards others, using syntax instead. For example, while Esperanto
-requires inflection of a direct object, Ido does not (*unless* the order
-of the subject and object are reversed) because, as in Glosa, it is
-understood that the subject (usually) precedes the object. For objects,
-Ido requires inflection only when the user does something unusual.
-
->   After finding all of the Glosa words in either the Latin or Greek
-> dictionary, and assuring people that the Classical lexicon is well known
-> to scientists and people who have studied the Humanities, do we try to
-> understand a preference for "the basic vocabulary of Ido"?
-
-Perhaps the vocabulary of Ido is more recognizable to many of us because
-it is based upon languages of today (or not so long ago), while that of
-Glosa is based upon their ancestors, older forms. 
-
->   Might we take Thomas' "defection" to Ido as a sign that the "NO GRAMMAR"
-> tag, 	as well as being factually wrong, is also misleading to the point of 
-> 	being counter-productive?
-
-Every language has a grammar. Some are just simpler than others. While
-Ido forms a plural by changing a final '-o' to '-i', Glosa does so by
-using a preceding 'plu' - not so different, really, though Glosa has
-the advantage of word invariability. And this touches on something that
-I've observed. The most common spelling inconsistency that I've seen in
-Glosa texts is in final vowels. And this troubles me also. In Ido or
-Esperanto, I know that a noun ends in '-o' (unless pluralized, but *we*
-could use 'plu' instead), and if a word ends in '-o', then it's a noun.
-
-> Do we teach people that Glosa is, in point of fact, "head final"?
-
-Yep. Head Final and SVO (Subject-Verb-Object).
-
-> Back to the drawing board: maybe it would just be easier to teach people
-> to use an accepted form of Glosa syntax, so that the verb, or verb phrase,
-> was obviously apparent - by inspection - every time.  And I am still
-> actively looking for a way of colouring words in e-mail, so that verbs were
-> red and nouns green.  Once it was up and running, I think modifiers should
-> be blue, with  adjectives light blue, and adverbs a darker shade.  Jokes
-> aside, this could help learners - as it obviously would have done in Tom's
-> case: does anyone have any technical data on how I can implement this in
-> Eudora Pro Ver 3, or in HTML for offline reading from disk?
-
-That's a good idea! But there's really no way to do this in email for
-everybody. If your mailer supports color, chances are most of your audience
-will have mailers that don't, or that do it differently. Standardization
-hasn't yet matured enough. HTML's another story: just wrap your text in FONT
-elements; I think most browsers today can handle this. And some mailers,
-too. For example, a red Hello and a green world!...
-
-<FONT COLOR=#FF0000>Hello,</FONT> <FONT COLOR=#00FF00>world!</FONT>
-
-(If your mailer can handle it, some of you might be seeing the colors
-instead of the code!) The sixdigit hexadecimal number after the #
-represents the amounts of red, green and blue to use, ranging from 00 (none)
-to FF (maximum) for each. Cyan, with no red and equal parts green and blue,
-would be #008080 or something close to it. Some browsers can understand
-COLOR=BLUE and such, but some don't, so it's best to use the numbers. Also,
-you may not get exactly the colors you want. It depends on how many colors
-your computer supports.
-
-- Saluta! - Bill
-
---
-William W. Patterson <ailanto{at}neosplice{dot}com>
-http://www.neosplice.com/~ailanto
-
------BEGIN GEEK CODE BLOCK-----
-Version: 3.12
-GS/CS/E d(-) s: a? C++++$ UHBUV++++$ P+ L E---(-) W++ N++
-o@ K(-) w$  O++@$ !M V+++$ PS+ PE Y+ PGP++ t++(---)
-5++ X+ R*$ tv++ b+++ DI+++$ D+++ G++ e++ h---- r+++ y++++
-------END GEEK CODE BLOCK------
-................................................................
-
-// XXX Remark -- New message:
-................................................................
 From: Robin Gaskell
 Subject: Glossa [forward from Kjell Rhenstrom, Sweden]
 To: Glosa Education Organization
@@ -6858,26 +6391,6 @@ Pandemonium: A housing development for pandas
 // XXX Remark -- New message:
 ................................................................
 From: ailanto
-Subject: Server Burps
-To: GLOSALIST
-Date: Sun, 03 May 98 08:4
-
-Weird! I just received two messages that I sent (and received) nearly
-three weeks ago. Rest assured, folks, I did not send them out again.
-It must have been an echo.
-
-- Bill
-
---
-William W. Patterson <ailanto{at}neosplice{dot}com>
-http://www.neosplice.com/~ailanto
-
-Pandemonium: A housing development for pandas
-................................................................
-
-// XXX Remark -- New message:
-................................................................
-From: William W Patterson
 Subject: Server Burps
 To: GLOSALIST
 Date: Sun, 03 May 98 08:4
@@ -8725,63 +8238,7 @@ Old houses have lived many lives.
 
 // XXX Remark -- New message:
 ................................................................
-From: William W Patterson
-Subject: Re: Glosa pronunciation
-To: GLOSALIST
-Date: Wed, 27 May 98 19:4
-
-And then there were... ten!
-
-Welcome, Aaron, and LTZG71A{at}prodigy{dot}com!
-
-Wed, 27 May 98 10:27:01 EDT, Aaron Irvine skribe:
-
-> I am confused by shifting sands feli/felis, cience/skience.  My Euro-Glosa
-> (1992) stuff must be outdated -- Glosa needs good configuration management (ie a
-> Web address that always has the most recent Glosa vocab.)
-
-I've been working, slowly, time permitting, to resolve issues such as
-this. I've created a Glosa sourcefile based on the Glosa 6000 scanned
-by Robin, and a makefile to rebuild the dictionaries whenever I update
-the source. See http://www.neosplice.com/~ailanto/glosa.htm.
-
-The password is [not here anymore because this file is now public].
-
-- Salata! - Bill
-
---
-William W. Patterson                         http://www.neosplice.com/~ailanto
-mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
-
-Old houses have lived many lives.
-................................................................
-
-// XXX Remark -- New message:
-................................................................
 From: ailanto
-Subject: Archives
-To: GLOSALIST
-Date: Wed, 27 May 98 20:1
-
-I asked Majordomo for an index and found that there are no files
-available for GLOSALIST. I'm not sure how that works; is it a
-manual operation of some sort? Anyway, I've kept all the messages
-since the early days last year, so if anybody's interested, I can
-forward this information. And/or start an archive site. Each month
-is a single file, about 60K/month uncompressed.
-
-- Bill
-
---
-William W. Patterson                         http://www.neosplice.com/~ailanto
-mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
-
-Old houses have lived many lives.
-................................................................
-
-// XXX Remark -- New message:
-................................................................
-From: William W Patterson
 Subject: Archives
 To: GLOSALIST
 Date: Wed, 27 May 98 20:1
@@ -9107,83 +8564,6 @@ happiness is a warmboot
 
 // XXX Remark -- New message:
 ................................................................
-From: William W Patterson
-Subject: Re: Dictionary Files
-To: GLOSALIST
-Date: Fri, 29 May 98 21:1
-
-Fri, 29 May 98 13:28:52 EDT, Paul O Bartlett skribe:
-
->     First, I was totally unable to download the dictionary files.  My
-> web browser reported that the ftp addresses were badly formed.  The
-> format  ftp:ge.exe  or whatever is not an absolute address or even a
-> relative one, to the best of my meager knowledge.  So I can't take a
-> look at them.
-
-Interesting. That should be sufficient, and I know it used to work when
-I had Internet Explorer 2 because I use it on other, older pages. But it
-doesn't seem to work for me now, using IE3. My new configuration, or lack
-thereof, I suspect. When no path is given in a URL, the browser is supposed
-to use the current directory as the default path.
-
-Aaron was able to download, but got an illegal operation when he tried to
-execute it. We're looking into that. It works for me, honest!
-
-Anyway, give it another shot. I've created four links for each file;
-both selfextracting and regular zipfiles, via ftp and http for each.
-I noticed that when I slide my pointer over the http links, the URL
-shown at the bottom *does* show the complete path, even though I'm
-not giving it in the link. But it does not show the complete path for
-the ftp: version. Right now, I don't know if IE has changed or my
-configuration needs work.
-
-The htp:program.zip links worked for me. If you've got pkunzip, you
-should probably try those first. If not, I'll be glad to email the
-files. But I do want to figure out what's going on here! Thanks for
-letting me know of the problem.
-
->     Second, I noticed references to the Artificial Languages Basic
-> Vocabulary, of which I posted word on AUXLANG some time ago.  It is
-> critically important to be aware that the intention is not that there
-> be some sort of one-for-one correspondence between this list and the
-> vocabulary of any given IAL.  Not at all.  The matter is whether a
-> conIAL has adequate vocabulary to express what this list expresses, and
-> NOT that it necessarily have as many words.  In fact, not having as
-> many words by literal count may come to be an advantage if it is
-> workable.  This list arose in an English context, and nothing says that
-> any conIAL has to be merely a relexification of English.
-
-Understood. I do mention some considerations of that sort on the page,
-synonyms and such, and Glosa combinations that might have the relevant
-meanings. No es problema!
-
->     2) Abolition of synonyms.  In some instances, a given concept has
-> two Glosa words, one from Latin and one from Greek.  This synonymy
-> should be abolished.  If Person 1 learns word A and Person 2 learns
-> word B, they still cannot communicate, the very situation Glosa is
-> supposed to deal with.
-
-I think I'll probably need to make another synonym pass through the
-sourcefile. In the simpler dictionaries I've eliminated the Glosa
-words that were synonyms for a given English word in the file, but
-I didn't explicitly look for English synonyms in the file, though I
-did handle them when I noticed them. For example, if Glosa1 and Glosa2
-mapped to English1, and Glosa3 and Glosa4 to English2, then I would
-have eliminated one of each of those Glosa words. But what if English1
-and English2 were themselves synonyms? Then we would be left with just
-one Glosa word.
-
-- Saluta! - Bill
-
---
-William W. Patterson                         http://www.neosplice.com/~ailanto
-mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
-
-happiness is a warmboot
-................................................................
-
-// XXX Remark -- New message:
-................................................................
 From: Paul O Bartlett
 Subject: Re: Dictionary Files
 To: GLOSALIST
@@ -9247,80 +8627,6 @@ Home Page:  http://www.access.digex.net/~pobart
 // XXX Remark -- New message:
 ................................................................
 From: ailanto
-Subject: Re: Dictionary Files
-To: GLOSALIST
-Date: Fri, 29 May 98 23:3
-
-Fri, 29 May 98 21:49:38 EDT, Paul O Bartlett skribe:
-
-> I think that the safest thing is always to give absolute addresses
-
-In a way I agree with you, and if you were to examine all my html sources
-you'd find that some of my main links are absolute. The argument *for*
-relative addresses is not just that it's less work, but also less chance
-for error if you relocate pages to another directory or machine. Also,
-since I develop on my home machine and then upload to my ISP, I wouldn't
-be able to test on my local machine unless I converted all the absolutes
-to relatives for testing, made my changes, then converted back before
-uploading. (Hmmm. Perhaps I could write a script to do that for me. Hmmm.)
-But not too long ago I realized something that argues strongly *against*
-relative addresses: if *you* download my page, the links will point to
-*your* machine and *your* directory, and the other files won't be there
-unless you downloaded all of them too! And you won't be able to get back
-to one of my pages by clicking on one of my links anymore.
-
-(Oh, the agony and the ecstacy of relative addressing. As usual, a middle
-way, a bit of both, is probably the best way; but right now I'm just a bit
-too far over on the side of relativity.)
-
-So one thing I did a month or so ago was change all the back-to-my-homepage
-links (and a few others) to absolute so that if anybody really wanted to
-find me again, there'd be at least one clue on each page!
-
-> Even so, I downloaded the actual HTML source to the pages, and I
-> still don't think that something like  http:eg.exe  is a valid format
-> according to standard.  Don't you want something more like an href=
-> link within an anchor?  I admit I have never even _heard_ of anything
-> like http:eg.exe.  (Of course, there are lots of things I have never
-> heard of.)
-
-Tee hee hee!
-
-But here's why it works. Consider the full link:
-
-   <a href="http://www.neosplice.com/~ailanto/eg.exe">
-
-If the file is on the local machine, you can remove the machine name:
-
-   <a href="http:/~ailanto/eg.exe">
-
-And if it's in the current directory, you can remove the directory part:
-
-   <a href="http:eg.exe">
-
-You could use relative directory paths too. Some people like to keep their
-images in a subdirectory, so you'll see something like:
-
-   <img src="images/picture.gif">
-
-And if you really want to make something ugly, you could back up a level:
-
-   <img src="../images/picture.gif">
-
-It's really just a historical Unix convention.
-
-- Saluta! - Bill
-
---
-William W. Patterson                         http://www.neosplice.com/~ailanto
-mail:ailanto{at}neosplice{dot}com                   http://members.xoom.com/ailanto
-
-happiness is a warmboot
-................................................................
-
-// XXX Remark -- New message:
-................................................................
-From: William W Patterson
 Subject: Re: Dictionary Files
 To: GLOSALIST
 Date: Fri, 29 May 98 23:3

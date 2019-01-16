@@ -1,5 +1,5 @@
 = Glosalist 2000
-:revdate: 2018-11-30
+:revdate: {nbsp}
 
 // 2000-01 {{{1
 == 2000-01

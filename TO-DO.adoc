@@ -5,7 +5,7 @@
 - Fix: Some files have messages from the previous year. This problem
   was in the original files.
 - Improve: Remove HTML code from messages.
-- Remove duplicated messages.
+- Remove duplicated messages that are not adjacent.
 - Delete useless attachments.
 - Add headers about the project.
 - Integrate attached images.

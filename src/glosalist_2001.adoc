@@ -1,5 +1,5 @@
 = Glosalist 2001
-:revdate: 2018-11-30
+:revdate: {nbsp}
 
 // 2001-01 {{{1
 == 2001-01
@@ -36214,7 +36214,6 @@ For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 To: glosalist{at}lists{dot}zeta{dot}org{dot}au
 Subject: [glosalist] not all, but some letters.
 From: Charles{at}Catty{dot}Com
-From: "Charles{at}Catty{dot}Com" <glosalist{at}lists{dot}zeta{dot}org{dot}au>
 Date: Sun, 11 Nov 2001 13:28:37 -0800
 
 I wrote:

@@ -1,5 +1,5 @@
 = Glosalist 1997
-:revdate: 2018-11-30
+:revdate: {nbsp}
 
 // 1997-07 {{{1
 == 1997-07
