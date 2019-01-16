@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201811301832
+# Last modified 201811302349
 # See change log at the end of the file
 
 # ==============================================================
@@ -16,7 +16,6 @@
 # - make
 # - asciidoctor
 # - pandoc
-# - GraphicsMagick
 
 # ==============================================================
 # Config
@@ -27,7 +26,7 @@ VPATH=./src:./target
 # Interface
 
 .PHONY: all
-all: epubs
+all: epub
 
 .PHONY: cleanepub
 cleanepub:
@@ -57,8 +56,16 @@ target/%.adoc.xml: src/%.adoc
 # /usr/share/pandoc-1.9.4.2/templates/epub-page.html
 # /usr/share/pandoc-1.9.4.2/templates/epub-titlepage.html
 
+# NB: Option `+RTS -K15000000 -RTS` is used because the file of year 2002 is
+# too big (3.4 MiB) and it throws the following error: "Stack space overflow:
+# current size 8388608 bytes.  Use `+RTS -Ksize -RTS' to increase it."
+
+# +RTS -K25000000 -RTS --> pandoc: out of memory (requested 1048576 bytes) 
+# +RTS -K22500000 -RTS --> pandoc: out of memory (requested 1048576 bytes) 
+
 %.adoc.xml.pandoc.epub: %.adoc.xml
 	pandoc \
+		+RTS -K21000000 -RTS \
 		--from=docbook \
 		--to=epub \
 		--epub-stylesheet=src/stylesheet.css \
@@ -71,8 +78,8 @@ adoc_files=$(sort $(wildcard src/*.adoc))
 
 docbook_files=$(addprefix target/,$(notdir $(addsuffix .xml,$(adoc_files))))
 
-.PHONY: epubs
-epubs: $(docbook_files)
+.PHONY: epub
+epub: $(docbook_files)
 	for file in $^; do \
 		make $$file.pandoc.epub; \
 	done;
