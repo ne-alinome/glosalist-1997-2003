@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201811302349
+# Last modified 201901161945
 # See change log at the end of the file
 
 # ==============================================================
@@ -56,12 +56,8 @@ target/%.adoc.xml: src/%.adoc
 # /usr/share/pandoc-1.9.4.2/templates/epub-page.html
 # /usr/share/pandoc-1.9.4.2/templates/epub-titlepage.html
 
-# NB: Option `+RTS -K15000000 -RTS` is used because the file of year 2002 is
-# too big (3.4 MiB) and it throws the following error: "Stack space overflow:
-# current size 8388608 bytes.  Use `+RTS -Ksize -RTS' to increase it."
-
-# +RTS -K25000000 -RTS --> pandoc: out of memory (requested 1048576 bytes) 
-# +RTS -K22500000 -RTS --> pandoc: out of memory (requested 1048576 bytes) 
+# NB: Option `+RTS -K21000000 -RTS` is required in order to increase the
+# stack space.
 
 %.adoc.xml.pandoc.epub: %.adoc.xml
 	pandoc \
@@ -88,3 +84,5 @@ epub: $(docbook_files)
 # Change log
 
 # 2018-11-30: Start. Copy from the project _Un Hedo Prince_.
+#
+# 2019-01-16: Adjust pandoc's parameters.
