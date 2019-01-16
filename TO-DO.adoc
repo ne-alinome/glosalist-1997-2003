@@ -1,7 +1,13 @@
 = To-do list of _Glosalist 1997-2003_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2018-11-30
+:revdate: 2019-01-16
 
 - Fix: Some files have messages from the previous year. This problem
   was in the original files.
 - Improve: Remove HTML code from messages.
+- Remove duplicated messages.
+- Delete useless attachments.
+- Add headers about the project.
+- Integrate attached images.
+- Convert tabs.
+- Delete trailing spaces.
