@@ -41645,8 +41645,8 @@ To unsubscribe, e-mail: glosalist-unsubscribe{at}lists{dot}zeta{dot}org{dot}au
 For additional commands, e-mail: glosalist-help{at}lists{dot}zeta{dot}org{dot}au
 ................................................................
 
-// 2001-01 {{{1
-== 2001-01
+// 2001-12 {{{1
+== 2001-12
 
 // XXX REMARK -- New message:
 ................................................................
